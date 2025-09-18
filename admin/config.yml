@@ -1,0 +1,2109 @@
+backend:
+  name: git-gateway
+  accept_roles:
+    - admin
+    - editor
+  branch: master
+media_folder: theme/assets/images
+public_folder: /assets/images
+collections:
+  - name: pages
+    label: Pages
+    identifier_field: title
+    extension: md
+    create: false
+    delete: false
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    folder: cms/pages
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Publish Date
+        name: date
+        widget: datetime
+      - label: Layout
+        widget: hidden
+        name: layout
+        default: '{{slug}}.html'
+      - &ref_0
+        label: Seo
+        name: seo
+        widget: object
+        collapsed: true
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: false
+          - label: Description
+            name: description
+            widget: string
+            required: false
+          - label: No index
+            name: noindex
+            widget: boolean
+            default: false
+            required: false
+          - label: Open Graph Title
+            name: og:title
+            widget: string
+            required: false
+          - label: Open Graph Image
+            name: og:image
+            widget: image
+            required: false
+            media_library:
+              config:
+                multiple: false
+          - label: Twitter Title
+            name: twitter:title
+            widget: string
+            default: summary
+            required: false
+          - label: Twitter Card
+            name: twitter:card
+            widget: string
+            default: summary
+            required: false
+          - label: Twitter Site
+            name: twitter:site
+            widget: string
+            required: false
+          - label: Twitter Creator
+            name: twitter:creator
+            widget: string
+            required: false
+          - label: Twitter Image
+            name: twitter:image
+            widget: image
+            required: false
+            media_library:
+              config:
+                multiple: false
+          - label: Additional HTML tags
+            name: additional_tags
+            widget: text
+            required: false
+  - name: news
+    label: News
+    folder: cms/news
+    create: true
+    identifier_field: name
+    extension: md
+    slug: '{{slug}}'
+    fields:
+      - hint: ''
+        name: title
+        label: Name
+        widget: string
+        required: true
+      - hint: ''
+        name: created-on
+        label: Created On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: updated-on
+        label: Updated On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: published-on
+        label: Published On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: f__noSearch
+        label: No Search
+        widget: boolean
+        required: false
+        default: false
+      - label: Tags
+        widget: hidden
+        name: tags
+        default: news
+      - label: Layout
+        widget: hidden
+        name: layout
+        default: '[news].html'
+      - label: Publish Date
+        name: date
+        widget: datetime
+      - *ref_0
+  - name: podcast
+    label: Podcasts
+    folder: cms/podcast
+    create: true
+    identifier_field: name
+    extension: md
+    slug: '{{slug}}'
+    fields:
+      - hint: ''
+        name: title
+        label: Name
+        widget: string
+        required: true
+      - hint: ''
+        name: created-on
+        label: Created On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: updated-on
+        label: Updated On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: published-on
+        label: Published On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: f__noSearch
+        label: No Search
+        widget: boolean
+        required: false
+        default: false
+      - label: Tags
+        widget: hidden
+        name: tags
+        default: podcast
+      - label: Layout
+        widget: hidden
+        name: layout
+        default: '[podcast].html'
+      - label: Publish Date
+        name: date
+        widget: datetime
+      - *ref_0
+  - name: summary_categories
+    label: Summary Categories
+    folder: cms/summary-categories
+    create: true
+    identifier_field: name
+    extension: md
+    slug: '{{slug}}'
+    fields:
+      - hint: ''
+        name: title
+        label: Name
+        widget: string
+        required: true
+      - hint: ''
+        name: created-on
+        label: Created On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: updated-on
+        label: Updated On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: published-on
+        label: Published On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: f_category
+        label: Summaries
+        widget: relation
+        required: false
+        collection: summaries
+        value_field: cms/summaries/{{slug}}.md
+        search_fields:
+          - slug
+          - name
+        display_fields:
+          - title
+        multiple: true
+      - hint: ''
+        name: f__noSearch
+        label: No Search
+        widget: boolean
+        required: false
+        default: false
+      - label: Tags
+        widget: hidden
+        name: tags
+        default: summary-categories
+      - label: Layout
+        widget: hidden
+        name: layout
+        default: '[summary-categories].html'
+      - label: Publish Date
+        name: date
+        widget: datetime
+      - *ref_0
+  - name: blog_category
+    label: Blog Categories
+    folder: cms/blog-category
+    create: true
+    identifier_field: name
+    extension: md
+    slug: '{{slug}}'
+    fields:
+      - hint: ''
+        name: title
+        label: Name
+        widget: string
+        required: true
+      - hint: ''
+        name: created-on
+        label: Created On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: updated-on
+        label: Updated On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: published-on
+        label: Published On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: f_blogs
+        label: Blogs
+        widget: relation
+        required: false
+        collection: blog
+        value_field: cms/blog/{{slug}}.md
+        search_fields:
+          - slug
+          - name
+        display_fields:
+          - title
+        multiple: true
+      - hint: ''
+        name: f_summaries
+        label: Summaries
+        widget: relation
+        required: false
+        collection: summaries
+        value_field: cms/summaries/{{slug}}.md
+        search_fields:
+          - slug
+          - name
+        display_fields:
+          - title
+        multiple: true
+      - hint: ''
+        name: f__noSearch
+        label: No Search
+        widget: boolean
+        required: false
+        default: false
+      - label: Tags
+        widget: hidden
+        name: tags
+        default: blog-category
+      - label: Layout
+        widget: hidden
+        name: layout
+        default: '[blog-category].html'
+      - label: Publish Date
+        name: date
+        widget: datetime
+      - *ref_0
+  - name: blog
+    label: Blogs
+    folder: cms/blog
+    create: true
+    identifier_field: name
+    extension: md
+    slug: '{{slug}}'
+    fields:
+      - label: Content
+        name: body
+        widget: markdown
+        required: false
+      - hint: ''
+        name: title
+        label: Blog Title
+        widget: string
+        required: true
+      - hint: ''
+        name: created-on
+        label: Created On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: updated-on
+        label: Updated On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: published-on
+        label: Published On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: f_image
+        label: Image
+        widget: object
+        required: false
+        fields:
+          - hint: ''
+            name: url
+            label: Image
+            widget: image
+            required: false
+            allow_multiple: false
+          - hint: Image Alt
+            name: alt
+            label: alt
+            widget: string
+            required: false
+      - hint: ''
+        name: f_date-published
+        label: Date Published
+        widget: datetime
+        required: false
+      - hint: ''
+        name: f_meta-description
+        label: Meta Description
+        widget: string
+        required: false
+      - hint: ''
+        name: f_original-url
+        label: Original URL
+        widget: string
+        required: false
+      - hint: ''
+        name: f_category-3
+        label: Category
+        widget: relation
+        required: false
+        collection: blog_category
+        value_field: cms/blog-category/{{slug}}.md
+        search_fields:
+          - slug
+          - name
+        display_fields:
+          - title
+        multiple: false
+      - hint: ''
+        name: f_team
+        label: Team
+        widget: relation
+        required: false
+        collection: team
+        value_field: cms/team/{{slug}}.md
+        search_fields:
+          - slug
+          - name
+        display_fields:
+          - title
+        multiple: false
+      - hint: ''
+        name: f_unique-code
+        label: Unique Code
+        widget: number
+        required: false
+      - hint: ''
+        name: f__noSearch
+        label: No Search
+        widget: boolean
+        required: false
+        default: false
+      - label: Tags
+        widget: hidden
+        name: tags
+        default: blog
+      - label: Layout
+        widget: hidden
+        name: layout
+        default: '[blog].html'
+      - label: Publish Date
+        name: date
+        widget: datetime
+      - *ref_0
+  - name: team
+    label: Teams
+    folder: cms/team
+    create: true
+    identifier_field: name
+    extension: md
+    slug: '{{slug}}'
+    fields:
+      - hint: ''
+        name: title
+        label: Name
+        widget: string
+        required: true
+      - hint: ''
+        name: created-on
+        label: Created On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: updated-on
+        label: Updated On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: published-on
+        label: Published On
+        widget: datetime
+        required: false
+      - label: About
+        name: body
+        widget: markdown
+        required: false
+      - hint: ''
+        name: f_name-and-title
+        label: Name and Title
+        widget: string
+        required: false
+      - hint: ''
+        name: f_quote
+        label: Quote
+        widget: string
+        required: false
+      - hint: ''
+        name: f_location
+        label: Location
+        widget: string
+        required: false
+      - hint: ''
+        name: f_image
+        label: Image
+        widget: object
+        required: false
+        fields:
+          - hint: ''
+            name: url
+            label: Image
+            widget: image
+            required: false
+            allow_multiple: false
+          - hint: Image Alt
+            name: alt
+            label: alt
+            widget: string
+            required: false
+      - hint: ''
+        name: f_website-2
+        label: Website
+        widget: string
+        required: false
+      - hint: ''
+        name: f_linkedin-2
+        label: Linkedin
+        widget: string
+        required: false
+      - hint: ''
+        name: f_twitter-2
+        label: Twitter
+        widget: string
+        required: false
+      - hint: ''
+        name: f_facebook-2
+        label: Facebook
+        widget: string
+        required: false
+      - hint: ''
+        name: f_blogs
+        label: Blogs
+        widget: relation
+        required: false
+        collection: blog
+        value_field: cms/blog/{{slug}}.md
+        search_fields:
+          - slug
+          - name
+        display_fields:
+          - title
+        multiple: true
+      - hint: ''
+        name: f_summaries
+        label: Summaries
+        widget: relation
+        required: false
+        collection: summaries
+        value_field: cms/summaries/{{slug}}.md
+        search_fields:
+          - slug
+          - name
+        display_fields:
+          - title
+        multiple: true
+      - hint: ''
+        name: f_email-3
+        label: Email
+        widget: string
+        required: false
+      - hint: ''
+        name: f__noSearch
+        label: No Search
+        widget: boolean
+        required: false
+        default: false
+      - label: Tags
+        widget: hidden
+        name: tags
+        default: team
+      - label: Layout
+        widget: hidden
+        name: layout
+        default: '[team].html'
+      - label: Publish Date
+        name: date
+        widget: datetime
+      - *ref_0
+  - name: authors
+    label: Authors
+    folder: cms/authors
+    create: true
+    identifier_field: name
+    extension: md
+    slug: '{{slug}}'
+    fields:
+      - hint: ''
+        name: title
+        label: Name
+        widget: string
+        required: true
+      - hint: ''
+        name: created-on
+        label: Created On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: updated-on
+        label: Updated On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: published-on
+        label: Published On
+        widget: datetime
+        required: false
+      - label: Description
+        name: body
+        widget: markdown
+        required: false
+      - hint: ''
+        name: f_unique-id
+        label: Unique id
+        widget: string
+        required: false
+      - hint: ''
+        name: f_original-url
+        label: Original URL
+        widget: string
+        required: false
+      - hint: ''
+        name: f_image
+        label: Image
+        widget: object
+        required: false
+        fields:
+          - hint: ''
+            name: url
+            label: Image
+            widget: image
+            required: false
+            allow_multiple: false
+          - hint: Image Alt
+            name: alt
+            label: alt
+            widget: string
+            required: false
+      - hint: ''
+        name: f_summaries
+        label: Summaries
+        widget: relation
+        required: false
+        collection: summaries
+        value_field: cms/summaries/{{slug}}.md
+        search_fields:
+          - slug
+          - name
+        display_fields:
+          - title
+        multiple: true
+      - hint: ''
+        name: f_linkedin
+        label: Linkedin
+        widget: string
+        required: false
+      - hint: ''
+        name: f_twitter-2
+        label: Twitter
+        widget: string
+        required: false
+      - hint: ''
+        name: f_facebook-2
+        label: Facebook
+        widget: string
+        required: false
+      - hint: ''
+        name: f_website-2
+        label: Website
+        widget: string
+        required: false
+      - hint: ''
+        name: f__noSearch
+        label: No Search
+        widget: boolean
+        required: false
+        default: false
+      - label: Tags
+        widget: hidden
+        name: tags
+        default: authors
+      - label: Layout
+        widget: hidden
+        name: layout
+        default: '[authors].html'
+      - label: Publish Date
+        name: date
+        widget: datetime
+      - *ref_0
+  - name: summaries
+    label: Summaries
+    folder: cms/summaries
+    create: true
+    identifier_field: name
+    extension: md
+    slug: '{{slug}}'
+    fields:
+      - hint: ''
+        name: title
+        label: Name
+        widget: string
+        required: true
+      - hint: ''
+        name: created-on
+        label: Created On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: updated-on
+        label: Updated On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: published-on
+        label: Published On
+        widget: datetime
+        required: false
+      - label: Body
+        name: body
+        widget: markdown
+        required: false
+      - hint: ''
+        name: f_podcast-url
+        label: Podcast URL
+        widget: string
+        required: false
+      - hint: ''
+        name: f_image
+        label: Image
+        widget: object
+        required: false
+        fields:
+          - hint: ''
+            name: url
+            label: Image
+            widget: image
+            required: false
+            allow_multiple: false
+          - hint: Image Alt
+            name: alt
+            label: alt
+            widget: string
+            required: false
+      - hint: ''
+        name: f_unique-number
+        label: Unique number
+        widget: number
+        required: false
+      - hint: ''
+        name: f_original-url
+        label: Original URL
+        widget: string
+        required: false
+      - hint: ''
+        name: f_author-plain-text
+        label: Author Plain Text
+        widget: string
+        required: false
+      - hint: ''
+        name: f_category-3
+        label: Category
+        widget: relation
+        required: false
+        collection: summary_categories
+        value_field: cms/summary-categories/{{slug}}.md
+        search_fields:
+          - slug
+          - name
+        display_fields:
+          - title
+        multiple: false
+      - hint: ''
+        name: f_author
+        label: Author
+        widget: relation
+        required: false
+        collection: authors
+        value_field: cms/authors/{{slug}}.md
+        search_fields:
+          - slug
+          - name
+        display_fields:
+          - title
+        multiple: false
+      - hint: ''
+        name: f_team-2
+        label: Team
+        widget: relation
+        required: false
+        collection: team
+        value_field: cms/team/{{slug}}.md
+        search_fields:
+          - slug
+          - name
+        display_fields:
+          - title
+        multiple: false
+      - hint: ''
+        name: f_quote-2
+        label: Quote
+        widget: string
+        required: false
+      - hint: ''
+        name: f_quote-reference
+        label: Quote Reference
+        widget: markdown
+        required: false
+      - hint: ''
+        name: f_big-idea
+        label: Big Idea
+        widget: markdown
+        required: false
+      - hint: ''
+        name: f_insight-1
+        label: Insight 1
+        widget: markdown
+        required: false
+      - hint: ''
+        name: f_insight-2
+        label: Insight 2
+        widget: markdown
+        required: false
+      - hint: ''
+        name: f_conclusion
+        label: Conclusion
+        widget: markdown
+        required: false
+      - hint: ''
+        name: f_amazon-url
+        label: Amazon URL
+        widget: string
+        required: false
+      - hint: ''
+        name: f__noSearch
+        label: No Search
+        widget: boolean
+        required: false
+        default: false
+      - label: Tags
+        widget: hidden
+        name: tags
+        default: summaries
+      - label: Layout
+        widget: hidden
+        name: layout
+        default: '[summaries].html'
+      - label: Publish Date
+        name: date
+        widget: datetime
+      - *ref_0
+  - label: Theme Settings
+    name: settings
+    identifier_field: title
+    extension: json
+    create: false
+    delete: false
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    files:
+      - label: General
+        name: site
+        file: cms/_data/settings/site.json
+        fields:
+          - label: Title
+            name: title
+            widget: hidden
+            default: General
+          - hint: Full domain url (needed for a correct sitemap file)
+            name: domain
+            label: Domain
+            widget: string
+            required: false
+          - name: favicon
+            label: Favicon
+            widget: image
+            allow_multiple: false
+            required: false
+          - name: apple_touch_icon
+            label: Apple Touch Icon
+            widget: image
+            allow_multiple: false
+            required: false
+          - name: header_additional_content
+            label: Additional Content Header
+            hint: Content here will be placed before </head> tag
+            widget: text
+            required: false
+          - name: footer_additional_content
+            label: Additional Content Footer
+            hint: Content here will be placed before </body> tag
+            widget: text
+            required: false
+          - name: images_optimization
+            label: Images Optimization
+            widget: object
+            collapsed: false
+            fields:
+              - label: Image Formats
+                name: formats
+                widget: select
+                multiple: true
+                options:
+                  - label: Avif
+                    value: avif
+                  - label: Webp
+                    value: webp
+              - label: Image Dimensions
+                name: dimensions
+                widget: select
+                multiple: true
+                options:
+                  - label: '500'
+                    value: 500
+                  - label: '800'
+                    value: 800
+                  - label: '1080'
+                    value: 1080
+                  - label: '1600'
+                    value: 1600
+                  - label: '2000'
+                    value: 2000
+                  - label: '2600'
+                    value: 2600
+      - label: Colors
+        name: colors
+        file: cms/_data/colors.json
+        fields:
+          - label: Title
+            name: title
+            widget: hidden
+            default: Colors
+      - label: Texts
+        name: texts
+        file: cms/_data/texts.json
+        fields:
+          - label: Title
+            name: title
+            widget: hidden
+            default: Texts
+          - hint: 'Original text: Home, key: 2268ff'
+            label: Text
+            name: 2268ff
+            widget: string
+          - hint: 'Original text: Summaries, key: -2e52b95c'
+            label: Text
+            name: '-2e52b95c'
+            widget: string
+          - hint: 'Original text: Blog, key: 1fa3c2'
+            label: Text
+            name: 1fa3c2
+            widget: string
+          - hint: >-
+              Original text: The latest industry news, updates and info., key:
+              -1eac165e
+            label: Text
+            name: '-1eac165e'
+            widget: string
+          - hint: 'Original text: Customer stories, key: 53250231'
+            label: Text
+            name: '53250231'
+            widget: string
+          - hint: >-
+              Original text: Learn how our customers are making big changes.,
+              key: -774bb977
+            label: Text
+            name: '-774bb977'
+            widget: string
+          - hint: 'Original text: Video tutorials, key: -7a95ecb0'
+            label: Text
+            name: '-7a95ecb0'
+            widget: string
+          - hint: >-
+              Original text: Get up and running on new features and techniques.,
+              key: -4ca204a5
+            label: Text
+            name: '-4ca204a5'
+            widget: string
+          - hint: 'Original text: Documentation, key: -71c2ed66'
+            label: Text
+            name: '-71c2ed66'
+            widget: string
+          - hint: >-
+              Original text: All the boring stuff that you (hopefully won’t)
+              need., key: -630bf2f
+            label: Text
+            name: '-630bf2f'
+            widget: string
+          - hint: 'Original text: Help and support, key: 5839b447'
+            label: Text
+            name: 5839b447
+            widget: string
+          - hint: >-
+              Original text: Learn, fix a problem, and get answers to your
+              questions., key: 6058a8d8
+            label: Text
+            name: 6058a8d8
+            widget: string
+          - hint: 'Original text: About, key: 3c2336d'
+            label: Text
+            name: 3c2336d
+            widget: string
+          - hint: 'Original text: Contact, key: -64104400'
+            label: Text
+            name: '-64104400'
+            widget: string
+          - hint: 'Original text: Log in, key: -7804285f'
+            label: Text
+            name: '-7804285f'
+            widget: string
+          - hint: 'Original text: Subscribe, key: -69de02d6'
+            label: Text
+            name: '-69de02d6'
+            widget: string
+          - hint: >-
+              Original text: Practical concepts from popular business books.,
+              key: -591338f
+            label: Text
+            name: '-591338f'
+            widget: string
+          - hint: 'Original text: Free., key: 40fc722'
+            label: Text
+            name: 40fc722
+            widget: string
+          - hint: >-
+              Original text: Actionable summaries inspire you to take action.,
+              key: 6f363c91
+            label: Text
+            name: 6f363c91
+            widget: string
+          - hint: 'Original text: Search From Over 1,000 Summaries, key: 7e86fd8b'
+            label: Text
+            name: 7e86fd8b
+            widget: string
+          - hint: 'Original text: Why Actionable Books?, key: 7fc3f9ed'
+            label: Text
+            name: 7fc3f9ed
+            widget: string
+          - hint: 'Original text: Summaries written by experts, key: -dd3cd9b'
+            label: Text
+            name: '-dd3cd9b'
+            widget: string
+          - hint: >-
+              Original text: Every summary has been written by someone who is a
+              domain expert. From consultants to business owners we've got you
+              covered., key: -564d3610
+            label: Text
+            name: '-564d3610'
+            widget: text
+          - hint: 'Original text: Actionable insights at every turn, key: -23647da6'
+            label: Text
+            name: '-23647da6'
+            widget: string
+          - hint: "Original text: We're about action. Taking ideas and making them work from you.\_Read our actionable insights to make sure you're applying the knowledge where it counts., key: -13bd8eee"
+            label: Text
+            name: '-13bd8eee'
+            widget: text
+          - hint: 'Original text: The community is strong, key: 4cae9487'
+            label: Text
+            name: 4cae9487
+            widget: string
+          - hint: >-
+              Original text: Join the Actionable Books community on , key:
+              432fbf09
+            label: Text
+            name: 432fbf09
+            widget: string
+          - hint: 'Original text: Linkedin, key: 4b0ff51e'
+            label: Text
+            name: 4b0ff51e
+            widget: string
+          - hint: 'Original text:  or , key: 103a7d'
+            label: Text
+            name: 103a7d
+            widget: string
+          - hint: 'Original text: Facebook, key: 217bfee6'
+            label: Text
+            name: 217bfee6
+            widget: string
+          - hint: >-
+              Original text:  to talk with like-minded individuals., key:
+              -6d3b828
+            label: Text
+            name: '-6d3b828'
+            widget: string
+          - hint: 'Original text: Application, key: -3ff252d0'
+            label: Text
+            name: '-3ff252d0'
+            widget: string
+          - hint: 'Original text: Apply What You Read, key: a3b31a1'
+            label: Text
+            name: a3b31a1
+            widget: string
+          - hint: "Original text: Have you ever read something and then immediately forgot what it was about?\_We've all been there. Applying something right after you read it is the best way to remember something., key: -71e43c7f"
+            label: Text
+            name: '-71e43c7f'
+            widget: text
+          - hint: 'Original text: Get Our Actionable Summaries, key: 11cc1152'
+            label: Text
+            name: 11cc1152
+            widget: string
+          - hint: 'Original text: Articles, key: -4564c9a3'
+            label: Text
+            name: '-4564c9a3'
+            widget: string
+          - hint: 'Original text: Read author interviews and more, key: -3617481f'
+            label: Text
+            name: '-3617481f'
+            widget: string
+          - hint: >-
+              Original text: We have interviewed hundreds of leading authors
+              about their books so you can learn about their thought process,
+              inspiration and more., key: 42e13753
+            label: Text
+            name: '42e13753'
+            widget: text
+          - hint: 'Original text: 100+, key: 17005a'
+            label: Text
+            name: 17005a
+            widget: string
+          - hint: 'Original text: Authors interviewsed, key: 6ecb9829'
+            label: Text
+            name: 6ecb9829
+            widget: string
+          - hint: 'Original text: 1,000s, key: 56200cde'
+            label: Text
+            name: 56200cde
+            widget: string
+          - hint: 'Original text: Insights uncovered, key: 332593f8'
+            label: Text
+            name: 332593f8
+            widget: string
+          - hint: 'Original text: Read Interviews, key: -527c824'
+            label: Text
+            name: '-527c824'
+            widget: string
+          - hint: 'Original text: Discover hundreds of book guides, key: -6eebc857'
+            label: Text
+            name: '-6eebc857'
+            widget: string
+          - hint: >-
+              Original text: We've summarised the most popular business books.,
+              key: 51cff17b
+            label: Text
+            name: 51cff17b
+            widget: string
+          - hint: 'Original text: No items found., key: 3d503d2b'
+            label: Text
+            name: 3d503d2b
+            widget: string
+          - hint: 'Original text: All summaries, key: -7de4e11b'
+            label: Text
+            name: '-7de4e11b'
+            widget: string
+          - hint: 'Original text: Authors, key: 3cafa828'
+            label: Text
+            name: 3cafa828
+            widget: string
+          - hint: >-
+              Original text: Join our newsletter to get the latest summaries,
+              key: -17811534
+            label: Text
+            name: '-17811534'
+            widget: string
+          - hint: 'Original text: We care about your data in our , key: -5505a12a'
+            label: Text
+            name: '-5505a12a'
+            widget: string
+          - hint: 'Original text: privacy policy, key: 329660ca'
+            label: Text
+            name: 329660ca
+            widget: string
+          - hint: 'Original text: ., key: 2e'
+            label: Text
+            name: 2e
+            widget: string
+          - hint: >-
+              Original text: Thank you for subscribing to Actionable Books!,
+              key: 62588949
+            label: Text
+            name: '62588949'
+            widget: string
+          - hint: >-
+              Original text: Oops! Something went wrong while submitting the
+              form., key: -7c112e99
+            label: Text
+            name: '-7c112e99'
+            widget: string
+          - hint: 'Original text: Actionable Books, key: -3f4818e6'
+            label: Text
+            name: '-3f4818e6'
+            widget: string
+          - hint: 'Original text: Team, key: 27b67d'
+            label: Text
+            name: 27b67d
+            widget: string
+          - hint: "Original text: About\_Us, key: 6460dcd1"
+            label: Text
+            name: 6460dcd1
+            widget: string
+          - hint: 'Original text: Sitemap, key: -1f9bbb6b'
+            label: Text
+            name: '-1f9bbb6b'
+            widget: string
+          - hint: 'Original text: Resources, key: 13ede05'
+            label: Text
+            name: 13ede05
+            widget: string
+          - hint: 'Original text: Podcast, key: 4b0c1ae4'
+            label: Text
+            name: 4b0c1ae4
+            widget: string
+          - hint: 'Original text: Actionable.co, key: -2842a996'
+            label: Text
+            name: '-2842a996'
+            widget: string
+          - hint: 'Original text: Impact Measurement, key: 7b966fe2'
+            label: Text
+            name: 7b966fe2
+            widget: string
+          - hint: 'Original text: Social, key: -6c12fc73'
+            label: Text
+            name: '-6c12fc73'
+            widget: string
+          - hint: 'Original text: Twitter, key: 2c9a4253'
+            label: Text
+            name: 2c9a4253
+            widget: string
+          - hint: 'Original text: LinkedIn, key: 4b0ff13e'
+            label: Text
+            name: 4b0ff13e
+            widget: string
+          - hint: >-
+              Original text: © 2024 Actionable Books. All rights reserved., key:
+              47030631
+            label: Text
+            name: '47030631'
+            widget: string
+          - hint: >-
+              Original text: Web design and automation by Two Cores, key:
+              -1e17b8bf
+            label: Text
+            name: '-1e17b8bf'
+            widget: string
+          - hint: 'Original text: Terms, key: 4cf5967'
+            label: Text
+            name: 4cf5967
+            widget: string
+          - hint: 'Original text: Privacy, key: 5079bb68'
+            label: Text
+            name: 5079bb68
+            widget: string
+          - hint: 'Original text: Cookies, key: -64062591'
+            label: Text
+            name: '-64062591'
+            widget: string
+          - hint: 'Original text: Search results, key: 7e85e19e'
+            label: Text
+            name: 7e85e19e
+            widget: string
+          - hint: 'Original text: Search, key: -6ca0ae38'
+            label: Text
+            name: '-6ca0ae38'
+            widget: string
+          - hint: 'Original text: No matching results., key: -75764c4'
+            label: Text
+            name: '-75764c4'
+            widget: string
+          - hint: 'Original text: All blogs, key: 5b2f5b2'
+            label: Text
+            name: 5b2f5b2
+            widget: string
+          - hint: 'Original text: Published on, key: -64fd368f'
+            label: Text
+            name: '-64fd368f'
+            widget: string
+          - hint: 'Original text: Author, key: 75920dab'
+            label: Text
+            name: 75920dab
+            widget: string
+          - hint: 'Original text: Subscribe to digest, key: -5cba046d'
+            label: Text
+            name: '-5cba046d'
+            widget: string
+          - hint: 'Original text: Read about our , key: 343433b1'
+            label: Text
+            name: 343433b1
+            widget: string
+          - hint: >-
+              Original text: Thank you! Your submission has been received!, key:
+              5a0ea5a1
+            label: Text
+            name: 5a0ea5a1
+            widget: string
+          - hint: 'Original text: The Most Actionable Blog, Ever., key: -46e721e8'
+            label: Text
+            name: '-46e721e8'
+            widget: string
+          - hint: >-
+              Original text: Subscribe to get the latest posts and summaries
+              right to your inbox., key: -44b134e9
+            label: Text
+            name: '-44b134e9'
+            widget: string
+          - hint: 'Original text: Actionable, key: -1ac71b50'
+            label: Text
+            name: '-1ac71b50'
+            widget: string
+          - hint: >-
+              Original text: Starting a community doesn’t need to be
+              complicated, but how do you get started?, key: 6844fc6e
+            label: Text
+            name: 6844fc6e
+            widget: string
+          - hint: 'Original text: Read post, key: 319adcca'
+            label: Text
+            name: 319adcca
+            widget: string
+          - hint: 'Original text: Previous, key: -4811e0e9'
+            label: Text
+            name: '-4811e0e9'
+            widget: string
+          - hint: 'Original text: Next, key: 24ff13'
+            label: Text
+            name: 24ff13
+            widget: string
+          - hint: 'Original text: All team members, key: 68f10295'
+            label: Text
+            name: 68f10295
+            widget: string
+          - hint: 'Original text: A little more about me..., key: 28eaf843'
+            label: Text
+            name: 28eaf843
+            widget: string
+          - hint: "Original text: My\_Summaries, key: 301b34d0"
+            label: Text
+            name: 301b34d0
+            widget: string
+          - hint: "Original text: Recent\_Blogs, key: -23879d74"
+            label: Text
+            name: '-23879d74'
+            widget: string
+          - hint: 'Original text: The Big Idea, key: 18df0d46'
+            label: Text
+            name: 18df0d46
+            widget: string
+          - hint: 'Original text: Insight #1, key: 70a05616'
+            label: Text
+            name: 70a05616
+            widget: string
+          - hint: 'Original text: Join our newsletter, key: 28be5fa3'
+            label: Text
+            name: 28be5fa3
+            widget: string
+          - hint: >-
+              Original text: Sign up for the very best book summaries right to
+              your inbox., key: -554ef933
+            label: Text
+            name: '-554ef933'
+            widget: string
+          - hint: 'Original text: Insight #2, key: 70a05617'
+            label: Text
+            name: 70a05617
+            widget: string
+          - hint: 'Original text: Read the book, key: ccf2862'
+            label: Text
+            name: ccf2862
+            widget: string
+          - hint: 'Original text: Buy The Book, key: 493d8df2'
+            label: Text
+            name: 493d8df2
+            widget: string
+          - hint: 'Original text: Read More Summaries, key: 379da363'
+            label: Text
+            name: 379da363
+            widget: string
+          - hint: 'Original text: Buy On Amazon, key: 60fec62b'
+            label: Text
+            name: 60fec62b
+            widget: string
+          - hint: 'Original text: All authors, key: 3f889ca9'
+            label: Text
+            name: 3f889ca9
+            widget: string
+          - hint: >-
+              Original text: 1155 business book summaries with personality.
+              Insights you can apply in five minutes., key: -7ac5a94f
+            label: Text
+            name: '-7ac5a94f'
+            widget: string
+          - hint: 'Original text: Refreshing., key: 10c2b9c7'
+            label: Text
+            name: 10c2b9c7
+            widget: string
+          - hint: 'Original text: Self Management, key: -692eb269'
+            label: Text
+            name: '-692eb269'
+            widget: string
+          - hint: >-
+              Original text: Work on your self-management with our summaries.,
+              key: 615c7e61
+            label: Text
+            name: 615c7e61
+            widget: string
+          - hint: "Original text: All Self\_Management Summaries >, key: 47ceb31a"
+            label: Text
+            name: 47ceb31a
+            widget: string
+          - hint: 'Original text: Team Optimization, key: 46803250'
+            label: Text
+            name: '46803250'
+            widget: string
+          - hint: >-
+              Original text: Get the most out of your team with our selection of
+              team optimization titles., key: 30921953
+            label: Text
+            name: '30921953'
+            widget: string
+          - hint: 'Original text: All Team Optimization Summaries >, key: 84db593'
+            label: Text
+            name: 84db593
+            widget: string
+          - hint: 'Original text: Effective Communication, key: 4b8cc4dd'
+            label: Text
+            name: 4b8cc4dd
+            widget: string
+          - hint: >-
+              Original text: Learn how to communicate personally and throughout
+              your organization., key: -1d5c4151
+            label: Text
+            name: '-1d5c4151'
+            widget: string
+          - hint: >-
+              Original text: All Effective Communication Summaries >, key:
+              -71e4a020
+            label: Text
+            name: '-71e4a020'
+            widget: string
+          - hint: 'Original text: Innovative Thinking, key: -594c58c5'
+            label: Text
+            name: '-594c58c5'
+            widget: string
+          - hint: 'Original text: Get out of your box and innovate., key: -35729532'
+            label: Text
+            name: '-35729532'
+            widget: string
+          - hint: 'Original text: All Innovative Thinking Summaries >, key: -4736c242'
+            label: Text
+            name: '-4736c242'
+            widget: string
+          - hint: 'Original text: Leadership, key: -421bb11b'
+            label: Text
+            name: '-421bb11b'
+            widget: string
+          - hint: "Original text: Lead from the front and from within.\_Learn how to be a better leader today., key: 665906e9"
+            label: Text
+            name: '665906e9'
+            widget: string
+          - hint: 'Original text: All Leadership Summaries >, key: 34290286'
+            label: Text
+            name: '34290286'
+            widget: string
+          - hint: "Original text: Role &\_Culture Fit, key: 3162d2db"
+            label: Text
+            name: 3162d2db
+            widget: string
+          - hint: >-
+              Original text: Create a culture that makes you and your team
+              thrive., key: 65f82215
+            label: Text
+            name: 65f82215
+            widget: string
+          - hint: "Original text: All Role &\_Culture Summaries >, key: 8a494ab"
+            label: Text
+            name: 8a494ab
+            widget: string
+          - hint: 'Original text: About Us, key: 645efc51'
+            label: Text
+            name: 645efc51
+            widget: string
+          - hint: >-
+              Original text: Actionable Books was born out of the idea that ,
+              key: -6b179324
+            label: Text
+            name: '-6b179324'
+            widget: string
+          - hint: 'Original text: ideas are only valuable when applied, key: -d2fdc3b'
+            label: Text
+            name: '-d2fdc3b'
+            widget: string
+          - hint: "Original text: Access over 1,100 summaries of the world’s best business books in bite-size format for free at Actionable Books. \_Each summary consists of a brief overview of the book, one key message and two ways you can easily integrate that message into your life in 5 minutes or less. \_New summaries are being added every week – , key: 575a9024"
+            label: Text
+            name: 575a9024
+            widget: text
+          - hint: "Original text: sign up for free to get them “hot off the press”… and into your inbox. \_, key: -3ed3eeaf"
+            label: Text
+            name: '-3ed3eeaf'
+            widget: string
+          - hint: 'Original text: How we started, key: -467104e1'
+            label: Text
+            name: '-467104e1'
+            widget: string
+          - hint: >-
+              Original text: In 2008, founder Chris Taylor embarked on a quest
+              to read one personal development book a week for an entire year.
+              Knowing how quickly amazing ideas tend to evaporate once a book
+              has been read cover to cover and consigned to the shelf, he
+              decided to distill the idea that resonated most strongly with him
+              into a summary so others can benefit with insights that can
+              applied in five minutes. About the time it takes to sip your
+              morning cup of coffee., key: 6878cee2
+            label: Text
+            name: 6878cee2
+            widget: text
+          - hint: 'Original text: Actionable Writers, key: -31f4ad30'
+            label: Text
+            name: '-31f4ad30'
+            widget: string
+          - hint: 'Original text: Meet our team, key: -4513f1b6'
+            label: Text
+            name: '-4513f1b6'
+            widget: string
+          - hint: >-
+              Original text: Our philosophy is simple — we get fantastic people
+              to write our summaries and blogs. They know their stuff and
+              they're happy to share., key: -3ad04705
+            label: Text
+            name: '-3ad04705'
+            widget: text
+          - hint: 'Original text: Blogs, key: 3d4d4f1'
+            label: Text
+            name: 3d4d4f1
+            widget: string
+          - hint: "Original text: Meet the\_Authors, key: -2f98bb40"
+            label: Text
+            name: '-2f98bb40'
+            widget: string
+          - hint: >-
+              Original text: We summarise the best business books in the world.
+              Here are some of the authors we've profiled., key: 14ca05c8
+            label: Text
+            name: 14ca05c8
+            widget: text
+          - hint: 'Original text: Book Summaries, key: -6d895db3'
+            label: Text
+            name: '-6d895db3'
+            widget: string
+          - hint: 'Original text: Contact us, key: 7f274abe'
+            label: Text
+            name: 7f274abe
+            widget: string
+          - hint: >-
+              Original text: We're looking for new summaries and blog posts all
+              the time. Get in touch if you're interested., key: -542d95a4
+            label: Text
+            name: '-542d95a4'
+            widget: text
+          - hint: 'Original text: 180 John Street, key: 4fcd1201'
+            label: Text
+            name: 4fcd1201
+            widget: string
+          - hint: 'Original text: Toronto, Ontario, , key: -7e033685'
+            label: Text
+            name: '-7e033685'
+            widget: string
+          - hint: 'Original text: Canada M5T 1X5, key: 14d19148'
+            label: Text
+            name: 14d19148
+            widget: string
+          - hint: 'Original text: First name, key: 69c1a21b'
+            label: Text
+            name: 69c1a21b
+            widget: string
+          - hint: 'Original text: Last name, key: -1407da4b'
+            label: Text
+            name: '-1407da4b'
+            widget: string
+          - hint: 'Original text: Email, key: 3ff5b7c'
+            label: Text
+            name: 3ff5b7c
+            widget: string
+          - hint: 'Original text: Phone number, key: -1f5cfda5'
+            label: Text
+            name: '-1f5cfda5'
+            widget: string
+          - hint: 'Original text: How Can We Help?, key: -74fda254'
+            label: Text
+            name: '-74fda254'
+            widget: string
+          - hint: 'Original text: Select one..., key: 57f3b1cc'
+            label: Text
+            name: 57f3b1cc
+            widget: string
+          - hint: 'Original text: I want to write a summary, key: -59342a86'
+            label: Text
+            name: '-59342a86'
+            widget: string
+          - hint: 'Original text: I want to write a blog, key: -47780db2'
+            label: Text
+            name: '-47780db2'
+            widget: string
+          - hint: 'Original text: Just getting in touch, key: 34e46674'
+            label: Text
+            name: '34e46674'
+            widget: string
+          - hint: >-
+              Original text: I want to advertise in your newsletter, key:
+              e065550
+            label: Text
+            name: e065550
+            widget: string
+          - hint: 'Original text: Which best describes you?, key: 29b01531'
+            label: Text
+            name: 29b01531
+            widget: string
+          - hint: 'Original text: Consultant, key: 6ce1c29b'
+            label: Text
+            name: 6ce1c29b
+            widget: string
+          - hint: 'Original text: Writer / Blogger, key: -259c6dec'
+            label: Text
+            name: '-259c6dec'
+            widget: string
+          - hint: 'Original text: Coach, key: 3e4147a'
+            label: Text
+            name: 3e4147a
+            widget: string
+          - hint: "Original text: I\_just love books!, key: -36513698"
+            label: Text
+            name: '-36513698'
+            widget: string
+          - hint: "Original text: Internal L&D\_department, key: -2e60dcd5"
+            label: Text
+            name: '-2e60dcd5'
+            widget: string
+          - hint: 'Original text: Other, key: 48f8ef0'
+            label: Text
+            name: 48f8ef0
+            widget: string
+          - hint: >-
+              Original text: Tell us more - what summary or blog you'd like to
+              write or how we can help., key: -4acd39d5
+            label: Text
+            name: '-4acd39d5'
+            widget: string
+          - hint: 'Original text: You agree to our friendly , key: 483d5851'
+            label: Text
+            name: 483d5851
+            widget: string
+          - hint: "Original text: I\_want to subscribe to your newsletter, key: 48fa2523"
+            label: Text
+            name: 48fa2523
+            widget: string
+          - hint: 'Original text: Thank you! , key: 434317a8'
+            label: Text
+            name: 434317a8
+            widget: string
+          - hint: >-
+              Original text: Your submission has been received and one of the
+              team will get back to you shortly., key: 2c951c4
+            label: Text
+            name: 2c951c4
+            widget: string
+          - hint: 'Original text: Join 7,000+ subscribers, key: -3192c2f'
+            label: Text
+            name: '-3192c2f'
+            widget: string
+          - hint: >-
+              Original text: Sign up for the very best summaries straight to
+              your inbox., key: -330035a0
+            label: Text
+            name: '-330035a0'
+            widget: string
+          - hint: "Original text: Write a\_Summary, key: -3adc7cda"
+            label: Text
+            name: '-3adc7cda'
+            widget: string
+          - hint: 'Original text: Actionable Book Club, key: 4169441d'
+            label: Text
+            name: 4169441d
+            widget: string
+          - hint: "Original text: Thank you for your interest in joining the Actionable Book Club. We are currently re-designing the application form. Please leave your details below, and let us know what book you'd like to summarize. We'll email you as soon as the ABC\_is up and running again., key: 7fd8e8a4"
+            label: Text
+            name: 7fd8e8a4
+            widget: text
+          - hint: "Original text: Linkedin\_URL, key: -5601c533"
+            label: Text
+            name: '-5601c533'
+            widget: string
+          - hint: 'Original text: What book would you like to review?, key: 6d2bd9e4'
+            label: Text
+            name: 6d2bd9e4
+            widget: string
+          - hint: 'Original text: Anything else we should know?, key: f3d1850'
+            label: Text
+            name: f3d1850
+            widget: string
+          - hint: >-
+              Original text: Thank you for your application! We have your
+              details and will get in touch soon. For now check out our current
+              , key: 79fd15b5
+            label: Text
+            name: 79fd15b5
+            widget: text
+          - hint: 'Original text: summaries., key: -12d64e16'
+            label: Text
+            name: '-12d64e16'
+            widget: string
+      - label: Links
+        name: links
+        file: cms/_data/links.json
+        fields:
+          - label: Title
+            name: title
+            widget: hidden
+            default: Links
+          - hint: 'Original link: /, key: 2f'
+            label: Link
+            name: 2f
+            widget: string
+          - hint: 'Original link: /summaries/, key: 4326835a'
+            label: Link
+            name: 4326835a
+            widget: string
+          - hint: 'Original link: #, key: 23'
+            label: Link
+            name: '23'
+            widget: string
+          - hint: 'Original link: /blog/, key: 55cb89fe'
+            label: Link
+            name: 55cb89fe
+            widget: string
+          - hint: 'Original link: /about/, key: 61642f31'
+            label: Link
+            name: 61642f31
+            widget: string
+          - hint: 'Original link: /contact/, key: 16bdc13e'
+            label: Link
+            name: 16bdc13e
+            widget: string
+          - hint: 'Original link: /subscribe/, key: d489d94'
+            label: Link
+            name: d489d94
+            widget: string
+          - hint: >-
+              Original link: https://www.linkedin.com/company/actionable-books/,
+              key: 604a25d8
+            label: Link
+            name: 604a25d8
+            widget: string
+          - hint: >-
+              Original link: https://www.facebook.com/actionablebooks/, key:
+              -881d6bb
+            label: Link
+            name: '-881d6bb'
+            widget: string
+          - hint: >-
+              Original link: /blog-category/business-book-author-interviews/,
+              key: -568d1319
+            label: Link
+            name: '-568d1319'
+            widget: string
+          - hint: 'Original link: /authors/, key: -7204a5ea'
+            label: Link
+            name: '-7204a5ea'
+            widget: string
+          - hint: 'Original link: /team/, key: 56c5cea3'
+            label: Link
+            name: 56c5cea3
+            widget: string
+          - hint: 'Original link: /assets/sitemap.xml/sitemap.xml, key: 2bb81f90'
+            label: Link
+            name: 2bb81f90
+            widget: string
+          - hint: 'Original link: /podcast/, key: 4b2d3eda'
+            label: Link
+            name: 4b2d3eda
+            widget: string
+          - hint: 'Original link: https://www.actionable.co, key: -4984787c'
+            label: Link
+            name: '-4984787c'
+            widget: string
+          - hint: >-
+              Original link: https://twitter.com/actionablebooks/, key:
+              -16fe26f3
+            label: Link
+            name: '-16fe26f3'
+            widget: string
+          - hint: 'Original link: https://www.twocores.com, key: -42a01fbf'
+            label: Link
+            name: '-42a01fbf'
+            widget: string
+          - hint: >-
+              Original link:
+              https://start.actionable.co/eula/?_ga=2.185882604.455936676.1709717486-764539293.1704213302&_gl=1*n4wwu4*_ga*NzY0NTM5MjkzLjE3MDQyMTMzMDI.*_ga_ETDG2JSRJN*MTcwOTcxNzQ4Ni4xNC4xLjE3MDk3MTc1MDMuNDMuMC4w*_ga_6N54GH6FGL*MTcwOTcxNzQ4Ni4xNC4xLjE3MDk3MTc1MDMuNDMuMC4w,
+              key: 37af4a02
+            label: Link
+            name: 37af4a02
+            widget: string
+          - hint: >-
+              Original link: https://actionable.co/trust/privacy/, key:
+              -1a0f480e
+            label: Link
+            name: '-1a0f480e'
+            widget: string
+          - hint: >-
+              Original link: https://actionable.co/trust/cookie-notice/, key:
+              -76e52c07
+            label: Link
+            name: '-76e52c07'
+            widget: string
+          - hint: >-
+              Original link:
+              https://actionable.co/fit/?utm_source=actionablebooks&utm_campaign=fitassessment&utm_medium=banner&utm_content=sidebar&_ga=2.160251773.1918330316.1709300171-764539293.1704213302,
+              key: 946c041
+            label: Link
+            name: 946c041
+            widget: string
+          - hint: >-
+              Original link: /summary-categories/self-management/, key:
+              -2cc03158
+            label: Link
+            name: '-2cc03158'
+            widget: string
+          - hint: >-
+              Original link: /summary-categories/team-optimization/, key:
+              -42c80af1
+            label: Link
+            name: '-42c80af1'
+            widget: string
+          - hint: >-
+              Original link: /summary-categories/effective-communication/#, key:
+              4693d47
+            label: Link
+            name: 4693d47
+            widget: string
+          - hint: >-
+              Original link: /summary-categories/effective-communication/, key:
+              10a88e5c
+            label: Link
+            name: 10a88e5c
+            widget: string
+          - hint: >-
+              Original link: /summary-categories/innovative-thinking, key:
+              -5f00ea35
+            label: Link
+            name: '-5f00ea35'
+            widget: string
+          - hint: >-
+              Original link: /summary-categories/innovative-thinking/, key:
+              7ee3a3c4
+            label: Link
+            name: 7ee3a3c4
+            widget: string
+          - hint: 'Original link: /summary-categories/leadership, key: 6d2c6be2'
+            label: Link
+            name: 6d2c6be2
+            widget: string
+          - hint: >-
+              Original link: /summary-categories/role-and-culture-fit/, key:
+              -54495d93
+            label: Link
+            name: '-54495d93'
+            widget: string
+          - hint: >-
+              Original link: /summary-categories/role-and-culture-fit, key:
+              -6e12e1fe
+            label: Link
+            name: '-6e12e1fe'
+            widget: string
+          - hint: 'Original link: /privacy-policy/, key: -2f934417'
+            label: Link
+            name: '-2f934417'
+            widget: string
+      - label: Images
+        name: images
+        file: cms/_data/images.json
+        fields:
+          - label: Title
+            name: title
+            widget: hidden
+            default: Images
+          - label: Image
+            name: 58a3f9a4
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '13946645'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: i4922bfae
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '71252639'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-1c26fb99'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-35d2134f'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 3e2b8558
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 3b91104d
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 7d28cbf0
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-76f5d0a3'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-410d99d2'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-63752ad9'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-51cdfbda'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-63c9b7df'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-6383425a'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-3cbca8bd'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-35504aec'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '50982987'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 40a17860
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+publish_mode: editorial_workflow

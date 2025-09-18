@@ -1,0 +1,41 @@
+---
+f_unique-code: 242
+title: Job sharing
+slug: job-sharing
+updated-on: '2024-02-23T14:08:25.223Z'
+created-on: '2024-02-22T15:08:28.647Z'
+published-on: '2024-02-23T14:16:55.370Z'
+f_image:
+  url: /assets/external/65d7651ee4476685237b13ae_ab-blog_041017.jpeg
+  alt: null
+f_original-url: https://www.actionablebooks.com/en-ca/blog/job-sharing/
+f_team: cms/team/actionable-team.md
+f_category-3: cms/blog-category/business.md
+f_date-published: '2017-04-10T00:00:00.000Z'
+layout: '[blog].html'
+tags: blog
+---
+
+_What happens when a long time Actionable employee decides to take a six month sabbatical and a replacement needs to be found? Both weigh in on the experience._
+
+**Andy:** Around this time last year, when I formalized plans to take a [six month sabbatical](https://actionable.co/thoughts/life-at-actionable/2016/09/sabbatical-dream-come-true/) for travel and to work on personal projects close to my heart, I was filled with tremendous excitement for the adventure ahead, but also a little trepidation. The anxiety wasn’t so much around packing my suitcase and visiting places and cultures that were foreign to me (although those feelings were certainly there!), but instead focused on handing over a job that I’d spent the past five and a half years molding to perfectly suit me.
+
+When I joined Actionable in 2011, we were a much smaller organization in terms of employees. In fact, I was the only one. The start-up life certainly has its pros and cons, but what attracted me above all at that time was the opportunity to carve out a path for myself that was uniquely tailored to my interests and skill set. While I was hired as Actionable’s part-time Community Manager (my chief responsibilities at that time included managing our growing social media platforms, putting up our weekly book summary, and assembling our weekly digest) my role quickly began to evolve and, before long, hardly resembled my initial job description.
+
+One example to illustrate this: rather than merely formatting the summaries to go live (i.e. making them look pretty for you, our faithful readers), I was soon editing them myself, working with the writer whenever necessary to give them that extra bit of polish. In time this responsibility grew to the creation of the Actionable Book Club, a group of voracious business book readers who each read and summarize a book every month and then convene online to discuss the nuggets of wisdom they extract from it. It’s a little group of talented individuals which, I’m happy to say, thrives to this day. Soon I would be known as Actionable’s Managing Editor and Community Liaison. The second half of my job title, referring to the social media work I was still doing at the time, would be dropped mid-last year when those duties were taken up by a new colleague. See, always evolving!
+
+So, with my sabbatical quickly approaching and the need to find my replacement looming, this anxiety was always at the back of my mind. Would everything that I’d spent so much time building fall to pieces while I was gone? Or, an outcome perhaps even worse to me, would my replacement be _so_ much better that they wouldn’t even _want_ me back?
+
+About that first concern of mine, I needn’t have worried. The hiring process at Actionable is something that’s been so refined over the last couple of years that they’ve almost got it down to a science. Okay, finding the right talent will never be an exact science, but with some of the amazing people that have come aboard recently, it certainly seems they’ve found the winning formula! When the possible candidates had been winnowed down and I had the opportunity to speak to Sara Saddington on the phone, where her passion and enthusiasm for the job was palpable, I knew we had found our girl. I also knew she would not only do a great job keeping my seat warm while I was gone, but would be a vital asset to the team moving forward, as it was decided before the hiring process that this individual would be staying on after my return to act as Managing Editor across our other three sites. If I had any lingering doubts (and I don’t recall any), they were immediately dispelled when I had a chance to begin working with Sara. We didn’t have a lot of time for me to show her the ropes, but she took to everything with such eagerness and a desire to learn that I knew I could rest easy and enjoy my six months off. And I was right, and now look forward to working with Sara over the months and years ahead!
+
+**Sara:** Joining the Actionable team in September of last year was hands down, the best decision I’ve ever made for my career. Within about an hour of seeing the post for the position of Managing Editor, I was frantically researching the company, polishing up my resume, and crafting a cover letter. Throughout the interview process I was on pins and needles—from my first conversation with Chris I knew that I wanted to work with him and the rest of the team. The position was unique: I joined the team on the same day that three new public websites launched, and a month before Andy was scheduled to start his sabbatical.
+
+It was an anxious time for me. I knew that I was capable of meeting the demands of the position, but the work was a stretch from my previous experience. I knew that I would love working from home and making my own schedule, but I was untested at working in a virtual environment. And I knew that I thrive in fast paced environments, but the prospect of managing all the demands of Andy’s work with Actionable Books, in addition to three other websites, all while getting up to speed in a new industry and environment was a bit daunting. What if I couldn’t handle it? What if I couldn’t fill Andy’s impressive shoes in the role, and ended up getting let go when he returned?
+
+I’m happy to report that my anxieties were largely unfounded. From my first day at Actionable I felt like a valued and welcome member of the team. Everyone is kind, smart, funny, and hardworking, and I felt like I fit right in from the first day. Andy did a great job of getting me up to speed on the Actionable Books site, and we worked together to figure out my focus priorities for the time he was away. Over the past seven months, my role has shifted and evolved, and with the incredible energy of the Actionable team, I find my work [exhilarating and fulfilling](https://consultants.actionable.co/thoughts/2017/04/exhausted-learning-can-energize-your-work/).
+
+With Andy’s triumphant return this week, I’ve been reflecting on how much my life and work has changed since I joined the Actionable team, and all the valuable lessons I’ve learned along the way. The two things that really jumped out to me this week are: if you stay ready you don’t have to get ready, and there’s an important difference between ownership and possessiveness when it comes to work. Let me explain:
+
+Despite knowing from the get go that Andy would be returning, I wasn’t as prepared as I would have liked to hand over the information he needs to jump back into his role. I was sidelined by an illness for a few days leading up to his return, so that accounts for a piece of it, but really, I simply haven’t been as organized as I should have been. In a fast-moving start-up environment, things shift and change all the time, and it’s just good practice to get into a mode where work is easy to hand off to other team members if need be. If you stay ready, you don’t have to scramble to get ready when a change or shift occurs.
+
+Which brings me to the difference between ownership and possessiveness—I take a lot of pride in my work, and sometimes that results in a possessive streak. Sure, I “own” my deliverables, and am accountable to the team for getting my work done, but the work simply doesn’t belong to me. It belongs to the team. Earlier this week, a technical issue with Actionable Books was pointed out in one of the Slack channels (the instant messaging system we use internally here at Actionable), and without thinking, I jumped in to try to resolve the issue—not because I felt that Andy couldn’t handle it, but because I’ve been responsible for the Books site for the past seven months, and my possessive instinct took over. Part of working on a collaborative, fast-moving team, is recognizing that we’re all in this together.

@@ -1,0 +1,46 @@
+---
+f_unique-code: 269
+title: Marketing with Strategic Empathy — Author Interview with Claire Brooks
+slug: marketing-with-strategic-empathy-author-interview-with-claire-brooks
+updated-on: '2024-02-23T14:08:59.143Z'
+created-on: '2024-02-22T15:08:30.660Z'
+published-on: '2024-02-23T14:16:55.370Z'
+f_image:
+  url: /assets/external/65d76522950c5ec7421b0791_authorinterview_120516.jpeg
+  alt: null
+f_original-url: >-
+  https://www.actionablebooks.com/en-ca/blog/marketing-with-strategic-empathy-author-interview-with-claire-brooks/
+f_team: cms/team/karina-mikhli.md
+f_category-3: cms/blog-category/innovative-thinking.md
+f_date-published: '2016-12-05T00:00:00.000Z'
+layout: '[blog].html'
+tags: blog
+---
+
+Claire Brooks, author of [_Marketing with Strategic Empathy: Inspiring Strategy with Deeper Consumer Insights_](https://www.amazon.com/Marketing-Strategic-Empathy-Inspiring-Strategy-ebook/dp/B01JAS0JZS/ref=mt_kindle?_encoding=UTF8&me=) has spent her career in marketing and strategy. She started out as a marketing line manager and agency strategic planner, then joined ModelPeople in 2004 where she remains, currently as their President and Managing Director.
+
+ModelPeople developed the Strategic Empathy framework that Claire lays out in this book, after explaining why it’s so crucial for any company’s continued success. She then backs it with many case studies taken from her own career and provides the templates and implementation guides on how to apply them. And as Claire explains, understanding one’s customers and how to apply this empathetic marketing strategy can no longer be reserved for just the “marketing” team.
+
+**1\. You’ve spent your entire career in marketing and strategy, which is very impressive. Were you always attracted to this field or did you fall into it?**  
+
+I confess, I fell into it! At school I was a passionate classicist and I went on to study classical languages, literature, art and philosophy at Cambridge University (UK). Perhaps because of this early cultural immersion, I became very interested in sociology and anthropology and studied Social and Political Sciences for Part two of my degree. That led me to work in Brand Management for P&G. When I first came to the United States I found myself, quite by accident, in Detroit, heading up research and strategy planning for Chevy, on the agency side. Working with this quintessentially American brand sparked curiosity around culture as a driver of consumer behavior. I then became a partner in a creative boutique agency, developing strategy for what marketers call “intangible brands”: Brands like SKYY vodka, Nordstrom, Campari and Gap, where superior brand value is created by developing a strong emotional and cultural connection with consumers. I had to develop a new framework and strategic research tools for understanding this emotional and cultural connection, including ethnographic research which was not widely used in marketing at that time. This new approach took off and I joined ModelPeople Inc., a global brand insights consultancy, as its President, leading projects with major brand corporations from categories as diverse as automotive, entertainment, food and beverage and healthcare.
+
+**2\. How did the Strategic Empathy framework come about? What was the context at ModelPeople that lead to this type of thinking and the creation of the new framework?**
+
+Great question about context. Context, whether cultural or emotional is what we study, to understand what drives consumer or shopper behavior. The context for Strategic Empathy® was created by the pressures our clients – strategy, insights and marketing executives in Fortune 500 corporations – were facing. When I started out as a brand manager, strategy was developed in a formal process which happened at the same time of year, every year. This is what I was taught at business school. Yet in a VUCA world (one of volatility, uncertainty, complexity and ambiguity), major strategic decisions were being made on-the-go by cross-functional teams. Mintzberg calls this ‘emergent strategy formation’. Therefore we formalized what we had been doing into what we called _The Strategic Empathy Process_, which has three steps: Immerse, Activate and Inspire. The Process takes cross-functional client teams on a strategic learning journey, immersing them in the world of their consumers or shoppers, collaboratively identifying and activating insights into strategy, and then developing internal communications which inspire other stakeholders with deep understanding. This Process is quite unlike any other strategy development process because it nurtures empathy with consumers, customers or other stakeholders like donors or employees across an organization, as a basis for dynamic strategy formation. Empathy also helps executives do their jobs better on a day-to-day basis by facilitating effective ongoing (‘emergent’) strategy planning and implementation.
+
+**3\. Can you share a case study or two that did not make it into the book that demonstrates the power of this framework?**
+
+ModelPeople has just worked with a giant global technology company, renowned as a category disruptor. They had launched an innovative AI-driven consumer device, which had far exceeded their market expectations. Long before the start of the annual strategy planning process, the marketing, product, insights and ad agency stakeholders realized that they needed to adapt marketing strategy fast, to leverage their success and defend their brand against upcoming competitive launches. The team made important refinements to marketing strategy in less than three weeks, using the Strategic Empathy Process, to uncover deep insights about the brand’s emotional connection with consumers and rapidly activate insights into positioning and communications strategy. The strategy resulted in a new ad campaign, written, produced and launched this Fall, just seven weeks later. For a giant corporation, that’s fast!
+
+**4\. Has this Strategic Empathy framework ever failed? If so, why do you think this happened and can you elaborate?**
+
+The Strategic Empathy framework has never failed in terms of research and strategy development but activation has been compromised when stakeholders don’t want to put in the effort to take a strategic learning journey. The problem with much traditional consumer research or data, is that the emphasis is on providing “the answer”. This can encourage executives to be over-reliant on consultants. A strategic learning journey requires executives across the organization to collaborate in understanding their customers and deciding how to activate empathetic insight into strategy and execution on an ongoing basis. It’s hard work, but deeply rewarding, and I’ve noticed that some of the greatest fans of the process are executives in creative functions like design, engineering or merchandising – who don’t find PowerPoint charts of numbers helpful – but do want to be “hands-on” with learning and observations that help them serve their consumers or shoppers better.
+
+**5\. What made you decide to write the book? And why now?**
+
+The book was a tribute to the ModelPeople clients, staff and associates who have made the Strategic Empathy Process such a success. It was also written to inspire other executives and researchers to design and implement learning journeys themselves. Lastly, I taught MBA students about marketing, strategy and research for several years, and I felt that the framework and case studies (over fifty of them in the book) would be insightful.
+
+**6\. I appreciated that you applied this to nonprofits. How would a small business owner and/or solopreneur apply this to themselves and their business? And what is the first and most critical action they could take to ensure it succeeds?**
+
+The idea of Strategic Empathy is equally applicable to start-ups, small business owners or SMEs, as well as to global corporations. Entrepreneurs are Strategic Empathy naturals, having typically founded their businesses based on deep insight and intuition for their customers’ needs and wants. Solopreneurs should make sure that their own customer empathy remains up-to-date because they have the advantage of speed in bringing innovation to market: Regularly check in with customers and understand what they are thinking, feeling or doing that suggests an opportunity for a new product, service or marketing approach. Entrepreneurial organizations often have an intuitive “Empathy Culture” learned at the founder’s knee. However, as their business grows, entrepreneurs must invest in growing new managers and employees into strategists, to ensure dynamic strategy formation and growth is grounded in customer empathy.The first step for an entrepreneur is to ensure that the leaders of the business take time to engage together collaboratively in empathetic strategic learning and identify what steps the business needs to take in order to serve customers better. This does not have to be a costly undertaking, but it does require imagination and commitment to observing customers in the context of their lives and developing empathy with their goals, problems, hopes and dreams, rather than just trying to sell them more product.

@@ -1,0 +1,37 @@
+---
+f_unique-code: 174
+title: >-
+  Forging Resilient Business Relationships in the Heat of Change — Author
+  Interview with Michael Papanek
+slug: >-
+  forging-resilient-business-relationships-in-the-heat-of-change-author-interview-with-michael-papanek
+updated-on: '2024-02-23T14:08:58.366Z'
+created-on: '2024-02-22T15:08:23.376Z'
+published-on: '2024-02-23T14:16:55.370Z'
+f_image:
+  url: /assets/external/65d76511551ad1965620b73d_ab-guest-post-template_mp.jpeg
+  alt: null
+f_original-url: >-
+  https://www.actionablebooks.com/en-ca/blog/forging-resilient-business-relationships-in-the-heat-of-change-author-interview-with-michael-papanek/
+f_team: cms/team/karina-mikhli.md
+f_category-3: cms/blog-category/business.md
+f_date-published: '2017-04-28T00:00:00.000Z'
+layout: '[blog].html'
+tags: blog
+---
+
+Michael Papanek, author of _From Breakdown to Breakthrough: Forging Resilient Business Relationships in the Heat of Change_ learned firsthand how important relationships are to one’s professional success when he went from employee to consultant. He had to quickly figure out how to repair and rebuild a relationship with his new “client,” someone he had not gotten along with as a peer.
+
+Not only did Michael succeed in turning that relationship around, but he realized that what he used could be a framework to help others, and that is what he shares in this book. And given how much instability we all face in our careers and jobs today, learning to develop business relationships that withstand this volatile environment is something we all need to learn.
+
+1.  **You mention your grandfather, Kurt Lewin (one of the modern pioneers of social, organizational, and applied psychology) and it’s obvious that his teaching has influenced your theories. Had you intended to follow in his footsteps?** No, as a young man I was very interested in technology and trying to increase my income! I actively rejected the legacy of my mother (who was also a social psychologist) and her father Kurt Lewin. I wanted to move away from my family background, like so many younger people do. I learned over time however, that Lewin’s work had a direct application to the work I was doing as a systems engineer and team leader. Then, as I tried to move up, take on bigger projects and enter leadership roles, I found myself drawn to a deeper understanding of human and organizational dynamics as they clearly have an important impact on any individual’s or team’s ability to succeed. I eventually become an organizational development consultant, moving into the same field as my mother and grandfather, and I continue to use Lewin’s ideas every single day on the job. I am honored to do so in his memory.
+
+2.  **How did you determine that all resilient relationships need to be Strong, Fair, and Flexible? Were there other attributes that were considered but discarded?** I needed a model that would support both evaluating business relationships and taking action to improve them. The model needed to be robust and effective, but not so complex as to be difficult for leaders to apply on a practical basis. I learned from my research that Strong and Flexible were the two key attributes of resilience generally, but for relationships I needed one other attribute to address the human aspects of resilience. I worked with and tested other ideas, but “Fair” was the best way to incorporate human values into the model without adding too much ambiguity or confusion. No one seems to have a problem assessing if a relationship is Fair.
+
+3.  **In all your work with clients, has there ever been a relationship that was not salvageable? If so, why was this?** Yes, of course there have been relationships with clients that have not worked out. Ending relationships that are not Strong, Flexible and Fair is very healthy and the book provides some tools for assessing when to continue and when to cut your losses. Trying to have a resilient relationship with every client is an unreasonable goal and can cause dysfunctional behaviors and unfairness. I like to work where my value is a great match with the client’s needs, so they want exactly what I am good at and love to do. If there is not a match, and you do need to end a business relationship, the goal is that that you do it with your values intact.
+
+4.  **You write that the higher up you go, the more important relationships are. I’ve noticed that the higher up you go, unfortunately the more political you need to be as well. How can one balance the two, or better yet avoid the politics?** I define “politics” in organizations as follows: “politics” is when _people believe that a decision has been made for other than sound business reasons_. Every organization wants to be a meritocracy, where all decisions are made “for the good of the company” and based on “sound data and analysis.” However, every organization, and any executive team, has politics. Having good relationships and succeeding at internal politics is not a trade off. Resilient relationships are the best strategy for winning at politics! No leader can avoid politics; if they try to they will just lose to others who play it better. If you lead from your values—even during political—you will create a leadership brand that tends to win in the end. There are a number of cases covered in the book where this was the result: leaders made sure they were true to their beliefs, and in the end were the last standing!
+
+5.  **I enjoyed your chapter about leading a resilient team culture. How can a middle manager or an individual contributor apply this?** Anyone in an organization, middle manager, supervisor or individual contributor can change their own culture by focusing on those around them and seeking to form resilient relationships. The case of “Mr. No” at General Motors described in the book illustrates this. An organizational culture is simply the total of all the relationships within that organization. Try to improve your “Heat Curve” in the meetings you attend; try the strategies in the book on your section of the world. Culture is very hard to change, but it can be done. You might be surprised at the impact you can make!
+
+6.  **If you know you’re about to meet someone who could potentially be a great long-term business relationship, what is the first and most important thing you can do to set the relationship up to be resilient?** The first key strategy is to “know them and show them”—meaning try to learn who they really are, and try to show them who you are. This means learning their goals, challenges, values, and history, and revealing yours to them. Each of us is on a journey, and we are looking for people we can travel with. The foundation of the most resilient business relationships is trust, and trust is based on “successful risk”—taking a chance, and having it work out well, then taking a bigger risk, and so on. The first risk you may have to take is to really listen and learn about the other person and also reveal whom you really are. If the other does not respond in kind, then you have learned sometime important. In the book I compare relationships to a chair—some chairs are too weak to really support you, you are always worried they might fail beneath you and in the end they are worse than no chair at all! A resilient relationship is like the perfect chair—strong and supportive, but also relaxing and comfortable. You can enjoy a chair like that for a very long time.
