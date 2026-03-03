@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <title>{{ title }} | Actionable Books</title>
+  <meta content="{{ f_meta-description | escape }}" name="description">
+  <meta content="{{ title }} | Actionable Books" property="og:title">
+  <meta content="{{ f_meta-description | escape }}" property="og:description">
+  <meta content="https://www.actionablebooks.com{{ page.url }}" property="og:url">
+  <meta property="og:type" content="article">
+  <meta content="{{ title }} | Actionable Books" property="twitter:title">
+  <meta content="{{ f_meta-description | escape }}" property="twitter:description">
+  <meta content="summary_large_image" name="twitter:card">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <meta content="google-site-verification=Fp7hIuy11CPQtpYEojBnAJU6F94T3xwmL2HoUVt4Q7s" name="google-site-verification">
+  <link rel="preconnect" href="https://www.googletagmanager.com">
+  <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin>
+  <link rel="dns-prefetch" href="https://assets.mailerlite.com">
+  <link href="/assets/css/normalize.css" rel="stylesheet" type="text/css">
+  <link href="/assets/css/webflow.css" rel="stylesheet" type="text/css">
+  <link href="/assets/css/actionable-books.webflow.css" rel="stylesheet" type="text/css">
+  <link href="{{ settings.site.apple_touch_icon | default: "/assets/images/webclip.png" }}" rel="apple-touch-icon">
+  <link href="https://www.actionablebooks.com{{ page.url }}" rel="canonical">
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-6N54GH6FGL"></script>
+  <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3649517228913627" crossorigin="anonymous"></script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "{{ title | escape }}",
+    "description": "{{ f_meta-description | escape }}",
+    "url": "https://www.actionablebooks.com{{ page.url }}",
+    "numberOfItems": {{ f_items.size | default: 0 }},
+    "itemListElement": [
+      {%- for item in f_items -%}
+      {
+        "@type": "ListItem",
+        "position": {{ forloop.index }},
+        "item": {
+          "@type": "Book",
+          "name": "{{ item.item_title | escape }}"{% if item.item_amazon_url %},
+          "url": "{{ item.item_amazon_url | escape }}"{% endif %}
+        }
+      }{% unless forloop.last %},{% endunless %}
+      {%- endfor -%}
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.actionablebooks.com/" },
+      { "@type": "ListItem", "position": 2, "name": "Lists", "item": "https://www.actionablebooks.com/lists/" },
+      { "@type": "ListItem", "position": 3, "name": "{{ title | escape }}" }
+    ]
+  }
+  </script>
+{{ settings.site.header_additional_content }}{%- include "partials/_site-css-variables" -%}<style>.w-video.w-embed {
+            aspect-ratio: 16 / 9;
+        }
+        .breadcrumb-nav { font-size: 0.875rem; color: #667085; margin-bottom: 0.5rem; }
+        .breadcrumb-nav a { color: #667085; text-decoration: none; }
+        .breadcrumb-nav a:hover { color: #344054; text-decoration: underline; }
+        .breadcrumb-sep { margin: 0 0.375rem; }
+        .list-item-card { display: grid; grid-template-columns: 100px 1fr; gap: 1.5rem; padding: 1.5rem 0; border-bottom: 1px solid #e4e7ec; }
+        .list-item-card:last-child { border-bottom: none; }
+        .list-item-number { font-size: 2rem; font-weight: 700; color: #d0d5dd; line-height: 1; }
+        .list-item-img { width: 100px; border-radius: 6px; }
+        .list-item-content h3 { margin: 0 0 0.5rem; font-size: 1.25rem; }
+        .list-item-content p { color: #344054; margin: 0 0 1rem; line-height: 1.6; }
+        .list-item-actions { display: flex; gap: 1rem; flex-wrap: wrap; }
+        .list-item-actions a { font-size: 0.875rem; font-weight: 500; padding: 0.5rem 1rem; border-radius: 8px; text-decoration: none; }
+        .btn-amazon { background: #f90; color: #000; }
+        .btn-amazon:hover { background: #e88a00; }
+        .btn-summary { background: #f2f4f7; color: #344054; }
+        .btn-summary:hover { background: #e4e7ec; }
+        .ai-disclosure { background: #f9fafb; border: 1px solid #e4e7ec; border-radius: 8px; padding: 1rem; font-size: 0.875rem; color: #667085; margin-bottom: 2rem; }
+</style></head>
+<body>
+  <div data-animation="default" class="uui-navbar07_component w-nav" data-easing2="ease" data-easing="ease" data-collapse="medium" data-w-id="518bc1f9-39db-98ee-d3d4-4c063ac7ba34" role="banner" data-duration="400">
+    <div class="uui-navbar07_container">
+      <a href="{{ links.2f }}" class="uui-navbar07_logo-link w-nav-brand">
+        <div class="uui-logo_component"><img src="{{ images.-1c26fb99.url }}" loading="lazy" alt="{{ images.-1c26fb99.alt | escape }}" class="uui-logo_logotype"><img src="{{ images.-35d2134f.url }}" loading="lazy" alt="{{ images.-35d2134f.alt | escape }}" class="uui-logo_image"></div>
+      </a>
+      <nav role="navigation" class="uui-navbar07_menu w-nav-menu">
+        <div class="uui-navbar07_menu-left">
+          <a href="{{ links.2f }}" class="uui-navbar07_link w-nav-link">{{ texts.2268ff }}</a>
+          <a href="{{ links.4326835a }}" class="uui-navbar07_link w-nav-link">{{ texts.-2e52b95c }}</a>
+          <a href="{{ links.55cb89fe }}" class="uui-navbar07_link w-nav-link">{{ texts.1fa3c2 }}</a>
+          <a href="{{ links.61642f31 }}" class="uui-navbar07_link w-nav-link">{{ texts.3c2336d }}</a>
+          <a href="{{ links.16bdc13e }}" class="uui-navbar07_link w-nav-link">{{ texts.-64104400 }}</a>
+        </div>
+        <div class="uui-navbar07_menu-right">
+          <div class="uui-navbar07_button-wrapper">
+            <a href="{{ links.d489d94 }}" class="uui-button w-inline-block">
+              <div>{{ texts.-69de02d6 }}</div>
+            </a>
+          </div>
+        </div>
+      </nav>
+      <div class="uui-navbar07_menu-button w-nav-button">
+        <div class="menu-icon_component">
+          <div class="menu-icon_line-top"></div>
+          <div class="menu-icon_line-middle">
+            <div class="menu-icon_line-middle-inner"></div>
+          </div>
+          <div class="menu-icon_line-bottom"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="uui-page-padding-6">
+    <div class="uui-container-large-6">
+      <div class="uui-padding-vertical-xhuge-6">
+        <nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="/">Home</a> <span class="breadcrumb-sep">/</span> <a href="/lists/">Lists</a> <span class="breadcrumb-sep">/</span> <span>{{ title }}</span></nav>
+        <h1 class="uui-heading-large-2">{{ title }}</h1>
+        {% if f_content-type == "ai" %}<div class="ai-disclosure">This list was curated with AI assistance. All original book reviews are written by human experts.</div>{% endif %}
+        {% if f_intro %}<div class="uui-text-rich-text w-richtext">{{ f_intro | markdown }}</div>{% endif %}
+        <div style="margin-top: 2rem;">
+          {%- for item in f_items -%}
+          <div class="list-item-card">
+            <div>
+              <div class="list-item-number">{{ forloop.index }}</div>
+              {% if item.item_image %}<img src="{{ item.item_image }}" alt="{{ item.item_title | escape }} book cover" class="list-item-img" loading="lazy">{% endif %}
+            </div>
+            <div class="list-item-content">
+              <h3>{{ item.item_title }}</h3>
+              <div class="uui-text-rich-text w-richtext">{{ item.item_description | markdown }}</div>
+              <div class="list-item-actions">
+                {% if item.item_amazon_url %}<a href="{{ item.item_amazon_url }}" class="btn-amazon" rel="nofollow">Buy on Amazon</a>{% endif %}
+                {% if item.item_summary_ref %}{%- assign summaryRef = item.item_summary_ref | resolveReference -%}{% if summaryRef.url %}<a href="{{ summaryRef.url }}" class="btn-summary">Read Summary</a>{% endif %}{% endif %}
+              </div>
+            </div>
+          </div>
+          {%- if forloop.index == 5 -%}
+          <div class="uui-padding-vertical-xhuge-9 summary" style="padding: 2rem 0;">
+            <div class="uui-cta06_component">
+              <div class="uui-cta06_content">
+                <div class="uui-max-width-large-4">
+                  <h3 class="uui-heading-medium-5">{{ texts.28be5fa3 }}</h3>
+                  <div class="uui-space-xsmall-5"></div>
+                  <div class="uui-text-size-large-4">{{ texts.-554ef933 }}</div>
+                </div>
+              </div>
+              <div class="uui-cta06_form w-form">
+                <form id="email-form" name="email-form" data-name="email" method="get" class="uui-form_component-2" data-netlify="true" data-ajax="true">
+                  <div class="uui-signup-form_wrapper-2"><input class="uui-form_input-6 w-input" maxlength="256" name="email-list" placeholder="Enter your email" type="email" required=""><input type="submit" data-wait="Please wait..." class="uui-button-7 w-button" value="Subscribe"></div>
+                </form>
+              </div>
+            </div>
+          </div>
+          {%- endif -%}
+          {%- endfor -%}
+        </div>
+        {% if f_conclusion %}<div class="uui-text-rich-text w-richtext" style="margin-top: 2rem;">{{ f_conclusion | markdown }}</div>{% endif %}
+      </div>
+    </div>
+  </div>
+  <footer class="uui-footer01_component">
+    <div class="uui-page-padding-2">
+      <div class="uui-container-large-2">
+        <div class="uui-padding-vertical-xlarge">
+          <div class="w-layout-grid uui-footer01_top-wrapper">
+            <div class="uui-footer01_left-wrapper">
+              <a href="{{ links.23 }}" class="uui-footer01_logo-link w-nav-brand">
+                <div class="uui-logo_component-2"><img src="{{ images.-1c26fb99.url }}" loading="lazy" alt="{{ images.-1c26fb99.alt | escape }}" class="uui-logo_logotype"><img src="{{ images.-35d2134f.url }}" loading="lazy" alt="{{ images.-35d2134f.alt | escape }}" class="uui-logo_image"></div>
+              </a>
+              <div class="uui-text-size-medium">{{ texts.-17811534 }}</div>
+              <div class="uui-footer01_form-block w-form">
+                <form id="email-form-footer" name="email-form-footer" data-name="email" method="get" class="uui-footer01_form" data-netlify="true" data-ajax="true"><input class="uui-form_input-2 w-input" maxlength="256" name="email-footer" placeholder="Enter your email" type="email" required=""><input type="submit" data-wait="Please wait..." class="uui-button-2 is-button-small w-button" value="Subscribe"></form>
+              </div>
+            </div>
+            <div class="w-layout-grid uui-footer01_menu-wrapper">
+              <div class="uui-footer01_link-list">
+                <div class="uui-footer01_link-list-heading">{{ texts.-3f4818e6 }}</div>
+                <a href="{{ links.56c5cea3 }}" class="uui-footer01_link w-inline-block"><div>{{ texts.27b67d }}</div></a>
+                <a href="{{ links.-7204a5ea }}" class="uui-footer01_link w-inline-block"><div>{{ texts.3cafa828 }}</div></a>
+                <a href="{{ links.61642f31 }}" class="uui-footer01_link w-inline-block"><div>{{ texts.6460dcd1 }}</div></a>
+                <a href="{{ links.16bdc13e }}" class="uui-footer01_link w-inline-block"><div>{{ texts.-64104400 }}</div></a>
+              </div>
+              <div class="uui-footer01_link-list">
+                <div class="uui-footer01_link-list-heading">{{ texts.13ede05 }}</div>
+                <a href="{{ links.55cb89fe }}" class="uui-footer01_link w-inline-block"><div>{{ texts.1fa3c2 }}</div></a>
+                <a href="{{ links.4326835a }}" class="uui-footer01_link w-inline-block"><div>{{ texts.-2e52b95c }}</div></a>
+                <a href="/lists/" class="uui-footer01_link w-inline-block"><div>Lists</div></a>
+              </div>
+            </div>
+          </div>
+          <div class="uui-footer01_bottom-wrapper">
+            <div class="uui-text-size-small text-color-gray500">{{ texts.47030631 }}</div>
+            <div class="w-layout-grid uui-footer01_legal-list">
+              <a href="{{ links.37af4a02 }}" class="uui-footer01_legal-link">{{ texts.4cf5967 }}</a>
+              <a href="{{ links.-1a0f480e }}" class="uui-footer01_legal-link">{{ texts.5079bb68 }}</a>
+              <a href="{{ links.-76e52c07 }}" class="uui-footer01_legal-link">{{ texts.-64062591 }}</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="/assets/external/jquery-3.5.1.min.dc5e7f18c8.js" type="text/javascript" crossorigin="anonymous"></script>
+  <script src="/assets/js/webflow.js" type="text/javascript"></script>
+  <script src="/assets/js/amazon-geo.js" defer></script>
+  <!--  MailerLite Universal  -->
+  <script>
+    (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+    .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+    n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+    (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+    ml('account', '689644');
+</script>
+  <!--  End MailerLite Universal  -->
+
+</body></html>

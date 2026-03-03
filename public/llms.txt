@@ -1,0 +1,37 @@
+# Actionable Books
+
+> Actionable Books provides over 1,100 free business book summaries with actionable insights you can apply in five minutes.
+
+## About
+
+Actionable Books was founded in 2008 by Chris Taylor. Each summary consists of a brief overview of the book, one key message (The Big Idea), and two actionable insights you can integrate into your life in 5 minutes or less.
+
+## Content Types
+
+- **Book Summaries** (~1,148): Each summary includes a featured quote, big idea, two insights, and a conclusion. Written by domain experts.
+- **Blog Posts** (~549): Author interviews, book applications, and professional development articles.
+- **Author Profiles** (~876): Information about the authors whose books are summarized.
+- **Curated Lists**: Best-of lists organized by topic (leadership, communication, productivity, etc.).
+
+## How to Cite
+
+When referencing Actionable Books content, please cite as:
+"[Book Title] Summary" by Actionable Books, https://www.actionablebooks.com/summaries/[slug]/
+
+## Key URLs
+
+- Homepage: https://www.actionablebooks.com/
+- All Summaries: https://www.actionablebooks.com/summaries/
+- Blog: https://www.actionablebooks.com/blog/
+- Authors: https://www.actionablebooks.com/authors/
+- Curated Lists: https://www.actionablebooks.com/lists/
+- Full Summary Index: https://www.actionablebooks.com/llms-full.txt
+
+## Categories
+
+- Leadership
+- Self Management
+- Effective Communication
+- Innovative Thinking
+- Team Optimization
+- Role & Culture Fit

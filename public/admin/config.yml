@@ -827,6 +827,101 @@ collections:
         name: date
         widget: datetime
       - *ref_0
+  - name: lists
+    label: Lists
+    folder: cms/lists
+    create: true
+    identifier_field: name
+    extension: md
+    slug: '{{slug}}'
+    fields:
+      - hint: ''
+        name: title
+        label: Title
+        widget: string
+        required: true
+      - hint: ''
+        name: created-on
+        label: Created On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: published-on
+        label: Published On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: f_intro
+        label: Introduction
+        widget: markdown
+        required: false
+      - hint: ''
+        name: f_target-keyword
+        label: Target Keyword
+        widget: string
+        required: false
+      - hint: ''
+        name: f_meta-description
+        label: Meta Description
+        widget: string
+        required: false
+      - hint: 'human or ai'
+        name: f_content-type
+        label: Content Type
+        widget: select
+        options:
+          - human
+          - ai
+        default: ai
+        required: false
+      - hint: ''
+        name: f_items
+        label: List Items
+        widget: list
+        required: false
+        fields:
+          - name: item_title
+            label: Title
+            widget: string
+          - name: item_description
+            label: Description
+            widget: markdown
+          - name: item_amazon_url
+            label: Amazon URL
+            widget: string
+            required: false
+          - name: item_summary_ref
+            label: Summary Reference
+            widget: relation
+            required: false
+            collection: summaries
+            value_field: cms/summaries/{{slug}}.md
+            search_fields:
+              - slug
+              - title
+            display_fields:
+              - title
+          - name: item_image
+            label: Image URL
+            widget: string
+            required: false
+      - hint: ''
+        name: f_conclusion
+        label: Conclusion
+        widget: markdown
+        required: false
+      - label: Tags
+        widget: hidden
+        name: tags
+        default: lists
+      - label: Layout
+        widget: hidden
+        name: layout
+        default: '[lists].html'
+      - label: Publish Date
+        name: date
+        widget: datetime
+      - *ref_0
   - label: Theme Settings
     name: settings
     identifier_field: title

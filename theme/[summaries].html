@@ -57,6 +57,30 @@
     ]
   }
   </script>
+  {% if f_big-idea %}<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is {{ title | escape }} about?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": {{ f_big-idea | strip_html | truncate: 300 | jsonify }}
+        }
+      }{% if f_insight-1 %},
+      {
+        "@type": "Question",
+        "name": "What are the key takeaways from {{ title | escape }}?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": {{ f_insight-1 | strip_html | truncate: 300 | jsonify }}
+        }
+      }{% endif %}
+    ]
+  }
+  </script>{% endif %}
 {{ settings.site.header_additional_content }}{%- include "partials/_site-css-variables" -%}<style>.w-video.w-embed {
             aspect-ratio: 16 / 9;
         }
