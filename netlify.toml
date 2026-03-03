@@ -3,6 +3,9 @@ publish = "public"
 command = "npm run build"
 functions = "functions"
 
+[build.environment]
+NODE_VERSION = "18.20.4"
+
 [[redirects]]
   from = "/api/*"
   to = "/.netlify/functions/:splat"
