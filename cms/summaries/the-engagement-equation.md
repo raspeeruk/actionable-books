@@ -97,7 +97,7 @@ f_quote-2: >-
   employee engaged might turn off the person in the next cubicle...To truly be
   engaged, people need to be satisfied with their immediate work and their
   career opportunities”
-f_amazon-url: https://www.amazon.com/dp/1118308352/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118308352/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

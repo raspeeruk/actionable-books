@@ -157,7 +157,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Competent observers have experienced the power of observation in producing
   extraordinary results."
-f_amazon-url: https://www.amazon.com/dp/0983445400/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0983445400/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

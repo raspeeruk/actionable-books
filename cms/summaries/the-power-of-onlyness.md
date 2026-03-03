@@ -120,7 +120,7 @@ f_quote-2: >-
   "Through the power of onlyness, an individual conceives an idea born of his
   narrative, nurtures it with the help of a community that embraces it, and,
   through shared action, makes the idea powerful enough to dent the world."
-f_amazon-url: https://www.amazon.com/dp/B01N0UULIJ/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B01N0UULIJ/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

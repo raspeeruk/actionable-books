@@ -128,7 +128,7 @@ f_quote-2: >-
   "After a while, it’s natural to think that in order to be the best you have to
   be better than others. Many people define success by being in the top 1%, when
   in reality it’s about living in your top 1%."
-f_amazon-url: https://www.amazon.com/dp/1453619232/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1453619232/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

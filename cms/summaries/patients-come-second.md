@@ -105,7 +105,7 @@ f_quote-2: >-
   “You choose the [healthcare] field only if helping people fits into your
   personal purpose, if you feel that giving back shapes your legacy and what you
   leave behind.”
-f_amazon-url: https://www.amazon.com/dp/0988842807/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0988842807/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

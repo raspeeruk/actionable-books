@@ -128,7 +128,7 @@ f_conclusion: >-
   experiments to make decisions, and find and adapt to where you belong, and
   you’ll have the best chance of a fulfilled life.
 f_quote-2: “Personal fulfillment is created, not inherited or earned.”
-f_amazon-url: https://www.amazon.com/dp/1250099161/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1250099161/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

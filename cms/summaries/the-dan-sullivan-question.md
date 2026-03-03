@@ -170,7 +170,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Answers are a dime a dozen. What's rare in this world is a really great
   question. What's yours?"
-f_amazon-url: https://www.amazon.com/dp/1897239173/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1897239173/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

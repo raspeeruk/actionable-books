@@ -147,7 +147,7 @@ f_insight-1: >-
 
   3.) **Stop asking for permission.** Permission is _so_ 20th century.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1455520020/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1455520020/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

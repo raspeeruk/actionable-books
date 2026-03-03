@@ -22,13 +22,13 @@ tags: blog
 
 #1 THE SIGNAL AND THE NOISE
 
-1\. [THE SIGNAL AND THE NOISE: WHY SO MANY PREDICTIONS FAIL-BUT SOME DON’T](http://www.amazon.com/gp/product/159420411X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=159420411X&linkCode=as2&tag=gooseducmedi-20) by Nate Silver  
-2\. [STRENTHSFINDER 2.0](http://www.amazon.com/gp/product/159562015X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=gooseducmedi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=159562015X) by Tom Rath  
-3\. [SUPER FREAKONOMICS](http://www.amazon.com/gp/product/B002R2OFGY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002R2OFGY&linkCode=as2&tag=gooseducmedi-20) by Steven D. Levitt, Stephen J. Dubner  
-4\. [THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE](http://www.amazon.com/gp/product/0743269519/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0743269519&linkCode=as2&tag=gooseducmedi-20) by Stephen R. Covey  
-5\. [HOW CHILDREN SUCCEED: GRIT, CURIOSITY, AND THE HIDDEN POWER OF CHARACTER](http://www.amazon.com/gp/product/0547564651/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0547564651&linkCode=as2&tag=gooseducmedi-20) by Paul Tough  
-6\. [STEVE JOBS](http://www.amazon.com/gp/product/1451648537/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=gooseducmedi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1451648537) by Walter Issacson  
-7\. [WINNER-TAKE-ALL-POLITICS](http://www.amazon.com/gp/product/1416588701/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1416588701&linkCode=as2&tag=gooseducmedi-20) by Jacob S. Hacker and Paul Pierson  
-8\. [THE PRICE OF POLITICS](http://www.amazon.com/gp/product/1451651104/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451651104&linkCode=as2&tag=gooseducmedi-20) by Bob Woodward  
-9\. [A GIFT OF HOPE: HELPING THE HOMELESS](http://www.amazon.com/gp/product/B004X6PRJG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004X6PRJG&linkCode=as2&tag=gooseducmedi-20) by Danielle Steele  
-10\. [PLUTOCRATS: THE RISE OF THE NEW SUPER-RICH AND THE FALL OF EVERYONE ELSE](http://www.amazon.com/gp/product/1846142520/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1846142520&linkCode=as2&tag=gooseducmedi-20) by Chrystia Freeland
+1\. [THE SIGNAL AND THE NOISE: WHY SO MANY PREDICTIONS FAIL-BUT SOME DON’T](http://www.amazon.com/gp/product/159420411X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=159420411X&linkCode=as2&tag=actionableb08-20) by Nate Silver  
+2\. [STRENTHSFINDER 2.0](http://www.amazon.com/gp/product/159562015X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=actionableb08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=159562015X) by Tom Rath  
+3\. [SUPER FREAKONOMICS](http://www.amazon.com/gp/product/B002R2OFGY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002R2OFGY&linkCode=as2&tag=actionableb08-20) by Steven D. Levitt, Stephen J. Dubner  
+4\. [THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE](http://www.amazon.com/gp/product/0743269519/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0743269519&linkCode=as2&tag=actionableb08-20) by Stephen R. Covey  
+5\. [HOW CHILDREN SUCCEED: GRIT, CURIOSITY, AND THE HIDDEN POWER OF CHARACTER](http://www.amazon.com/gp/product/0547564651/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0547564651&linkCode=as2&tag=actionableb08-20) by Paul Tough  
+6\. [STEVE JOBS](http://www.amazon.com/gp/product/1451648537/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=actionableb08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1451648537) by Walter Issacson  
+7\. [WINNER-TAKE-ALL-POLITICS](http://www.amazon.com/gp/product/1416588701/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1416588701&linkCode=as2&tag=actionableb08-20) by Jacob S. Hacker and Paul Pierson  
+8\. [THE PRICE OF POLITICS](http://www.amazon.com/gp/product/1451651104/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451651104&linkCode=as2&tag=actionableb08-20) by Bob Woodward  
+9\. [A GIFT OF HOPE: HELPING THE HOMELESS](http://www.amazon.com/gp/product/B004X6PRJG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004X6PRJG&linkCode=as2&tag=actionableb08-20) by Danielle Steele  
+10\. [PLUTOCRATS: THE RISE OF THE NEW SUPER-RICH AND THE FALL OF EVERYONE ELSE](http://www.amazon.com/gp/product/1846142520/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1846142520&linkCode=as2&tag=actionableb08-20) by Chrystia Freeland

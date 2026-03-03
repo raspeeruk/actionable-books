@@ -112,7 +112,7 @@ f_conclusion: >-
 f_quote-2: >-
   "We fret about what to select from overabundant produce sections. Busy, broke,
   and overtaxed by decisions, we want a label to tell us."
-f_amazon-url: https://www.amazon.com/dp/0062382462/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062382462/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -120,7 +120,7 @@ f_quote-2: >-
   everyone in the office would gather around to see if anyone knew the customer.
   (It was only a few weeks before it started ringing so often that they had to
   turn it off.)"
-f_amazon-url: https://www.amazon.com/dp/0316219266/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0316219266/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

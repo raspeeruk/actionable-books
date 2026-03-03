@@ -142,7 +142,7 @@ f_insight-1: >-
   make sure you are getting the renewal that you need.
 f_conclusion: ''
 f_quote-2: '"Energy, not time, is the fundamental currency of high performance."'
-f_amazon-url: https://www.amazon.com/dp/0743226755/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0743226755/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

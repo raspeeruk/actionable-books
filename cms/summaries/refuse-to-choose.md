@@ -156,7 +156,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Use ALL of your interests, passions, and hobbies to create the life and
   career of your dreams."
-f_amazon-url: https://www.amazon.com/dp/1594866260/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1594866260/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

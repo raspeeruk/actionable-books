@@ -125,7 +125,7 @@ f_quote-2: >-
   read the room to understand what’s going on as people communicate in small
   groups…when the conversation is moving forward, when it may be just about to
   leave the rails, and possibly even how to guide it back on course."
-f_amazon-url: https://www.amazon.com/dp/0470903430/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470903430/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

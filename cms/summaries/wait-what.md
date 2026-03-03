@@ -131,7 +131,7 @@ f_quote-2: >-
   "...questions are just as important as answers, often more so. The simple
   truth is that an answer can only be as good as the question asked. If you ask
   the wrong question, you are going to get the wrong answer."
-f_amazon-url: https://www.amazon.com/dp/0062664573/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062664573/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

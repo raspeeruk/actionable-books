@@ -126,7 +126,7 @@ f_quote-2: >-
   "…you can dive in anywhere and go anywhere and the sphere of knowledge will be
   created by your own exploration of this material… In this way, the process of
   reading this book mirrors the book’s content regarding the mind itself."
-f_amazon-url: https://www.amazon.com/dp/039370713X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/039370713X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

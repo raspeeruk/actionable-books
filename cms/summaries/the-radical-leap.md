@@ -121,7 +121,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Yeah, management has to stop pretending to be the Great Protector, but the
   rest of us have to stop askin' and expectin' them to be."
-f_amazon-url: https://www.amazon.com/dp/1427797927/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1427797927/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

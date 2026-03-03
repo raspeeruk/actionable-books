@@ -167,7 +167,7 @@ f_conclusion: >-
 f_quote-2: >-
   “I used to believe that timing was everything. Now I believe that everything
   is timing.”
-f_amazon-url: https://www.amazon.com/dp/0735210624/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0735210624/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

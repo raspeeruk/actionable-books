@@ -92,7 +92,7 @@ f_insight-1: >-
   [blog](http://www.stevepavlina.com/blog/2009/07/how-to-network-with-busy-people/)
   on how to network with busy people.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/B009WUKTXW/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B009WUKTXW/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

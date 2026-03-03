@@ -127,7 +127,7 @@ f_conclusion: >-
 f_quote-2: >-
   "You can bring tremendous value to your business, your customers, and yourself
   by becoming proficient at bringing in new business."
-f_amazon-url: https://www.amazon.com/dp/0814431771/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0814431771/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

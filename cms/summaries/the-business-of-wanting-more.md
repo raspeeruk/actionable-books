@@ -112,7 +112,7 @@ f_conclusion: >-
 f_quote-2: >-
   "…realize who you are beyond the stories you tell yourself and others – and
   thus experience your true nature."
-f_amazon-url: https://www.amazon.com/dp/0984941908/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0984941908/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

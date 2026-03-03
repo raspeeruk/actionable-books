@@ -139,7 +139,7 @@ f_quote-2: >-
   Mario’s gold coins was worth a million dollars, to collect that much moola he
   would have to knock his head on a coin block for almost three and a half
   hours."
-f_amazon-url: https://www.amazon.com/dp/1591844053/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591844053/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

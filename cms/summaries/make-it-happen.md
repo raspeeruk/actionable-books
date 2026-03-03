@@ -120,7 +120,7 @@ f_quote-2: >-
   "A life of purpose – living for something bigger than yourself – is not about
   achieving your dream job or the ideal circumstances or the perfect timing. Yes
   what you have, where you are, right now, on purpose."
-f_amazon-url: https://www.amazon.com/dp/0529101505/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0529101505/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

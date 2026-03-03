@@ -171,7 +171,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Before they do anything else, they break all the rules of conventional
   wisdom”
-f_amazon-url: https://www.amazon.com/dp/595621113/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/595621113/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -137,7 +137,7 @@ f_conclusion: >-
   range of people, not just writers, presenters or business CEOs making a pitch.
   With the stories Sam uses to illustrate her key messages, you are not only
   hooked in, but can easily grasp the point she wants to make.
-f_amazon-url: https://www.amazon.com/dp/1626562504/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1626562504/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -135,7 +135,7 @@ f_quote-2: >-
   experience. But experience, guided and enlightened by understanding, is likely
   to be a gentler experience for everyone and to lead to a shorter learning
   cycle."
-f_amazon-url: https://www.amazon.com/dp/B002TJLEZA/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B002TJLEZA/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

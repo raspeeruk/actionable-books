@@ -110,7 +110,7 @@ f_quote-2: >-
   "Inbound marketing is about getting found online, through search engines and
   on social networking sites that billions of people use to find answers each
   day."
-f_amazon-url: https://www.amazon.com/dp/1118896653/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118896653/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

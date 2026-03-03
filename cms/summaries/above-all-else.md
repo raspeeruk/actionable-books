@@ -114,7 +114,7 @@ f_conclusion: >-
   we’ve seen. In this, his seventh book, Chris Widener shows a depth of
   understanding as to the true meaning of life that we can all learn and grow
   from. Here’s to a deep, wide well for all of us.
-f_amazon-url: https://www.amazon.com/dp/0981951236/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0981951236/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

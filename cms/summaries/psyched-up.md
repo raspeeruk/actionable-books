@@ -137,7 +137,7 @@ f_quote-2: >-
   on your performance during a couple of dozen crucial hours—at pitch meetings,
   sales calls, a key conversation with your boss, and so on—the tools in this
   book should help you do better."
-f_amazon-url: https://www.amazon.com/dp/B01M31FYIM/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B01M31FYIM/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

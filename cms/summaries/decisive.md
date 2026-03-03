@@ -142,7 +142,7 @@ f_quote-2: >-
   in our thinking that doom the pros-and-cons model of decision making. If we
   aspire to make better choices, then we must learn how these biases work and
   how to fight them (with something more potent than a list of pros and cons.)"
-f_amazon-url: https://www.amazon.com/dp/0307956393/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0307956393/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

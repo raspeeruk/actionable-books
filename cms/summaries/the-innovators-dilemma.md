@@ -127,7 +127,7 @@ f_quote-2: >-
   markets are the same practices that cause them to miss the opportunities
   offered by disruptive technologies. In other words, well-managed companies
   fail because they are well managed."
-f_amazon-url: https://www.amazon.com/dp/0062060244/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062060244/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

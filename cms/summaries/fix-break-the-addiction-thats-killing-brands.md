@@ -129,7 +129,7 @@ f_quote-2: >-
   "Cult brand leaders…refuse to settle for good enough and, more importantly,
   their biggest professional desire isn’t to get people to buy, but to buy into
   their cause."
-f_amazon-url: https://www.amazon.com/dp/0994043104/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0994043104/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

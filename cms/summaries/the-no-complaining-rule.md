@@ -108,7 +108,7 @@ f_quote-2: >-
   success and the negative road will lead to misery, anger, and failure. Since
   your bus can’t be on two roads at the same time, you must decide which road
   you want to be on. And when you complain, you travel down the negative road."
-f_amazon-url: https://www.amazon.com/dp/B008L01BVI/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B008L01BVI/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

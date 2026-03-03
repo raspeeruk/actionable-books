@@ -113,7 +113,7 @@ f_conclusion: ''
 f_quote-2: >-
   "In the life and death quest for strategic change businesses have much to
   learn from war."
-f_amazon-url: https://www.amazon.com/dp/B00FKKAQOU/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00FKKAQOU/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

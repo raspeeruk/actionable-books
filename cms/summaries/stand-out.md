@@ -127,7 +127,7 @@ f_quote-2: >-
   Developing a reputation as an expert in your field attracts people who want to
   hire you, do business with you and your company, and spread your ideas. It’s
   the ultimate form of career insurance."
-f_amazon-url: https://www.amazon.com/dp/1591847400/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591847400/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

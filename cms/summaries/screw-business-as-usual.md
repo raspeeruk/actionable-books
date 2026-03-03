@@ -142,7 +142,7 @@ f_quote-2: >-
   "Camila and I have both been shaped by dyslexia. I've never regarded it as a
   disability, but as something that has forced me to engage with the world in a
   special way."
-f_amazon-url: https://www.amazon.com/dp/1591844347/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591844347/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

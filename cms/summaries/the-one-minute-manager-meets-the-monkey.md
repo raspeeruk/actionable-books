@@ -137,7 +137,7 @@ f_conclusion: >-
   is to ensure that we are prioritising the important tasks and letting go of
   (or delegating) the unimportant ones.
 f_quote-2: '"Things not worth doing are not worth doing well."'
-f_amazon-url: https://www.amazon.com/dp/0688103804/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0688103804/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -110,7 +110,7 @@ f_conclusion: >-
   Yourself_, Steve Farber does a tremendous job of reminding us of that fact,
   and of teaching us how to tap into that desire in our day-to-day lives. I
   highly recommend this book.
-f_amazon-url: https://www.amazon.com/dp/0385522614/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0385522614/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

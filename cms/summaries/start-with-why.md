@@ -102,7 +102,7 @@ f_conclusion: >-
   bottom line numbers. In example after example, Simon Sinek (a new writer that
   I certainly hope to see more of) shows us the wild success that has come from
   applying the power of Why. It’s a lesson received loud and clear.
-f_amazon-url: https://www.amazon.com/dp/1591842808/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591842808/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

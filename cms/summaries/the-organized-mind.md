@@ -181,7 +181,7 @@ f_quote-2: >-
   "A funny thing happened on the way to the twenty-first century: The plethora
   of information and the technologies that serve it changed the way we use our
   brains."
-f_amazon-url: https://www.amazon.com/dp/0147516315/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0147516315/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

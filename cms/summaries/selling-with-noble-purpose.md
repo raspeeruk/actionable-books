@@ -154,7 +154,7 @@ f_conclusion: >-
 f_quote-2: >-
   "A noble sales purpose is the difference between a merely effective sales
   force and one that’s truly outstanding."
-f_amazon-url: https://www.amazon.com/dp/B008KPM424/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B008KPM424/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

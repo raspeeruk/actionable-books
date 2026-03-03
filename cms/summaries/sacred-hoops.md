@@ -136,7 +136,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Rookies are always ecstatic, seasoned players are quieter. Both on and off of
   the battlefield, winning is the only absolution."
-f_amazon-url: https://www.amazon.com/dp/1401308813/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1401308813/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

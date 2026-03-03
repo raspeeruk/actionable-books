@@ -130,7 +130,7 @@ f_conclusion: >-
   searching. A must-have for anyone in transition right now, _The Anti-Resume
   Revolution_ is also a great resource for HR professionals, small business
   owners, and anyone else who ever has a hand in the recruiting process.
-f_amazon-url: https://www.amazon.com/dp/0557139554/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0557139554/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -141,7 +141,7 @@ f_conclusion: >-
 f_quote-2: >-
   "It is not what you say that matters but the manner in which you say it; there
   lies the secret of the ages."
-f_amazon-url: https://www.amazon.com/dp/0071700579/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071700579/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

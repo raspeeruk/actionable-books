@@ -136,7 +136,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Regardless of the forthcoming storm, we have a choice as to how we tackle the
   climb ahead"
-f_amazon-url: https://www.amazon.com/dp/0730328279/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0730328279/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

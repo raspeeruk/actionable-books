@@ -114,7 +114,7 @@ f_quote-2: >-
   "Only once you give yourself permission to stop trying to do it all, to stop
   saying yes to everyone, can you make your highest contribution towards the
   things that really matter."
-f_amazon-url: https://www.amazon.com/dp/0804137382/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0804137382/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

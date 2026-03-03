@@ -90,7 +90,7 @@ f_conclusion: >-
 f_quote-2: >-
   "A connected company must be able to respond dynamically to change – to learn
   and adapt in an uncertain, ambiguous, and constantly evolving environment."
-f_amazon-url: https://www.amazon.com/dp/144931905X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/144931905X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

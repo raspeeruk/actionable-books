@@ -101,7 +101,7 @@ f_quote-2: >-
   footsteps of those before you. But there are boundless additional options to
   explore if you are willing to identify and challenge assumptions, and break
   free of the expectations that you and others project onto you."
-f_amazon-url: https://www.amazon.com/dp/0061735191/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0061735191/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

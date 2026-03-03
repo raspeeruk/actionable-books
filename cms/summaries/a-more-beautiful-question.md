@@ -136,7 +136,7 @@ f_conclusion: >-
 f_quote-2: >-
   "We're all hungry today for better answers. But first we must learn to ask the
   right questions."
-f_amazon-url: https://www.amazon.com/dp/1620401452/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1620401452/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -122,7 +122,7 @@ f_quote-2: >-
   the human brain is its ability to imagine objects and episodes that do not
   exist in the realm of the real, and it is this ability that allows us to think
   about the future."
-f_amazon-url: https://www.amazon.com/dp/B0031TZBMY/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B0031TZBMY/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

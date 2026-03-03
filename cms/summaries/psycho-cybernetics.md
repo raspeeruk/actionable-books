@@ -131,7 +131,7 @@ f_conclusion: >-
 f_quote-2: >-
   “You can be happy now as well as every single day you are working toward
   achieving your goals.”
-f_amazon-url: https://www.amazon.com/dp/0399176136/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0399176136/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

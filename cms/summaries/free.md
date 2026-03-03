@@ -118,7 +118,7 @@ f_conclusion: >-
   some new rules, to be sure, and some people/companies that have enjoyed
   success in the past model may not be able or willing to make the switch. But
   for those who do, the world is truly your playground. I encourage you to play.
-f_amazon-url: https://www.amazon.com/dp/B0043RT912/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B0043RT912/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

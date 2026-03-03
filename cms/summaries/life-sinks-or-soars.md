@@ -120,7 +120,7 @@ f_quote-2: >-
   always questioning why the whole world seemed to be conspiring against me, why
   the only luck I ever had was bad luck when, in fact, my whole life had been
   playing out like a symphony and, all along, I had been the conductor."
-f_amazon-url: https://www.amazon.com/dp/1452543755/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1452543755/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

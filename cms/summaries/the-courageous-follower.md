@@ -155,7 +155,7 @@ f_quote-2: >-
   will find the category ‘leadership’ and hundreds of books on the subject. You
   will not find a category 'followership,' and you will only find a handful of
   articles and books on the subject, tucked away under the leadership rubric."
-f_amazon-url: https://www.amazon.com/dp/1605092738/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1605092738/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

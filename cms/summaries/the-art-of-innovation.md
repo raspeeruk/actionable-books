@@ -179,7 +179,7 @@ f_conclusion: >-
   position, often the best way to get better at innovating (like many things in
   life) is to _practice, practice, practice!_
 f_quote-2: '"You’ve got to out-innovate the innovators."'
-f_amazon-url: https://www.amazon.com/dp/0385499841/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0385499841/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

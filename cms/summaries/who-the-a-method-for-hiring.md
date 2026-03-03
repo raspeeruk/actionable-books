@@ -142,7 +142,7 @@ f_conclusion: >-
 f_quote-2: >-
   "To improve your life and enable you to have greater career and financial
   success by helping you to make better hiring decisions!"
-f_amazon-url: https://www.amazon.com/dp/0345504194/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0345504194/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

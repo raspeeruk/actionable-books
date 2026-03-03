@@ -96,7 +96,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Wherever you are, whatever you’re doing, your worst enemy already lives
   inside you: your ego.”
-f_amazon-url: https://www.amazon.com/dp/1591847818/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591847818/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -118,7 +118,7 @@ f_quote-2: >-
   reinforce (or inhibit) innovation. By understanding the things that shape
   norms, values, and behavior, it becomes possible to influence them—and to
   create a culture of innovation."
-f_amazon-url: https://www.amazon.com/dp/1626343217/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1626343217/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -105,7 +105,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Story is the greatest weapon we have to combat noise, because it organizes
   information in such a way that people are compelled to listen.”
-f_amazon-url: https://www.amazon.com/dp/0718033329/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0718033329/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

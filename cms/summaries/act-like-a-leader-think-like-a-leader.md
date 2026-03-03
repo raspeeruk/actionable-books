@@ -103,7 +103,7 @@ f_conclusion: ''
 f_quote-2: >-
   "You can only learn what you need to know about your job and yourself by doing
   it – not just by thinking about it."
-f_amazon-url: https://www.amazon.com/dp/1422184129/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1422184129/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

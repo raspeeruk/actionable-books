@@ -86,7 +86,7 @@ f_quote-2: >-
   "We really thought we could have it all, and when reality proved otherwise we
   blamed – not the media, as it turned out, and not our mothers. We blamed
   ourselves."
-f_amazon-url: https://www.amazon.com/dp/0374298750/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0374298750/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

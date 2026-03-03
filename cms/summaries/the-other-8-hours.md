@@ -114,7 +114,7 @@ f_quote-2: >-
   highest returns—w whether the returns are financial, physical or spiritual.
   How you invest your other 8 hours determines your happiness and financial
   success."
-f_amazon-url: https://www.amazon.com/dp/B003H4I5Q2/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B003H4I5Q2/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

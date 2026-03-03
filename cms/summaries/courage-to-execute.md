@@ -118,7 +118,7 @@ f_quote-2: >-
   "General ideas lead to general execution, and that gets sloppy. We have to
   eliminate doubt, guesswork, and ambiguity. In the military, those things kill
   people."
-f_amazon-url: https://www.amazon.com/dp/111879009X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/111879009X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

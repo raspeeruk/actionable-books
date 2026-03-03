@@ -171,7 +171,7 @@ f_quote-2: >-
   "When we allow somebody to walk into our organisation we have an obligation as
   stewards of that life to continue to allow that life to be everything they
   were meant to be"
-f_amazon-url: https://www.amazon.com/dp/B01019D3SA/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B01019D3SA/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

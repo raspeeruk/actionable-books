@@ -189,7 +189,7 @@ f_quote-2: >-
   "Your ability to grow others, hold space, and truly optimize impact is highly
   dependent on your presence, your own growth, and your relationship with
   yourself. So, in order to lead others, you must lead yourself first."
-f_amazon-url: https://www.amazon.com/dp/B016DXQ2W/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B016DXQ2W/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

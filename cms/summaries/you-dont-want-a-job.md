@@ -129,7 +129,7 @@ f_conclusion: >-
 f_quote-2: >-
   "While we all hope to choose recreation we enjoy, most have forgotten that
   once upon a time, we made the same proactive choices about work."
-f_amazon-url: https://www.amazon.com/dp/0984094083/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0984094083/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

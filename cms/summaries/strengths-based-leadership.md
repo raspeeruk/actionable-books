@@ -152,7 +152,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Those who strive to be competent in all areas become the least effective
   leaders overall."
-f_amazon-url: https://www.amazon.com/dp/1595620257/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1595620257/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

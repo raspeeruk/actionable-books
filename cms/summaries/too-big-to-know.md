@@ -85,7 +85,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Digital media is transforming the evolution, form and the way we perceive
   knowledge."
-f_amazon-url: https://www.amazon.com/dp/0465021425/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0465021425/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

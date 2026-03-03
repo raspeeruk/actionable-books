@@ -22,13 +22,13 @@ tags: blog
 
 #1 STEVE JOBS by Walter Issacson
 
-1\. [STEVE JOBS (Kindle)](http://www.amazon.com/gp/product/B004W2UBYW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=gooseducmedi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B004W2UBYW) by Walter Issacson  
-2\. [THE POWER OF HABIT: WHY WE DO WHAT WE DO IN LIFE AND BUSINESS (Kindle)](http://www.amazon.com/gp/product/B0055PGUYU/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=gooseducmedi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B0055PGUYU) by Charles Duhigg  
-3\. [STRENTHSFINDER 2.0](http://www.amazon.com/gp/product/159562015X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=gooseducmedi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=159562015X) by Tom Rath  
-4\. [THE POWER OF HABIT: WHY WE DO WHAT WE DO IN LIFE AND BUSINESS](http://www.amazon.com/gp/product/1400069289/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=gooseducmedi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1400069289) by Charles Duhigg  
-5\. [THE POWER OF HABIT: WHY WE DO WHAT WE DO IN LIFE AND BUSINESS](http://www.amazon.com/gp/product/1400069289/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=gooseducmedi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1400069289) (Audible Audio) by Charles Duhigg  
-6\. [STEVE JOBS](http://www.amazon.com/gp/product/1451648537/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=gooseducmedi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1451648537) by Walter Issacson  
-7\. [OUTLIERS: THE STORY OF SUCCESS](http://www.amazon.com/gp/product/0316017930/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0316017930&linkCode=as2&tag=gooseducmedi-20) by Malcolm Gladwell  
-8\. [THINKING, FAST AND SLOW](http://www.amazon.com/gp/product/0374275637/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=gooseducmedi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0374275637) by Daniel Kahneman  
-9\. [THE TIPPING POINT: HOW LITTLE THINGS CAN MAKE A BIG DIFFERENCE](http://www.amazon.com/gp/product/B000OT8GD0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000OT8GD0&linkCode=as2&tag=gooseducmedi-20) (Kindle) by Malcolm Gladwell  
-10\. [THE OFFICIAL GUIDE FOR GMAT REVIEW](http://www.amazon.com/gp/product/1118109791/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118109791&linkCode=as2&tag=gooseducmedi-20) by GMAC
+1\. [STEVE JOBS (Kindle)](http://www.amazon.com/gp/product/B004W2UBYW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=actionableb08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B004W2UBYW) by Walter Issacson  
+2\. [THE POWER OF HABIT: WHY WE DO WHAT WE DO IN LIFE AND BUSINESS (Kindle)](http://www.amazon.com/gp/product/B0055PGUYU/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=actionableb08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B0055PGUYU) by Charles Duhigg  
+3\. [STRENTHSFINDER 2.0](http://www.amazon.com/gp/product/159562015X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=actionableb08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=159562015X) by Tom Rath  
+4\. [THE POWER OF HABIT: WHY WE DO WHAT WE DO IN LIFE AND BUSINESS](http://www.amazon.com/gp/product/1400069289/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=actionableb08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1400069289) by Charles Duhigg  
+5\. [THE POWER OF HABIT: WHY WE DO WHAT WE DO IN LIFE AND BUSINESS](http://www.amazon.com/gp/product/1400069289/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=actionableb08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1400069289) (Audible Audio) by Charles Duhigg  
+6\. [STEVE JOBS](http://www.amazon.com/gp/product/1451648537/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=actionableb08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1451648537) by Walter Issacson  
+7\. [OUTLIERS: THE STORY OF SUCCESS](http://www.amazon.com/gp/product/0316017930/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0316017930&linkCode=as2&tag=actionableb08-20) by Malcolm Gladwell  
+8\. [THINKING, FAST AND SLOW](http://www.amazon.com/gp/product/0374275637/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=actionableb08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0374275637) by Daniel Kahneman  
+9\. [THE TIPPING POINT: HOW LITTLE THINGS CAN MAKE A BIG DIFFERENCE](http://www.amazon.com/gp/product/B000OT8GD0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000OT8GD0&linkCode=as2&tag=actionableb08-20) (Kindle) by Malcolm Gladwell  
+10\. [THE OFFICIAL GUIDE FOR GMAT REVIEW](http://www.amazon.com/gp/product/1118109791/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118109791&linkCode=as2&tag=actionableb08-20) by GMAC

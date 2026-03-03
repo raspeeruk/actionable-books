@@ -109,7 +109,7 @@ f_quote-2: >-
   "The net result of reading this book is that you will instinctively know the
   best way to communicate your message to engage your audience so that they want
   to follow you."
-f_amazon-url: https://www.amazon.com/dp/0137158262/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0137158262/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

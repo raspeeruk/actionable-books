@@ -141,7 +141,7 @@ f_quote-2: >-
   "Effective personal branding isn’t about putting on a show or figuring out how
   to do as little work as possible while getting the most financial reward. Life
   is too short not to be the best possible version of yourself."
-f_amazon-url: https://www.amazon.com/dp/1632650479/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1632650479/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

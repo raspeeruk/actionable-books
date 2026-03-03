@@ -112,7 +112,7 @@ f_conclusion: >-
 f_quote-2: >-
   "…when it comes to our careers, learning to pivot is Plan A. Pivoting, within
   our roles and throughout our careers, is the new normal."
-f_amazon-url: https://www.amazon.com/dp/1591848202/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591848202/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

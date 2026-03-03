@@ -90,7 +90,7 @@ f_conclusion: >-
 f_quote-2: >-
   "What The School of Greatness is going to teach you is, first and foremost,
   what is great and special about you"
-f_amazon-url: https://www.amazon.com/dp/1623365961/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1623365961/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

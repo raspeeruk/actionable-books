@@ -134,7 +134,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Your story isn’t powerful enough if all it does is lead the horse to water;
   it has to inspire the horse to drink, too."
-f_amazon-url: https://www.amazon.com/dp/006227306X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/006227306X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -140,7 +140,7 @@ f_conclusion: ''
 f_quote-2: >-
   "This is a book for people who aren’t just interested in becoming more
   creative, but who want to create things that change our lives."
-f_amazon-url: https://www.amazon.com/dp/0062088424/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062088424/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

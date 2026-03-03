@@ -96,7 +96,7 @@ f_conclusion: ''
 f_quote-2: >-
   "The only person who cares about your personal fulfillment and financial
   independence is you."
-f_amazon-url: https://www.amazon.com/dp/B008066QW2/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B008066QW2/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

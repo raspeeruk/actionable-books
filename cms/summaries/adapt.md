@@ -132,7 +132,7 @@ f_quote-2: >-
   First, try new things, expecting that some will fail. Second, make failure
   survivable: create safe spaces for failure or move forward in small steps. ...
   And third, make sure you know when you have failed, or you will never learn."
-f_amazon-url: https://www.amazon.com/dp/1250007550/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1250007550/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

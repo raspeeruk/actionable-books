@@ -129,7 +129,7 @@ f_quote-2: >-
   "If someone were to ask me to make a list of the most valuable qualities a
   person should develop in order to thrive in the world of work—and for that
   matter, life—I would put being a team player at the top."
-f_amazon-url: https://www.amazon.com/dp/1119209595/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1119209595/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

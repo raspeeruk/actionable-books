@@ -119,7 +119,7 @@ f_quote-2: >-
   evolutionary past necessitated this confluence of communication, and we need
   to get in touch with it again in order to realize the full power of influence
   an individual can have over a group."
-f_amazon-url: https://www.amazon.com/dp/1422193500/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1422193500/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

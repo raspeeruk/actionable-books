@@ -169,7 +169,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Learning people skills will change your life…you will have more confidence,
   control, and charisma in all of your interactions."
-f_amazon-url: https://www.amazon.com/dp/0399564489/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0399564489/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

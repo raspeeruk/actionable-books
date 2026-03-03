@@ -105,7 +105,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The Achilles Heel of procrastination turns out to be impulsiveness; that is,
   living impatiently in the moment and wanting it all now."
-f_amazon-url: https://www.amazon.com/dp/B005CDTQ1O/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B005CDTQ1O/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

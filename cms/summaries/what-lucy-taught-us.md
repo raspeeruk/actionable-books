@@ -132,7 +132,7 @@ f_quote-2: >-
   "Business processes drive the creation and delivery of every organization’s
   products and services. More specifically, processes can be viewed as the way
   things get done."
-f_amazon-url: https://www.amazon.com/dp/1439243212/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1439243212/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

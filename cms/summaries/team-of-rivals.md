@@ -156,7 +156,7 @@ f_quote-2: >-
   has been fully occupied... The whole field of fact and fancy has been gleaned
   and garnered. Any man can say things that are true of Abraham Lincoln, but no
   man can say anything that is new of Abraham Lincoln."
-f_amazon-url: https://www.amazon.com/dp/0743270754/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0743270754/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -101,7 +101,7 @@ f_quote-2: >-
   focus first on being better. Focusing on being better is the first step in
   effective tangible positive change. And getting results is what ultimately
   gives a leader her power.”
-f_amazon-url: https://www.amazon.com/dp/144343759X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/144343759X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

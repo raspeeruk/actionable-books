@@ -150,7 +150,7 @@ f_conclusion: >-
   the interpersonal interactions that shape the culture. And guess what is the
   root of these? Good listening.
 f_quote-2: '"Listening is the front end of decision making."'
-f_amazon-url: https://www.amazon.com/dp/1591844622/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591844622/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

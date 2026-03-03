@@ -74,7 +74,7 @@ f_insight-1: >-
   the cause? People inherently want to be tied to something greater than
   themselves. Give them all three levels, or someone else will.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0787988618/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0787988618/?tag=actionableb08-20
 f_quote-reference: ''
 layout: '[summaries].html'
 tags: summaries

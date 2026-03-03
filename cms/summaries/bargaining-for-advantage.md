@@ -148,7 +148,7 @@ f_quote-2: >-
   solid planning and preparation before you start, careful listening so you can
   find out what the other side really wants, and attending to the ‘signals’ the
   other party sends through his or her conduct once bargaining gets under way. "
-f_amazon-url: https://www.amazon.com/dp/0143036971/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0143036971/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -138,7 +138,7 @@ f_quote-2: >-
   "The problem is: We routinely overestimate the importance of acquiring
   resources but even more significantly, underestimate our ability to make more
   out of those we have."
-f_amazon-url: https://www.amazon.com/dp/0062457225/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062457225/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

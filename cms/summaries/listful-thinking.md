@@ -104,7 +104,7 @@ f_quote-2: >-
   Johnny Cash have in common? Each is or was a list maker. These successful
   people, along with many CEOs and busy entrepreneurs, all use lists to keep
   track of their ideas, thoughts, and tasks."
-f_amazon-url: https://www.amazon.com/dp/1632280035/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1632280035/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -141,7 +141,7 @@ f_quote-2: >-
   relationship between the company and the customer has shifted from the company
   pushing ‘stuff’ at the customer to a conversation between the company and the
   customer."
-f_amazon-url: https://www.amazon.com/dp/0071590455/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071590455/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

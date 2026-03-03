@@ -98,7 +98,7 @@ f_conclusion: ''
 f_quote-2: >-
   "I knew with utter certainty that this was something I really had to do, and I
   would not budge."
-f_amazon-url: https://www.amazon.com/dp/0773722033/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0773722033/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

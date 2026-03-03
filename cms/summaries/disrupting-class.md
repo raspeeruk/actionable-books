@@ -102,7 +102,7 @@ f_quote-2: >-
   its public schools are sending the best potential technologists to U.S.
   colleges. The United States is clinging to its advantage because it has
   continued to be a magnet for the best talent in the world."
-f_amazon-url: https://www.amazon.com/dp/0071749101/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071749101/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

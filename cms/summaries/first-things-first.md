@@ -205,7 +205,7 @@ f_conclusion: >-
   give you the means of choosing the correct course to achieve a life of
   fulfillment.
 f_quote-2: “Wheres there no gardener, there’s no garden”
-f_amazon-url: https://www.amazon.com/dp/0684802031/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0684802031/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

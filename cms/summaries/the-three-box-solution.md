@@ -174,7 +174,7 @@ f_quote-2: >-
   "The real problem for leaders is simultaneously meeting the performance
   requirements of the current business – one that is still thriving – while
   dramatically reinventing it."
-f_amazon-url: https://www.amazon.com/dp/1633690148/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1633690148/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

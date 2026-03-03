@@ -117,7 +117,7 @@ f_quote-2: >-
   “In environments characterized by complexity, uncertainty, and dynamism, it’s
   impossible to have all the answers. If you want to succeed, you must be
   prepared to change your mind.”
-f_amazon-url: https://www.amazon.com/dp/0062333895/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062333895/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

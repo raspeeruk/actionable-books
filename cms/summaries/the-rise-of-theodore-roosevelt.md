@@ -128,7 +128,7 @@ f_quote-2: >-
   "This is the story of seven men – a naturalist, a writer, a lover, a hunter, a
   ranchman, a soldier, and a politician – who merged at age forty-two to become
   the youngest President in history."
-f_amazon-url: https://www.amazon.com/dp/1400069653/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1400069653/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

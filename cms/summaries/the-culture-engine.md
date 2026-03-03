@@ -114,7 +114,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Workplace inspiration does not happen naturally—it happens only by
   intention."
-f_amazon-url: https://www.amazon.com/dp/1118947320/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118947320/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -138,7 +138,7 @@ f_insight-1: >-
   I let myself feel it deeply for as long as I can (to increase tolerance for
   feeling good).
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0061735361/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0061735361/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -171,7 +171,7 @@ f_quote-2: >-
   "Our research has shown that strong relationships, careers, organizations, and
   communities all draw from the same source of power - the ability to talk
   openly about high-stakes, emotional, controversial topics."
-f_amazon-url: https://www.amazon.com/dp/0071401946/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071401946/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

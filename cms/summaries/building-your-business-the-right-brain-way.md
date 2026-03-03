@@ -129,7 +129,7 @@ f_quote-2: >-
   our business all the time. Yet somehow, when it comes to anything business
   related, we right-brainers presume we must follow an imposed left-brain,
   linear process."
-f_amazon-url: https://www.amazon.com/dp/B00J4XMEQM/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00J4XMEQM/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

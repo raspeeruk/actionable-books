@@ -119,7 +119,7 @@ f_quote-2: >-
   "Fostering a creative awareness or mindfulness, about where you are, what you
   are doing, and where you are going is an important step in getting clear and
   having an organized and productive life."
-f_amazon-url: https://www.amazon.com/dp/B00P0YKQ7I/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00P0YKQ7I/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -148,7 +148,7 @@ f_quote-2: >-
   "Do you seriously want to spend the rest of your life coming home from a job
   you hate? Do you want to put off your hopes and dreams and passions to pursue
   a ‘normal life’?"
-f_amazon-url: https://www.amazon.com/dp/B0164O2QRK/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B0164O2QRK/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

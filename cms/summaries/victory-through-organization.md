@@ -171,7 +171,7 @@ f_conclusion: >-
   in a way that maximizes people’s skills and strengths, companies are missing
   out on one of their best opportunities.
 f_quote-2: '"The competitive advantage is what you do with the talent once you have it."'
-f_amazon-url: https://www.amazon.com/dp/B01N4FQ81G/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B01N4FQ81G/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -22,13 +22,13 @@ tags: blog
 
 #1 MONEYBALL by Michael Lewis
 
-**1.** [MONEYBALL (Kindle)](http://www.amazon.com/gp/product/B005G5PPGS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=gooseducmedi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B005G5PPGS) by Michael Lewis  
-**2.** [STEVE JOBS (Kindle)](http://www.amazon.com/gp/product/B004W2UBYW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=gooseducmedi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B004W2UBYW) by Walter Issacson  
-**3.** [THE POWER OF HABIT: WHY WE DO WHAT WE DO IN LIFE AND BUSINESS (Kindle)](http://www.amazon.com/gp/product/B0055PGUYU/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=gooseducmedi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B0055PGUYU) by Charles Duhigg  
-**4.** [THE POWER OF HABIT: WHY WE DO WHAT WE DO IN LIFE AND BUSINESS](http://www.amazon.com/gp/product/1400069289/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=gooseducmedi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1400069289) by Charles Duhigg  
-**5.** [I WILL TEACH YOU TO BE RICH](http://www.amazon.com/gp/product/B004WL4BW6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=gooseducmedi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B004WL4BW6) (Kindle) by Ramit Sethi  
-**6.** [THINKING FAST AND SLOW](http://www.amazon.com/gp/product/0374275637/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=gooseducmedi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0374275637) by Daniel Kahneman  
-**7.** [STEVE JOBS](http://www.amazon.com/gp/product/1451648537/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=gooseducmedi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1451648537) by Walter Issacson  
-**8.** [STRENGTHSFINDER 2.0](http://www.amazon.com/gp/product/159562015X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=gooseducmedi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=159562015X) by Tom Rath  
+**1.** [MONEYBALL (Kindle)](http://www.amazon.com/gp/product/B005G5PPGS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=actionableb08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B005G5PPGS) by Michael Lewis  
+**2.** [STEVE JOBS (Kindle)](http://www.amazon.com/gp/product/B004W2UBYW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=actionableb08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B004W2UBYW) by Walter Issacson  
+**3.** [THE POWER OF HABIT: WHY WE DO WHAT WE DO IN LIFE AND BUSINESS (Kindle)](http://www.amazon.com/gp/product/B0055PGUYU/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=actionableb08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B0055PGUYU) by Charles Duhigg  
+**4.** [THE POWER OF HABIT: WHY WE DO WHAT WE DO IN LIFE AND BUSINESS](http://www.amazon.com/gp/product/1400069289/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=actionableb08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1400069289) by Charles Duhigg  
+**5.** [I WILL TEACH YOU TO BE RICH](http://www.amazon.com/gp/product/B004WL4BW6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=actionableb08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B004WL4BW6) (Kindle) by Ramit Sethi  
+**6.** [THINKING FAST AND SLOW](http://www.amazon.com/gp/product/0374275637/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=actionableb08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0374275637) by Daniel Kahneman  
+**7.** [STEVE JOBS](http://www.amazon.com/gp/product/1451648537/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=actionableb08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1451648537) by Walter Issacson  
+**8.** [STRENGTHSFINDER 2.0](http://www.amazon.com/gp/product/159562015X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=actionableb08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=159562015X) by Tom Rath  
 **9.** [THE POWER OF HABIT: WHY WE DO WHAT WE DO IN LIFE AND BUSINESS](http://www.amazon.com/gp/product/B007EJSMC8) (Audible Audio) by Charles Duhigg  
-**10.** [THE REAL CRASH: AMERICA’S COMING BANKRUPTY–HOW TO SAVE YOURSELF AND YOUR COUNTRY](http://www.amazon.com/gp/product/1250004470/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=gooseducmedi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1250004470) by Peter Schiff
+**10.** [THE REAL CRASH: AMERICA’S COMING BANKRUPTY–HOW TO SAVE YOURSELF AND YOUR COUNTRY](http://www.amazon.com/gp/product/1250004470/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=actionableb08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1250004470) by Peter Schiff

@@ -169,7 +169,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Content Inc. is an amazing opportunity for any entrepreneur striving to make
   a difference to the world."
-f_amazon-url: https://www.amazon.com/dp/125958965X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/125958965X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

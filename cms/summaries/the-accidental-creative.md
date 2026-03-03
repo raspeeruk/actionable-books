@@ -138,7 +138,7 @@ f_quote-2: >-
   ideas is like trying to control the weather by staring at the clouds. Rather,
   you need to incorporate practices that instill a sense of structure, rhythm,
   and purpose into your life."
-f_amazon-url: https://www.amazon.com/dp/1591844010/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591844010/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

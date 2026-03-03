@@ -98,7 +98,7 @@ f_conclusion: >-
   to discover an improved therapy for wounded soldiers, maybe you’ll be the one
   to save your organization hundreds of dollars in colour ink cartridges.
   Everyone can be a hero in their own world.
-f_amazon-url: https://www.amazon.com/dp/0312427654/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0312427654/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

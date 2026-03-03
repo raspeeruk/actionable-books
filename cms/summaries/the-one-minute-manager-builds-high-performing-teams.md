@@ -187,7 +187,7 @@ f_insight-1: >-
   the authors. ‘A high performing team is more creative and better at problem
   solving than any individual functioning alone.’
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0061741205/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0061741205/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

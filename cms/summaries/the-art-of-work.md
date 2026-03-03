@@ -93,7 +93,7 @@ f_conclusion: >-
   is not so much about what we do or accomplish during our life as much as it is
   about the legacy we leave behind. What is your legacy?
 f_quote-2: '"Don''t settle for the status quo. Live a life that matters."'
-f_amazon-url: https://www.amazon.com/dp/0718022076/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0718022076/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

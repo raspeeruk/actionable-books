@@ -122,7 +122,7 @@ f_quote-2: >-
   search for brilliance as their calling. They see themselves as discoverers,
   protectors, and builders of an entire discipline… They are cultivating a
   garden, not running a toll booth."
-f_amazon-url: https://www.amazon.com/dp/1591844258/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591844258/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

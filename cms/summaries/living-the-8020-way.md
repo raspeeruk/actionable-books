@@ -117,7 +117,7 @@ f_quote-2: >-
   things that we care about, the things we want to love and devote ourselves to,
   the things we are good at and enjoy. Having found these things, everything
   else is trivial."
-f_amazon-url: https://www.amazon.com/dp/1857886186/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1857886186/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

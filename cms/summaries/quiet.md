@@ -107,7 +107,7 @@ f_quote-2: >-
   type is that introverts are antisocial and that extroverts are pro-social. ...
   neither formulation is correct; introverts and extroverts are differently
   social."
-f_amazon-url: https://www.amazon.com/dp/0307352145/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0307352145/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

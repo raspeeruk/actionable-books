@@ -157,7 +157,7 @@ f_conclusion: >-
   And what do you fill the blank with? Well, that’s entirely up to you. Just
   make it about the client, make it relevant and remember your intention – To
   help the customer find the right solution to their problem.
-f_amazon-url: https://www.amazon.com/dp/1591842263/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591842263/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

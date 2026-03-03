@@ -116,7 +116,7 @@ f_insight-1: >-
   you empower your people to make a difference for themselves and for others
   through their work?
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0062108077/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062108077/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -169,7 +169,7 @@ f_conclusion: >-
   The central question that propels this book is “Why do leaders choose the role
   of leadership?” Why do people choose this life? It is not because of money or
   position. Or, not these things alone.
-f_amazon-url: https://www.amazon.com/dp/1422191648/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1422191648/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

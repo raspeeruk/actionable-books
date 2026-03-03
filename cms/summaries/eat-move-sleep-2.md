@@ -172,7 +172,7 @@ f_quote-2: >-
   "Researchers have estimated that 90 percent of us could live to age 90 with
   some simple lifestyle choices…. The sum of your habits determine your
   lifespan."
-f_amazon-url: https://www.amazon.com/dp/1939714001/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1939714001/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

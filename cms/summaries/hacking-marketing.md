@@ -119,7 +119,7 @@ f_quote-2: >-
   It imagines what's possible, figures out clever ways to realize those ideas
   within the tangle of real-world constraints, and above all, celebrates the
   courage to try, tinker, and learn.
-f_amazon-url: https://www.amazon.com/dp/1119183170/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1119183170/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

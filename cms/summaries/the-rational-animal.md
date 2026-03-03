@@ -144,7 +144,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Our choices today reflect a deep seated evolutionary wisdom, honed by our
   ancestors’ past successes and failures."
-f_amazon-url: https://www.amazon.com/dp/0465032427/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0465032427/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

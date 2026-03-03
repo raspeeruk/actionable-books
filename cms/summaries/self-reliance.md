@@ -146,7 +146,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Nothing can bring you peace but yourself. Nothing can bring you peace but the
   triumph of principles."
-f_amazon-url: https://www.amazon.com/dp/B004X80U1E/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B004X80U1E/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

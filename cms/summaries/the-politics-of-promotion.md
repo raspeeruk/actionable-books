@@ -116,7 +116,7 @@ f_quote-2: >-
   not based on performance alone. Our naïve assumption that our performance will
   guarantee a successful career is a dangerous one. This assumption results in
   thousands of women being blindsided. And it happens every day."
-f_amazon-url: https://www.amazon.com/dp/1118997425/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118997425/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

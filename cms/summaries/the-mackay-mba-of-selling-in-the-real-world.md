@@ -119,7 +119,7 @@ f_insight-1: >-
   the rest of the day fighting the self-doubt and worries that might paralyze
   action. How are you developing and maintaining a positive attitude each day?
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/B005GSYYWQ/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B005GSYYWQ/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

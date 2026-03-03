@@ -149,7 +149,7 @@ f_quote-2: >-
   They obviously like what you’re selling, but they shift, fidget, and
   inexplicably walk away. And your sure sale slips through your fingers
   forever."
-f_amazon-url: https://www.amazon.com/dp/0473175045/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0473175045/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

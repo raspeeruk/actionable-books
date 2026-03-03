@@ -157,7 +157,7 @@ f_quote-2: >-
   "Like it or not, from the moment you wake up until you shut out the lights at
   night, your work, time, and life are about facilitating yourself and others to
   get to the next right step in the best way."
-f_amazon-url: https://www.amazon.com/dp/1118375815/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118375815/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

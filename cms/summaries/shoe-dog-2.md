@@ -97,7 +97,7 @@ f_conclusion: >-
 f_quote-2: >-
   "For that matter, few ideas are as crazy as my favourite thing, running. It’s
   hard. It’s painful. It’s risky. The rewards are few and far from guaranteed."
-f_amazon-url: https://www.amazon.com/dp/1501135910/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1501135910/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

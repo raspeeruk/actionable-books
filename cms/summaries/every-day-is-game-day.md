@@ -124,7 +124,7 @@ f_quote-2: >-
   "Anyone can hit excellence for a day, even a week or a month. That’s easy. But
   a high performer is one who does it consistently for years over the course of
   a career."
-f_amazon-url: https://www.amazon.com/dp/B00DMCPI1Y/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00DMCPI1Y/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

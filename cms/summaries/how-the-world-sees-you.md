@@ -143,7 +143,7 @@ f_insight-1: >-
   help or assistance in the areas that aren’t my strongest.
 f_conclusion: ''
 f_quote-2: '"The greatest value you can add is to become more of yourself."'
-f_amazon-url: https://www.amazon.com/dp/B00FJ34XWY/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00FJ34XWY/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

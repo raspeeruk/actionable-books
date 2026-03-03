@@ -144,7 +144,7 @@ f_conclusion: >-
   evident as I go about my business. Its straight-talk lesson is a cornerstone
   of my business writing and coaching.
 f_quote-2: '"Bull has become the language of business."'
-f_amazon-url: https://www.amazon.com/dp/0743269098/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0743269098/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

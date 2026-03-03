@@ -134,7 +134,7 @@ f_quote-2: >-
   makes up two-thirds of the likely success of business executives, compared
   with intellectual capacity (IQ), which, along with the amount of working
   experience, makes up only one-third."
-f_amazon-url: https://www.amazon.com/dp/1451607253/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1451607253/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

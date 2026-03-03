@@ -108,7 +108,7 @@ f_quote-2: >-
   "Once you admit to yourself that you can’t manage time and that you can only
   manage yourself, and you accept that there is more to do than you can ever
   possibly do, a new strategy emerges: prioritizing."
-f_amazon-url: https://www.amazon.com/dp/0399170626/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0399170626/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

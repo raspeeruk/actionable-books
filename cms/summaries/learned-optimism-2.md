@@ -145,7 +145,7 @@ f_conclusion: >-
   explanatory style and committing to awareness and self-improvement, Seligman
   has given us the tools to live a happier, more productive life.
 f_quote-2: '"Our thoughts are not merely reactions to events; they change what ensues."'
-f_amazon-url: https://www.amazon.com/dp/1400078393/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1400078393/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

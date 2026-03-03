@@ -155,7 +155,7 @@ f_quote-2: >-
   about one thing: people reaching for their highest potential and struggling to
   create a better world. If the test of time is our judge, stories with this
   formula have a near-monopoly on greatness."
-f_amazon-url: https://www.amazon.com/dp/1422143562/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1422143562/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

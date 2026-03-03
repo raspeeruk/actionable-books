@@ -136,7 +136,7 @@ f_quote-2: >-
   "The future of affiliate marketing requires people to work together in a more
   transparent and partnership-oriented fashion, not opaquely and against one
   another’s interests."
-f_amazon-url: https://www.amazon.com/dp/1619615819/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1619615819/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

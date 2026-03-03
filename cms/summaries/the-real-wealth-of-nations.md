@@ -164,7 +164,7 @@ f_quote-2: >-
   "Why when we humans have such a great capacity for caring, consciousness and
   creativity, has our world seen so much cruelty, insensitivity and
   destructiveness?"
-f_amazon-url: https://www.amazon.com/dp/1576756297/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1576756297/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

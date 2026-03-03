@@ -119,7 +119,7 @@ f_quote-2: >-
   same time it is becoming increasingly valuable in our economy. As a
   consequence, the few who cultivate this skill, and then make it the core of
   their working life, will thrive.”
-f_amazon-url: https://www.amazon.com/dp/1455586692/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1455586692/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

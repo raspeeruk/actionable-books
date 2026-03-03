@@ -140,7 +140,7 @@ f_quote-2: >-
   "Innovation is a natural and desirable outcome of human interaction, yet it is
   systematically stopped in organizations, often by the very people who say they
   want it and who stand to benefit from it."
-f_amazon-url: https://www.amazon.com/dp/1118002903/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118002903/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

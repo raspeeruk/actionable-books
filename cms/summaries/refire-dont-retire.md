@@ -108,7 +108,7 @@ f_quote-2: >-
   "We’ve found conclusive evidence that achievements and accumulation of wealth
   do not make people happy…there’s plenty of emphasis on success in our culture.
   I’m finding we have to help people focus on significance as well."
-f_amazon-url: https://www.amazon.com/dp/1626563330/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1626563330/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

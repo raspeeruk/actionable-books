@@ -146,7 +146,7 @@ f_quote-2: >-
   "Our general definition of ‘good people’ is this: those committed to
   continuously cultivating the values that help them and others become the
   fullest versions of who they are."
-f_amazon-url: https://www.amazon.com/dp/039956215X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/039956215X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

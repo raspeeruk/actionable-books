@@ -143,7 +143,7 @@ f_quote-2: >-
   control of the direction of your life over the next 12 months. If you really
   go for it, what happens may completely change your experience of yourself,
   your life, and the world around you."
-f_amazon-url: https://www.amazon.com/dp/0730308669/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0730308669/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

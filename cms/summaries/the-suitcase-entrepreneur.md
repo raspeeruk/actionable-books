@@ -111,7 +111,7 @@ f_quote-2: >-
   endless meetings, getting stuck in long commutes and having to be in one
   location in order to run a successful business and ultimately enjoy your
   life."
-f_amazon-url: https://www.amazon.com/dp/0473251248/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0473251248/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

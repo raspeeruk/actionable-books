@@ -94,7 +94,7 @@ f_conclusion: >-
 f_quote-2: >-
   “The greatest enemy of business progress is not ignorance, it is the illusion
   of knowledge.”
-f_amazon-url: https://www.amazon.com/dp/1119257239/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1119257239/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

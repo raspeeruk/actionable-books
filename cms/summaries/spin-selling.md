@@ -122,7 +122,7 @@ f_quote-2: >-
   or services. The building up of perceived value is probably the single most
   important selling skill in larger sales… The reason why the customer wouldn’t
   buy was that she didn’t see enough value to justify so large a decision."
-f_amazon-url: https://www.amazon.com/dp/0070511136/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0070511136/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -140,7 +140,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Understand that building a better relationship with any authority figure is a
   process"
-f_amazon-url: https://www.amazon.com/dp/1591842751/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591842751/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

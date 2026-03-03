@@ -106,7 +106,7 @@ f_conclusion: >-
 f_quote-2: >-
   "…though my life has been transformed by deceleration, the virus of hurry
   still clearly lurks in my bloodstream."
-f_amazon-url: https://www.amazon.com/dp/0061128821/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0061128821/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

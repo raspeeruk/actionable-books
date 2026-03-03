@@ -137,7 +137,7 @@ f_conclusion: >-
   a required strategy, to ignore some of the rules that were written for the
   workplace but not necessarily for women in the workplace. Just as the
   strikethrough the title implies, it isn’t true that you can’t have it all.
-f_amazon-url: https://www.amazon.com/dp/B00G98R09Q/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00G98R09Q/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

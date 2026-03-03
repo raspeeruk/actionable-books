@@ -102,7 +102,7 @@ f_conclusion: >-
   covers topics that are vital to winning in business, becoming a more effective
   leader and finding out what your true purpose and passions are in your career.
 f_quote-2: '"In sports and business alike, the players are in it to win"'
-f_amazon-url: https://www.amazon.com/dp/B00OP1FIU2/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00OP1FIU2/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

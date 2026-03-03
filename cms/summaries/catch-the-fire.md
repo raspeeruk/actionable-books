@@ -96,7 +96,7 @@ f_quote-2: >-
   "Creativity is one of our greatest sources of energy, and creative expression
   is what makes it operational in our lives. Unfortunately, too many people are
   cut off from this powerful force"
-f_amazon-url: https://www.amazon.com/dp/0865717575/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0865717575/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

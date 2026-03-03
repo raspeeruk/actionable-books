@@ -117,7 +117,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Popular is what we're leaving behind because, to be quite honest, it's not a
   tool you even need in your toolbox."
-f_amazon-url: https://www.amazon.com/dp/1118134664/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118134664/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

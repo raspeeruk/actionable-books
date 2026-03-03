@@ -171,7 +171,7 @@ f_quote-2: >-
   in fact. And if you go around giving a f*ck about everything and everyone
   without a conscious thought or choice - well, then you’re going to get
   f*cked.”
-f_amazon-url: https://www.amazon.com/dp/0062457713/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062457713/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

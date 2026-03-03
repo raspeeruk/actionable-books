@@ -107,7 +107,7 @@ f_quote-2: >-
   the Hairball of the corporate mindset, beyond ‘accepted models, patterns, or
   standards,’ – all the while remaining connected to the spirit of the corporate
   mission."
-f_amazon-url: https://www.amazon.com/dp/0670879835/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0670879835/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

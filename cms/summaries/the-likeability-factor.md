@@ -20,7 +20,7 @@ f_quote-reference: ''
 f_insight-2: ''
 f_insight-1: ''
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1400080509/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1400080509/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

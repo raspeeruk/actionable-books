@@ -105,7 +105,7 @@ f_conclusion: >-
 f_quote-2: >-
   “My secret is that I live by three pretty simple rules: Love your family. Work
   super hard. Live your passion.”
-f_amazon-url: https://www.amazon.com/dp/0061914177/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0061914177/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

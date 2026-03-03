@@ -111,7 +111,7 @@ f_quote-2: >-
   "There’s nothing wrong with cashing out and making a lot of money – unless
   those ‘other things’ you intend to get to are what you’d rather be doing all
   along."
-f_amazon-url: https://www.amazon.com/dp/1578516447/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1578516447/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

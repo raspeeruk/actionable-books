@@ -177,7 +177,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Ideas are the currency of the twenty-first century. In the information age,
   the knowledge economy, you are only as valuable as your ideas."
-f_amazon-url: https://www.amazon.com/dp/1250071550/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1250071550/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -135,7 +135,7 @@ f_quote-2: >-
   "Leadership is a team sport. That is to say, your success is inextricably
   linked to the activities and contributions of others. You are highly unlikely
   to become a leader or develop your leadership capabilities all by yourself."
-f_amazon-url: https://www.amazon.com/dp/1633690555/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1633690555/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

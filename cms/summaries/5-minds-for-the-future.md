@@ -151,7 +151,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Innovation has arrived, and it has made a huge splash in the world of
   business. Except that it hasn’t."
-f_amazon-url: https://www.amazon.com/dp/1422145352/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1422145352/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

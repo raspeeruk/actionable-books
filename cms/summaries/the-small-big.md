@@ -190,7 +190,7 @@ f_quote-2: >-
   "The purpose of this book is to demonstrate, with scientific evidence, how
   making small changes in your approach can lead to big differences in how
   successful an influencer and persuader you are."
-f_amazon-url: https://www.amazon.com/dp/1455584258/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1455584258/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

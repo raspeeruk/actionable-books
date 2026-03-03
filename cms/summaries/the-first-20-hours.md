@@ -127,7 +127,7 @@ f_quote-2: >-
   "By knowing what you're getting into, learning the fundamentals, practicing
   intelligently, and developing a practice routine, you'll make progress more
   quickly and consistently, and you'll achieve expert status in record time."
-f_amazon-url: https://www.amazon.com/dp/1591845556/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591845556/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

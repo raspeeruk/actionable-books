@@ -114,7 +114,7 @@ f_conclusion: >-
   Fortune 500 company; to be a leader, you need to be moving in a direction
   people want to go, and be doing it in such a way that’s deliberate, thought
   out and with enthusiasm.
-f_amazon-url: https://www.amazon.com/dp/0785281126/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0785281126/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -22,13 +22,13 @@ tags: blog
 
 **#1 21 DAYS TO A MORE DISCIPLINED LIFE by Crystal Paine**
 
-1\. [21 DAYS TO A MORE DISCIPLINED LIFE](http://www.amazon.com/gp/product/B009UGKEC4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009UGKEC4&linkCode=as2&tag=gooseducmedi-20) by Crystal Paine  
-2\. [THE GREAT CRASH 1929](http://www.amazon.com/gp/product/0547248164/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0547248164&linkCode=as2&tag=gooseducmedi-20) by John Glabraith, John Kenneth Galbraith  
-3\. [STRENTHSFINDER 2.0](http://www.amazon.com/gp/product/159562015X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=gooseducmedi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=159562015X) by Tom Rath  
-4\. [HOW CHILDREN SUCCEED: GRIT, CURIOSITY, AND THE HIDDEN POWER OF CHARACTER](http://www.amazon.com/gp/product/0547564651/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0547564651&linkCode=as2&tag=gooseducmedi-20) by Paul Tough  
-5\. [THE SIGNAL AND THE NOISE: WHY SO MANY PREDICTIONS FAIL-BUT SOME DON’T](http://www.amazon.com/gp/product/159420411X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=159420411X&linkCode=as2&tag=gooseducmedi-20) by Nate Silver  
-6\. [PLUTOCRATS: THE RISE OF THE NEW SUPER-RICH AND THE FALL OF EVERYONE ELSE](http://www.amazon.com/gp/product/1846142520/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1846142520&linkCode=as2&tag=gooseducmedi-20) by Chrystia Freeland  
-7\. [EXTREME PRODUCTIVITY: BOOST YOUR RESULTS, REDUCE YOUR HOURS](http://www.amazon.com/gp/product/0062188534/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062188534&linkCode=as2&tag=gooseducmedi-20) by Robert C. Pozen  
-8\. [THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE](http://www.amazon.com/gp/product/0743269519/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0743269519&linkCode=as2&tag=gooseducmedi-20) by Stephen R. Covey  
-9\. [STEVE JOBS](http://www.amazon.com/gp/product/1451648537/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=gooseducmedi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1451648537) by Walter Issacson  
-10\. [THE PRICE OF POLITICS](http://www.amazon.com/gp/product/1451651104/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451651104&linkCode=as2&tag=gooseducmedi-20) by Bob Woodward
+1\. [21 DAYS TO A MORE DISCIPLINED LIFE](http://www.amazon.com/gp/product/B009UGKEC4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009UGKEC4&linkCode=as2&tag=actionableb08-20) by Crystal Paine  
+2\. [THE GREAT CRASH 1929](http://www.amazon.com/gp/product/0547248164/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0547248164&linkCode=as2&tag=actionableb08-20) by John Glabraith, John Kenneth Galbraith  
+3\. [STRENTHSFINDER 2.0](http://www.amazon.com/gp/product/159562015X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=actionableb08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=159562015X) by Tom Rath  
+4\. [HOW CHILDREN SUCCEED: GRIT, CURIOSITY, AND THE HIDDEN POWER OF CHARACTER](http://www.amazon.com/gp/product/0547564651/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0547564651&linkCode=as2&tag=actionableb08-20) by Paul Tough  
+5\. [THE SIGNAL AND THE NOISE: WHY SO MANY PREDICTIONS FAIL-BUT SOME DON’T](http://www.amazon.com/gp/product/159420411X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=159420411X&linkCode=as2&tag=actionableb08-20) by Nate Silver  
+6\. [PLUTOCRATS: THE RISE OF THE NEW SUPER-RICH AND THE FALL OF EVERYONE ELSE](http://www.amazon.com/gp/product/1846142520/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1846142520&linkCode=as2&tag=actionableb08-20) by Chrystia Freeland  
+7\. [EXTREME PRODUCTIVITY: BOOST YOUR RESULTS, REDUCE YOUR HOURS](http://www.amazon.com/gp/product/0062188534/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062188534&linkCode=as2&tag=actionableb08-20) by Robert C. Pozen  
+8\. [THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE](http://www.amazon.com/gp/product/0743269519/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0743269519&linkCode=as2&tag=actionableb08-20) by Stephen R. Covey  
+9\. [STEVE JOBS](http://www.amazon.com/gp/product/1451648537/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=actionableb08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1451648537) by Walter Issacson  
+10\. [THE PRICE OF POLITICS](http://www.amazon.com/gp/product/1451651104/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451651104&linkCode=as2&tag=actionableb08-20) by Bob Woodward

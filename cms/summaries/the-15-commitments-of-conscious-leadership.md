@@ -102,7 +102,7 @@ f_quote-2: >-
   powerless, and powerlessness will make you miserable. Instead of struggling
   against the inevitable, instead of arguing and whining and feeling guilty, it
   is far better to excel at power.”
-f_amazon-url: https://www.amazon.com/dp/0990976904/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0990976904/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -121,7 +121,7 @@ f_quote-2: >-
   "The quest for certainty is the biggest obstacle to becoming risk savvy. While
   there are things we can know, we must also be able to recognize when we cannot
   know something."
-f_amazon-url: https://www.amazon.com/dp/0670025658/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0670025658/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

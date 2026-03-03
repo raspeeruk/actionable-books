@@ -125,7 +125,7 @@ f_quote-2: >-
   "Business communication sucks, but there is hope. It doesn’t have to be this
   way. And it can’t. Circumstances and our audience demand that it change. The
   need for great communication has never been more urgent."
-f_amazon-url: https://www.amazon.com/dp/0071839836/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071839836/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

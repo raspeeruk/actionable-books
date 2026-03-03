@@ -88,7 +88,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Brainstorming is like a food fight; problem solving is like a master cooking
   class."
-f_amazon-url: https://www.amazon.com/dp/1118857925/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118857925/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

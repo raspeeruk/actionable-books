@@ -126,7 +126,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Whatever you think is going on, I want you to remember that it’s just a map.
   And it doesn’t necessarily match the map of the people around you."
-f_amazon-url: https://www.amazon.com/dp/0007497415/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0007497415/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

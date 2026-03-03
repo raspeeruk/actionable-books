@@ -125,7 +125,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Just as wood is the medium of the carpenter and bronze is the medium of the
   sculptor, your life is the medium on which you practice the art of living."
-f_amazon-url: https://www.amazon.com/dp/0195374614/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0195374614/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

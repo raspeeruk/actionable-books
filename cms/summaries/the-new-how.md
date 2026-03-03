@@ -112,7 +112,7 @@ f_conclusion: >-
   of personal examples from Merchant’s employee and consulting experience with
   firms like Adobe, Apple Nokia and HP, _The New How_ is a book I believe will
   continue to build credibility and support in the decades to come.
-f_amazon-url: https://www.amazon.com/dp/0596156251/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0596156251/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

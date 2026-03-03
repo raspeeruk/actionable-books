@@ -189,7 +189,7 @@ f_quote-2: >-
   "Being too busy, which can seem necessary and unavoidable, can become a habit
   so entrenched that it leads you to postpone or cut short what really matters
   to you, making you a slave to a lifestyle you don’t like but can’t escape."
-f_amazon-url: https://www.amazon.com/dp/0345482441/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0345482441/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

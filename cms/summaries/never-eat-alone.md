@@ -112,7 +112,7 @@ f_conclusion: >-
   as a successful connector of people. I love this book. It is truly a timeless
   classic, destined to be remembered alongside Carnegie’s _How to Win Friends
   and Influence People_, as one of the greats.
-f_amazon-url: https://www.amazon.com/dp/0385512058/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0385512058/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

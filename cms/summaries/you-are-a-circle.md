@@ -111,7 +111,7 @@ f_quote-2: >-
   "This is not really a book. This is an experience, a visual meditation on
   creativity and life – just for you, my creative friend. This is a moment of
   peace, inspiration and introspection."
-f_amazon-url: https://www.amazon.com/dp/1480287725/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1480287725/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

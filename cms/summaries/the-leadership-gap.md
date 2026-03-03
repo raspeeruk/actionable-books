@@ -192,7 +192,7 @@ f_quote-2: >-
   there comes a time when they must rethink everything and ask themselves: What
   is the gap between who I am and who I want to be, and do I know what it is I
   still need to learn?"
-f_amazon-url: https://www.amazon.com/dp/1101981350/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1101981350/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

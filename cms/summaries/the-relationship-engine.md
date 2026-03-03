@@ -186,7 +186,7 @@ f_conclusion: >-
   do to move your business relationships forward? Just being conscious of it is
   the first step. So good for you! What will you do next?
 f_quote-2: '"Success comes from the experience we create for others."'
-f_amazon-url: https://www.amazon.com/dp/0814437133/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0814437133/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

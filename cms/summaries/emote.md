@@ -125,7 +125,7 @@ f_conclusion: >-
 f_quote-2: >-
   "You have the power to motivate, encourage and inspire with the words you
   say."
-f_amazon-url: https://www.amazon.com/dp/1601633041/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1601633041/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

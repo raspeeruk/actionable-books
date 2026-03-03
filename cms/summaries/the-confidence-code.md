@@ -91,7 +91,7 @@ f_conclusion: >-
 f_quote-2: >-
   "It is confidence that sways people. We may not realize it but we all give
   confidence inordinate weight and we respect people who project it"
-f_amazon-url: https://www.amazon.com/dp/006223062X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/006223062X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

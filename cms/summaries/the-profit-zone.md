@@ -112,7 +112,7 @@ f_conclusion: >-
   out, and take notes within the book. The notes I made in my copy completely
   changed our business design a few years ago – and happily, we just changed it
   again a few months ago.
-f_amazon-url: https://www.amazon.com/dp/0812933044/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0812933044/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

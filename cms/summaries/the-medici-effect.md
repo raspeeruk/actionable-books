@@ -128,7 +128,7 @@ f_conclusion: >-
 f_quote-2: >-
   "How do we create an explosion of extraordinary ideas, and how do we make
   those ideas happen? The answers may surprise you."
-f_amazon-url: https://www.amazon.com/dp/B0064CKKAS/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B0064CKKAS/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -153,7 +153,7 @@ f_quote-2: >-
   conversation is like a puzzle with all the pieces in place. Improving your
   meetings by improving your conversations is not mysterious, but the impact can
   be dramatic."
-f_amazon-url: https://www.amazon.com/dp/0943097142/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0943097142/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -136,7 +136,7 @@ f_quote-2: >-
   Dealing with people is probably the biggest problem you face.' This is the
   foundation of How to Win Friends & Influence People and it is still true
   today.
-f_amazon-url: https://www.amazon.com/dp/1451612575/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1451612575/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

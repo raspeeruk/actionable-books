@@ -110,7 +110,7 @@ f_quote-2: >-
   "Playing Big is about bridging the gap between what we see in you and what you
   know about yourself. It’s a practical guide to moving past self-doubt and
   creating what you most want to create"
-f_amazon-url: https://www.amazon.com/dp/1594206074/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1594206074/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

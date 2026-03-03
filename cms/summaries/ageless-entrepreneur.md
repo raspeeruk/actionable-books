@@ -98,7 +98,7 @@ f_conclusion: “Not all of us can be entrepreneurs. Every one of us can think l
 f_quote-2: >-
   "The most important skill we can learn today is the ability to create and
   manage our own career. It is never too early to start or too late to achieve."
-f_amazon-url: https://www.amazon.com/dp/B00L4JZJ7U/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00L4JZJ7U/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

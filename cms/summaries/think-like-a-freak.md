@@ -116,7 +116,7 @@ f_quote-2: >-
   "Rather than trying and probably failing to answer most of the questions sent
   our way, we wondered if it might be better to write a book that can teach
   anyone to think like a Freak. What might that look like?"
-f_amazon-url: https://www.amazon.com/dp/0062218336/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062218336/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

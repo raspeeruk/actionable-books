@@ -163,7 +163,7 @@ f_conclusion: >-
   effort! You can begin by reading Horsager’s book. This review summarized just
   one pillar. There are 7 more…. Enjoy!
 f_quote-2: '"No matter what your role is, trust affects your influence and success."'
-f_amazon-url: https://www.amazon.com/dp/1476711372/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1476711372/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

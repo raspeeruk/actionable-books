@@ -131,7 +131,7 @@ f_quote-2: >-
   "My goals are to get you to reorient your beliefs about what makes a strong
   executive presence and rid yourself of limiting behaviors, while providing you
   with new ways of thinking and doing."
-f_amazon-url: https://www.amazon.com/dp/B0060LHDUS/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B0060LHDUS/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

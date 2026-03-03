@@ -128,7 +128,7 @@ f_conclusion: >-
   flexible enough to avoid perseveration, and use the Pareto Principle (80/20
   Rule) to focus on the areas where you’ll make the greatest impact.
 f_quote-2: '"Having a sense of healthy perfectionism requires balance."'
-f_amazon-url: https://www.amazon.com/dp/0470923369/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470923369/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

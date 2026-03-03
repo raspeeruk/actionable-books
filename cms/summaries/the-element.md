@@ -130,7 +130,7 @@ f_insight-1: >-
   What aspects of what you were doing excite you? Taking inventory of these may
   give you a list of indicators as to what your Element might be.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0143116738/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0143116738/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

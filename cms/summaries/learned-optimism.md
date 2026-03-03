@@ -150,7 +150,7 @@ f_conclusion: >-
 f_quote-2: >-
   "One of the most significant findings in psychology in the last twenty years
   is that individuals can choose the way they think."
-f_amazon-url: https://www.amazon.com/dp/1400078393/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1400078393/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -103,7 +103,7 @@ f_conclusion: >-
   Though I am tempted to go on and on, the book is about being BRIEF! Say more
   by saying less.
 f_quote-2: '"If you want to make a bigger impact, decide to give your audience less."'
-f_amazon-url: https://www.amazon.com/dp/1118704967/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118704967/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

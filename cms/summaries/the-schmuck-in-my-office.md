@@ -138,7 +138,7 @@ f_quote-2: >-
   "It’s easy to get angry and label someone a jerk or a schmuck. It’s much
   harder to try to understand the underpinnings of why he or she approaches the
   situation that way."
-f_amazon-url: https://www.amazon.com/dp/125007567X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/125007567X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

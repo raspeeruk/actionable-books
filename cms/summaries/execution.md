@@ -160,7 +160,7 @@ f_conclusion: >-
 f_quote-2: >-
   "My job at Honeywell International these days is to restore the discipline of
   execution to a company that had lost it."
-f_amazon-url: https://www.amazon.com/dp/0609610570/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0609610570/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

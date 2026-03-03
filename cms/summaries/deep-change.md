@@ -127,7 +127,7 @@ f_quote-2: >-
   "The land of excellence is safely guarded from unworthy intruders. At the
   gates stand two fearsome sentries – risk and learning. The keys to entrance
   are faith and courage."
-f_amazon-url: https://www.amazon.com/dp/0787902446/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0787902446/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

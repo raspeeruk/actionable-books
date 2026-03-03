@@ -140,7 +140,7 @@ f_quote-2: >-
   "Your ability to realize your potential will depend upon your willingness to
   hone your skills, to take bold risks, and to put your ego on the line in
   pursuit of something greater."
-f_amazon-url: https://www.amazon.com/dp/1477800891/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1477800891/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -97,7 +97,7 @@ f_conclusion: >-
   dedicated time and energy to bring that idea to life. So just start. Or as
   Ohanian would say, “_Want to make the world a better place? Or, as I like to
   say, just make it suck less? What are you waiting for?_”
-f_amazon-url: https://www.amazon.com/dp/1455520020/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1455520020/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -144,7 +144,7 @@ f_quote-2: >-
   "Finding the hidden order behind all conscious human development is extremely
   difficult because the solutions have to be fairly general and abstract, but it
   must also have abundant practical applications."
-f_amazon-url: https://www.amazon.com/dp/1401922767/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1401922767/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

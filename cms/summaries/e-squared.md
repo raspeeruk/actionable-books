@@ -122,7 +122,7 @@ f_conclusion: >-
 f_quote-2: >-
   "If we worked on the assumption that what is accepted as true really is true,
   then there would be little hope for advance."
-f_amazon-url: https://www.amazon.com/dp/1401938906/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1401938906/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

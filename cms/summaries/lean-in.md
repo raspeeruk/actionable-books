@@ -100,7 +100,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Our culture needs to find a robust image of female success that is first, not
   male, and second, not a white woman on the phone, holding a crying baby."
-f_amazon-url: https://www.amazon.com/dp/0385349947/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0385349947/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

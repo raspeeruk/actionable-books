@@ -155,7 +155,7 @@ f_conclusion: >-
 f_quote-2: >-
   "A new fight is brewing over what might currently be the scarcest resource:
   our attention. We are now in an ‘attention economy’."
-f_amazon-url: https://www.amazon.com/dp/0615368581/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0615368581/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

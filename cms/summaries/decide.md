@@ -126,7 +126,7 @@ f_quote-2: >-
   everyone else. Personal leadership is doing what we don’t have to do to lead
   ourselves forward and grow each day. This is where we get our self-identity,
   and what differentiates us from others."
-f_amazon-url: https://www.amazon.com/dp/1118554388/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118554388/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

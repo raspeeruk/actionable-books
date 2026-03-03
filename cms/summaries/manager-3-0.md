@@ -149,7 +149,7 @@ f_quote-2: >-
   "If I know anything about millennials, it is that you have the resolve to
   change the face of leadership and chart a new course for the way business –
   and therefore our world – works."
-f_amazon-url: https://www.amazon.com/dp/B00CMF1V2C/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00CMF1V2C/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -122,7 +122,7 @@ f_conclusion: >-
 f_quote-2: >-
   "It’s visualizing that can provide us a sense of the whole, while still
   honoring and even celebrating the details out of which the whole arises."
-f_amazon-url: https://www.amazon.com/dp/B00AQLCVLE/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00AQLCVLE/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -119,7 +119,7 @@ f_quote-2: >-
   "It’s totally possible that this task of leading in times as complex and
   volatile as today is a bigger stretch for us humans than anything we’ve ever
   had to do."
-f_amazon-url: https://www.amazon.com/dp/0804788472/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0804788472/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

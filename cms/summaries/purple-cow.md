@@ -104,7 +104,7 @@ f_conclusion: >-
   the population; a tiny segment that, if educated properly, will then share
   your message with the world. People don’t care what you have to say. They care
   what their friends have to say. Give them something to talk about.
-f_amazon-url: https://www.amazon.com/dp/1591843170/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591843170/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

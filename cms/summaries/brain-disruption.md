@@ -113,7 +113,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Through improvisation you can create and establish an innovative corporate
   culture."
-f_amazon-url: https://www.amazon.com/dp/0692491821/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0692491821/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

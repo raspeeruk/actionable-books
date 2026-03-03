@@ -180,7 +180,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Study high performers and you will see that they have systems built into
   their days that drive their success.”
-f_amazon-url: https://www.amazon.com/dp/1401952852/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1401952852/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

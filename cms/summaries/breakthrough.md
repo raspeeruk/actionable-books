@@ -119,7 +119,7 @@ f_quote-2: >-
   striking at the worst moment, it can leave you feeling paralyzed and inept.
   Take solace in knowing that you are not alone: it happens to everyone and is
   an unavoidable part of the creative process."
-f_amazon-url: https://www.amazon.com/dp/1616890398/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1616890398/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

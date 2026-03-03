@@ -115,7 +115,7 @@ f_conclusion: >-
   that have clearly drawn their own mark in the sand. Deliberate action that is
   customer focused is the key to becoming a _Category of One_ company.
 f_quote-2: '"Nothing of substance will take place without commitment."'
-f_amazon-url: https://www.amazon.com/dp/0470496355/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470496355/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

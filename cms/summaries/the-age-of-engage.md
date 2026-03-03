@@ -119,7 +119,7 @@ f_conclusion: >-
   and, if they aren’t, engage in a plan of catch-up that will lead them to more
   meaningful and profitable relationships with the people that use their
   products and services.
-f_amazon-url: https://www.amazon.com/dp/0979802806/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0979802806/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

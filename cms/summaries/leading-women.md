@@ -135,7 +135,7 @@ f_conclusion: >-
 f_quote-2: >-
   "At the core of my passion is this nagging reality that the glass ceiling,
   although cracking, still exists."
-f_amazon-url: https://www.amazon.com/dp/1440584176/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1440584176/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

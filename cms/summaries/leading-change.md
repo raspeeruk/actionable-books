@@ -141,7 +141,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Speed of change is the driving force. Leading change competently is the only
   answer."
-f_amazon-url: https://www.amazon.com/dp/1422186431/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1422186431/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

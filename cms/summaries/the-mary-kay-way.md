@@ -112,7 +112,7 @@ f_conclusion: >-
   Sales Directors described Mary Kay and her purpose perfectly when she said,
   “Her wisdom was simple and deep. A great puzzle comes together from small,
   beautiful pieces.”
-f_amazon-url: https://www.amazon.com/dp/0470379952/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470379952/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

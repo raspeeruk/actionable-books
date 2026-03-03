@@ -220,7 +220,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The happiest soloists succeed because they have the knack for putting work in
   its proper place alongside the rest of their lives."
-f_amazon-url: https://www.amazon.com/dp/B007BICC5A/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B007BICC5A/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

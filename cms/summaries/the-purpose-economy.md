@@ -178,7 +178,7 @@ f_conclusion: >-
 f_quote-2: >-
   "At the core of the Purpose Economy is people’s need and desire to find their
   own professional purpose."
-f_amazon-url: https://www.amazon.com/dp/1937498298/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1937498298/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

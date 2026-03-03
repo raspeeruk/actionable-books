@@ -119,7 +119,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The very sight of a phone on the landscape leaves us feeling less connected
   to each other, less invested in each other."
-f_amazon-url: https://www.amazon.com/dp/B00SI0B6PC/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00SI0B6PC/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

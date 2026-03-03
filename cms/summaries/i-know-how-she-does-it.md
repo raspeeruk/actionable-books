@@ -102,7 +102,7 @@ f_quote-2: >-
   I mean investing as much as you wish in everything that matters: work, family,
   community, leisure. It is about celebrating abundance rather than lamenting
   choices or claiming that no one can have it all."
-f_amazon-url: https://www.amazon.com/dp/159184732X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/159184732X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

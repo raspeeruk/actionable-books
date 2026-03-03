@@ -137,7 +137,7 @@ f_quote-2: >-
   "Revolutions may be hard to predict, but ignoring them often has unfortunate
   consequences…in business numbers speak. They indicate blogging is no fad, and
   its relevance to business cannot logically continue to be denied."
-f_amazon-url: https://www.amazon.com/dp/047174719X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/047174719X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

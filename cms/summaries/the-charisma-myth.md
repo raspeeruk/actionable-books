@@ -148,7 +148,7 @@ f_quote-2: >-
   "Charisma gets people to like you, trust you, and want to be led by you. It
   can determine whether you’re seen as a follower or a leader, whether your
   ideas get adopted, and how effectively your projects are implemented."
-f_amazon-url: https://www.amazon.com/dp/1591844568/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591844568/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

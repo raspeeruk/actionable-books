@@ -117,7 +117,7 @@ f_quote-2: >-
   "The most powerful learning is that which comes through experience. While we
   cannot experience all that is to be learned firsthand, we can learn through
   the experience of others. "
-f_amazon-url: https://www.amazon.com/dp/1857885570/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1857885570/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

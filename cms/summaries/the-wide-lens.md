@@ -108,7 +108,7 @@ f_quote-2: >-
   "Innovation success remains as elusive as ever. Even when firms come up with
   great new ideas and follow them up with great implementation, failure is not
   only possible but likely. How can we do better?"
-f_amazon-url: https://www.amazon.com/dp/1591844606/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591844606/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

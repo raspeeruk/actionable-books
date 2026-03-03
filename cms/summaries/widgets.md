@@ -107,7 +107,7 @@ f_quote-2: >-
   trust you. Some don’t like you. Too many won’t stick it out with you. And the
   ones you need most have the credentials to walk out fastest if you treat them
   poorly."
-f_amazon-url: https://www.amazon.com/dp/0071847782/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071847782/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -101,7 +101,7 @@ f_quote-2: >-
   "History’s great achievers – a Napoleon, a da Vinci, a Mozart – have always
   managed themselves. That, in large measure, is what makes them great
   achievers."
-f_amazon-url: https://www.amazon.com/dp/142212312X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/142212312X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

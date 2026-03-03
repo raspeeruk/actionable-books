@@ -99,7 +99,7 @@ f_conclusion: >-
   the course of four decades in business, and it might just help you last that
   long too.
 f_quote-2: '"Nice guys can finish first."'
-f_amazon-url: https://www.amazon.com/dp/1591845688/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591845688/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

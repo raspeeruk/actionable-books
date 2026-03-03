@@ -127,7 +127,7 @@ f_quote-2: >-
   its promise to give us more control over human relationships, and tomorrow’s
   story of sociable robots, which promise relationships where we will be in
   control, even if that means not being in relationships at all."
-f_amazon-url: https://www.amazon.com/dp/0465031463/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0465031463/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

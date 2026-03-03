@@ -138,7 +138,7 @@ f_quote-2: >-
   the fierce urgency of now. In this unfolding conundrum of life and history,
   there “is” such a thing as being too late. This is no time for apathy or
   complacency. This is a time for vigorous and positive action."
-f_amazon-url: https://www.amazon.com/dp/1599185865/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1599185865/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

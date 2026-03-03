@@ -112,7 +112,7 @@ f_quote-2: >-
   "Selling is the last great truly free enterprise opportunity available today;
   in sales an individual can work for himself, be accountable to himself, and
   make his dreams come true."
-f_amazon-url: https://www.amazon.com/dp/B007FUDRB2/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B007FUDRB2/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

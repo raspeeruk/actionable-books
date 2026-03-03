@@ -163,7 +163,7 @@ f_quote-2: >-
   "Our simple attention, offered to another person, is the most underused of
   human resources, one of the least costly, one of the most freely available,
   and – without a doubt – one of the most powerfully beneficial"
-f_amazon-url: https://www.amazon.com/dp/0814420060/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0814420060/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

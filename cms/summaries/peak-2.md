@@ -106,7 +106,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The deliberate-practice mindset offers a very different view: anyone can
   improve, but it requires the right approach."
-f_amazon-url: https://www.amazon.com/dp/0544947223/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0544947223/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

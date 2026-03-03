@@ -160,7 +160,7 @@ f_conclusion: >-
   I loved _The Dream_ because of the candor with which it was written. This is a
   no-holds-barred narrative infused with the confidence of a person who has
   nothing to lose from sharing his knowledge.
-f_amazon-url: https://www.amazon.com/dp/B005DI894I/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B005DI894I/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -132,7 +132,7 @@ f_conclusion: >-
   abilities. I can already see a change in my completion of tasks. It’s very
   reinforcing!
 f_quote-2: '"It’s only by knowing your brain that you change it."'
-f_amazon-url: https://www.amazon.com/dp/0061771295/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0061771295/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

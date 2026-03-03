@@ -102,7 +102,7 @@ f_conclusion: >-
   is that the four agreements are collectively a powerful set of tools for
   setting you down the right path, your path. As I said, not for everyone, but
   powerful stuff for the spiritually inclined.
-f_amazon-url: https://www.amazon.com/dp/1878424505/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1878424505/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

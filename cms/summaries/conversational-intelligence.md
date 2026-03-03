@@ -137,7 +137,7 @@ f_quote-2: >-
   “To get to the next level of greatness depends on the quality of our culture,
   which depends on the quality of our relationships, which depends on the
   quality of our conversations. Everything happens through conversations!”
-f_amazon-url: https://www.amazon.com/dp/1937134679/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1937134679/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

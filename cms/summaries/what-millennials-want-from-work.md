@@ -148,7 +148,7 @@ f_quote-2: >-
   work with people they like and trust, have access to development and the
   opportunity to advance, are shown appreciation on a regular basis, and don’t
   have to leave."
-f_amazon-url: https://www.amazon.com/dp/0071842675/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071842675/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

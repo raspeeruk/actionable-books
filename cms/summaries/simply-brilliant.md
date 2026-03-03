@@ -172,7 +172,7 @@ f_quote-2: >-
   “The problem with most organizations today is not that they are broken, it’s
   that they are boring. And boring organizations don’t lend themselves to
   runaway success.”
-f_amazon-url: https://www.amazon.com/dp/1591847753/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591847753/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

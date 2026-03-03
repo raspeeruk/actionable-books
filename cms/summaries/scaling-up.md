@@ -135,7 +135,7 @@ f_quote-2: >-
   "If you want to teach people a new way of thinking, don’t bother trying to
   teach them. Instead give them a tool, the use of which will lead to new ways
   of thinking."
-f_amazon-url: https://www.amazon.com/dp/0986019526/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0986019526/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

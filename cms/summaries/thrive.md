@@ -160,7 +160,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Have you ever noticed that when we die, our eulogies celebrate our lives very
   differently from the way society defines success?"
-f_amazon-url: https://www.amazon.com/dp/0804140847/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0804140847/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

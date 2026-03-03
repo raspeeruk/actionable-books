@@ -136,7 +136,7 @@ f_quote-2: >-
   guide for badly educated students who have yet to master the mechanics of a
   sentence. Like the classic guides, it is designed for people who know how to
   write and want to write better."
-f_amazon-url: https://www.amazon.com/dp/0670025852/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0670025852/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

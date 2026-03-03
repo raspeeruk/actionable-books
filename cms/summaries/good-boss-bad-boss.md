@@ -160,7 +160,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Devoting relentless attention to doing one good thing after another – however
   small – is the only path I know to becoming and remaining a good boss."
-f_amazon-url: https://www.amazon.com/dp/0446556076/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0446556076/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -151,7 +151,7 @@ f_quote-2: >-
   time that requires new leadership. We live in a time that requires people who
   look at every business challenge as a design problem solvable with the right
   mix of imagination and metrics."
-f_amazon-url: https://www.amazon.com/dp/0321934393/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0321934393/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

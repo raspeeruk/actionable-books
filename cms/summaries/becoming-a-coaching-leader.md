@@ -130,7 +130,7 @@ f_quote-2: >-
   you, by making THEIR success YOUR mission. Help them to figure out how to win
   both in their career and in life, and you will enjoy both success and
   significance."
-f_amazon-url: https://www.amazon.com/dp/B007FZOY1E/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B007FZOY1E/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

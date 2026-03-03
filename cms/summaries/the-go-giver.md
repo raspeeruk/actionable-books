@@ -72,7 +72,7 @@ f_conclusion: >-
   my life. The principles outlined in _The Go-Giver_ can easily be applied to
   both.
 f_quote-2: “All right. I'm going to share my Trade Secret with you now.”
-f_amazon-url: https://www.amazon.com/dp/159184200X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/159184200X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

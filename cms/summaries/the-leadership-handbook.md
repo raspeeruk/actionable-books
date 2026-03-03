@@ -146,7 +146,7 @@ f_conclusion: >-
   growing. Congratulations for being part of the minority. You will add value
   and multiply that value through your leadership of others.
 f_quote-2: '"Leadership is, above all, courageous."'
-f_amazon-url: https://www.amazon.com/dp/140020593X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/140020593X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

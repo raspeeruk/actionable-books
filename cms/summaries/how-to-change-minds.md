@@ -142,7 +142,7 @@ f_insight-1: >-
   curiosity. If I can see a way to help them, it’ll be a less selfish endeavor.
 f_conclusion: ''
 f_quote-2: '"The fear of the unknown often outweighs the pain of the present."'
-f_amazon-url: https://www.amazon.com/dp/1609948297/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1609948297/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

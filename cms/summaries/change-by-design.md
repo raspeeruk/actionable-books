@@ -139,7 +139,7 @@ f_conclusion: >-
   building design solutions with their clients. Toward the end of the book,
   Brown expounds on the most challenging yet significant design problems of
   society – improving the lives of people in extreme need.
-f_amazon-url: https://www.amazon.com/dp/0061766089/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0061766089/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

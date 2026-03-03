@@ -146,7 +146,7 @@ f_quote-2: >-
   "People do their best work, when they know they’re going to be given credit
   for their contribution. So there has to be certain amount of autonomy in
   people's work so they can contribute without reservation."
-f_amazon-url: https://www.amazon.com/dp/0071831371/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071831371/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

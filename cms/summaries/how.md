@@ -148,7 +148,7 @@ f_quote-2: >-
   company or an individual – to make Waves throughout evanescing networks of
   association, to reach out to others and enlist them in endeavors larger than
   yourself, and to do so while everyone watches you."
-f_amazon-url: https://www.amazon.com/dp/1118106377/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118106377/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

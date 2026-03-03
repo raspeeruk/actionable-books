@@ -131,7 +131,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Call them forward to learn, improve and grow, rather than just get something
   sorted out."
-f_amazon-url: https://www.amazon.com/dp/0978440749/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0978440749/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

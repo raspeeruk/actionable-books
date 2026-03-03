@@ -111,7 +111,7 @@ f_quote-2: >-
   "I can always tell how experienced and insightful a prospective consultant,
   banker, or lawyer is by the quality of their questions and how intently they
   listen. That's how simple it is."
-f_amazon-url: https://www.amazon.com/dp/1118119630/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118119630/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -154,7 +154,7 @@ f_conclusion: >-
 f_quote-2: >-
   “We’ve paid people for their hands for years, but they would’ve gladly given
   us their heads and hearts for free if we’d only known how to ask.”
-f_amazon-url: https://www.amazon.com/dp/B00SI02E5S/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00SI02E5S/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

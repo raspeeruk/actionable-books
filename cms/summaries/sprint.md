@@ -124,7 +124,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The sprint is GV’s unique five-day process for answering crucial questions
   through prototyping and testing ideas with customers."
-f_amazon-url: https://www.amazon.com/dp/150112174X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/150112174X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

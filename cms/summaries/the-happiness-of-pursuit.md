@@ -102,7 +102,7 @@ f_conclusion: ''
 f_quote-2: >-
   "There is a lot of distraction for people, so you might not ever find the real
   you."
-f_amazon-url: https://www.amazon.com/dp/B00J1IQW6I/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00J1IQW6I/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

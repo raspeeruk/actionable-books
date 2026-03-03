@@ -159,7 +159,7 @@ f_conclusion: >-
   centered or ME centered, being focused on priority or activity, and valuing or
   disregarding others. And, as a result, I find myself taking ownership of more
   and more.
-f_amazon-url: https://www.amazon.com/dp/159184469X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/159184469X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

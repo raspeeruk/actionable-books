@@ -156,7 +156,7 @@ f_quote-2: >-
   and interactions. Looking ahead it will change companies, industries, and
   countries. Perhaps it will eventually change the climate and our genetic
   code."
-f_amazon-url: https://www.amazon.com/dp/0321934393/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0321934393/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

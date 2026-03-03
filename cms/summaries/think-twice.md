@@ -113,7 +113,7 @@ f_quote-2: >-
   enough. Think Twice’s value comes in situations where the stakes are
   sufficiently high and where your natural decision-making process leads you to
   a suboptimal choice."
-f_amazon-url: https://www.amazon.com/dp/1422187381/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1422187381/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

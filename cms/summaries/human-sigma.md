@@ -99,7 +99,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The interaction between an employee and a customer – what we call the
   employee-customer encounter – is the new factory floor."
-f_amazon-url: https://www.amazon.com/dp/1595620168/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1595620168/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

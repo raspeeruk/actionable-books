@@ -170,7 +170,7 @@ f_conclusion: >-
 f_quote-2: >-
   "'It's all about technique and understanding how the memory works,' he told
   the reporter, 'Anyone could do it, really.'"
-f_amazon-url: https://www.amazon.com/dp/0143120530/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0143120530/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

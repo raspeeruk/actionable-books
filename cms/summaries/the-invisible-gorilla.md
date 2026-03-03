@@ -151,7 +151,7 @@ f_conclusion: >-
   inattentional blindness, by a faulty memory, by too much trust in the
   confidence of others, or by leaping to conclusions about cause and effect.
 f_quote-2: '"We experience far less of our visual world than we think we do."'
-f_amazon-url: https://www.amazon.com/dp/0307459667/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0307459667/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

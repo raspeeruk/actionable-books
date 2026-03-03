@@ -177,7 +177,7 @@ f_quote-2: >-
   have, and we’re not sure whether our plans will be effective. In other words,
   it starts with a certain amount of humility, a quality that is often in short
   supply in business."
-f_amazon-url: https://www.amazon.com/dp/B01HLN0QGQ/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B01HLN0QGQ/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

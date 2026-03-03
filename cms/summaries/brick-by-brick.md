@@ -124,7 +124,7 @@ f_quote-2: >-
   driven. Practice disruptive innovation. Foster open innovation — heed the
   wisdom of the crowd. Explore the full spectrum of innovation. Build an
   innovation culture.”
-f_amazon-url: https://www.amazon.com/dp/0307951618/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0307951618/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

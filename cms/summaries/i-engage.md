@@ -188,7 +188,7 @@ f_conclusion: >-
 f_quote-2: >-
   "A simple yet revolutionary concept...it’s impossible to fully separate life
   from work."
-f_amazon-url: https://www.amazon.com/dp/0984532927/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0984532927/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

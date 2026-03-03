@@ -152,7 +152,7 @@ f_quote-2: >-
   "Turning pro is not for everyone. We have to be a little crazy to do it, or
   even to want to. In many ways the passage chooses us; we don't choose it. We
   simply have no alternative."
-f_amazon-url: https://www.amazon.com/dp/1936891034/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1936891034/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

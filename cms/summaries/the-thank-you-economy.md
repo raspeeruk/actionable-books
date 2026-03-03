@@ -112,7 +112,7 @@ f_quote-2: >-
   "When given the choice, people will always spend their time around people they
   like. When it's expedient and practical, they'd also rather do business with
   and buy stuff from people they like. And now, they can."
-f_amazon-url: https://www.amazon.com/dp/0061914185/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0061914185/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

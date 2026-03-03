@@ -97,7 +97,7 @@ f_quote-2: >-
   "A pursuit of joy within a business context is not about the pursuit of fame
   or profit. Humans aspire to a higher purpose… We’ve found that profit, fame,
   and glory often follow us in this path, too."
-f_amazon-url: https://www.amazon.com/dp/B00DMCW1FK/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00DMCW1FK/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

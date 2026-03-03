@@ -128,7 +128,7 @@ f_conclusion: >-
   to improve your performance, reliability, trustworthiness, relationships, and
   be known as someone people can count on, then use the system outlined in _The
   Promise Doctrine_ to produce the new you. Good luck!
-f_amazon-url: https://www.amazon.com/dp/0984259007/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0984259007/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -104,7 +104,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Design thinking taps into capacities we all have but that are overlooked by
   more conventional problem-solving practices"
-f_amazon-url: https://www.amazon.com/dp/0061766089/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0061766089/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -138,7 +138,7 @@ f_conclusion: >-
   live that dream. I enjoyed reading this book and am already working on a plan
   to re-launch Brand Me.
 f_quote-2: '"Your brand is what other people say about you when you aren’t in the room."'
-f_amazon-url: https://www.amazon.com/dp/1857885805/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1857885805/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

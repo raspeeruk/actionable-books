@@ -101,7 +101,7 @@ f_conclusion: >-
   communications, this book has practical applications for anyone because as
   LeFever points out, **explanation is something we all do.**
 f_quote-2: '"How often do we sit down and focus on how we will explain an idea?"'
-f_amazon-url: https://www.amazon.com/dp/1118374584/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118374584/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

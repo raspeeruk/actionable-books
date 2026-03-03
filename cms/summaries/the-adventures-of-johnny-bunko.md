@@ -120,7 +120,7 @@ f_conclusion: >-
   As the “career advisor” Diana says near the end of the book, “This isn’t just
   career advice, guys. In some ways, this is what it means to be alive.” Hear,
   hear.
-f_amazon-url: https://www.amazon.com/dp/1594482918/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1594482918/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

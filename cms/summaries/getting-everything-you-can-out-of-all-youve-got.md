@@ -145,7 +145,7 @@ f_quote-2: >-
   "Much of this book is focused on how you can improve your business life and
   career. But the strategies also work in virtually any aspect of life where you
   need to persuade others to accept your position or ideas."
-f_amazon-url: https://www.amazon.com/dp/0312284543/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0312284543/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

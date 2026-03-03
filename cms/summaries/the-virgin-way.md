@@ -112,7 +112,7 @@ f_quote-2: >-
   "What routinely fools a Goliath is when, instead of going after their market
   share, someone instead goes out to create a whole new niche market right under
   their imperious nose."
-f_amazon-url: https://www.amazon.com/dp/1591847370/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591847370/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

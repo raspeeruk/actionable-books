@@ -119,7 +119,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Small talk! Can you hear the shudder? These two little words drive a stake
   into the hearts of some otherwise fearless and undaunted souls."
-f_amazon-url: https://www.amazon.com/dp/007141858X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/007141858X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -131,7 +131,7 @@ f_quote-2: >-
   necessarily the ones we hear about in the press, on Facebook, or from email
   marketing blasts. And some of those trumpeted far and wide have little
   scientific merit."
-f_amazon-url: https://www.amazon.com/dp/0399184384/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0399184384/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

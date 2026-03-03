@@ -131,7 +131,7 @@ f_quote-2: >-
   "Strange as it may sound, sacrifice in the right places is often the answer
   and the springboard for the long-term prosperity for you and your company. I
   will put it this way—the sacrifice you make determines your fate."
-f_amazon-url: https://www.amazon.com/dp/B00S9WG7OO/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00S9WG7OO/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

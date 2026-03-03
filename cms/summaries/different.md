@@ -102,7 +102,7 @@ f_conclusion: >-
   else and you fade into the sameness of the grocery aisle shelves of breakfast
   cereal.
 f_quote-2: '"…any competitive metric, tends to bring out the herd in us."'
-f_amazon-url: https://www.amazon.com/dp/030746086X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/030746086X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

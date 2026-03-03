@@ -113,7 +113,7 @@ f_quote-2: >-
   hurt). Rather, success is about assessing opportunity, creating a plan of
   action to achieve a desired outcome, and prioritizing daily efforts to meet
   that goal."
-f_amazon-url: https://www.amazon.com/dp/B00MWAG5PU/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00MWAG5PU/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

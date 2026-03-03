@@ -110,7 +110,7 @@ f_conclusion: >-
   transition, I’ll be prepared for that identity struggle and know what to do
   about it. Thank you Gail Sheehy!
 f_quote-2: '"On the other side we will be something else but we have no idea what."'
-f_amazon-url: https://www.amazon.com/dp/0345404459/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0345404459/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

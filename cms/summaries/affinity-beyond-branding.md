@@ -98,7 +98,7 @@ f_conclusion: And that’s the beauty of this volume.
 f_quote-2: >-
   "You need to communicate the promise, not just to make the sale. You need more
   values in the promise to make the brand successful."
-f_amazon-url: https://www.amazon.com/dp/1552788911/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1552788911/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

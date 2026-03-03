@@ -139,7 +139,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Everything you need to know about life can be learned from a genuine and
   ongoing attempt to write."
-f_amazon-url: https://www.amazon.com/dp/0802121403/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0802121403/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

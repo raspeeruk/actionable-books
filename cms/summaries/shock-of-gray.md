@@ -100,7 +100,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Today’s 7 billion people will enjoy more than 250 billion extra years of life
   on earth over what would have transpired had we been born a century ago."
-f_amazon-url: https://www.amazon.com/dp/1416551026/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1416551026/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

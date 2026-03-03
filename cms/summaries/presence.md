@@ -149,7 +149,7 @@ f_quote-2: >-
   "Presence, as I mean it, is the state of being attuned to and being able to
   comfortably express our true thoughts, feelings, value and potential. That’s
   it. It is not a permanent, transcendent mode of being. It comes and goes."
-f_amazon-url: https://www.amazon.com/dp/B00U6DNZK8/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00U6DNZK8/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

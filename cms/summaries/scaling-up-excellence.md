@@ -165,7 +165,7 @@ f_conclusion: ''
 f_quote-2: >-
   "In smart organizations, people know that, although excellence might not be
   everywhere, it can start and spread from anywhere."
-f_amazon-url: https://www.amazon.com/dp/B00FIMWGDY/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00FIMWGDY/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

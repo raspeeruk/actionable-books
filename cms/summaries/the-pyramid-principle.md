@@ -156,7 +156,7 @@ f_conclusion: >-
   _The Pyramid Principle_ provides a framework for clear and logical writing. By
   applying the ideas in this book, you’ll make your writing easier for your
   readers to understand and remember.
-f_amazon-url: https://www.amazon.com/dp/B000LWMRSK/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B000LWMRSK/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

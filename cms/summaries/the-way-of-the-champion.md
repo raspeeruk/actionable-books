@@ -147,7 +147,7 @@ f_quote-2: >-
   acting as a champion, committing yourself to practicing the habits and ways of
   a champion, choosing to engage in a lifestyle that demonstrates such qualities
   and characteristics on a consistent daily basis."
-f_amazon-url: https://www.amazon.com/dp/0804837147/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0804837147/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

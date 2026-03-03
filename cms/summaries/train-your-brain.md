@@ -130,7 +130,7 @@ f_insight-1: >-
   that I didn’t have to believe that – I chose to believe it. Now, I am working
   on re-training my brain in order to have a better marriage!
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1452571589/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1452571589/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

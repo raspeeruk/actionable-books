@@ -131,7 +131,7 @@ f_quote-2: >-
   keep from snacking in between meals. We are not built for discipline. We are
   built for novelty and excitement, not for careful attention to detail.
   Discipline is something we have to work at."
-f_amazon-url: https://www.amazon.com/dp/0312430000/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0312430000/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

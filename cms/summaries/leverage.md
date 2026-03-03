@@ -135,7 +135,7 @@ f_insight-1: >-
   stopwatches or timers more often when I need to focus on a task. That is
   changing my behavior.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/B00HAMKVBO/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00HAMKVBO/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

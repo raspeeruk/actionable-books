@@ -114,7 +114,7 @@ f_conclusion: >-
   tools you need to accomplish any of those major goals on your list. Just make
   sure you only tackle one goal at a time. Oh, and bring a snack.
 f_quote-2: '"Self-control is a vital strength and a key to success in life."'
-f_amazon-url: https://www.amazon.com/dp/0143122231/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0143122231/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

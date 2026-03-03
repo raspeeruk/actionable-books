@@ -161,7 +161,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Defining moments shape our lives, but we don’t have to wait for them to
   happen. We can be the authors of them.”
-f_amazon-url: https://www.amazon.com/dp/1501147765/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1501147765/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

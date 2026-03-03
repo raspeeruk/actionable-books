@@ -179,7 +179,7 @@ f_conclusion: >-
   on the benefit we bring to the world. Yet, our trustworthiness is at an
   all-time low. Perhaps it’s time to shift our thinking.
 f_quote-2: '"Maximum growth and high ideals are not incompatible. They’re inseparable."'
-f_amazon-url: https://www.amazon.com/dp/0307720357/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0307720357/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

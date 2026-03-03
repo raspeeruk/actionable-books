@@ -97,7 +97,7 @@ f_insight-1: >-
   [here](http://www.hubspot.com/free-template-creating-buyer-personas/).
 f_conclusion: ''
 f_quote-2: '"Learn to ignore the old rules."'
-f_amazon-url: https://www.amazon.com/dp/1118026985/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118026985/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

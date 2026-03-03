@@ -114,7 +114,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Businesses become great or meaningful when they are informed by a vocation
   that gives their product or service, and their employees, purpose.”
-f_amazon-url: https://www.amazon.com/dp/0143130315/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0143130315/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

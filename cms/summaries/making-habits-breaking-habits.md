@@ -108,7 +108,7 @@ f_conclusion: >-
   break or a new habit we are hoping to form, it can happen, it just takes more
   time than most of us expect. Where do we go from here? Well, I’m prepared to
   give it a go and tackle the nail biting once and for all.
-f_amazon-url: https://www.amazon.com/dp/0738215988/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0738215988/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

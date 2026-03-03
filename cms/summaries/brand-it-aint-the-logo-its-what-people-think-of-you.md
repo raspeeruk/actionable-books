@@ -96,7 +96,7 @@ f_quote-2: >-
   others. So most Brands water down their point of difference in an effort to
   avoid alienating anyone. The result, instead, is a Brand that doesn't deeply
   resonate with anyone."
-f_amazon-url: https://www.amazon.com/dp/1477698523/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1477698523/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

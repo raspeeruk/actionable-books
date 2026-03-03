@@ -156,7 +156,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Dream jobs are more often created than found, so they're rarely attainable
   through conventional searches. Creating one requires strong self-knowledge."
-f_amazon-url: https://www.amazon.com/dp/1118156315/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118156315/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

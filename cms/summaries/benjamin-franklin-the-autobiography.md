@@ -104,7 +104,7 @@ f_conclusion: >-
   on this long, in the popularity it has, is a testament to the public’s respect
   for Franklin’s character and the timelessness of his message. _Benjamin
   Franklin: The Autobiography_ is a classic in every sense of the word.
-f_amazon-url: https://www.amazon.com/dp/1936594099/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1936594099/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

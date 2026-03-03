@@ -157,7 +157,7 @@ f_insight-1: >-
   effort and money that I spend in procuring it? Would I better off using that
   money to do something else – like purchasing and reading a book?
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0061353248/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0061353248/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

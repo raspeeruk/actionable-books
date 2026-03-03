@@ -149,7 +149,7 @@ f_quote-2: >-
   be – multi-gender, multi-skilled, multi-national, multi-ethnic, and
   multi-generational. That’s how we’ll make a difference around the table, in
   the world, and for the world."
-f_amazon-url: https://www.amazon.com/dp/0692262946/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0692262946/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -152,7 +152,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Customers admire the beloved companies for how they are treated, not for how
   they are handled."
-f_amazon-url: https://www.amazon.com/dp/1591842956/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591842956/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

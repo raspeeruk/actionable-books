@@ -124,7 +124,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Are you a writer who doesn’t write, a painter who doesn’t paint, an
   entrepreneur who never starts a venture? Then you know what Resistance is."
-f_amazon-url: https://www.amazon.com/dp/1936891026/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1936891026/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

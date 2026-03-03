@@ -154,7 +154,7 @@ f_insight-1: >-
   a meeting or just send a text, consider thoughtfully who will be listening, it
   just might change your message.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1597976830/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1597976830/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

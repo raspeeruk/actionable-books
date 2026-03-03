@@ -96,7 +96,7 @@ f_conclusion: >-
   how you are going to get there. The book, however, doesn’t stop there. It
   really hits home that **you must go after what you want and go at it with full
   force.**
-f_amazon-url: https://www.amazon.com/dp/1605092754/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1605092754/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -123,7 +123,7 @@ f_quote-2: >-
   "At the end of the day, the more we can take in and give out positive
   messages, the more we will be able to believe in ourselves and in those around
   us."
-f_amazon-url: https://www.amazon.com/dp/0071849750/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071849750/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

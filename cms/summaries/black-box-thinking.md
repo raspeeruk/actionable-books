@@ -122,7 +122,7 @@ f_quote-2: >-
   when we fail, but which we rarely exploit. It is about creating systems and
   cultures that enable organizations to learn from errors, rather than being
   threatened by them."
-f_amazon-url: https://www.amazon.com/dp/1591848229/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591848229/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

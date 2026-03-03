@@ -139,7 +139,7 @@ f_quote-2: >-
   "[B]ecause we finally understand what creativity is, we can begin to construct
   a taxonomy of it, outlining the conditions under which each particular mental
   strategy is ideal."
-f_amazon-url: https://www.amazon.com/dp/B007QRI1UQ/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B007QRI1UQ/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

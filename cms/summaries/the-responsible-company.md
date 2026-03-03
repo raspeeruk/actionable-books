@@ -115,7 +115,7 @@ f_conclusion: >-
 f_quote-2: >-
   "We’re wasting our brains and our only world on the design, production, and
   consumption of things we don’t need and that aren’t good for us."
-f_amazon-url: https://www.amazon.com/dp/B00GCDYVMC/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00GCDYVMC/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

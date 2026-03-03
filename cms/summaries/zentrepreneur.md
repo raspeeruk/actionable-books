@@ -146,7 +146,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Protecting the status quo does not foster creativity, fearlessness,
   innovation and advancement."
-f_amazon-url: https://www.amazon.com/dp/B00FBEOX8K/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00FBEOX8K/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

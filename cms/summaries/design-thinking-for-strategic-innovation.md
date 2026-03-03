@@ -102,7 +102,7 @@ f_conclusion: >-
   organizations but capitalism itself. That design thinking can “unleash our
   imagination of a better future.”
 f_quote-2: '"Every future business leader needs to be a good design thinker"'
-f_amazon-url: https://www.amazon.com/dp/B00DDQTKKO/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00DDQTKKO/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

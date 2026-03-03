@@ -117,7 +117,7 @@ f_conclusion: >-
   downs. Each goal we strive for, and then achieve, is but a resting place on
   the path to further greatness. By staying humble, focused and inquisitive, we
   have the power to reach and maintain great things. Enjoy the trip.
-f_amazon-url: https://www.amazon.com/dp/0977326411/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0977326411/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

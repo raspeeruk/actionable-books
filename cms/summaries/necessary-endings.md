@@ -184,7 +184,7 @@ f_quote-2: >-
   "Being alive requires that we sometimes kill off things in which we were once
   invested, uproot what we previously nurtured, and tear down what we built for
   an earlier time."
-f_amazon-url: https://www.amazon.com/dp/0061777129/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0061777129/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

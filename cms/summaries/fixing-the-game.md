@@ -146,7 +146,7 @@ f_conclusion: >-
   as the content is as dense as it is riveting. It’s truly been a long time
   since I’ve read something this mind expanding, and I look forward to seeing
   what Martin has up his sleeve in the future.
-f_amazon-url: https://www.amazon.com/dp/1422171647/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1422171647/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

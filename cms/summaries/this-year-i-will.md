@@ -120,7 +120,7 @@ f_conclusion: >-
   alternative). They need to compel you on multiple levels in order for you to
   persist and work through your emotional sticking points.
 f_quote-2: '"Each of us holds the potential for our unique form of greatness."'
-f_amazon-url: https://www.amazon.com/dp/0767920082/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0767920082/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

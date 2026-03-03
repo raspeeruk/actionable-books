@@ -89,7 +89,7 @@ f_quote-2: >-
   even more serious problems are (1) failing to recognize and hire the right
   person, instead letting this ideal candidate sail invisibly through the
   selection process, and (2) leaving the wrong person in the job too long."
-f_amazon-url: https://www.amazon.com/dp/0470894563/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470894563/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

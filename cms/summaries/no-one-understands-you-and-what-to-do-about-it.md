@@ -140,7 +140,7 @@ f_quote-2: >-
   Human beings have a strong tendency to distort other people’s feedback to fit
   their own views. We know this intellectually, and yet we rarely seem to
   recognize it as it’s happening."
-f_amazon-url: https://www.amazon.com/dp/1625274122/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1625274122/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

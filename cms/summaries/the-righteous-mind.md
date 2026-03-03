@@ -138,7 +138,7 @@ f_quote-2: >-
   "Politics and religion are both expressions of our underlying moral
   psychology, and an understanding of that psychology can help to bring people
   together."
-f_amazon-url: https://www.amazon.com/dp/0307455777/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0307455777/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

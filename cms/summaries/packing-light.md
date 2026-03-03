@@ -118,7 +118,7 @@ f_quote-2: >-
   "We are all carrying baggage—things we’ve picked up at home, past experiences,
   expectations for what’s ahead. It might look different than mine, but it
   weighs you down just the same."
-f_amazon-url: https://www.amazon.com/dp/B00C2ZT8L8/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00C2ZT8L8/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

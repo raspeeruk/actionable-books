@@ -120,7 +120,7 @@ f_quote-2: >-
   "Perhaps you’ll recall how others have shaped your life and all the gas money
   you’ve been given – the angels and the achievements, the devils and
   derailments that possibly influenced your life choices."
-f_amazon-url: https://www.amazon.com/dp/1514135949/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1514135949/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

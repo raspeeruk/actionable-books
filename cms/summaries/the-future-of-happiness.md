@@ -123,7 +123,7 @@ f_quote-2: >-
   happiness levels, but that doesn’t always seem to be the case. In fact, the
   timing of the digital revolution coincides with record-setting levels of
   depression and overall life dissatisfaction."
-f_amazon-url: https://www.amazon.com/dp/1942952945/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1942952945/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

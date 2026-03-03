@@ -110,7 +110,7 @@ f_conclusion: >-
   ROWE for your organization. Studies show ROWEs have significantly higher
   productivity and employee engagement, and can be a marketplace differentiator.
 f_quote-2: '"...work is something we do, not a place we go."'
-f_amazon-url: https://www.amazon.com/dp/1118426363/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118426363/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

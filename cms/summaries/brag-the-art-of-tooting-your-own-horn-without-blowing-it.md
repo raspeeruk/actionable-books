@@ -125,7 +125,7 @@ f_quote-2: >-
   that you do it all the time or that you do it at inappropriate times or
   places. You do it when it feels comfortable. And learning how to make it feel
   more comfortable is what this book is all about."
-f_amazon-url: https://www.amazon.com/dp/0446692786/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0446692786/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

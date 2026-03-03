@@ -139,7 +139,7 @@ f_conclusion: >-
 f_quote-2: >-
   "I discovered that happiness, the highest aim of mankind, was mine for the
   taking, business depression or no business depression."
-f_amazon-url: https://www.amazon.com/dp/1454900679/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1454900679/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

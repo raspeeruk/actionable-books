@@ -119,7 +119,7 @@ f_quote-2: >-
   "Four Seconds is the amount of time required to take a single breathe. That
   short pause is all you need to see where you’re going wrong and to make a
   little shift."
-f_amazon-url: https://www.amazon.com/dp/0062372416/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062372416/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

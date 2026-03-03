@@ -129,7 +129,7 @@ f_conclusion: >-
   becomes more about the product than the people, you’re sunk. There are a lot
   of great companies out there. Find one that fuels your own dreams, then work
   your guts out to make it a reality.
-f_amazon-url: https://www.amazon.com/dp/1591842727/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591842727/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -125,7 +125,7 @@ f_quote-2: >-
   matters. Everybody needs an Evil Plan that gets them the hell out of the rat
   race, away from lousy bosses, away from boring, dead-end jobs that they hate.
   Life is short."
-f_amazon-url: https://www.amazon.com/dp/1591843847/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591843847/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

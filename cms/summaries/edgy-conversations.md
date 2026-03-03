@@ -142,7 +142,7 @@ f_quote-2: >-
   "What stands in your way of greatness isn’t challenges or obstacles or your
   perceived limitations. What stands in your way is the misguided belief that
   what you want to do is impossible."
-f_amazon-url: https://www.amazon.com/dp/0989533107/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0989533107/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

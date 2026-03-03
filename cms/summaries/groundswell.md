@@ -124,7 +124,7 @@ f_quote-2: >-
   "The groundswell is a social trend in which people use technologies to get the
   things they need from each other, rather than from traditional institutions
   like corporations."
-f_amazon-url: https://www.amazon.com/dp/1422161986/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1422161986/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

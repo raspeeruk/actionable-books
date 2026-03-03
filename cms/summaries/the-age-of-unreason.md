@@ -127,7 +127,7 @@ f_quote-2: >-
   the imagination, of spurring our creativity in an Age of Unreason when things
   are not going to go on working as they have been working, whether we like it
   or not."
-f_amazon-url: https://www.amazon.com/dp/0875843018/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0875843018/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

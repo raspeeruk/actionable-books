@@ -141,7 +141,7 @@ f_quote-2: >-
   "The fishing is best where the fewest go, and the collective insecurity of the
   world makes it easy for people to hit home runs while everyone else is aiming
   for base hits. There is just less competition for bigger goals"
-f_amazon-url: https://www.amazon.com/dp/0470627603/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470627603/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

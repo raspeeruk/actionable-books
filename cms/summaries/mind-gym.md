@@ -124,7 +124,7 @@ f_conclusion: ''
 f_quote-2: >-
   "When your mind is fit, you get more out of life, more out of work, more out
   of relationships, more out of everything."
-f_amazon-url: https://www.amazon.com/dp/0062331450/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062331450/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

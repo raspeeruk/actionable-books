@@ -135,7 +135,7 @@ f_quote-2: >-
   joy, at least during meditation. The most important thing about this is
   self-sustaining momentum. Once a person hits the Joy Point, the virtuous cycle
   of joy and skillfulness keeps him or her going."
-f_amazon-url: https://www.amazon.com/dp/0062378872/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062378872/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

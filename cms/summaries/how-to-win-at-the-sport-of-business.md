@@ -120,7 +120,7 @@ f_quote-2: >-
   “In every job, I would justify in my mind, whether I loved it or hated it,
   that I was getting paid to learn and every experience would be of value when I
   figured out what I wanted to do when I grew up.”
-f_amazon-url: https://www.amazon.com/dp/1626810915/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1626810915/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

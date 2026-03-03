@@ -107,7 +107,7 @@ f_quote-2: >-
   from mistakes’ without actually describing any, to find that platitude
   helpful. It was advice served, like mediocre breakfast pastries, at just about
   every professional conference."
-f_amazon-url: https://www.amazon.com/dp/0142180572/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0142180572/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

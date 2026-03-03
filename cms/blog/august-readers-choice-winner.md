@@ -16,8 +16,8 @@ layout: '[blog].html'
 tags: blog
 ---
 
-Thank you to all of you who voted in our second Reader’s Choice [poll](http://actionablebooks.com/readers-choice-august/)! It was a close race, but out of the four choices, [_Nothing to Lose, Everything to Gain: How I Went from Gang Member to Multimillionaire Entrepreneur_](https://www.amazon.com/dp/1591844037/ref=as_li_tf_til?tag=gooseducmedi-20&camp=0&creative=0&linkCode=as1&creativeASIN=1591844037&adid=1RQ9NKQND9XHN89JHEEG&) by Ryan Blair was the winner!
+Thank you to all of you who voted in our second Reader’s Choice [poll](http://actionablebooks.com/readers-choice-august/)! It was a close race, but out of the four choices, [_Nothing to Lose, Everything to Gain: How I Went from Gang Member to Multimillionaire Entrepreneur_](https://www.amazon.com/dp/1591844037/ref=as_li_tf_til?tag=actionableb08-20&camp=0&creative=0&linkCode=as1&creativeASIN=1591844037&adid=1RQ9NKQND9XHN89JHEEG&) by Ryan Blair was the winner!
 
-Look for the summary on September 27th. In the meantime, the summary for the winner of our last Reader’s Choice poll, Erik Qualman’s [_Socialnomics_](https://www.amazon.com/dp/0470638842/ref=as_li_tf_til?tag=gooseducmedi-20&camp=0&creative=0&linkCode=as1&creativeASIN=0470638842&adid=0PBKTMP49CRZYGN9BSQD&), will be published tomorrow.
+Look for the summary on September 27th. In the meantime, the summary for the winner of our last Reader’s Choice poll, Erik Qualman’s [_Socialnomics_](https://www.amazon.com/dp/0470638842/ref=as_li_tf_til?tag=actionableb08-20&camp=0&creative=0&linkCode=as1&creativeASIN=0470638842&adid=0PBKTMP49CRZYGN9BSQD&), will be published tomorrow.
 
 Don’t forget to comment here on what _you’re_ currently reading so we can include them in our next poll!

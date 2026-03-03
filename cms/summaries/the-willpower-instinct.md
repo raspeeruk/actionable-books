@@ -130,7 +130,7 @@ f_quote-2: >-
   "We are born to be tempted, and born to resist. Self-control is a matter of
   understanding these different parts of ourselves, not fundamentally changing
   who we are."
-f_amazon-url: https://www.amazon.com/dp/B005ERIRZE/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B005ERIRZE/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

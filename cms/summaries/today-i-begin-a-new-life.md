@@ -109,7 +109,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Wherever we have been, whatever we have done, or what has been done to us, it
   is never too late to begin a new life!"
-f_amazon-url: https://www.amazon.com/dp/160645093X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/160645093X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

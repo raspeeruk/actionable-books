@@ -122,7 +122,7 @@ f_quote-2: >-
   "The amount of money you make will always be in direct proportion to: number
   one, the demand for what you do; number two, your ability to do it; and number
   three, the difficulty of replacing you."
-f_amazon-url: https://www.amazon.com/dp/0470553235/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470553235/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

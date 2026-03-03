@@ -118,7 +118,7 @@ f_quote-2: >-
   condition. Unlike social advocates, social entrepreneurs act directly,
   creating a product, service, or methodology that spurs the transformation of
   the status quo."
-f_amazon-url: https://www.amazon.com/dp/B00WDDOSCS/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00WDDOSCS/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

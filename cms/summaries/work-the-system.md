@@ -145,7 +145,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The word ‘system’ is a pointed and unique unit of language; it’s so precise
   that it doesn’t have a lot of synonyms."
-f_amazon-url: https://www.amazon.com/dp/160832253X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/160832253X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

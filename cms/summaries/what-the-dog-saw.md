@@ -100,7 +100,7 @@ f_quote-2: >-
   succeeds or fails on the strength of its ability to engage you, to make you
   think, to give you a glimpse into someone else’s head – even if in the end you
   conclude that someone else’s head is not a place you’d really like to be."
-f_amazon-url: https://www.amazon.com/dp/0316076201/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0316076201/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -168,7 +168,7 @@ f_quote-2: >-
   behavior, and significant results – those that confer a broad and significant
   competitive advantage – require the right new behaviors and the right few
   behaviors that endure over time."
-f_amazon-url: https://www.amazon.com/dp/B00D23GN9Y/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00D23GN9Y/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

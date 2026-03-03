@@ -138,7 +138,7 @@ f_conclusion: >-
   introduction. “Innovate more efficiently. Innovate in a more focused manner.”
   And I, for one, believe they do just that.
 f_quote-2: '"It’s time to innovate the way you innovate."'
-f_amazon-url: https://www.amazon.com/dp/1591843855/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591843855/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

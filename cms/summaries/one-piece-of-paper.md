@@ -141,7 +141,7 @@ f_quote-2: >-
   "…I invite you to embark on that journey of understanding who you are as a
   leader, who you want to be, and how you would like to get there. You are going
   to define your entire leadership philosophy—on one piece of paper."
-f_amazon-url: https://www.amazon.com/dp/1118049594/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118049594/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -135,7 +135,7 @@ f_conclusion: >-
 f_quote-2: >-
   "It always seemed to me that success in business and in life should result
   from your impact on the people you touch."
-f_amazon-url: https://www.amazon.com/dp/1422173356/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1422173356/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

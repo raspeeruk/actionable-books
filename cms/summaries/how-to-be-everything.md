@@ -132,7 +132,7 @@ f_quote-2: >-
   "The most subtle and often most stifling challenge for multipotentialites is
   the self-doubt we sometimes experience living in a world that doesn’t
   recognize our strengths (or even our existence)."
-f_amazon-url: https://www.amazon.com/dp/0062566652/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062566652/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

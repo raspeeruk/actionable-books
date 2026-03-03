@@ -83,7 +83,7 @@ f_conclusion: >-
   real change. A true design thinker doesn’t run foolhardy into extra costs and
   new challenges. But she doesn’t shy away from them either. Find the balance,
   and you will be a rock star in your organization.
-f_amazon-url: https://www.amazon.com/dp/1422177807/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1422177807/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -135,7 +135,7 @@ f_conclusion: >-
 f_quote-2: >-
   “When you polish anything too much, it loses the thing that makes it shine
   from within.”
-f_amazon-url: https://www.amazon.com/dp/1493746286/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1493746286/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

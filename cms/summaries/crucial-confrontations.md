@@ -118,7 +118,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Never walk away from another touchy, controversial, or complex issue, - at
   work or at home!"
-f_amazon-url: https://www.amazon.com/dp/B006GA4WL6/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B006GA4WL6/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

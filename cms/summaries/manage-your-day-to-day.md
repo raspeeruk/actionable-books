@@ -125,7 +125,7 @@ f_quote-2: >-
   "The right solution for you will always be personal – an idiosyncratic
   combination of strategies based on your own work demands, habits and
   preferences."
-f_amazon-url: https://www.amazon.com/dp/1477800670/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1477800670/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

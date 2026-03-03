@@ -135,7 +135,7 @@ f_conclusion: >-
   social responsibility. You don’t have to wait until you are runaway successful
   to start. Profitability may well follow.
 f_quote-2: '"People still matter more than profit. And they always will."'
-f_amazon-url: https://www.amazon.com/dp/0718036204/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0718036204/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

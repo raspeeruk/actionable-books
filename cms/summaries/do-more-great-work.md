@@ -168,7 +168,7 @@ f_conclusion: >-
   Work, but it is certain that you will **very** rarely be involved in truly
   Great Work unless you actively pursue it. And, with a resource like _Do More
   Great Work_ at hand, it’s now that much easier. Go. Make a dent.
-f_amazon-url: https://www.amazon.com/dp/0761156445/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0761156445/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -151,7 +151,7 @@ f_conclusion: >-
 f_quote-2: >-
   "With the blurring of work and life, millennials are bringing a more casual
   way of dressing, writing, communicating, and managing to the workplace."
-f_amazon-url: https://www.amazon.com/dp/B00CMF1V2C/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00CMF1V2C/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

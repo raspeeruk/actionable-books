@@ -117,7 +117,7 @@ f_insight-1: >-
   write yourself a new bio that celebrates your uniqueness.** Use it as a
   motivator and guide as you work on your signature voice.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1422183939/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1422183939/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

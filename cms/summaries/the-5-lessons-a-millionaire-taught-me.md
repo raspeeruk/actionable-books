@@ -208,7 +208,7 @@ f_quote-2: >-
   "The 2020 workplace will be fluid, diverse in age and ethnicity, flexible,
   collaborative, mobile, global, and above all, hyperconnected. Get ready to
   live it."
-f_amazon-url: https://www.amazon.com/dp/0743287002/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0743287002/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

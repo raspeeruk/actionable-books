@@ -91,7 +91,7 @@ f_quote-2: >-
   "Developing mental strength is about improving your ability to regulate your
   emotions, manage your thoughts, and behave in a positive manner, despite your
   circumstances."
-f_amazon-url: https://www.amazon.com/dp/1936662116/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1936662116/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

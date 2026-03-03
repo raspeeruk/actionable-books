@@ -114,7 +114,7 @@ f_conclusion: >-
   with anecdotes, colourful commentary, and the piercing insight that while we
   as human beings often overcomplicate things, there is tremendous advantage to
   following a few simple, yet timeless principles.
-f_amazon-url: https://www.amazon.com/dp/0471743674/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0471743674/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

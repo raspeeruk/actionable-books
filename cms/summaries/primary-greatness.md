@@ -105,7 +105,7 @@ f_conclusion: >-
   better than we are.” We can all be better and do better and if we live our
   lives striving to attain Primary Greatness, and at the end of our life, we’ll
   have done more good than we could have ever hoped.
-f_amazon-url: https://www.amazon.com/dp/1501106570/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1501106570/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

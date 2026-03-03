@@ -125,7 +125,7 @@ f_conclusion: >-
 f_quote-2: >-
   "A company’s worst enemy is not always the competition. Sometimes it’s the
   fear that lives within its own walls."
-f_amazon-url: https://www.amazon.com/dp/1595620540/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1595620540/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

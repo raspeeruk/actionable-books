@@ -141,7 +141,7 @@ f_quote-2: >-
   the biggest lever for change is not a change in self-belief but a fundamental
   change in the way one sees and regards one’s connections with and obligations
   to others."
-f_amazon-url: https://www.amazon.com/dp/1626567158/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1626567158/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

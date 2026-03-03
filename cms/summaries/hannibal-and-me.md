@@ -136,7 +136,7 @@ f_insight-1: >-
   about show, it is about acting in a way that moves you towards your goal.
 f_conclusion: ''
 f_quote-2: '"The greater a man''s successes, the less it must be trusted to endure."'
-f_amazon-url: https://www.amazon.com/dp/B00CVE14SA/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00CVE14SA/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

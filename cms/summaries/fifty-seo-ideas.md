@@ -180,7 +180,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Just Google 'Jason McDonald' to find his site or send him a message – he’s
   number one on Google!"
-f_amazon-url: https://www.amazon.com/dp/1480057800/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1480057800/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

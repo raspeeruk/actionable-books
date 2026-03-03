@@ -133,7 +133,7 @@ f_quote-2: >-
   "Life Planning is fundamentally about imagining a better future. It’s about
   breaking free of your limiting beliefs, tapping into your deepest desires, and
   standing in the realm of possibility."
-f_amazon-url: https://www.amazon.com/dp/080101882X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/080101882X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

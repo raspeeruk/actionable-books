@@ -173,7 +173,7 @@ f_quote-2: >-
   men are those who see that thoughts rule the world.' … Amazingly perceptive
   minds like Shakespeare, who observed, 'There is nothing either good or bad
   except that thinking makes it so.'"
-f_amazon-url: https://www.amazon.com/dp/B00NGZIR92/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00NGZIR92/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

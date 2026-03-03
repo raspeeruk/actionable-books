@@ -129,7 +129,7 @@ f_quote-2: >-
   "Question Thinking is a system of tools for transforming thinking, action, and
   results through skillful question asking – questions we ask ourselves and well
   as those we ask others."
-f_amazon-url: https://www.amazon.com/dp/B0145TDR4C/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B0145TDR4C/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

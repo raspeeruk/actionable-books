@@ -132,7 +132,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The internet has changed the infrastructure of relationships… Each time you
   don’t share, a relationship loses its wings."
-f_amazon-url: https://www.amazon.com/dp/1451636008/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1451636008/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

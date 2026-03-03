@@ -115,7 +115,7 @@ f_conclusion: >-
   pop-culture examples as well as examples from his own experience, he takes us
   step-by-step through Surprise and using its elements to its most effective
   implementation.
-f_amazon-url: https://www.amazon.com/dp/0470405503/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470405503/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -107,7 +107,7 @@ f_conclusion: >-
   Shankman’s nine traits, you will be shown up. “It’s a transparent world out
   there, so you really don’t have a choice. You have to be nice”, says Joel
   Bomgar, one of the case studies in the book.
-f_amazon-url: https://www.amazon.com/dp/113727915X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/113727915X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

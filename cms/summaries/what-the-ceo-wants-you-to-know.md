@@ -128,7 +128,7 @@ f_quote-2: >-
   make money year after year—are like the best teacher you ever had. They are
   able to take the complexity and mystery out of business by focusing on the
   core fundamentals."
-f_amazon-url: https://www.amazon.com/dp/0609608398/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0609608398/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

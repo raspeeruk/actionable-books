@@ -122,7 +122,7 @@ f_quote-2: >-
   "Most people upshift when they want to get through to other people. They
   persuade. They encourage. They argue. They push. And in the process, they
   create resistance."
-f_amazon-url: https://www.amazon.com/dp/0814414036/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0814414036/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

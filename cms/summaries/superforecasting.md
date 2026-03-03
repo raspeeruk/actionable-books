@@ -119,7 +119,7 @@ f_quote-2: >-
   a struggle. But foxes are likelier to give it a try. Whether by virtue of
   temperament or habit or conscious effort, they tend to engage in the hard work
   of consulting other perspectives."
-f_amazon-url: https://www.amazon.com/dp/0804136696/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0804136696/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

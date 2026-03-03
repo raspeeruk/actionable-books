@@ -178,7 +178,7 @@ f_quote-2: >-
   leaders fundamentally misunderstood the most important source of
   motivation...the conventional rules miss the fundamental act of good
   management: managing for progress."
-f_amazon-url: https://www.amazon.com/dp/142219857X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/142219857X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

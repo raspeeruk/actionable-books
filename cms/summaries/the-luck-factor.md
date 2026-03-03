@@ -177,7 +177,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Luck is not a magical ability or a gift from the gods. Instead, it is a state
   of mind―a way of thinking and behaving."
-f_amazon-url: https://www.amazon.com/dp/1401359418/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1401359418/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

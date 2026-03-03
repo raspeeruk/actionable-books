@@ -117,7 +117,7 @@ f_quote-2: >-
   really am...I wrote this book not sure I could follow the road to character,
   but I wanted at least to know what the road looks like and how other people
   have trodden it."
-f_amazon-url: https://www.amazon.com/dp/081299325X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/081299325X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -115,7 +115,7 @@ f_conclusion: >-
   environment changes and ours has. If we don’t adapt soon we run the risk of
   becoming dinosaurs (and you know what happened to them).
 f_quote-2: '"We have risen to challenges more formidable than these."'
-f_amazon-url: https://www.amazon.com/dp/B0050IET72/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B0050IET72/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

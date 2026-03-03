@@ -124,7 +124,7 @@ f_quote-2: >-
   "No matter in what arena, in life or work or play, the difference between
   winning and losing, the gap that separates success and failure, is so slight,
   so subtle, that most never see it."
-f_amazon-url: https://www.amazon.com/dp/1626340463/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1626340463/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

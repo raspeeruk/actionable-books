@@ -105,7 +105,7 @@ f_insight-1: >-
   only will you attract new customers, but your existing customers will see more
   value in your product or service and be less vulnerable to the competition.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1422187179/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1422187179/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -154,7 +154,7 @@ f_conclusion: >-
 f_quote-2: >-
   "You've got to wake up every morning with determination if you're going to go
   to bed with satisfaction."
-f_amazon-url: https://www.amazon.com/dp/0979019710/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0979019710/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

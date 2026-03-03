@@ -123,7 +123,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Feeling glad more often and more consistently is available for everyone in
   any circumstance."
-f_amazon-url: https://www.amazon.com/dp/1577319354/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1577319354/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -39,7 +39,7 @@ f_conclusion: >-
   logic behind his process, Roam teaches that we can all benefit from the power
   of visual thinking. So long as we’re willing to let our inner kindergartner
   out.
-f_amazon-url: https://www.amazon.com/dp/1591843065/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591843065/?tag=actionableb08-20
 f_quote-reference: ''
 layout: '[summaries].html'
 tags: summaries

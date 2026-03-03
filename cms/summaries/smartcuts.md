@@ -128,7 +128,7 @@ f_conclusion: >-
   need to alter? What smartcuts do you need to add? To have the breakthrough
   change you desire, maybe you need to break some of the rules.
 f_quote-2: '"…the fastest route to success is never traditional…"'
-f_amazon-url: https://www.amazon.com/dp/B00IHZUTGA/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00IHZUTGA/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

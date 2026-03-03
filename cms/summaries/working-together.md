@@ -136,7 +136,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Does the partnership cause the success, or does the success cause the
   partnership?"
-f_amazon-url: https://www.amazon.com/dp/0061732362/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0061732362/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

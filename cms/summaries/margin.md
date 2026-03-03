@@ -135,7 +135,7 @@ f_conclusion: >-
 f_quote-2: >-
   Now that we have exceeded our limits—personal, emotional, relational,
   physical, financial—we have no margin at all.
-f_amazon-url: https://www.amazon.com/dp/1576836827/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1576836827/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

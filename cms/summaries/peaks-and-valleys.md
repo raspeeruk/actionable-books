@@ -103,7 +103,7 @@ f_quote-2: >-
   "…they began to discuss what the old man called a Peaks and Valleys approach.
   He said it was a philosophy with skills—a way of looking at things and doing
   things that makes you calmer and more successful in good and bad times."
-f_amazon-url: https://www.amazon.com/dp/B003E8P9EM/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B003E8P9EM/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

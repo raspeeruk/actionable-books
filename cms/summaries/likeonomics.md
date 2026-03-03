@@ -179,7 +179,7 @@ f_conclusion: ''
 f_quote-2: >-
   "How can any person, organization, or idea become more trusted and more
   believable?"
-f_amazon-url: https://www.amazon.com/dp/1118137531/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118137531/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

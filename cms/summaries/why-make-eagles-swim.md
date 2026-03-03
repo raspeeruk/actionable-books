@@ -134,7 +134,7 @@ f_conclusion: >-
 f_quote-2: >-
   “We need a perspective on growth and development that’s focused on where we as
   well as others are naturally gifted.”
-f_amazon-url: https://www.amazon.com/dp/1626343365/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1626343365/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

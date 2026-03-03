@@ -128,7 +128,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Words construct personages and place them in phenomenal existence. That’s the
   primary use of words."
-f_amazon-url: https://www.amazon.com/dp/143353522X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/143353522X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

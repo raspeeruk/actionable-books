@@ -119,7 +119,7 @@ f_conclusion: >-
 f_quote-2: >-
   "We add to our suffering when life changes and we still behave as if it
   hadn’t."
-f_amazon-url: https://www.amazon.com/dp/B007EE4WX6/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B007EE4WX6/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

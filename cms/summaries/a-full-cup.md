@@ -160,7 +160,7 @@ f_conclusion: ''
 f_quote-2: >-
   "On his return to London, the papers began to refer to Sir Thomas Lipton not
   as a manufacturer, merchant, or sportsman, but as a celebrity."
-f_amazon-url: https://www.amazon.com/dp/1594485216/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1594485216/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

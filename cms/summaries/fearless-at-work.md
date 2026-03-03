@@ -120,7 +120,7 @@ f_quote-2: >-
   “At the heart of fearless living is a sense of purpose. The values that
   inspire your purpose must be anchored within you to guide your reactions and
   decisions in the small moments.”
-f_amazon-url: https://www.amazon.com/dp/1259862984/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1259862984/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

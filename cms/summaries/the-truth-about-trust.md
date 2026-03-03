@@ -70,7 +70,7 @@ f_insight-1: >-
   competence as well. Ask yourself if they have the skills and experience to do
   what they say they can do.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1594631239/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1594631239/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

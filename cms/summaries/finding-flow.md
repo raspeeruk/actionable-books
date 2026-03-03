@@ -138,7 +138,7 @@ f_quote-2: >-
   that this activity be as enjoyable and rewarding as possible. Yet many people
   feel that as long as they get decent pay and some security, it does not matter
   how boring or alienating their job is."
-f_amazon-url: https://www.amazon.com/dp/0465024114/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0465024114/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

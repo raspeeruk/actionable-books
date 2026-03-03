@@ -143,7 +143,7 @@ f_conclusion: >-
   The challenge this book presents is: _Think what your life and business would
   be like if you assumed none of your beliefs were true?_
 f_quote-2: '"You can open yourself to possibilities you never imagined were even possible”'
-f_amazon-url: https://www.amazon.com/dp/1476777845/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1476777845/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

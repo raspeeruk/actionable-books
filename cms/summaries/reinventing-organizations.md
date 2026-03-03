@@ -135,7 +135,7 @@ f_quote-2: >-
   to what’s possible. A book that shares how some companies have found ways to
   be truly powerful, soulful, and purposeful…and that invites you to imagine a
   new future for your organization."
-f_amazon-url: https://www.amazon.com/dp/2960133552/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/2960133552/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

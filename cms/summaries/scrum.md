@@ -227,7 +227,7 @@ f_conclusion: >-
 f_quote-2: >-
   “The key is to refine the plan throughout the project rather than to do it all
   up front.”
-f_amazon-url: https://www.amazon.com/dp/038534645X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/038534645X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

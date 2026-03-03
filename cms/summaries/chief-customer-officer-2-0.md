@@ -116,7 +116,7 @@ f_quote-2: >-
   "A Chief Customer Officer is successful when he or she can simplify how the
   organization works together to achieve customer-driven growth, engage the
   leadership team, and connect the work to a return on investment."
-f_amazon-url: https://www.amazon.com/dp/1119047609/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1119047609/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -145,7 +145,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The same activities that take us from failure to survival would also take us
   from survival to success—if we just keep doing them."
-f_amazon-url: https://www.amazon.com/dp/1626340463/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1626340463/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

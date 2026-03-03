@@ -109,7 +109,7 @@ f_conclusion: >-
 f_quote-2: >-
   "So why do you see different results? The answer is found in your words and
   how you use them"
-f_amazon-url: https://www.amazon.com/dp/0967916240/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0967916240/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -156,7 +156,7 @@ f_quote-2: >-
   somebody to trust you? It is clear that it is not done by saying ‘Trust me!’
   Nothing is more likely to get the listener to put up his or her defences! The
   key point is that trust must be earned and deserved."
-f_amazon-url: https://www.amazon.com/dp/0743212347/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0743212347/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

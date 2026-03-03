@@ -110,7 +110,7 @@ f_conclusion: >-
   to over and over again. If you are not yet a fearless, strategic, HR leader
   for your business, _Fearless HR_ can help you get there!
 f_quote-2: “This is a business book about HR, not an HR book about business.”
-f_amazon-url: https://www.amazon.com/dp/1514238004/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1514238004/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

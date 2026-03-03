@@ -115,7 +115,7 @@ f_quote-2: >-
   afraid of getting shot, divorce rates remain high, and parents still can’t
   find a way to communicate with their kids. Even our political disagreements
   have, in some cases, literally descended into violence."
-f_amazon-url: https://www.amazon.com/dp/B01NCNABXV/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B01NCNABXV/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

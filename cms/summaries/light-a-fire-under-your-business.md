@@ -141,7 +141,7 @@ f_quote-2: >-
   improves your organization but also ultimately enhances your brand by giving
   your leaders, your workforce, and your customers a good feeling about what you
   do and why you do it.”
-f_amazon-url: https://www.amazon.com/dp/144083458X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/144083458X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

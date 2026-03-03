@@ -108,7 +108,7 @@ f_quote-2: >-
   Everyone was so proud of this resilient, selfless group of young men who gave
   everything they had to each other and our season... [George Boiardi] taught us
   the essence of being an honorable teammate and an authentic team."
-f_amazon-url: https://www.amazon.com/dp/111912011X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/111912011X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

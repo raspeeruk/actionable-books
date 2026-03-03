@@ -94,7 +94,7 @@ f_conclusion: >-
   decided to reach out to Honest Tea through Twitter. I have been assured that
   soon, very soon, I will be able to purchase a bottle. Can’t wait to try this
   iced tea that is just a “tad sweet.”
-f_amazon-url: https://www.amazon.com/dp/B00BRUQ3WG/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00BRUQ3WG/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

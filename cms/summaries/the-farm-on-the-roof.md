@@ -125,7 +125,7 @@ f_quote-2: >-
   "We didn’t simply want to farm; we intended to create a small farm business –
   a self-sustaining enterprise that, like any other business, would have to turn
   a profit to survive."
-f_amazon-url: https://www.amazon.com/dp/1592409482/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1592409482/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

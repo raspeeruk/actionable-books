@@ -130,7 +130,7 @@ f_quote-2: >-
   managers, or entrepreneurs, is to make others see the advantage to themselves
   in responding to our proposal. Understanding our subjects’ personalities is
   vital. Let them shine. Our own personalities are subordinate."
-f_amazon-url: https://www.amazon.com/dp/006074281X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/006074281X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

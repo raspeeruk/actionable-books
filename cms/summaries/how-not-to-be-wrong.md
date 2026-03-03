@@ -106,7 +106,7 @@ f_quote-2: >-
   "The mathematical ideas we want to address are ones that can be engaged with
   directly and profitably, whether your mathematical training stops at
   pre-algebra or extends much further."
-f_amazon-url: https://www.amazon.com/dp/0143127535/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0143127535/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

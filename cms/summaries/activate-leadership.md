@@ -131,7 +131,7 @@ f_conclusion: >-
   _Activate Leadership_, the resources are there for Millennials to succeed. So
   Millennials, your time is now, are you ready?!
 f_quote-2: '"To the next generation of leaders who lead on purpose."'
-f_amazon-url: https://www.amazon.com/dp/0990539113/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0990539113/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

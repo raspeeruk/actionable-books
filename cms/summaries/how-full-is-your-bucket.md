@@ -108,7 +108,7 @@ f_quote-2: >-
   "So we face a choice every moment of every day: We can fill one another’s
   buckets, or we can dip from them. It’s an important choice – one that
   profoundly influences our relationships, productivity, health, and happiness."
-f_amazon-url: https://www.amazon.com/dp/B001RNNRSG/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B001RNNRSG/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

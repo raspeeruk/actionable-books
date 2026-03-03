@@ -97,7 +97,7 @@ f_quote-2: >-
   safe while they are there, and return home at the end of the day feeling
   fulfilled by the work they do, feeling that they have contributed to something
   greater than themselves.”
-f_amazon-url: https://www.amazon.com/dp/1591847850/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591847850/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

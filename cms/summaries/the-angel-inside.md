@@ -128,7 +128,7 @@ f_conclusion: >-
   my heart – if you don’t have passion for what you’re doing, you really don’t
   have anything. It’s a limitless world out there; find your corner and bask in
   it.
-f_amazon-url: https://www.amazon.com/dp/0307719537/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0307719537/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

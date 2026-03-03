@@ -95,7 +95,7 @@ f_conclusion: >-
   The authors encourage “us as the author of our own stories to connect the dots
   between our past and our future to find our inspiration to lead
   authentically.”
-f_amazon-url: https://www.amazon.com/dp/0787987514/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0787987514/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -139,7 +139,7 @@ f_quote-2: >-
   "Knowledge work is fundamentally different: workers are expected not so much
   to perform standard roles but to generate creative, innovative results that
   surprise and delight customers and colleagues."
-f_amazon-url: https://www.amazon.com/dp/0596804172/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0596804172/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

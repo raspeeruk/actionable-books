@@ -188,7 +188,7 @@ f_insight-1: >-
 f_conclusion: >-
   By getting to know ourselves better, managing ourselves better, we have the
   opportunity to perform at our best. We can become Enlightened Leaders.
-f_amazon-url: https://www.amazon.com/dp/B00FYYTRT2/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00FYYTRT2/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

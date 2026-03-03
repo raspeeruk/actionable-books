@@ -123,7 +123,7 @@ f_quote-2: >-
   "Because the focus on scarcity is involuntary, and because it captures our
   attention, it impedes our ability to focus on other things. Scarcity in one
   walk of life means we have less attention, less mind, in the rest of life."
-f_amazon-url: https://www.amazon.com/dp/0805092641/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0805092641/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

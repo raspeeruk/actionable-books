@@ -116,7 +116,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The most important decision we make is whether we believe we live in a
   friendly or a hostile universe."
-f_amazon-url: https://www.amazon.com/dp/0062205412/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062205412/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

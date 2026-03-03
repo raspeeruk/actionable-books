@@ -136,7 +136,7 @@ f_quote-2: >-
   "If the conditions that facilitate self-control, and those that undermine it,
   could be identified, perhaps they could be harnessed to teach people who have
   trouble waiting to be better at it."
-f_amazon-url: https://www.amazon.com/dp/0316230863/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0316230863/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

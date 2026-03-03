@@ -134,7 +134,7 @@ f_conclusion: >-
   book also reminds us that Disney U has been putting that wisdom into practice
   for over half a century. When will other organizations catch up?
 f_quote-2: '"Training programs reflect organizational values and health."'
-f_amazon-url: https://www.amazon.com/dp/0071808078/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071808078/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

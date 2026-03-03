@@ -148,7 +148,7 @@ f_insight-1: >-
 
   Wh**Y** are you telling the story in the first place?
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0814420303/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0814420303/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

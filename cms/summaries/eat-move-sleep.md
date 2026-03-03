@@ -160,7 +160,7 @@ f_insight-1: >-
   and mixed package of root vegetables for roasting (no excuses now!) I will
   make broccoli soup and freeze individual servings for quick lunches.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1939714001/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1939714001/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

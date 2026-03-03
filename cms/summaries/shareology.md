@@ -110,7 +110,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Humans have been sharing resources and knowledge since they first banded
   together in prehistoric times, even before there was language."
-f_amazon-url: https://www.amazon.com/dp/1630473847/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1630473847/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

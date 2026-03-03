@@ -112,7 +112,7 @@ f_quote-2: >-
   accurate with every decision, and as more decisions are required and more
   options are available, the challenge of doing the decision making correctly
   becomes ever more difficult to meet."
-f_amazon-url: https://www.amazon.com/dp/B000TDGGVU/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B000TDGGVU/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

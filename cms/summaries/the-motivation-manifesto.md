@@ -161,7 +161,7 @@ f_conclusion: >-
 f_quote-2: >-
   "To spend the full force of our energies advancing toward a Personal Freedom –
   the genuine life full of vibrancy and meaning – this shall be our aim."
-f_amazon-url: https://www.amazon.com/dp/1401948073/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1401948073/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

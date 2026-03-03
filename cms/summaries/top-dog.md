@@ -95,7 +95,7 @@ f_conclusion: >-
 f_quote-2: >-
   "To be successful, you have to be able to perform when it counts. You have to
   be able to handle the pressure. You need to not wilt in the competition."
-f_amazon-url: https://www.amazon.com/dp/1455515159/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1455515159/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

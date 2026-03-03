@@ -221,7 +221,7 @@ f_quote-2: >-
   "The Mind of calmness and clarity you experience while sitting in mindfulness
   meditation is very nice, but it only becomes life changing when you can bring
   up that mind on demand, in day-to-day life."
-f_amazon-url: https://www.amazon.com/dp/0062116932/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062116932/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

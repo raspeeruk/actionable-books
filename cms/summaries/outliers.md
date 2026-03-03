@@ -104,7 +104,7 @@ f_conclusion: >-
   big but), Gladwell makes it very clear that all the opportunity in the world
   will not guarantee success if they are not coupled with a passion for what we
   do, and a dedication to perfecting our craft.
-f_amazon-url: https://www.amazon.com/dp/0316017922/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0316017922/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -119,7 +119,7 @@ f_quote-2: >-
   "I have become increasingly and consciously are of a remarkable tool that is
   not only at my disposal, but is available to every member of the human
   species... (it is) action."
-f_amazon-url: https://www.amazon.com/dp/1590770587/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1590770587/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

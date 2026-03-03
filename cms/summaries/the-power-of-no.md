@@ -85,7 +85,7 @@ f_conclusion: >-
   Once I finished the book, I found it helpful to return to the beginning and
   refresh my memory of the introductory guidelines:
 f_quote-2: '"It’s one thing to say no. It’s another thing to have the Power of No."'
-f_amazon-url: https://www.amazon.com/dp/1401945872/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1401945872/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

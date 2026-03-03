@@ -117,7 +117,7 @@ f_quote-2: >-
   "Just because your team doesn’t have the time or the budget to embark on a
   full-scale training program, doesn’t mean you have to abandon the idea of
   team-building exercises altogether."
-f_amazon-url: https://www.amazon.com/dp/081447201X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/081447201X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -181,7 +181,7 @@ f_conclusion: >-
   in never-ending, intentional efforts. What culture do you want and what steps
   will you take to create it?
 f_quote-2: “Group culture is one of the most powerful forces on the planet.”
-f_amazon-url: https://www.amazon.com/dp/0804176981/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0804176981/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

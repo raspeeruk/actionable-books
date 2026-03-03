@@ -145,7 +145,7 @@ f_quote-2: >-
   teaching, directing, facilitating, or coaching – in other words, constantly
   activating the potential around them – as they move through the workday, the
   company is already at a considerable disadvantage."
-f_amazon-url: https://www.amazon.com/dp/0979376831/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0979376831/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

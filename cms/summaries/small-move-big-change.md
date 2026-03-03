@@ -95,7 +95,7 @@ f_quote-2: >-
   "[It] is about making resolutions that succeed EVERY time. By rethinking
   willpower, and refocusing your resolutions, you can master the art of instant
   and sustainable self-improvement."
-f_amazon-url: https://www.amazon.com/dp/0143126164/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0143126164/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

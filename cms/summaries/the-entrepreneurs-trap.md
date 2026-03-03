@@ -103,7 +103,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Running the business is not the fun and sexy side of entrepreneurship, but it
   is essential to your success and sanity."
-f_amazon-url: https://www.amazon.com/dp/1934509620/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1934509620/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

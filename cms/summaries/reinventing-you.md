@@ -117,7 +117,7 @@ f_conclusion: >-
   take an active role in evolving the job they’re in into the one they’ve always
   wanted to be in.
 f_quote-2: '"This book is an invitation to ask what you want out of life."'
-f_amazon-url: https://www.amazon.com/dp/1422144135/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1422144135/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

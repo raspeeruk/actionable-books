@@ -147,7 +147,7 @@ f_insight-1: >-
   answer you never knew existed—something that is only achieved through
   deliberate reflection and intensive research.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1885167776/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1885167776/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

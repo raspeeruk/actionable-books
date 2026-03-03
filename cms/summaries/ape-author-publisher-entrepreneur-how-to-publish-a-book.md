@@ -121,7 +121,7 @@ f_insight-1: >-
   not have your book readable in multiple options.
 f_conclusion: ''
 f_quote-2: The first good reason to write a book is to add value to people’s lives.
-f_amazon-url: https://www.amazon.com/dp/0988523108/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0988523108/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -128,7 +128,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Sure, it would be nice if we were more rational and clear-headed about our
   “should”s. Unfortunately, we’re not."
-f_amazon-url: https://www.amazon.com/dp/0061995037/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0061995037/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

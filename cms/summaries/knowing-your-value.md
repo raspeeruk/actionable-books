@@ -123,7 +123,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Knowing the fair-market value of our contributions at work is a critically
   important piece of knowledge for today’s (and tomorrow’s) professional woman."
-f_amazon-url: https://www.amazon.com/dp/1602861609/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1602861609/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

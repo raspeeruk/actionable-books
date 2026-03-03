@@ -128,7 +128,7 @@ f_quote-2: >-
   "All the raw ingredients of communication (words, body language, emotion,
   logic, action, inaction, listening, branding, perception, structure, and so
   forth) produce change – either positive or negative."
-f_amazon-url: https://www.amazon.com/dp/0735205337/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0735205337/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

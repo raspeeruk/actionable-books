@@ -151,7 +151,7 @@ f_quote-2: >-
   "This is a book that will help you become not just a better leader, but also a
   better person, by making you more self-aware and showing you how to build up
   the people around you."
-f_amazon-url: https://www.amazon.com/dp/1591845912/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591845912/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -100,7 +100,7 @@ f_conclusion: >-
   alternative. A brand is flipped because it operates more like a church than a
   business: find true believers and help them tell the story.
 f_quote-2: '"A brand isn''t what you say it is. It''s what they say it is."'
-f_amazon-url: https://www.amazon.com/dp/0134172817/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0134172817/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

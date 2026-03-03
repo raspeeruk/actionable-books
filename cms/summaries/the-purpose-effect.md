@@ -159,7 +159,7 @@ f_conclusion: >-
   effect takes hard work, perseverance and an ability between the individual and
   the organization to achieve the sweet spot.
 f_quote-2: '"Purpose brings out the best in people and the best people."'
-f_amazon-url: https://www.amazon.com/dp/1937498891/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1937498891/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -152,7 +152,7 @@ f_quote-2: >-
   "Engagement is a fundamental human need. It is a power that resides in most
   people, waiting to be unlocked. People want to be engaged in what they do. If
   employers build the foundation, employees will do the rest."
-f_amazon-url: https://www.amazon.com/dp/162634115X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/162634115X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

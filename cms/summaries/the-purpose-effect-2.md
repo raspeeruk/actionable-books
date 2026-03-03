@@ -125,7 +125,7 @@ f_quote-2: >-
   "The Purpose Effect is a three-way relationship between an individual’s
   personal sense of purpose in life, the organization’s purpose and a person’s
   purpose in their role at work."
-f_amazon-url: https://www.amazon.com/dp/1937498891/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1937498891/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

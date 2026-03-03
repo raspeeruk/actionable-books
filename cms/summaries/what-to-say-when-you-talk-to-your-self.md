@@ -143,7 +143,7 @@ f_quote-2: >-
   "Your success or failure in anything, large or small, will depend on your
   programming – what you accept from others, and what you say when you talk to
   yourself."
-f_amazon-url: https://www.amazon.com/dp/0671708821/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0671708821/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

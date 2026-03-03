@@ -147,7 +147,7 @@ f_conclusion: >-
   frequently mentioning the universe, you may even say it’s “woo-woo” or call
   her a tad eccentric. But her methods are also motivating, hilarious, and
   extremely relatable.
-f_amazon-url: https://www.amazon.com/dp/0735222975/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0735222975/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

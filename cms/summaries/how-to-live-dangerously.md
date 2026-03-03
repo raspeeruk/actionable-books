@@ -130,7 +130,7 @@ f_quote-2: >-
   "The more we try to avoid danger, the more dangerous life becomes. And it’s
   not even very much fun, living like that. So, if avoiding danger doesn’t keep
   us safe, what does?"
-f_amazon-url: https://www.amazon.com/dp/0312533896/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0312533896/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

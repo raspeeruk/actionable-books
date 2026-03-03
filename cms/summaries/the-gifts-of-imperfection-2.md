@@ -131,7 +131,7 @@ f_quote-2: >-
   as dangerous as giving up on love and belonging and joy- the experiences that
   make us most vulnerable. Only when we are brave enough to explore the darkness
   will we discover the infinite power of our light.”
-f_amazon-url: https://www.amazon.com/dp/159285849X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/159285849X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

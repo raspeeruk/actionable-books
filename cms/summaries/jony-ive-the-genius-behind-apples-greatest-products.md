@@ -98,7 +98,7 @@ f_quote-2: >-
   struck [Jony Ive]; he felt an immediate connection to the machine and, more
   important, to the soul of the enterprise. It was the first time he felt the
   humanity of a product."
-f_amazon-url: https://www.amazon.com/dp/159184617X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/159184617X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

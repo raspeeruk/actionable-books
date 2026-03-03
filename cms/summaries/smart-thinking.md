@@ -130,7 +130,7 @@ f_conclusion: ''
 f_quote-2: >-
   "When you understand how the mind works, you can think smarter – and act
   smarter."
-f_amazon-url: https://www.amazon.com/dp/0399537759/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0399537759/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

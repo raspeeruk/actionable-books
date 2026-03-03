@@ -125,7 +125,7 @@ f_conclusion: >-
 f_quote-2: >-
   "You don’t have to switch careers or move to Silicon Valley to change your
   mindset"
-f_amazon-url: https://www.amazon.com/dp/038534936X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/038534936X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

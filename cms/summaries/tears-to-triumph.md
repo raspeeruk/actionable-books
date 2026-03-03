@@ -132,7 +132,7 @@ f_conclusion: >-
 f_quote-2: >-
   “The pain you are going through is not what will determine your future; your
   future will be determined by who you are as you go through your pain.”
-f_amazon-url: https://www.amazon.com/dp/0062205447/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062205447/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -138,7 +138,7 @@ f_quote-2: >-
   steps in a new direction, which become self-sustaining when they pay off. Our
   hope is to provide those steps, and start to change the narrative, so we can
   all grow to make constraints beautiful."
-f_amazon-url: https://www.amazon.com/dp/1118899016/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118899016/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

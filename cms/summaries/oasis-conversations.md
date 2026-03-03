@@ -157,7 +157,7 @@ f_quote-2: >-
   relationships and results to suffer. For most of us, communicating with others
   is one of the most challenging aspects of our professional and personal
   lives.”
-f_amazon-url: https://www.amazon.com/dp/0997513608/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0997513608/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

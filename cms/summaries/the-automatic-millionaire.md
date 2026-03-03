@@ -23,7 +23,7 @@ f_quote-2: >-
   “Any system that is designed to control your normal human impulses is
   ultimately bound to fail. That’s because humans don’t want to be controlled.
   We want to be in control. ”
-f_amazon-url: https://www.amazon.com/dp/0767923820/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0767923820/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

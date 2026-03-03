@@ -114,7 +114,7 @@ f_insight-1: >-
   something that stretches you.
 f_conclusion: ''
 f_quote-2: '"You are our role models, our trail-blazers, and we salute and honor you."'
-f_amazon-url: https://www.amazon.com/dp/B01C3OXYOY/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B01C3OXYOY/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

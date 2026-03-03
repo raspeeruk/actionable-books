@@ -164,7 +164,7 @@ f_conclusion: >-
   and caring about your customer. The traditional MBA program may not be dead,
   but it’s in need of a radical facelift if it’s going to continue to create the
   leaders of the future.
-f_amazon-url: https://www.amazon.com/dp/1594481717/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1594481717/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

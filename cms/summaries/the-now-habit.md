@@ -144,7 +144,7 @@ f_conclusion: ''
 f_quote-2: >-
   "The Now Habit is a strategic system, that is, it goes beyond ‘how to’ advice
   and presents a plan based on the dynamics of procrastination and motivation."
-f_amazon-url: https://www.amazon.com/dp/1585425524/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1585425524/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

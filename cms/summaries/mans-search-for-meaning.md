@@ -106,7 +106,7 @@ f_conclusion: >-
   For what current problem are you taking the responsibility and fulfilling the
   necessary tasks that are before you?
 f_quote-2: '"The meaning of your life is to help others find the meaning of theirs."'
-f_amazon-url: https://www.amazon.com/dp/080701429X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/080701429X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

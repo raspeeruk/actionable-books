@@ -167,7 +167,7 @@ f_quote-2: >-
   "No matter what we’re doing on the outside, people respond primarily to how
   we’re feeling about them on the inside. And how we’re feeling about them
   depends on whether we’re in or out of the box concerning them."
-f_amazon-url: https://www.amazon.com/dp/1576759776/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1576759776/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -128,7 +128,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Companies that squelch creativity can no longer compete with companies that
   champion creativity."
-f_amazon-url: https://www.amazon.com/dp/9781591842/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/9781591842/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

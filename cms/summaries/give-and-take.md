@@ -178,7 +178,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Focus attention and energy on making a difference in the lives of others, and
   success might follow as a by-product."
-f_amazon-url: https://www.amazon.com/dp/0670026557/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0670026557/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -136,7 +136,7 @@ f_quote-2: >-
   potential is not a matter of only ‘being better to our people,’ a DDO
   [Deliberately Developmental Organization] represents, instead, a rethinking of
   the very place of people development in organizational life."
-f_amazon-url: https://www.amazon.com/dp/1625278624/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1625278624/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

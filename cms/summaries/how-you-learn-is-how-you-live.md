@@ -150,7 +150,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Living each life experience with a learning attitude can help us extract the
   right lessons from that experience."
-f_amazon-url: https://www.amazon.com/dp/1626568707/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1626568707/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

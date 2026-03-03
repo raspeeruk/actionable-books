@@ -123,7 +123,7 @@ f_conclusion: >-
   because of the length of time it may take to achieve the mission that matters,
   because of the new directions you may need to go in order to achieve.
 f_quote-2: '"Success has to do with… discovering what matters to us as individuals."'
-f_amazon-url: https://www.amazon.com/dp/0452288703/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0452288703/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

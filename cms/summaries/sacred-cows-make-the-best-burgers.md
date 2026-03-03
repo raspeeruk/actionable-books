@@ -146,7 +146,7 @@ f_insight-1: >-
   Question “obvious”. Question what works, and what doesn’t. Question
   everything.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/B000LP66SE/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B000LP66SE/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

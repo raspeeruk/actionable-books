@@ -121,7 +121,7 @@ f_quote-2: >-
   "Lovemarks are the brands, events and experiences that people love. Not just
   like or admire but love passionately. For great brands to survive they must
   create loyalty beyond reason in consumers."
-f_amazon-url: https://www.amazon.com/dp/1576872041/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1576872041/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

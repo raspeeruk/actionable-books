@@ -160,7 +160,7 @@ f_quote-2: >-
   "It all boils down to the act of stirring someone to join you – to agree to
   follow you. Yet we consistently underestimate how critical it is to recognize
   the needs, spoken and unspoken, of the decision maker."
-f_amazon-url: https://www.amazon.com/dp/1937134040/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1937134040/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

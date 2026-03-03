@@ -171,7 +171,7 @@ f_conclusion: >-
 f_quote-2: >-
   "You now understand that the frontline sales management role is one of the
   absolute toughest jobs on the planet."
-f_amazon-url: https://www.amazon.com/dp/B01019D3QC/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B01019D3QC/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

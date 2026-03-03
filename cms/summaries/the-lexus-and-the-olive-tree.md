@@ -107,7 +107,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Fasten your seat belts and put your seat backs and tray tables into a fixed
   and upright position."
-f_amazon-url: https://www.amazon.com/dp/1250013747/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1250013747/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

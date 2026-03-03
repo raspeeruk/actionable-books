@@ -124,7 +124,7 @@ f_conclusion: >-
 f_quote-2: >-
   "What’s the secret that separates superstars from everyone else, and why do
   they consistently outperform other salespeople? Fanatical Prospecting."
-f_amazon-url: https://www.amazon.com/dp/1119144752/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1119144752/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -109,7 +109,7 @@ f_quote-2: >-
   and resilient organization that not only serves customers better but also
   unleashes the hidden energy within your employees. The results can be
   absolutely astounding."
-f_amazon-url: https://www.amazon.com/dp/0060915803/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0060915803/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

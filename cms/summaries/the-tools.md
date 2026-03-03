@@ -159,7 +159,7 @@ f_quote-2: >-
   What if every bad thing that’s ever happened to you–including every problem
   you’ve ever had–was there, in your life, to get you in touch with abilities
   you never knew you had?
-f_amazon-url: https://www.amazon.com/dp/0812983041/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0812983041/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

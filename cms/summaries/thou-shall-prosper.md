@@ -121,7 +121,7 @@ f_quote-2: >-
   "Step one in the process of increasing your income is to begin wrapping
   yourself around these two related notions: 1) You are in business and 2) the
   occupation of business is moral, noble, and worthy."
-f_amazon-url: https://www.amazon.com/dp/0470485884/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470485884/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

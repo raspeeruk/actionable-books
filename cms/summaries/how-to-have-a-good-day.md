@@ -145,7 +145,7 @@ f_quote-2: >-
   context of today’s working world—the tough assignments, the packed schedules,
   the complex relationships—to show you how to make every day reliably more
   enjoyable and productive.”
-f_amazon-url: https://www.amazon.com/dp/0553419633/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0553419633/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

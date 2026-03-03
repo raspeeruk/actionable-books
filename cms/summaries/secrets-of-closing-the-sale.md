@@ -159,7 +159,7 @@ f_conclusion: >-
 f_quote-2: >-
   "You can have everything in life you want if you will just help enough other
   people get what they want."
-f_amazon-url: https://www.amazon.com/dp/B00B856D16/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00B856D16/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -100,7 +100,7 @@ f_quote-2: >-
   "Don’t believe what your eyes are telling you. All they show is limitation.
   Look with your understanding, find out what you already know, and you’ll see
   the way to fly."
-f_amazon-url: https://www.amazon.com/dp/B00FNVSK1M/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00FNVSK1M/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

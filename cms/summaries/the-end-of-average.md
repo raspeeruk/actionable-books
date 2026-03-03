@@ -112,7 +112,7 @@ f_quote-2: >-
   average character. Nor are there average students or average employees – or
   average brains, for that matter. Every one of these familiar notions is a
   figment of a misguided scientific imagination."
-f_amazon-url: https://www.amazon.com/dp/0062358367/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062358367/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

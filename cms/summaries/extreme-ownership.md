@@ -141,7 +141,7 @@ f_conclusion: >-
   and the authors do an incredible job of laying a foundation for both in this
   book. I’ll leave with you the last paragraph from the book as I feel it is so
   appropriate…
-f_amazon-url: https://www.amazon.com/dp/1250067057/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1250067057/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

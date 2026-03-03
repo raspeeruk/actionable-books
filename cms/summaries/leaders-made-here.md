@@ -142,7 +142,7 @@ f_quote-2: >-
   "A leadership culture exists when leaders are routinely and systematically
   developed, and you have a surplus of leaders ready for the next opportunity or
   challenge."
-f_amazon-url: https://www.amazon.com/dp/B01LYKB5Y2/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B01LYKB5Y2/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

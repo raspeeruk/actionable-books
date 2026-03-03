@@ -117,7 +117,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Here I stand, atoms with consciousness, matter with curiosity. A universe of
   atoms, an atom in the universe."
-f_amazon-url: https://www.amazon.com/dp/B003V1WXKU/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B003V1WXKU/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

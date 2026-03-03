@@ -113,7 +113,7 @@ f_quote-2: >-
   telling stories about. It never occurred to me that I could re-create my own
   story, my real life story, but in an evolution I had moved toward a better
   me."
-f_amazon-url: https://www.amazon.com/dp/1400202981/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1400202981/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

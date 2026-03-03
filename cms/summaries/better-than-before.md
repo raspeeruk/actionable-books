@@ -125,7 +125,7 @@ f_quote-2: >-
   headway toward a good habit, doing better than before, saves us from facing
   the end of another year with the mournful wish, once again, that we’d done
   things differently."
-f_amazon-url: https://www.amazon.com/dp/0385348614/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0385348614/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

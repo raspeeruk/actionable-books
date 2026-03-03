@@ -122,7 +122,7 @@ f_conclusion: >-
   _Double Double_ is one I’m going to have within arm’s reach for years to come.
   I highly recommend this book.
 f_quote-2: '"It''s about focus, not tactics."'
-f_amazon-url: https://www.amazon.com/dp/1608320995/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1608320995/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

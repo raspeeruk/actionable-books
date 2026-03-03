@@ -127,7 +127,7 @@ f_insight-1: >-
   importance of consistency. Authentic story telling is the only kind that lasts
   long term. Part of being authentic is to be consistent.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/B002BWQ57W/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B002BWQ57W/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

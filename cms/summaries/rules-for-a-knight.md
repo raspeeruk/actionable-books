@@ -93,7 +93,7 @@ f_conclusion: >-
 f_quote-2: >-
   “You are always in the right place at exactly the right time, and you always
   have been.”
-f_amazon-url: https://www.amazon.com/dp/0307962334/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0307962334/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -153,7 +153,7 @@ f_quote-2: >-
   "[‘Hunch’ tells the story of] those successful entrepreneurs, creatives and
   innovators—people just like you—who have harnessed their curiosity, empathy
   and imagination, seeking out opportunities to invent, create and serve."
-f_amazon-url: https://www.amazon.com/dp/0735214115/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0735214115/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

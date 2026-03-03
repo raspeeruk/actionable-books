@@ -117,7 +117,7 @@ f_conclusion: >-
 f_quote-2: >-
   "In fact, they were just like you, me, and most of the people on this planet,
   which means that all of us are perfectly capable of cheating a little bit."
-f_amazon-url: https://www.amazon.com/dp/0062183591/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062183591/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

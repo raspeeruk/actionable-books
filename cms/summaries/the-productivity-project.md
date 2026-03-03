@@ -114,7 +114,7 @@ f_quote-2: >-
   saying is that a task isn't as important or attractive as whatever else they
   have on their plate. Every person gets twenty-four hours of time every day and
   gets to spend those twenty-four hours however he or she chooses."
-f_amazon-url: https://www.amazon.com/dp/1101904038/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1101904038/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

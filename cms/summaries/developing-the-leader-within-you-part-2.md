@@ -97,7 +97,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Most people think success is instantaneous. They look at it as a moment, an
   event, or a place in time. It’s not. Success is really a process."
-f_amazon-url: https://www.amazon.com/dp/0785281126/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0785281126/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

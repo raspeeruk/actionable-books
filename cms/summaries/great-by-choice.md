@@ -135,7 +135,7 @@ f_quote-2: >-
   or flamboyant, normal to the point of dull, or just flat-out weird - none of
   this really matters, as long as they're passionately driven for a cause beyond
   themselves."
-f_amazon-url: https://www.amazon.com/dp/B0058DTIC0/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B0058DTIC0/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

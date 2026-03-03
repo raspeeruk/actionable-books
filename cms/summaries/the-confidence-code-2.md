@@ -122,7 +122,7 @@ f_conclusion: ''
 f_quote-2: >-
   "A pessimist sees the difficulty in every opportunity; an optimist sees the
   opportunity in every difficulty."
-f_amazon-url: https://www.amazon.com/dp/006223062X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/006223062X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

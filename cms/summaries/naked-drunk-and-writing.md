@@ -131,7 +131,7 @@ f_quote-2: >-
   "It’s called ‘Naked, Drunk, and Writing’ because I like that title, and
   because someone at a party once remarked to me over sushi that books with
   ‘naked’ in the title always sell."
-f_amazon-url: https://www.amazon.com/dp/158008480X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/158008480X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

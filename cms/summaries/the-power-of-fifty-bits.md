@@ -114,7 +114,7 @@ f_quote-2: >-
   our brains are instead wired for inattention and inertia. These limitations
   lead to a persistent gap between our internal intentions and our outward
   actions.”
-f_amazon-url: https://www.amazon.com/dp/0062407457/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062407457/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

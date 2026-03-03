@@ -142,7 +142,7 @@ f_quote-2: >-
   "Just as an architect aspires to construct a building that will stand the test
   of time, an entrepreneur should build his product considering the three sides
   of the triangle: Passion, purpose, and people."
-f_amazon-url: https://www.amazon.com/dp/007180949X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/007180949X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

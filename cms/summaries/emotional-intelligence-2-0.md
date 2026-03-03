@@ -122,7 +122,7 @@ f_quote-2: >-
   "First, people just don’t understand it. They often mistake emotional
   intelligence for a form of charisma or gregariousness. Second, they don’t see
   it as something that can be improved."
-f_amazon-url: https://www.amazon.com/dp/B002U3CBUW/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B002U3CBUW/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -144,7 +144,7 @@ f_conclusion: >-
 f_quote-2: >-
   "We save for rainy days when it comes to our bank accounts but don’t do
   anything to protect our careers from the storm"
-f_amazon-url: https://www.amazon.com/dp/1591847613/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591847613/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

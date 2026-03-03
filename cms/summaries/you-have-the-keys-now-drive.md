@@ -137,7 +137,7 @@ f_conclusion: >-
 f_quote-2: >-
   "No one else can live your life for you – no one else will have to live with
   your regrets – so do not allow them to determine your successes or failures."
-f_amazon-url: https://www.amazon.com/dp/0993611303/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0993611303/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

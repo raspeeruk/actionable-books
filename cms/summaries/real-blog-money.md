@@ -99,7 +99,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Don’t worry you won’t need to sell any products or services. Other people
   will be doing that for you."
-f_amazon-url: https://www.amazon.com/dp/B00AXOTNJM/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00AXOTNJM/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

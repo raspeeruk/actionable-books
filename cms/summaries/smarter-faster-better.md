@@ -129,7 +129,7 @@ f_quote-2: >-
   "Productivity, put simply, is the name we give our attempts to figure out the
   best uses of our energy, intellect, and time as we try to seize the most
   meaningful rewards with the least wasted effort."
-f_amazon-url: https://www.amazon.com/dp/B012089MSA/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B012089MSA/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

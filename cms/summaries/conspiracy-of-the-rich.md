@@ -130,7 +130,7 @@ f_conclusion: >-
   Possibly one of the greatest insights into the current economic climate,
   _Conspiracy of the Rich_ is a must read for anyone interested in controlling
   their own financial future. It’s time to get the third type of education.
-f_amazon-url: https://www.amazon.com/dp/0446559806/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0446559806/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

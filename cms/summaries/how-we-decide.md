@@ -158,7 +158,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The first step to making better decisions is to . . . honestly assess our
   flaws and talents, our strengths and shortcomings."
-f_amazon-url: https://www.amazon.com/dp/0547247990/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0547247990/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

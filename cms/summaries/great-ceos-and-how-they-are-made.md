@@ -98,7 +98,7 @@ f_conclusion: >-
 f_quote-2: >-
   "This is not a tome for your living room bookshelf. This is a guide to be kept
   on your desk, dog-eared and highlighted"
-f_amazon-url: https://www.amazon.com/dp/B00CRIIGS6/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00CRIIGS6/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

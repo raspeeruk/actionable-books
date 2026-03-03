@@ -159,7 +159,7 @@ f_quote-2: >-
   "If you want to love what you do, abandon the passion mindset (‘what can the
   world offer me’) and instead adopt the craftsman mindset (‘what can I offer
   the world’)."
-f_amazon-url: https://www.amazon.com/dp/B0076DDBJ6/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B0076DDBJ6/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -144,7 +144,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Strategy is the craft of figuring out which purposes are both worth pursuing
   and capable of being accomplished."
-f_amazon-url: https://www.amazon.com/dp/0307886239/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0307886239/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -130,7 +130,7 @@ f_conclusion: >-
 f_quote-2: >-
   “This book will provide you with new tools, skills, and a mindset to harness
   new opportunities…”
-f_amazon-url: https://www.amazon.com/dp/1119272114/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1119272114/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -22,7 +22,7 @@ As has become a bit of a tradition here at Actionable, I’m sharing my [Annual 
 
 I think the vehicle, while useful, it less important than the deliberate act of review and planning, in and of itself. We’re all **so** busy throughout the year that, for a lot of us, this (virtually) universal pause on business as usual maybe the **only** time that naturally presents itself for reflection. My big suggestion this year – while you’re making 2015 world domination plans, include **other** review and reflection points in your calendar. Plan them now, before the busyness of the year swamps you and puts you into reactionary more.
 
-As for “what to do” during those pre-planned sessions, I recommend picking up a copy of Verne Harnish’s latest [_Scaling Up_](http://www.amazon.com/gp/product/0986019526/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0986019526&linkCode=as2&tag=gooseducmedi-20&linkId=FAG4LRMY4SV46VMW) _–_ a revisit of his classic _The Rockefeller Habits_ – which provides a step by step guide on how to leverage monthly, quarterly and annual strategy sessions.
+As for “what to do” during those pre-planned sessions, I recommend picking up a copy of Verne Harnish’s latest [_Scaling Up_](http://www.amazon.com/gp/product/0986019526/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0986019526&linkCode=as2&tag=actionableb08-20&linkId=FAG4LRMY4SV46VMW) _–_ a revisit of his classic _The Rockefeller Habits_ – which provides a step by step guide on how to leverage monthly, quarterly and annual strategy sessions.
 
 Make 2015 a year of **deliberate** action.
 

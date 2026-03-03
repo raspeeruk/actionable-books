@@ -85,7 +85,7 @@ f_quote-2: >-
   "You can’t begin to tell a story without understanding why that story should
   matter to the people you want to serve. You can’t build a great business just
   by being different"
-f_amazon-url: https://www.amazon.com/dp/B00I8W7HYO/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00I8W7HYO/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

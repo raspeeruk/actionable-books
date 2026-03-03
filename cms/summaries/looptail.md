@@ -186,7 +186,7 @@ f_quote-2: >-
   "The idea of the Looptail is that, if we get everything in our business right,
   with our people and our culture, you have to believe that everything else will
   fall into place."
-f_amazon-url: https://www.amazon.com/dp/1455574090/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1455574090/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

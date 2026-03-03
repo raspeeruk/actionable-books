@@ -124,7 +124,7 @@ f_quote-2: >-
   "This is the world of co-creation and emergent advantages in networks inside
   and outside of the organization… The coming of age of masses of well-educated
   workers who like to take ownership for their own lives and careers…"
-f_amazon-url: https://www.amazon.com/dp/9081982516/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/9081982516/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

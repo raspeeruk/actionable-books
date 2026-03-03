@@ -105,7 +105,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Adversperience is the convergence of advertising and experiential
   marketing—it is live, participatory advertising."
-f_amazon-url: https://www.amazon.com/dp/B00KJG8GUQ/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00KJG8GUQ/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

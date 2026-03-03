@@ -93,7 +93,7 @@ f_conclusion: >-
   matter is these lessons have been taught before and, so long as the majority
   of North Americans are effectively living the exact opposite principles,
   they’ll be taught some more.
-f_amazon-url: https://www.amazon.com/dp/0060763280/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0060763280/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

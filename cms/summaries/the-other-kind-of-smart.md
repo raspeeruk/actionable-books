@@ -111,7 +111,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Kind words can be short and easy to speak, but their echoes are truly
   endless."
-f_amazon-url: https://www.amazon.com/dp/B002CQUGOK/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B002CQUGOK/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

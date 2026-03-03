@@ -137,7 +137,7 @@ f_quote-2: >-
   "…there will be nothing learned from any challenge in which we don’t try our
   hardest. Growth comes at the point of resistance. We learn by pushing
   ourselves and finding what really lies at the outer reaches of our abilities."
-f_amazon-url: https://www.amazon.com/dp/0743277465/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0743277465/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -123,7 +123,7 @@ f_quote-2: >-
   instance, or for migrating south when the sun hits a certain angle in the sky.
   We come into this world programmed with few instructions, save for one
   paramount piece of code: Be curious."
-f_amazon-url: https://www.amazon.com/dp/B00SI02EQC/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00SI02EQC/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

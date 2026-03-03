@@ -127,7 +127,7 @@ f_quote-2: >-
   relationship between an organization of any kind and the people it serves;
   applied to politics, economic strategies, causes, businesses, etcetera. It’s a
   universal truth.”
-f_amazon-url: https://www.amazon.com/dp/1942600062/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1942600062/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

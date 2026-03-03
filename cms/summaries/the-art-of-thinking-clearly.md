@@ -131,7 +131,7 @@ f_quote-2: >-
   our private lives, at work, or in government – we might experience a leap in
   prosperity. We need no extra cunning, no new ideas, no unnecessary gadgets, no
   frantic hyperactivity – all we need is less irrationality."
-f_amazon-url: https://www.amazon.com/dp/0062219685/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062219685/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

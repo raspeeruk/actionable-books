@@ -152,7 +152,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The better we are able to get to yes with ourselves, the better we will be
   able to get to yes with others."
-f_amazon-url: https://www.amazon.com/dp/B00OP1FIUM/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00OP1FIUM/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

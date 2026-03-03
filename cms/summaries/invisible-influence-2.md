@@ -143,7 +143,7 @@ f_conclusion: >-
 f_quote-2: >-
   "We underestimate how much social influence affects our behavior because we
   don’t realize it is happening."
-f_amazon-url: https://www.amazon.com/dp/1476759693/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1476759693/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -123,7 +123,7 @@ f_conclusion: >-
 f_quote-2: >-
   "To have what you want in life, you must give yourself permission to throw
   yourself all in on your dreams."
-f_amazon-url: https://www.amazon.com/dp/1101981059/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1101981059/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -129,7 +129,7 @@ f_conclusion: >-
   of starting and running a business along with high level leadership strategies
   that can be applied in any organization. Are you ready to be an EntreLeader?
 f_quote-2: '"You can win in business and have a blast doing it."'
-f_amazon-url: https://www.amazon.com/dp/1451617852/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1451617852/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

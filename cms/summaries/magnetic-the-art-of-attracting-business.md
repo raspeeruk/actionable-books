@@ -122,7 +122,7 @@ f_quote-2: >-
   "Your business will live or die, thrive or struggle, based on your ability to
   harness the power of your customers to drive new customers to grow your
   business."
-f_amazon-url: https://www.amazon.com/dp/1119147344/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1119147344/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

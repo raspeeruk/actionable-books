@@ -103,7 +103,7 @@ f_conclusion: >-
 f_quote-2: >-
   While the link between attention and excellence remains hidden most of the
   time, it ripples through almost everything we seek to accomplish.
-f_amazon-url: https://www.amazon.com/dp/0062114867/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062114867/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

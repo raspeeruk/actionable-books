@@ -102,7 +102,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Boundaries are anything that helps to differentiate you from someone else, or
   shows where you begin and end."
-f_amazon-url: https://www.amazon.com/dp/B000FC2K9W/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B000FC2K9W/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -121,7 +121,7 @@ f_conclusion: >-
   easy. It takes effort, courage, and a certain degree of tenacity. And, as Seth
   says, “It’s possible that no one ever pushed you to be brave enough to go this
   far out on a limb.”
-f_amazon-url: https://www.amazon.com/dp/1591843162/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591843162/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

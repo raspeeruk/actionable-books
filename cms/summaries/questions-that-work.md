@@ -128,7 +128,7 @@ f_quote-2: >-
   percent. Would that result in 10 percent more useful information? Would it
   save you 10 percent of your workday in time? Could it lead to a 10 percent
   raise in salary at the end of the year?"
-f_amazon-url: https://www.amazon.com/dp/0814473296/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0814473296/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

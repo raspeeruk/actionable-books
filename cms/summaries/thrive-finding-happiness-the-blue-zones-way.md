@@ -108,7 +108,7 @@ f_quote-2: >-
   "On average, 50 percent of individual differences in happiness is influenced
   by our genetic makeup, 10 percent is influenced by our life circumstances, and
   40 percent is influenced by how we think and act every day."
-f_amazon-url: https://www.amazon.com/dp/1426208189/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1426208189/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

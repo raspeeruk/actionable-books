@@ -127,7 +127,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The companies that will thrive over the long haul, will understand that
   culture is a key element of their strategy."
-f_amazon-url: https://www.amazon.com/dp/B00EGJE38G/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00EGJE38G/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

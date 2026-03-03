@@ -141,7 +141,7 @@ f_conclusion: >-
 f_quote-2: >-
   "When you have your own book, people will also look at you differently.
   They’ll have more respect. They’ll accept your ideas more readily."
-f_amazon-url: https://www.amazon.com/dp/1502437716/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1502437716/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

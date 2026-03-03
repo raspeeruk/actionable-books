@@ -99,7 +99,7 @@ f_conclusion: >-
   groundbreaking ways. While, most of us are not Musk, it does make me think,
   wow we can we advance the world through our own small circles of influence?
 f_quote-2: “Do you think I’m insane?”
-f_amazon-url: https://www.amazon.com/dp/0062301233/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062301233/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

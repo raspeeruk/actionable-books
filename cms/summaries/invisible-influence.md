@@ -145,7 +145,7 @@ f_quote-2: >-
   "Because people are constantly trying to find the right words to say to
   someone, they ignore something that is 100 times bigger than the exact words:
   they ignore the context."
-f_amazon-url: https://www.amazon.com/dp/1118602250/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118602250/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

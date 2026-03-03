@@ -154,7 +154,7 @@ f_quote-2: >-
   work and insight. People need to understand exactly how and why their way of
   innovating is special, and thus grasp the key characteristic that defines
   their way of thinking and doing."
-f_amazon-url: https://www.amazon.com/dp/1119167973/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1119167973/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

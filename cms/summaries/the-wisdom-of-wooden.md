@@ -114,7 +114,7 @@ f_quote-2: >-
   "At some point Sports Illustrated concluded: 'There has never been a finer
   coach in American sports. Nor a finer man.' It's the last part – ‘nor a finer
   man’ – that makes John Wooden JOHN WOODEN."
-f_amazon-url: https://www.amazon.com/dp/0071751165/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071751165/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

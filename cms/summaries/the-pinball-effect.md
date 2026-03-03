@@ -90,7 +90,7 @@ f_quote-2: >-
   "Sometimes the simplest act will have cosmic repercussions a hundred years
   later. On other occasions, the most cataclysmic events will finally lead to
   ordinary, even humdrum results."
-f_amazon-url: https://www.amazon.com/dp/0316116106/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0316116106/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

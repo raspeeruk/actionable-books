@@ -103,7 +103,7 @@ f_insight-1: >-
   thought “I would do X differently in the future”, you are already on your way.
 f_conclusion: ''
 f_quote-2: '"Mistakes can often be our best teachers."'
-f_amazon-url: https://www.amazon.com/dp/1599953692/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1599953692/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

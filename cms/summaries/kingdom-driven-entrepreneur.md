@@ -93,7 +93,7 @@ f_conclusion: >-
   and surround yourself with a team that can assist you in those efforts. _The
   Kingdom Driven Entrepreneur_ presents viable action steps to assist you in
   developing a greater purpose for your business.
-f_amazon-url: https://www.amazon.com/dp/B009V61F1W/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B009V61F1W/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

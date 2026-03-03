@@ -139,7 +139,7 @@ f_quote-2: >-
   "At Zappos, our belief is that if you get the culture right, most of the other
   stuff – like great customer service, or building a great long-term brand, or
   passionate employees and customers – will happen naturally on its own."
-f_amazon-url: https://www.amazon.com/dp/0446563048/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0446563048/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

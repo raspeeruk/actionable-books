@@ -168,7 +168,7 @@ f_conclusion: >-
   thrive. The vital skills in the coming years will demand that we modernize our
   minds in order to sustain our future. _The Net and the Butterfly_ gives us a
   framework and toolbox to practice an evolved state of working and living.
-f_amazon-url: https://www.amazon.com/dp/B01EH1EKO4/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B01EH1EKO4/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

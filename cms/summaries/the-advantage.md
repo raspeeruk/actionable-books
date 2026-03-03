@@ -183,7 +183,7 @@ f_conclusion: >-
 f_quote-2: >-
   "...any organization that really wants to maximize its success must come to
   embody two basic qualities: it must be smart, and it must be healthy."
-f_amazon-url: https://www.amazon.com/dp/0470941529/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470941529/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

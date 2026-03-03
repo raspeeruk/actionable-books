@@ -129,7 +129,7 @@ f_quote-2: >-
   which strategy matters; a game in which individual pieces have unique
   abilities that drive unique contributions; a game in which heightened focus
   and a deeper level of thinking are required to win."
-f_amazon-url: https://www.amazon.com/dp/1626563942/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1626563942/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

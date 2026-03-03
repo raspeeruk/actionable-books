@@ -117,7 +117,7 @@ f_quote-2: >-
   Remind yourself that your task is to be a good human being… Then do it,
   without hesitation, and speak the truth as you see it. But with kindness. With
   humility. Without hypocrisy."
-f_amazon-url: https://www.amazon.com/dp/0679642609/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0679642609/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

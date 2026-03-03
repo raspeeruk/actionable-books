@@ -183,7 +183,7 @@ f_quote-2: >-
   problem is, there aren’t any. Rather, there’s a way of thinking that allows
   someone to deal with many different situations and take advantage of many
   different opportunities as they arise."
-f_amazon-url: https://www.amazon.com/dp/1591843200/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591843200/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

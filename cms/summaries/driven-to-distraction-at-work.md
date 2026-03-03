@@ -160,7 +160,7 @@ f_quote-2: >-
   goals nor performing at their best, let alone equanimity, when in fact, most
   of the time they do not. Instead, most of these people have a severe case of
   modern life – what I came to call attention deficit traits, or ADT."
-f_amazon-url: https://www.amazon.com/dp/1422186415/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1422186415/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

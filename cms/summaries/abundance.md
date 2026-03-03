@@ -170,7 +170,7 @@ f_conclusion: >-
   education, energy, and freedom. The authors show us the real possibility of a
   world where every human has their basic needs of humanity met, and as we
   approach this goal, an even further acceleration of progress will occur.
-f_amazon-url: https://www.amazon.com/dp/1451614217/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1451614217/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

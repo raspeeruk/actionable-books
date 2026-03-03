@@ -127,7 +127,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Like Helen Keller said, ‘Life is either a daring adventure, or nothing.’ What
   are you waiting for?"
-f_amazon-url: https://www.amazon.com/dp/0767927419/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0767927419/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -171,7 +171,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Imagine a world where all your reps- or at least many more of them –
   performed like stars. What would that be worth to you?"
-f_amazon-url: https://www.amazon.com/dp/1591844355/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591844355/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -145,7 +145,7 @@ f_conclusion: >-
 f_quote-2: >-
   "When leaders put control into the hands of their people, at all levels, they
   unlock incalculable potential."
-f_amazon-url: https://www.amazon.com/dp/0983263329/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0983263329/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

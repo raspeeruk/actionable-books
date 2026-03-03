@@ -171,7 +171,7 @@ f_quote-2: >-
   and engaged in pushing ourselves toward a brighter future, one which lights
   our hearts and souls with a brilliant enthusiasm unknown to the masses of the
   caged or comfortable."
-f_amazon-url: https://www.amazon.com/dp/1451667531/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1451667531/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

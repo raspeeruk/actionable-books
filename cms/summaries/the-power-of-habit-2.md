@@ -87,7 +87,7 @@ f_insight-1: >-
 f_conclusion: >-
   Charles Duhigg’s _The Power of Habit_ is an invaluable tome if you’re
   interested in breaking the habits that are holding you back.
-f_amazon-url: https://www.amazon.com/dp/1400069289/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1400069289/?tag=actionableb08-20
 f_quote-reference: ''
 layout: '[summaries].html'
 tags: summaries

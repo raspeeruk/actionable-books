@@ -107,7 +107,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Mankind has been so absorbed with overcoming external challenges that the
   essential need to focus on inner challenges has been neglected.”
-f_amazon-url: https://www.amazon.com/dp/0679778314/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0679778314/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

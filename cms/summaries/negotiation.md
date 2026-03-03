@@ -146,7 +146,7 @@ f_quote-2: >-
   others first, you serve yourself best.’ Take this into account when you
   negotiate, because people sense selfishness in others very quickly, and it
   creates mistrust.”
-f_amazon-url: https://www.amazon.com/dp/1848319371/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1848319371/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -106,7 +106,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The true promise of a connected society is enabling our dormant potential for
   empathy."
-f_amazon-url: https://www.amazon.com/dp/B00ECEA35C/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00ECEA35C/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

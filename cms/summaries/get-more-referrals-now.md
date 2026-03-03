@@ -133,7 +133,7 @@ f_quote-2: >-
   referral comes in. When a prospecting client meets you through a referral, the
   evidence is already high. It’s as if the referral source has testified on your
   behalf."
-f_amazon-url: https://www.amazon.com/dp/0071417753/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071417753/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

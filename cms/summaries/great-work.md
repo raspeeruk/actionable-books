@@ -174,7 +174,7 @@ f_insight-1: >-
   **Begin seeing yourself as part of something greater, and being able to
   influence your world.**
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/B00D86G246/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00D86G246/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

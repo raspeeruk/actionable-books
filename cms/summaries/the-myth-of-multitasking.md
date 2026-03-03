@@ -120,7 +120,7 @@ f_insight-1: >-
   you’ve made the choice to minimize the active switches, all that remains is
   dealing with the passive switches.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0470372257/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470372257/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

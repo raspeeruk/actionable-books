@@ -137,7 +137,7 @@ f_insight-1: >-
   **Don’t fix the method, fix the message.**
 f_conclusion: ''
 f_quote-2: '"Ideas are formed in the mind but triumph in the heart."'
-f_amazon-url: https://www.amazon.com/dp/1478394846/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1478394846/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

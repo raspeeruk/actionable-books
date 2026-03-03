@@ -127,7 +127,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Using a checklist—you improve the outcomes with no increase in skill. That’s
   what we are doing when we use the checklist."
-f_amazon-url: https://www.amazon.com/dp/0312430000/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0312430000/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

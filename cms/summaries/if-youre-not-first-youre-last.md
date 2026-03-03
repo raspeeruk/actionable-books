@@ -122,7 +122,7 @@ f_quote-2: >-
   "Your Success is not limited by the economy; it’s only limited by the people
   you know and the amount of interest you can generate in your products and
   services."
-f_amazon-url: https://www.amazon.com/dp/B003OUX8UC/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B003OUX8UC/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

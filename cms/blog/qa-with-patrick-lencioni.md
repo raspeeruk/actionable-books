@@ -20,7 +20,7 @@ tags: blog
 
 "The Advantage" author, Patrick Lencioni
 
-We hope you enjoyed our summary of Patrick Lencioni’s eagerly anticipated new book, [_The Advantage_](http://actionablebooks.com/summaries/the-advantage/). Check out the interesting and informative Q&A he did with [Amazon](http://www.amazon.com/gp/product/0470941529/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=gooseducmedi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0470941529) below!
+We hope you enjoyed our summary of Patrick Lencioni’s eagerly anticipated new book, [_The Advantage_](http://actionablebooks.com/summaries/the-advantage/). Check out the interesting and informative Q&A he did with [Amazon](http://www.amazon.com/gp/product/0470941529/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=actionableb08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0470941529) below!
 
 **Your other books have all been fables, but _The Advantage_ isn’t. Why?**  
 Unlike my other books, _The Advantage_ is not written as a fable because the nature of the subject it covers is just too broad to fit into one story. In the past, I’ve taken on slightly more contained and limited issues–teamwork, meetings, employee engagement–but this time I’m taking a much more holistic, comprehensive approach to improving organizations. Still, I’ve used stories about real organizations to bring the points to life, and I’m hoping that readers enjoy those stories and find them helpful in learning and applying the principles.

@@ -92,7 +92,7 @@ f_conclusion: >-
   ability to reach your talent’s fullest potential, and embracing your practice
   with effort and dedication will get you there.
 f_quote-2: '"We are what we repeatedly do. Excellence, then, is not an act, but a habit."'
-f_amazon-url: https://www.amazon.com/dp/034553025X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/034553025X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

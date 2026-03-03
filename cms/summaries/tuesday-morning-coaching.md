@@ -151,7 +151,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Never in the history of mankind has any situation improved on its own while
   people sat there doing nothing."
-f_amazon-url: https://www.amazon.com/dp/0981924255/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0981924255/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

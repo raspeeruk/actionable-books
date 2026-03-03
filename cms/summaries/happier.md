@@ -171,7 +171,7 @@ f_quote-2: >-
   toward a destination we deem valuable. Happiness is not about making it to the
   peak of the mountain nor is it about climbing aimlessly around the mountain;
   happiness is the experience of climbing toward the peak.”
-f_amazon-url: https://www.amazon.com/dp/0071492399/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071492399/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

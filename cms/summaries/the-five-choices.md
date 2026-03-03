@@ -133,7 +133,7 @@ f_quote-2: >-
   "In today’s environment, the key to productivity is not to get more things
   done, but to get the right things done – the important things – with the
   highest quality you can achieve."
-f_amazon-url: https://www.amazon.com/dp/B00LQMDZZI/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00LQMDZZI/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

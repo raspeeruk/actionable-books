@@ -155,7 +155,7 @@ f_conclusion: >-
   continue to create ways to circumvent the system. Some will defect for good.
   Others will defect for evil. The very judgement of which relies entirely on
   the society(s) to which **you** belong.
-f_amazon-url: https://www.amazon.com/dp/1118143302/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118143302/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

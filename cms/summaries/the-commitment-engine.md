@@ -138,7 +138,7 @@ f_conclusion: >-
   owners in particular, and anyone looking to re-inject their professional lives
   with a little bit of purpose, in general.
 f_quote-2: '"A business is only alive to the extent that there is commitment."'
-f_amazon-url: https://www.amazon.com/dp/1591844878/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591844878/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

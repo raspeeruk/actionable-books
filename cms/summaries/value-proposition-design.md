@@ -184,7 +184,7 @@ f_quote-2: >-
   "In today’s hypercompetitive world, customers are surrounded by an ocean of
   tempting value propositions that all compete for the same limited slots of
   attention"
-f_amazon-url: https://www.amazon.com/dp/1118968050/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118968050/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

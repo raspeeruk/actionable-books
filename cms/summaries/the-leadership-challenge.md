@@ -83,7 +83,7 @@ f_conclusion: >-
   organization. You can even get inspirational daily quotes. Overall, it’s an
   engaging book and you can’t help but feel inspired after reading it.
 f_quote-2: '"Leadership is not about who you are; it’s about what you do. "'
-f_amazon-url: https://www.amazon.com/dp/0470651725/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470651725/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

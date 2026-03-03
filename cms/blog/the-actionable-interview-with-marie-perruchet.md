@@ -19,7 +19,7 @@ tags: blog
 
 Marie Perruchet started her career as a BBC correspondent and news journalist, which taught her how to summarize important facts and make every word count. She then applied these skills to help entrepreneurs make the most of their pitches while at the 500 Startup incubator. Since her methods were so successful, she started a company called One Perfect Pitch where she teaches more of the same to executives of all types of companies.
 
-And even if you are not part of an incubator with a “demo day” to practice for, improving your pitch will help you in work and life. Marie’s method, as described in her book [_One Perfect Pitch: How to Sell Your Idea, Your Product, Your Business–or Yourself_](https://www.amazon.com/gp/product/0071837590/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0071837590&linkCode=as2&tag=gooseducmedi-20&linkId=064a4dfde41b9b0746a25e251f7d749d), takes us through how to connect with our true stories, prepare and practice our pitches, and then nail them.
+And even if you are not part of an incubator with a “demo day” to practice for, improving your pitch will help you in work and life. Marie’s method, as described in her book [_One Perfect Pitch: How to Sell Your Idea, Your Product, Your Business–or Yourself_](https://www.amazon.com/gp/product/0071837590/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0071837590&linkCode=as2&tag=actionableb08-20&linkId=064a4dfde41b9b0746a25e251f7d749d), takes us through how to connect with our true stories, prepare and practice our pitches, and then nail them.
 
 **_You explain how you went from being a journalist to a pitch expert, but what made you decide to write this book and why now?_**
 

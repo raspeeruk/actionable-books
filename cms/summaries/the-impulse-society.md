@@ -125,7 +125,7 @@ f_conclusion: >-
 f_quote-2: >-
   "We’ve gone from being members of a ‘whole society’ to being competitors in a
   race for individual gratification."
-f_amazon-url: https://www.amazon.com/dp/1608198146/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1608198146/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

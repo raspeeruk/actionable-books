@@ -114,7 +114,7 @@ f_conclusion: >-
   entrepreneurs and jam packed with exercises and worksheets, _Inspiring
   Entrepreneurs_ is a must have for any aspiring entrepreneur or person
   interested in taking on a new project in a leadership role. Not to be missed.
-f_amazon-url: https://www.amazon.com/dp/0981089704/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0981089704/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

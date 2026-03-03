@@ -156,7 +156,7 @@ f_quote-2: >-
   way to work, live and bring novel and life-altering solutions, services,
   products, experiences, policies, processes, and businesses into the world, but
   they are continually derailed by the pervasive power of the status quo."
-f_amazon-url: https://www.amazon.com/dp/B01MDREYU2/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B01MDREYU2/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

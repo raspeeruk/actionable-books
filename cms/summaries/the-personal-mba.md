@@ -184,7 +184,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Don’t worry if you’re a complete beginner. Unlike many other business books,
   this book does not require any prior business knowledge or experience."
-f_amazon-url: https://www.amazon.com/dp/1591843529/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591843529/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -122,7 +122,7 @@ f_conclusion: >-
   introduces some hilarious historic equivalents to the modern world). If this
   summary even remotely piques your curiosity, you need to give _Selling the
   Wheel_ a read.
-f_amazon-url: https://www.amazon.com/dp/0684856018/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0684856018/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

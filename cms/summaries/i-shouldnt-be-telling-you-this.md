@@ -117,7 +117,7 @@ f_conclusion: >-
   nagging sense in the back of your head that this is not what you were meant to
   do? No matter what success you are looking for in your life, _I Shouldn’t Be
   Telling You This_ will offer easy tips to help you think big and go for it.
-f_amazon-url: https://www.amazon.com/dp/0062122126/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062122126/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

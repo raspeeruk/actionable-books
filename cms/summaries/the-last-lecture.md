@@ -89,7 +89,7 @@ f_insight-1: >-
   want it bad enough. As Pausch says, _“Brick walls are there for a reason. They
   give us a chance to show how badly we want something.”_
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1401323251/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1401323251/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

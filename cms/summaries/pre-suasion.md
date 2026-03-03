@@ -204,7 +204,7 @@ f_quote-2: >-
   “The best persuaders become the best through pre-suasion – the process of
   arranging for recipients to be receptive to a message before they encounter
   it.”
-f_amazon-url: https://www.amazon.com/dp/1501109790/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1501109790/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

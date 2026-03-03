@@ -146,7 +146,7 @@ f_quote-2: >-
   Life is now less about how old you are and more about when you decide to
   live... Regardless of your age or station in life, it all comes down to one
   simple truth: you just have to start."
-f_amazon-url: https://www.amazon.com/dp/1937077594/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1937077594/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

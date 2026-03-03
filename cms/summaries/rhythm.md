@@ -119,7 +119,7 @@ f_quote-2: >-
   "Just because a company is growing fast and its people are passionate does not
   mean that those people will magically understand what they are supposed to do
   to keep the company on course."
-f_amazon-url: https://www.amazon.com/dp/162634079X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/162634079X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

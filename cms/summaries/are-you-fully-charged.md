@@ -121,7 +121,7 @@ f_quote-2: >-
   Your mind is sharp, and your body is strong. On days when you are fully
   charged, you experience high levels of engagement and well-being. This charge
   carries forward, creating an upward cycle for those you care about."
-f_amazon-url: https://www.amazon.com/dp/B00U6BW560/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00U6BW560/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

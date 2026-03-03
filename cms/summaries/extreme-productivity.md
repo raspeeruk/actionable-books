@@ -162,7 +162,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Success depends a large part on a proper mind-set: focusing on the results
   you plan to achieve, rather than the number of hours you work."
-f_amazon-url: https://www.amazon.com/dp/0062188534/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062188534/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

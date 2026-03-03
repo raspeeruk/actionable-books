@@ -128,7 +128,7 @@ f_quote-2: >-
   familiar organizational structures and rebuild them along completely different
   lines, swapping our sturdy architecture for organic fluidity, because it was
   the only way to confront a rising tide of complex threats."
-f_amazon-url: https://www.amazon.com/dp/1591847486/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591847486/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -145,7 +145,7 @@ f_conclusion: >-
   to adopt within a business structure, and which I have adopted in my own
   business.
 f_quote-2: “Personal control is a good thing and you get as much of it as you can get.”
-f_amazon-url: https://www.amazon.com/dp/1626342520/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1626342520/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -123,7 +123,7 @@ f_conclusion: >-
 f_quote-2: >-
   "...ingenious ideas rarely spring into people's minds fully formed; they
   emerge through a rigorous experimental discovery approach."
-f_amazon-url: https://www.amazon.com/dp/1439170428/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1439170428/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -151,7 +151,7 @@ f_quote-2: >-
   "This is not a book to be used for passing the time; it’s a book to be used
   for squeezing every last day, hour, minute, and second out of your life until
   your life is done and you’ve given, loved, and celebrated all you could."
-f_amazon-url: https://www.amazon.com/dp/1599953668/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1599953668/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -160,7 +160,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Stupid ideas come from a very powerful, creative space within our hearts and
   minds."
-f_amazon-url: https://www.amazon.com/dp/1609070097/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1609070097/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

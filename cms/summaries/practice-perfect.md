@@ -131,7 +131,7 @@ f_quote-2: >-
   "In life, we’ll face [a] choice again and again... will we be content to
   cruise along on autopilot or will we scramble and suffer to get better? Will
   we plod or will we practice?"
-f_amazon-url: https://www.amazon.com/dp/111821658X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/111821658X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

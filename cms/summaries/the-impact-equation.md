@@ -136,7 +136,7 @@ f_insight-1: >-
   I’ll be using this framework and designing my ideas with ‘sticky’ qualities as
   part of my actions.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1591844908/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591844908/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

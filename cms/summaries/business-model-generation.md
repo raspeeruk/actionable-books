@@ -140,7 +140,7 @@ f_conclusion: >-
   the rationalization for embracing business modeling as a continuous process.
   This book provides valuable material for making business modeling a practical
   part of managing business for success.
-f_amazon-url: https://www.amazon.com/dp/0470876417/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470876417/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

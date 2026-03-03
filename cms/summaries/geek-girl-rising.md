@@ -119,7 +119,7 @@ f_quote-2: >-
   "If you truly want to become an entrepreneur, you have to do it with a sense
   of conviction, of passion, but most importantly, you [have to] want to solve
   the problem."
-f_amazon-url: https://www.amazon.com/dp/1250112265/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1250112265/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

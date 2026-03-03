@@ -136,7 +136,7 @@ f_conclusion: >-
   times we’re unable to help ourselves. If you’re interested in how to make
   discipline work naturally in your life, you need to check out Roy Baumeister
   and John Tierney’s _Willpower_.
-f_amazon-url: https://www.amazon.com/dp/0143122231/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0143122231/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

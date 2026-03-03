@@ -163,7 +163,7 @@ f_conclusion: >-
   business. Planning your business with your end goals in mind will help you
   stay on track, and avoid getting bogged down in day to day details.
 f_quote-2: “If you don't know where you’re going, you probably won't get there.”
-f_amazon-url: https://www.amazon.com/dp/1118376765/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118376765/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

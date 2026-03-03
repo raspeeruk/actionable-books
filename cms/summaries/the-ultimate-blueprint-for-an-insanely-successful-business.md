@@ -115,7 +115,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The goal of owning a business isn’t just to be successful, it’s to be
   successful and stay that way."
-f_amazon-url: https://www.amazon.com/dp/098465920X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/098465920X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

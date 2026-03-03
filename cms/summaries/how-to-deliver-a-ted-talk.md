@@ -85,7 +85,7 @@ f_conclusion: >-
   Directors or for that upcoming wedding you’ve been asked to emcee. Whether
   aspiring to be the next TED Talk viral sensation or not, this book should be a
   tucked away in the office of anyone who does any speaking in public.
-f_amazon-url: https://www.amazon.com/dp/B00EHIELXS/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00EHIELXS/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

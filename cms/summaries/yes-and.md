@@ -104,7 +104,7 @@ f_conclusion: >-
 f_quote-2: >-
   "…despite all the planning, processes, controls, and governance, business is
   one big act of improvisation."
-f_amazon-url: https://www.amazon.com/dp/0062248545/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062248545/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

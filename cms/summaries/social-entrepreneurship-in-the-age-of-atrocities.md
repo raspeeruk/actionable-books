@@ -130,7 +130,7 @@ f_conclusion: >-
   For anyone looking to help create positive change in our world, this book
   offers a lot of practical advice from individuals that have gone before us and
   stepped out to create solutions to some of our biggest social challenges.
-f_amazon-url: https://www.amazon.com/dp/1781002134/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1781002134/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

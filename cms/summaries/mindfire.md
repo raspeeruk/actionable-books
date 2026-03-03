@@ -158,7 +158,7 @@ f_conclusion: >-
   open to thinking new things and applying them in your life, then you’ll have a
   mind on fire and no one can stop you.
 f_quote-2: '"Passion means to pick something. Do it with all your heart. Repeat."'
-f_amazon-url: https://www.amazon.com/dp/0983873100/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0983873100/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

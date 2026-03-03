@@ -131,7 +131,7 @@ f_conclusion: >-
   politicians and thinkers, Seth Godin’s Unleashing the Ideavirus stands to do
   the same for marketers – by opening their eyes to a newer, more effective
   marketing strategy relayed by one of the masters of the craft itself.
-f_amazon-url: https://www.amazon.com/dp/0786887176/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0786887176/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

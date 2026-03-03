@@ -140,7 +140,7 @@ f_quote-2: >-
   "This is a book about adult behavior change. Why are we so bad at it? How do
   we get better at it? … To answer these questions, I’ll be focusing on the
   triggers on our environment. Their impact is profound."
-f_amazon-url: https://www.amazon.com/dp/0804141231/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0804141231/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

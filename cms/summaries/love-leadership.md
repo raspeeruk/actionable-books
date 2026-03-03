@@ -120,7 +120,7 @@ f_insight-1: >-
   They are loyal to that person and they are hard working for that person. Be
   that person.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0470428783/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470428783/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

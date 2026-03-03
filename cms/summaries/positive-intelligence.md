@@ -109,7 +109,7 @@ f_quote-2: >-
   Intelligence is the relative strength of these two modes of your mind.
   Positive Intelligence is therefore an indication of the control you have over
   your own mind and how well your mind acts in your best interest."
-f_amazon-url: https://www.amazon.com/dp/1608322785/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1608322785/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

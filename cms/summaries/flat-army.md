@@ -111,7 +111,7 @@ f_quote-2: >-
   "Treat your people and your team members like tools, numbers or subordinates,
   and you can merrily look forward to an organizational culture replete with
   apathy, disengagement and insubordination."
-f_amazon-url: https://www.amazon.com/dp/1118529790/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118529790/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

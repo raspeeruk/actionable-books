@@ -106,7 +106,7 @@ f_conclusion: >-
   exciting, inspiring and (best of all) duplicable. I encourage you to pick up a
   copy of _The Radical Edge_ today, and begin your own path to “stoke your
   business, amp your life, and change the world.” Have fun doing it, too.
-f_amazon-url: https://www.amazon.com/dp/1427797935/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1427797935/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

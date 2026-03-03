@@ -125,7 +125,7 @@ f_quote-2: >-
   creating is more like magic than work. A rare few have what it takes, and for
   them it comes easy. Anybody else’s creative efforts are doomed. ‘How to Fly a
   Horse’ is about why the myth is wrong."
-f_amazon-url: https://www.amazon.com/dp/0385538596/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0385538596/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

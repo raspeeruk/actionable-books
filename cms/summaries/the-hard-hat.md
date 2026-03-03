@@ -94,7 +94,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Great teammates don’t just impact you today; they impact you for the rest of
   your life"
-f_amazon-url: https://www.amazon.com/dp/111912011X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/111912011X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

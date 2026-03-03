@@ -101,7 +101,7 @@ f_conclusion: ''
 f_quote-2: >-
   "As Henry Ford said, 'Thinking is the hardest work there is, which is probably
   the reason so few engage in it.'"
-f_amazon-url: https://www.amazon.com/dp/1936661837/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1936661837/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

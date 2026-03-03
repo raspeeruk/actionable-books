@@ -115,7 +115,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Of course you want more revenue, but what good is it if it isn’t
   predictable?”
-f_amazon-url: https://www.amazon.com/dp/0984380213/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0984380213/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

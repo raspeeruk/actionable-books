@@ -112,7 +112,7 @@ f_quote-2: >-
   well in rich countries. If you want to use today’s science and technology to
   address unmet needs in the developing world, then you must start with humility
   and curiosity."
-f_amazon-url: https://www.amazon.com/dp/1422157644/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1422157644/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

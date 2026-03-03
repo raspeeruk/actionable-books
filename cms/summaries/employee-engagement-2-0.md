@@ -146,7 +146,7 @@ f_conclusion: >-
   statistic from Kevin’s book is that only 10% of adults say thank you to a
   colleague each day. Only 7% express gratitude to a boss.
 f_quote-2: '"Only 34% of employees are engaged at work."'
-f_amazon-url: https://www.amazon.com/dp/1469996138/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1469996138/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

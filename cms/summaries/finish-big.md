@@ -147,7 +147,7 @@ f_quote-2: >-
   "I have some advice for anyone who owns a business or is planning to launch
   one: If you haven’t already begun thinking about your eventual exit, now is
   the time to start."
-f_amazon-url: https://www.amazon.com/dp/B00AMOO9VK/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00AMOO9VK/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

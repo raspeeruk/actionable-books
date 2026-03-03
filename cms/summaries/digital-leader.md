@@ -96,7 +96,7 @@ f_conclusion: >-
 f_quote-2: >-
   "…if this were your last day on earth, would you be happy with what you are
   doing and who you are as a person?"
-f_amazon-url: https://www.amazon.com/dp/0071792422/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071792422/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

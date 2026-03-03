@@ -132,7 +132,7 @@ f_insight-1: >-
   people we most surround ourselves with.
 f_conclusion: ''
 f_quote-2: '"You owe the world your gifts. You just have to find out how to use them."'
-f_amazon-url: https://www.amazon.com/dp/098448227X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/098448227X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

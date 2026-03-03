@@ -119,7 +119,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Achievement can be learned. It is a muscle, and once you learn to flex it,
   there’s no end to what you can accomplish in life."
-f_amazon-url: https://www.amazon.com/dp/0062356100/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062356100/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -118,7 +118,7 @@ f_quote-2: >-
   organization’s 2016 ‘State of the American Workplace’ report confirmed this,
   finding that a truly scary seven out of ten American workers are either ‘not
   engaged’ in or ‘actively disengaged’ from their work."
-f_amazon-url: https://www.amazon.com/dp/0062456156/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062456156/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

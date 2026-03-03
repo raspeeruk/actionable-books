@@ -129,7 +129,7 @@ f_conclusion: ''
 f_quote-2: >-
   "The essence of my case is this: given the fast pace of our modern life, most
   of us tend to react too quickly."
-f_amazon-url: https://www.amazon.com/dp/B00B9ZBSPQ/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00B9ZBSPQ/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

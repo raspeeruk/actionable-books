@@ -116,7 +116,7 @@ f_insight-1: >-
   were scarfed down in a heartbeat by a bunch of delighted middle schoolers. To
   let go of perfection is key to experiencing all life has to offer.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/B00D5TOGZS/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00D5TOGZS/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

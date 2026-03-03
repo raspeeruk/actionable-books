@@ -155,7 +155,7 @@ f_conclusion: >-
 f_quote-2: >-
   "[W]hen you remove just the right thing in just the right way, something good
   usually happens."
-f_amazon-url: https://www.amazon.com/dp/0071795618/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071795618/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

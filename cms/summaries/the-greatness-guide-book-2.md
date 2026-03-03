@@ -102,7 +102,7 @@ f_conclusion: >-
   your dreams. Just remember to enjoy the process. Life would be pretty boring
   if we had complete control over what happened to us along the way. Embrace the
   unexpected. Relax. Smile. Love the journey.
-f_amazon-url: https://www.amazon.com/dp/155468403X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/155468403X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

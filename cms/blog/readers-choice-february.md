@@ -20,13 +20,13 @@ We’ve narrowed down the best books that our community is talking about for our
 
 ![](/assets/external/65d35b98037988915566cc6a_51z2c2i252bejl._SL160_PIsitb-sticker-arrow-dp%2CTopRight%2C12%2C-18_SH30_OU01_AA160_.jpeg)
 
-[**1\. WorkQuake: Making the Seismic Shift to a “Knowledge Economy”** by Paul Glover](http://www.amazon.com/gp/product/1610660226/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=gooseducmedi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1610660226)
+[**1\. WorkQuake: Making the Seismic Shift to a “Knowledge Economy”** by Paul Glover](http://www.amazon.com/gp/product/1610660226/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=actionableb08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1610660226)
 
 With his distinctive, direct and oft-humorous approach, “recovering attorney” and long-time business and executive coach Paul Glover bares his knuckles to present 76 strategies and tips to thrive in the Knowledge Economy. This no-nonsense advice, gleaned from 25 years of helping businesses nationwide prosper, and his popular Bottom Line and Morning Mantra newsletters, carries you through the impact of the recent WorkQuake – the Industrial Economy’s final meltdown.
 
 ![](/assets/external/65d35b98037988915566cc70_51qhrlmsffl._AA160_.jpeg)
 
-[**2\. Confessions of a Reformed Control Freak** by B.R. Smith](http://www.amazon.com/gp/product/B005IXSR36/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=gooseducmedi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B005IXSR36)
+[**2\. Confessions of a Reformed Control Freak** by B.R. Smith](http://www.amazon.com/gp/product/B005IXSR36/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=actionableb08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B005IXSR36)
 
 Managers aren’t born – they’re made. Communicating and interacting more effectively with people is a learned behaviour. I wrote this book in the hope that managers, team leaders and supervisors are able to learn from my sins. And trust me – in my 40+ year career as an award-winning entrepreneur and general manager for one of Canada’s best managed and most profitable companies, I’ve committed each one of these sins at one time or another.
 
@@ -36,7 +36,7 @@ Managing today is about attitude – not aptitude. You don’t need to be the sm
 
 ![](/assets/external/65d35b98037988915566cc76_51izjeuixql._AA115_.jpeg)
 
-[**3\. Go For No! Yes is the Destination, No is How You Get There** by Richard Fenton and Andrea Waltz](http://www.amazon.com/gp/product/0966398130/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=gooseducmedi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0966398130)
+[**3\. Go For No! Yes is the Destination, No is How You Get There** by Richard Fenton and Andrea Waltz](http://www.amazon.com/gp/product/0966398130/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=actionableb08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0966398130)
 
 In a world inundated with sales books on getting to yes, this book recommends just the opposite, focusing on how increasing your failure rate can greatly accelerate your movement toward ultimate success. Go for No! chronicles four days in the life of fictional character Eric Bratton, a call reluctant copier salesman who wakes up one morning to find himself in a strange house with no idea of how he got there. But this house doesn t belong to just anyone! It belongs to him… a wildly successful, ten years in the future version of the person he could become if he learns to overcome his self-limiting beliefs and overcome his fear of failure. Through the dialogue of the two main characters the authors have fashioned an entertaining story to present the key concepts essential to sales success. Readers learn… …What it takes to outperform 92% of the world s salespeople …That failing and failure are two very different things … Why it s important to celebrate success and failure … How to get past failures quickly and move on …That the most empowering word in the world is not yes… it s NO! Written to be intentionally short and to the point, Go for No! is a quick, fun read with valuable lessons that can change the way you think, sell, and live!
 

@@ -113,7 +113,7 @@ f_quote-2: >-
   really want? Your social life? Relationships? Credit cards? Free time? Sleep?
   Now answer this question: What are you willing to sacrifice? If those two
   lists don’t match up, you don’t want it badly enough."
-f_amazon-url: https://www.amazon.com/dp/1476714207/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1476714207/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

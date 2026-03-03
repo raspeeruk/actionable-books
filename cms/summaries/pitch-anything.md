@@ -149,7 +149,7 @@ f_quote-2: >-
   “There is a fundamental disconnect between the way we pitch anything and the
   way it is received by our audience. As a result, at the crucial moment when it
   is most important to be convincing, nine out of ten times we are not.”
-f_amazon-url: https://www.amazon.com/dp/0071752854/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071752854/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

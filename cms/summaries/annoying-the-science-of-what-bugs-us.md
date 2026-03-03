@@ -122,7 +122,7 @@ f_conclusion: >-
   seems to help. Just remember – you **do** have control over your focus and
   your actions. Make use of those accordingly.
 f_quote-2: '"I often wonder why we have the kinds of responses we have."'
-f_amazon-url: https://www.amazon.com/dp/0470638699/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470638699/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

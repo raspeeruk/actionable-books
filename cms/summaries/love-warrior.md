@@ -116,7 +116,7 @@ f_quote-2: >-
   "We know what the world wants from us. We know we must decide whether to stay
   small, quiet and uncomplicated or allow ourselves to grow as big, loud and
   complex as we were made to be."
-f_amazon-url: https://www.amazon.com/dp/1250075734/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1250075734/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

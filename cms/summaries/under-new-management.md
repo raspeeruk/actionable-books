@@ -133,7 +133,7 @@ f_conclusion: >-
 f_quote-2: >-
   "At first blush, all of the ideas in this book will seem odd compared to
   business as usual, but the truth is that business isn't usual anymore."
-f_amazon-url: https://www.amazon.com/dp/0544630971/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0544630971/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -230,7 +230,7 @@ f_insight-1: >-
   o Reality: Most **people have a hard time seeing how the novel can be
   useful.** Innovative ideas are rejected all the time.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1118611144/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118611144/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

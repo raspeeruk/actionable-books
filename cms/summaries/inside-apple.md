@@ -142,7 +142,7 @@ f_insight-1: >-
   build the speed and creativity of a start-up, while retaining the stability of
   a corporation, into your own life as well as the one of your company’s?**
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/145551215X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/145551215X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

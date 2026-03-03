@@ -118,7 +118,7 @@ f_quote-2: >-
   "...the best businesses are sellable, and smart businesspeople believe that
   you should build a company to be sold even if you have no intention of cashing
   out or stepping back anytime soon."
-f_amazon-url: https://www.amazon.com/dp/1591843979/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591843979/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

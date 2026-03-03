@@ -118,7 +118,7 @@ f_conclusion: >-
 f_quote-2: >-
   “That’s the hard thing about hard things – there is no formula for dealing
   with them”
-f_amazon-url: https://www.amazon.com/dp/0062273205/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062273205/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -143,7 +143,7 @@ f_conclusion: >-
   book and join the many of us who are working towards open leadership. Be a
   part of the open leadership revolution that needs to take place! Like Ghandi
   once said; ‘Be the change you wish to see in the world.”
-f_amazon-url: https://www.amazon.com/dp/0470597267/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470597267/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

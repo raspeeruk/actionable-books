@@ -73,7 +73,7 @@ f_conclusion: >-
   of those unconscious choices we make into the spotlight for new examination.
   Additionally, David Cottrell has provided an excellent tool to guide you in
   the reexamination of these choices.
-f_amazon-url: https://www.amazon.com/dp/0061451916/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0061451916/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

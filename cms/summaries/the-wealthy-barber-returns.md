@@ -143,7 +143,7 @@ f_quote-2: >-
   "Unless you marry into wealth or come from a very well-to-do family (both
   highly advisable strategies by the way), you’ll have to learn to spend less
   than you make."
-f_amazon-url: https://www.amazon.com/dp/0968394744/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0968394744/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

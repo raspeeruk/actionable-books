@@ -136,7 +136,7 @@ f_quote-2: >-
   way out of a deep hole that almost three centuries of misconceptions about
   human motivation and human nature have put us in, and help foster workplaces
   in which, challenge, engagement, meaning, and satisfaction are possible."
-f_amazon-url: https://www.amazon.com/dp/B00NZWJE3O/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00NZWJE3O/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

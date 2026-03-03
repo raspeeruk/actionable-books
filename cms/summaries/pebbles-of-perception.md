@@ -127,7 +127,7 @@ f_quote-2: >-
   "Our ability to choose is one of life’s great gifts. We are the product of our
   choices. Good choices come from good character, and a few good choices make
   all the difference."
-f_amazon-url: https://www.amazon.com/dp/1502458578/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1502458578/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

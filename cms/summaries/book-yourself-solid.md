@@ -97,7 +97,7 @@ f_insight-1: >-
   impact in a way that inspires and engages their community. Saying that
   definitely raises a few eyebrows and usually gets a few follow up questions.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0470643471/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470643471/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

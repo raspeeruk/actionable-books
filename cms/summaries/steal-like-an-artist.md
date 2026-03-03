@@ -100,7 +100,7 @@ f_conclusion: >-
   immediately associate the word with an illegal, deviant form of behavior. But,
   I think Mr. Kleon is on to something. So, I for one, will embrace this kind of
   thievery and will share the results of my loot with whomever is interested.
-f_amazon-url: https://www.amazon.com/dp/0761169253/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0761169253/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

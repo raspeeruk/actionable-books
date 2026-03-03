@@ -116,7 +116,7 @@ f_quote-2: >-
   those of the twentieth was the trial and error of the mind over matter. They
   learned how to calculate to obviate the failure of structural materials, but
   they did not learn how to calculate to obviate the failure of the mind."
-f_amazon-url: https://www.amazon.com/dp/0679734163/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0679734163/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

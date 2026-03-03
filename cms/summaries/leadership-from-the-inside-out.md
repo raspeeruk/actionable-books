@@ -138,7 +138,7 @@ f_quote-2: >-
   "We lead by virtue of who we are… The leader and the person are the same. As
   we learn to master our growth as a person, we will be on the path to mastery
   of Leadership From the Inside Out."
-f_amazon-url: https://www.amazon.com/dp/1576755991/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1576755991/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

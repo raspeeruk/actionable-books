@@ -140,7 +140,7 @@ f_quote-2: >-
   throughout, this book. The digital dollar, in the context of this book,
   defines all references to our unique perspective of the relationship between
   your money and the online world."
-f_amazon-url: https://www.amazon.com/dp/0978097467/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0978097467/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

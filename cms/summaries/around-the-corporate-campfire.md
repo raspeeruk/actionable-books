@@ -119,7 +119,7 @@ f_conclusion: >-
   its message and impact the listener. Stories get better each time you tell
   them, and the more you tell them the more lasting the impact.
 f_quote-2: '"The stories you tell about your past shape your future."'
-f_amazon-url: https://www.amazon.com/dp/1451594054/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1451594054/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

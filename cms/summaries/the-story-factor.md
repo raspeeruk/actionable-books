@@ -100,7 +100,7 @@ f_quote-2: >-
   what happened last week or last month. If you aren’t living your vision and
   values daily, well, you can’t dress a pig in a ball gown and expect people to
   call her princess."
-f_amazon-url: https://www.amazon.com/dp/0465078079/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0465078079/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

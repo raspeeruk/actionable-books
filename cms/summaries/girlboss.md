@@ -115,7 +115,7 @@ f_quote-2: >-
   themselves into the looks I’ve sold through Nasty Gal, I want you to be able
   to use #GIRLBOSS to project yourself into an awesome life where you can do
   whatever you want."
-f_amazon-url: https://www.amazon.com/dp/039916927X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/039916927X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

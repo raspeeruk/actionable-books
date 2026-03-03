@@ -152,7 +152,7 @@ f_conclusion: >-
   Francis said, “Have you understood? You won’t be afraid of the journey? Thank
   you.”
 f_quote-2: '"Let us never forget that authentic power is service."'
-f_amazon-url: https://www.amazon.com/dp/0829440917/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0829440917/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

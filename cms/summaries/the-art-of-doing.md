@@ -92,7 +92,7 @@ f_conclusion: >-
   encountered day-to-day struggles, just like you and I, and yet were able to
   find their own individual artistry to channel super achievements. Capes not
   required.
-f_amazon-url: https://www.amazon.com/dp/B008EXK6MM/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B008EXK6MM/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

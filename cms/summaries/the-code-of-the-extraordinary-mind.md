@@ -161,7 +161,7 @@ f_quote-2: >-
   systems and rules you’ve been living with. The rules are very real in the
   sense that they actually govern how people and societies act, but very real
   does not mean very right."
-f_amazon-url: https://www.amazon.com/dp/1623367085/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1623367085/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

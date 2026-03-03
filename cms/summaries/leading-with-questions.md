@@ -150,7 +150,7 @@ f_quote-2: >-
   Astute leaders use questions to encourage full participation and teamwork, to
   spur innovation and outside the box thinking, to empower others, to build
   relationships with customers, to solve problems and more."
-f_amazon-url: https://www.amazon.com/dp/0787977462/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0787977462/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

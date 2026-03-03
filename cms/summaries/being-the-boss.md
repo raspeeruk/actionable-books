@@ -90,7 +90,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Effective managers accomplish much of their work in hundreds of little steps
   that eventually accomplish the work of management."
-f_amazon-url: https://www.amazon.com/dp/B004CFAZYU/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B004CFAZYU/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

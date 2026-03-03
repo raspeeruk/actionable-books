@@ -187,7 +187,7 @@ f_quote-2: >-
   "Remember that Tribal Leadership is not about changing ideas or gaining
   knowledge; it is about changing language and relationships. It’s not about
   intellectualizations; it’s about actions."
-f_amazon-url: https://www.amazon.com/dp/0061251321/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0061251321/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

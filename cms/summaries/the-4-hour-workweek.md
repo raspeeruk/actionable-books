@@ -122,7 +122,7 @@ f_quote-2: >-
   doing, you must think and act in a wildly different way than you previously
   have been. You cannot get to the next phase of a project without a grander
   mind-set, more acceleration, and extra horsepower."
-f_amazon-url: https://www.amazon.com/dp/0307465357/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0307465357/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -147,7 +147,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Once you open your mind to the possibility that there are laws of marketing,
   it’s easy to see what they are. In truth, they are obvious."
-f_amazon-url: https://www.amazon.com/dp/B005AQ40Y6/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B005AQ40Y6/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

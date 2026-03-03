@@ -131,7 +131,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Success is not delivering a feature; success is learning how to solve a
   customer's problem."
-f_amazon-url: https://www.amazon.com/dp/0307887898/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0307887898/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -113,7 +113,7 @@ f_conclusion: >-
 f_quote-2: >-
   "A store manager's job is not to oversee millions of customer transactions a
   week, but one transaction millions of times a week."
-f_amazon-url: https://www.amazon.com/dp/1605292885/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1605292885/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

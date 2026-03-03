@@ -145,7 +145,7 @@ f_quote-2: >-
   might be expected that this would make you feel worse. After all, you now know
   something bad that you didn’t know before. Logically, you should feel worse.
   Yet you don’t. You feel better."
-f_amazon-url: https://www.amazon.com/dp/0553278339/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0553278339/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

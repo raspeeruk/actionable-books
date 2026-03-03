@@ -133,7 +133,7 @@ f_conclusion: >-
   If you’re up for making improvements in your life and want a bunch of tips and
   tools that you can act on right away, then read Jason Womack’s _Your Best Just
   Got Better_ slowly and follow his instructions.
-f_amazon-url: https://www.amazon.com/dp/1118121988/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118121988/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

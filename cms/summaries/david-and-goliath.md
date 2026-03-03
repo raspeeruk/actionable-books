@@ -156,7 +156,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Why do we automatically assume that someone who is smaller or poorer or less
   skilled is necessarily at a disadvantage?"
-f_amazon-url: https://www.amazon.com/dp/0316204366/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0316204366/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

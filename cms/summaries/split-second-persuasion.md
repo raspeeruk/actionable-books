@@ -155,7 +155,7 @@ f_quote-2: >-
   anecdotal, allusive – which suggested the possibility that there really might
   be black belts of influence in our midst. And, what’s more, they might not all
   be good guys."
-f_amazon-url: https://www.amazon.com/dp/B0055X6UEW/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B0055X6UEW/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

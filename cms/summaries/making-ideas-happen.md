@@ -198,7 +198,7 @@ f_insight-1: >-
   the available time and energy we have available to work on other projects.
 f_conclusion: ''
 f_quote-2: '"Ideas are worthless if you can’t make them happen."'
-f_amazon-url: https://www.amazon.com/dp/159184312X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/159184312X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

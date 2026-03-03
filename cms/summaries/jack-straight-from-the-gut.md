@@ -96,7 +96,7 @@ f_conclusion: >-
   “CEO material” on paper, but then again he may have redefined what “CEO
   Material” is. More than anything, he’s comfortable being himself. We should
   all take a page from Jack’s book. Life’s too short to live it any other way.
-f_amazon-url: https://www.amazon.com/dp/0446690686/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0446690686/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

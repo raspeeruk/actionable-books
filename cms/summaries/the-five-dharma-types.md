@@ -134,7 +134,7 @@ f_conclusion: ''
 f_quote-2: >-
   "It is hard enough to do what you were born to do; why complicate it by trying
   to be someone else?"
-f_amazon-url: https://www.amazon.com/dp/1620552833/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1620552833/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

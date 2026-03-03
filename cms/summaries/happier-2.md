@@ -106,7 +106,7 @@ f_conclusion: >-
   Ben-Shahar’s coaching questions felt easier with a roadmap. A great coach gets
   out of the way and gives us the space to do the work. Ultimately, we discover
   the answers for ourselves, in our own time.
-f_amazon-url: https://www.amazon.com/dp/0071492399/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071492399/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

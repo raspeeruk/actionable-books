@@ -124,7 +124,7 @@ f_quote-2: >-
   “There is nothing like waking up early in the morning, taking time to enjoy
   the day before heading off to your chaotic workplace and feel energized
   throughout the entire day.”
-f_amazon-url: https://www.amazon.com/dp/0887306667/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0887306667/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -183,7 +183,7 @@ f_conclusion: ''
 f_quote-2: >-
   "…here is the essential truth about meaningful connections: It’s not about you
   – it’s about the relationship."
-f_amazon-url: https://www.amazon.com/dp/1511513063/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1511513063/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

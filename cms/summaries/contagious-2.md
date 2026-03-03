@@ -121,7 +121,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Maybe instead of giving people a penny for their thoughts, we should get paid
   a penny for listening.”
-f_amazon-url: https://www.amazon.com/dp/1451686579/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1451686579/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

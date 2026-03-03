@@ -118,7 +118,7 @@ f_quote-2: >-
   “You can understand anything better than you currently do. Setting a higher
   standard for yourself for what you mean by understanding can revolutionize how
   you perceive the world”
-f_amazon-url: https://www.amazon.com/dp/0670881465/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0670881465/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -185,7 +185,7 @@ f_quote-2: >-
   their mission) while they develop healthy relationships (belong to a
   community) and experience an unconditional sense of peace, happiness, and
   growth (actualize and transcend the self)."
-f_amazon-url: https://www.amazon.com/dp/9781622032/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/9781622032/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

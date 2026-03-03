@@ -109,7 +109,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Think of an insight scenario as a flashlight that you use to illuminate
   hidden value."
-f_amazon-url: https://www.amazon.com/dp/0993655505/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0993655505/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

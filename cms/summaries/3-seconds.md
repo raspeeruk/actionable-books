@@ -106,7 +106,7 @@ f_conclusion: >-
   motivates you most? What do you aspire to be, do or have? Being able to
   picture your ideal life gives tremendous clarity in the 10-10-10 decision
   making process.
-f_amazon-url: https://www.amazon.com/dp/0310272491/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0310272491/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

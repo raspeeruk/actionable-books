@@ -130,7 +130,7 @@ f_conclusion: >-
   lights a fire and demands attention. Are you living you’re most remarkable
   life?
 f_quote-2: '"The tragedy of life is not so much what we suffer, but rather what we miss."'
-f_amazon-url: https://www.amazon.com/dp/0399536108/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0399536108/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

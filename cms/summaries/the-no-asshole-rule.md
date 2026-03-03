@@ -123,7 +123,7 @@ f_insight-1: >-
   in the process of doing your job.
 f_conclusion: ''
 f_quote-2: '"The evidence is ironclad: there are a lot of assholes out there."'
-f_amazon-url: https://www.amazon.com/dp/0446698202/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0446698202/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

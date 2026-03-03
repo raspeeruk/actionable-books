@@ -160,7 +160,7 @@ f_quote-2: >-
   "The premise of this book is to help you take a direct path toward success
   through applying simple strategies that work. The best strategies are the ones
   you apply."
-f_amazon-url: https://www.amazon.com/dp/1632650290/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1632650290/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -152,7 +152,7 @@ f_quote-2: >-
   with customers and employees. Your concept for a company is probably
   fantastic. But if you don’t know finance, you’re operating at a disadvantage
   in the world of business."
-f_amazon-url: https://www.amazon.com/dp/1422119157/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1422119157/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

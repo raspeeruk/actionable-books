@@ -159,7 +159,7 @@ f_quote-2: >-
   “You were created to make something of your life that no other person on the
   planet or in the history of the world ever could. If you don’t do it, it might
   never be done… your dream dies with you.”
-f_amazon-url: https://www.amazon.com/dp/0312646739/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0312646739/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

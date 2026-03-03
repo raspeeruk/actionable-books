@@ -120,7 +120,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Leadership is not about who you are or where you come from. It’s about what
   you do"
-f_amazon-url: https://www.amazon.com/dp/0814433995/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0814433995/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

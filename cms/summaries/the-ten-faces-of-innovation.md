@@ -158,7 +158,7 @@ f_quote-2: >-
   their operations. They do it year-round and in widely differing parts of their
   enterprises. When the team’s creative engine is running at top speed, the
   momentum and synergy can keep a company ahead through bad times and good."
-f_amazon-url: https://www.amazon.com/dp/0385512074/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0385512074/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

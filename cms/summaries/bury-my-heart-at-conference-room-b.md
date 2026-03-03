@@ -108,7 +108,7 @@ f_quote-2: >-
   especially under pressure. This is what it means to live your values. Achieve
   all of this at work and both you and your company will be a whole lot richer
   for it."
-f_amazon-url: https://www.amazon.com/dp/1591843243/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591843243/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -171,7 +171,7 @@ f_conclusion: >-
   serve its best clients within its capacity so as not to dilute its effort and
   disappoint everyone.
 f_quote-2: '"People don’t buy what others want to sell. They buy what others want to buy."'
-f_amazon-url: https://www.amazon.com/dp/B00TXOR9IU/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00TXOR9IU/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

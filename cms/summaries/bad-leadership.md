@@ -150,7 +150,7 @@ f_conclusion: >-
 f_quote-2: >-
   "How did leadership come to be synonymous with good leadership? Why are we
   afraid to acknowledge, much less admit to, the dark side?"
-f_amazon-url: https://www.amazon.com/dp/1591391660/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591391660/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

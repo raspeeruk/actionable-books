@@ -155,7 +155,7 @@ f_insight-1: >-
   notes, sound files, basically anything electronic and it is accessible on any
   device.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1935953281/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1935953281/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

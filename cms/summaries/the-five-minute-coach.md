@@ -146,7 +146,7 @@ f_insight-1: >-
   you hear and accept what has been said.
 f_conclusion: ''
 f_quote-2: '"Establish a shift from problem-thinking to an outcome focus."'
-f_amazon-url: https://www.amazon.com/dp/1845908007/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1845908007/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

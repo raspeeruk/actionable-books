@@ -154,7 +154,7 @@ f_quote-2: >-
   "A digital marketer is someone who understands that, to engage someone
   digitally, it must be done in a meaningful, personalized and contextually +
   culturally relevant manner."
-f_amazon-url: https://www.amazon.com/dp/B01NBRYEMV/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B01NBRYEMV/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

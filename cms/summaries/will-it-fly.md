@@ -172,7 +172,7 @@ f_conclusion: >-
 f_quote-2: >-
   "…what I try to teach is that you don’t have to go big in the world to
   experience success. You just have to be big in somebody’s world."
-f_amazon-url: https://www.amazon.com/dp/0997082305/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0997082305/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -143,7 +143,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Creating value through interaction is far more important than solving a
   consumer’s problem in thirty seconds."
-f_amazon-url: https://www.amazon.com/dp/B000FC0SSC/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B000FC0SSC/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -113,7 +113,7 @@ f_insight-1: >-
   goal of progress or permanence. Either identify the next step for the thing,
   or put it in it’s home forever (filed or trashed).
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0143116622/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0143116622/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

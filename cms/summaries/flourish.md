@@ -181,7 +181,7 @@ f_conclusion: >-
   to be the person building and spreading well-being. It’s a conscious choice
   and effort but well worth it – for everyone!
 f_quote-2: '"This book will help you flourish."'
-f_amazon-url: https://www.amazon.com/dp/1439190755/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1439190755/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

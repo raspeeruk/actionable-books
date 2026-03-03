@@ -116,7 +116,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The guy sitting down for a sitcom has very different expectations than he
   does when he's going to a movie. Or watching Headline News at the airport."
-f_amazon-url: https://www.amazon.com/dp/0787968056/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0787968056/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

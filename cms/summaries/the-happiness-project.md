@@ -97,7 +97,7 @@ f_conclusion: >-
   differently I increased my feelings of happiness, within my already happy
   life. How can you do the same?
 f_quote-2: '"What do I want from life, anyway?"'
-f_amazon-url: https://www.amazon.com/dp/B0089LOHZ6/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B0089LOHZ6/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -129,7 +129,7 @@ f_quote-2: >-
   "The belief that failure is necessary for success, a belief shared among
   self-made millionaires but not among the middle class, could be the most
   important finding our survey has uncovered."
-f_amazon-url: https://www.amazon.com/dp/B008XOEDX0/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B008XOEDX0/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

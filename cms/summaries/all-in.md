@@ -130,7 +130,7 @@ f_quote-2: >-
   "'Do you believe I can cross the falls [Niagara] with this wheelbarrow?' he
   called out. 'Yes!' they yelled as one. 'Wonderful,' he said. 'Then who will
   get in?'"
-f_amazon-url: https://www.amazon.com/dp/B005UDIC70/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B005UDIC70/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

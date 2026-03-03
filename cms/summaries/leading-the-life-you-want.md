@@ -99,7 +99,7 @@ f_quote-2: >-
   "We must have our heads in the clouds and our feet on the ground, dealing with
   the reality while dreaming of a better future. We must be optimists and
   realists. And we must never quit trying to live the life we want."
-f_amazon-url: https://www.amazon.com/dp/1422189414/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1422189414/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

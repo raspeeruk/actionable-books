@@ -140,7 +140,7 @@ f_quote-2: >-
   acquiring more and more possessions does not actually fulfill us. In the
   frenzy to achieve success on this materialistic and achievement driven road,
   we have lost vital pieces of ourselves.”
-f_amazon-url: https://www.amazon.com/dp/0995030235/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0995030235/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

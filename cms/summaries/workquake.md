@@ -102,7 +102,7 @@ f_conclusion: >-
   will find applicable lessons within _WorkQuake_. Glover’s writing style –
   short, to the point, and often humourous – allows him to say things that many
   other management books don’t have the guts to say.
-f_amazon-url: https://www.amazon.com/dp/1610660226/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1610660226/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

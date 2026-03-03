@@ -123,7 +123,7 @@ f_quote-2: >-
   Canada before our very eyes into a remarkable, post-national country whose
   best days lie ahead and whose wealth and tolerance will make us an example for
   and the envy of the world."
-f_amazon-url: https://www.amazon.com/dp/1443416452/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1443416452/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

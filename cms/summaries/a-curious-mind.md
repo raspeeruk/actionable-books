@@ -101,7 +101,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Curiosity has been the most valuable quality, the most important resource,
   the central motivation of my life."
-f_amazon-url: https://www.amazon.com/dp/147673075X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/147673075X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

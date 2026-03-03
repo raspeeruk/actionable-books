@@ -133,7 +133,7 @@ f_insight-1: >-
   If you want to develop your own leadership credibility, **give your people the
   gift of your time**; as much, and as often as you can.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1591845327/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591845327/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

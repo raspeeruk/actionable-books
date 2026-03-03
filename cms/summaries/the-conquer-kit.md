@@ -213,7 +213,7 @@ f_quote-2: >-
   "Your business will impact people’s lives far beyond your own. People will
   read what you write and change their minds. They use your products to feel
   happier and more connected to their lives and the world around them."
-f_amazon-url: https://www.amazon.com/dp/0399175776/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0399175776/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

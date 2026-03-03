@@ -161,7 +161,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Being strategic...involves a way of thinking and a set of skills that are
   applicable to almost any decision, large or small, professional or personal.”
-f_amazon-url: https://www.amazon.com/dp/031265670X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/031265670X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

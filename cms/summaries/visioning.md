@@ -152,7 +152,7 @@ f_quote-2: >-
   time. We need a way to stay connected to a broader vision of our lives,
   against which we can make sense of the challenges and obstacles we encounter
   during our lives.”
-f_amazon-url: https://www.amazon.com/dp/0980855403/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0980855403/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

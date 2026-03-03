@@ -129,7 +129,7 @@ f_conclusion: >-
 f_quote-2: >-
   This book… is about the ongoing work of paying attention – of leading by being
   self-aware, as managers and as companies.
-f_amazon-url: https://www.amazon.com/dp/0812993012/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0812993012/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

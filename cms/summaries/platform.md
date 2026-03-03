@@ -147,7 +147,7 @@ f_quote-2: >-
   to say—through a blog, a seminar, a book, a song, a screenplay, a sermon, or a
   stage play—you are on stage. If you have something to sell—whether one-on-one,
   before a huge crowd, or on the Internet—you are also on a stage. "
-f_amazon-url: https://www.amazon.com/dp/159555503X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/159555503X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

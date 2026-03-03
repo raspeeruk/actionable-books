@@ -126,7 +126,7 @@ f_quote-2: >-
   while it may not be what we want to hear about success, it is the only
   guaranteed method of high performance in any endeavor. It can all be summed up
   in one simple word... discipline."
-f_amazon-url: https://www.amazon.com/dp/B00B1L85VI/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00B1L85VI/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

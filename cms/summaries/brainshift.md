@@ -87,7 +87,7 @@ f_conclusion: >-
   thinking. As a leadership coach it is imperative that I help others remove
   limiting beliefs, and this book gave me the skills, tools and insights to do
   so.
-f_amazon-url: https://www.amazon.com/dp/0978052706/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0978052706/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

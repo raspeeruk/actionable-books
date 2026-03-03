@@ -187,7 +187,7 @@ f_conclusion: >-
 f_quote-2: >-
   "This book is about creating and growing multimillion-dollar businesses, but
   it’s also a book about becoming a business genius.”
-f_amazon-url: https://www.amazon.com/dp/0470182024/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470182024/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

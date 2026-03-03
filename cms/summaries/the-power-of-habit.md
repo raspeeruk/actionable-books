@@ -105,7 +105,7 @@ f_conclusion: >-
   know we can change those habits. And once we know habits can be changed, we
   have the freedom of choice again.
 f_quote-2: '"Habits can be changed, if we understand how they work."'
-f_amazon-url: https://www.amazon.com/dp/1400069289/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1400069289/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

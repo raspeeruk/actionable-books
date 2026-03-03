@@ -152,7 +152,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Authentic leadership is about inventing and developing yourself with
   intention in the trenches of your day-to-day work."
-f_amazon-url: https://www.amazon.com/dp/B01BLW706M/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B01BLW706M/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

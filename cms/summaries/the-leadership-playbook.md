@@ -138,7 +138,7 @@ f_conclusion: >-
 f_quote-2: >-
   "I use sports analogies because I run my businesses like wining sports teams
   in which skill development and effective coaching makes the team better."
-f_amazon-url: https://www.amazon.com/dp/159240866/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/159240866/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

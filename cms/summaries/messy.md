@@ -157,7 +157,7 @@ f_quote-2: >-
   don’t call it randomness. A good conversation is a constant stream of
   unexpected responses. A new collaboration forces fresh perspectives and
   demands attention.”
-f_amazon-url: https://www.amazon.com/dp/1594634793/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1594634793/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -138,7 +138,7 @@ f_quote-2: >-
   Over time, they become more of a reflection of everyone around them – or a
   faded photocopy of a photocopy – than an original source of ideas, energy and
   life."
-f_amazon-url: https://www.amazon.com/dp/1591847524/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591847524/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

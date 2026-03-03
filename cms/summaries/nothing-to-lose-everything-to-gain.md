@@ -122,7 +122,7 @@ f_quote-2: >-
   "From the outside it looks as if I have this great, easy lifestyle. The truth
   is I’ve never made a million dollars easily, and I’ve made many millions of
   dollars."
-f_amazon-url: https://www.amazon.com/dp/1591844037/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591844037/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

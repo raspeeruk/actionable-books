@@ -111,7 +111,7 @@ f_quote-2: >-
   acutely attuned to our most sincere selves. In this psychological state, we
   are able to maintain presence even in the very stressful situations that
   typically make us feel distracted and powerless."
-f_amazon-url: https://www.amazon.com/dp/B00U6DNZK8/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00U6DNZK8/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

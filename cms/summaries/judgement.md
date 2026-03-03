@@ -161,7 +161,7 @@ f_conclusion: >-
   the pitfalls of not following it. And I highly recommend you add it to your
   bookshelf – I know I’ll be keeping it close by as a reference.
 f_quote-2: '"With good judgment, little else matters. Without it, nothing else matters."'
-f_amazon-url: https://www.amazon.com/dp/B00394DFOM/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00394DFOM/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

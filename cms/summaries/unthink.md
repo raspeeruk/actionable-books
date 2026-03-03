@@ -162,7 +162,7 @@ f_quote-2: >-
   "You’ve all but forgotten the artistic tools with which you were born. Once
   you remember – once you learn to unthink how you live and work – everything
   will change."
-f_amazon-url: https://www.amazon.com/dp/0770434002/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0770434002/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

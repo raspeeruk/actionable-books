@@ -114,7 +114,7 @@ f_conclusion: >-
   yet to be determined. If the first 10 years are any indication, though, what
   with YouTube, Google Maps, Earth, Docs and AdWords, the next 290 years should
   be one hell of a ride.
-f_amazon-url: https://www.amazon.com/dp/1416546960/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1416546960/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

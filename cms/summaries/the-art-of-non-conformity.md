@@ -185,7 +185,7 @@ f_insight-1: >-
   without asking for forgiveness or permission.
 f_conclusion: ''
 f_quote-2: '"There''s nothing wrong with thinking ahead, but life does not start at 65."'
-f_amazon-url: https://www.amazon.com/dp/0399536108/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0399536108/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

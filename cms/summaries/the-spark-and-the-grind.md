@@ -106,7 +106,7 @@ f_quote-2: >-
   "…Your ideas, efforts, and creations rarely fall short because you aren’t
   intrinsically creative enough. They fall short because you either fail to
   grind your sparks or you fail to spark your grind."
-f_amazon-url: https://www.amazon.com/dp/0399564209/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0399564209/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -135,7 +135,7 @@ f_quote-2: >-
   about just how certain we should be about our judgments, as well as a
   recognition that the views of other people that differ from our own may have
   more validity than our intuitions tell us they do."
-f_amazon-url: https://www.amazon.com/dp/0374112673/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0374112673/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

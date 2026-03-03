@@ -126,7 +126,7 @@ f_quote-2: >-
   over hundreds of dollars for iPods but wouldn’t give the record industry a
   dime. They still, somehow, didn't seem to understand that file-sharing was
   illegal.”
-f_amazon-url: https://www.amazon.com/dp/0525426612/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0525426612/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

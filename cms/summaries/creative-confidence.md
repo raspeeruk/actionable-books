@@ -157,7 +157,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Everything in modern society is the result of a collection of decisions made
   by someone. Why shouldn’t that someone be you?"
-f_amazon-url: https://www.amazon.com/dp/038534936X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/038534936X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

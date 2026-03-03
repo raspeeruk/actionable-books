@@ -122,7 +122,7 @@ f_conclusion: >-
   be a part of, (and contribute to), visionary companies. At the very least, it
   provides the reader with valuable insights and anecdotal stories about
   companies that have changed our world and touch our lives every day.
-f_amazon-url: https://www.amazon.com/dp/0060516402/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0060516402/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

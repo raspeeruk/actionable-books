@@ -138,7 +138,7 @@ f_insight-1: >-
   beginning of a project is a prime example of this.
 f_conclusion: ''
 f_quote-2: '"Chance favors the connected mind."'
-f_amazon-url: https://www.amazon.com/dp/1594485380/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1594485380/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

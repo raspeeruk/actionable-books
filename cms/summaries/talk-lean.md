@@ -108,7 +108,7 @@ f_quote-2: >-
   "More modestly, [this book] will give you the courage to say what you think
   and to ask for what you want and, if what you want is obtainable, it will give
   you the best chance of obtaining it quickly."
-f_amazon-url: https://www.amazon.com/dp/0857084976/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0857084976/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

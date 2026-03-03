@@ -137,7 +137,7 @@ f_quote-2: >-
   "It’s time to move the discussion away from today’s latest hot marketing tools
   and tactics to what really counts: convincing customers to trust you with
   their business—not just once, but time and time again."
-f_amazon-url: https://www.amazon.com/dp/1629560375/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1629560375/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

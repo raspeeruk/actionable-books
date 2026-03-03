@@ -133,7 +133,7 @@ f_quote-2: >-
   "As best as I could understand it, the Buddha’s main thesis was that in a
   world where everything is constantly changing, we suffer because we cling to
   things that won’t last"
-f_amazon-url: https://www.amazon.com/dp/1909623717/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1909623717/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -146,7 +146,7 @@ f_quote-2: >-
   "Getting Real delivers better results because it forces you to deal with the
   actual problems you’re trying to solve instead of your ideas about those
   problems."
-f_amazon-url: https://www.amazon.com/dp/0578012812/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0578012812/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

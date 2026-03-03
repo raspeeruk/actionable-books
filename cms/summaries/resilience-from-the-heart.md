@@ -143,7 +143,7 @@ f_quote-2: >-
   "Both science and indigenous wisdom remind us that we’re part of all that we
   see. This means that we’re a part of the solutions as well. The key is that we
   must first shift our perspective so we can recognize our connection.”
-f_amazon-url: https://www.amazon.com/dp/1401929265/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1401929265/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

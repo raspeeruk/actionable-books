@@ -244,7 +244,7 @@ f_conclusion: >-
   strategic planning. _Blue Ocean Strategy_ is one of those books where no
   matter how much you try to summarize, there’s always more you just wish you
   could have included. So just do yourself a favour and read the book.
-f_amazon-url: https://www.amazon.com/dp/1591396190/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591396190/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

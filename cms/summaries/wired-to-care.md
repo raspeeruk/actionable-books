@@ -137,7 +137,7 @@ f_quote-2: >-
   "This is the story of how companies, and indeed organizations of all kinds,
   prosper when they tap into a power that every one of us already has: the
   ability to reach inside ourselves and connect with other people."
-f_amazon-url: https://www.amazon.com/dp/013714234X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/013714234X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

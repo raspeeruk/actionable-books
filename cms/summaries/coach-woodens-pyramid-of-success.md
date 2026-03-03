@@ -114,7 +114,7 @@ f_quote-2: >-
   "Success is peace of mind which is a direct result of self-satisfaction in
   knowing you did your best to become the best that you are capable of
   becoming."
-f_amazon-url: https://www.amazon.com/dp/0800726251/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0800726251/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

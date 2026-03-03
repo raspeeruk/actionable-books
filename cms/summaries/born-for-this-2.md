@@ -125,7 +125,7 @@ f_quote-2: >-
   the best one-the thing you were born to do. You want to win the career lottery
   and discover a job or vocation that doesn’t feel like work. Achieving this
   goal will require changes in mindset, strategy and action."
-f_amazon-url: https://www.amazon.com/dp/1101903988/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1101903988/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

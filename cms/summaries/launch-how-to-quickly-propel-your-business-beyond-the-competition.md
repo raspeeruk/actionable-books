@@ -100,7 +100,7 @@ f_quote-2: >-
   your business to unimaginable places. But the idea of restraining marketing
   messages is a difficult pill for most people to swallow. It’s the opposite of
   what many marketers believe to be right and true."
-f_amazon-url: https://www.amazon.com/dp/111802723X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/111802723X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -124,7 +124,7 @@ f_conclusion: >-
   will. He hopes that those who get their feathers ruffled wake up to their
   problems and start acting on the suggestions contained within these 150+ short
   pages.
-f_amazon-url: https://www.amazon.com/dp/B00CB1CM52/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00CB1CM52/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

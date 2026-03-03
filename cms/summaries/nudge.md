@@ -98,7 +98,7 @@ f_quote-2: >-
   behavior. A good rule of thumb is to assume that ‘everything matters.’ In many
   cases, the power of these small details comes from focusing the attention of
   users in a particular direction.
-f_amazon-url: https://www.amazon.com/dp/014311526X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/014311526X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

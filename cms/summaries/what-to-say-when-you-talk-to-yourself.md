@@ -133,7 +133,7 @@ f_quote-2: >-
   "You are everything that is, your thoughts, your life, your dreams come true.
   You are everything you choose to be. You are as unlimited as the endless
   universe."
-f_amazon-url: https://www.amazon.com/dp/0671708821/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0671708821/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

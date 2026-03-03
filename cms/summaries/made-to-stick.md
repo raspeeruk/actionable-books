@@ -138,7 +138,7 @@ f_conclusion: >-
   contemporary examples and tangible applications, _Made to Stick_ contains the
   resources and tools to transform even the most potentially bland idea into one
   that makes an impact.
-f_amazon-url: https://www.amazon.com/dp/1400064287/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1400064287/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

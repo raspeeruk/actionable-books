@@ -102,7 +102,7 @@ f_quote-2: >-
   other way around. You do not need to first get motivated to start a new habit
   in your life. The more sensible order is to start a habit so that it acts as a
   motivation."
-f_amazon-url: https://www.amazon.com/dp/0061763276/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0061763276/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

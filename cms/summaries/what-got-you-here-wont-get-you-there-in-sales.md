@@ -148,7 +148,7 @@ f_quote-2: >-
   "The dynamics of buying and selling in the second decade of the new millennium
   demand a new paradigm, a new frame of reference, and a new way to understand
   and maintain readiness to buy."
-f_amazon-url: https://www.amazon.com/dp/0071773940/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071773940/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

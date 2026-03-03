@@ -164,7 +164,7 @@ f_insight-1: >-
   course, being an engineer, this strategy resonated with me. I’m curious and I
   love experiments.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0446573906/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0446573906/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

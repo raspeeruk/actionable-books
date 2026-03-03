@@ -153,7 +153,7 @@ f_conclusion: >-
 f_quote-2: >-
   "…the way we are taught to seek success – and what is culturally supported and
   encouraged – is plain wrong."
-f_amazon-url: https://www.amazon.com/dp/0062344005/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062344005/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

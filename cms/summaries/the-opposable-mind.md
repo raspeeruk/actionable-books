@@ -144,7 +144,7 @@ f_conclusion: >-
   find yourself with an either-or decision to make, take a step back, take a
   breath, and see if you can’t find an “and” that surpasses both. Life’s a
   puzzle. Focus on the big picture.
-f_amazon-url: https://www.amazon.com/dp/1422139778/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1422139778/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

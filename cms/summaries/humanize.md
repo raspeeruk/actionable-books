@@ -108,7 +108,7 @@ f_quote-2: >-
   "It is ironic that a significant advance in technology . . . would shine a
   light on our need to have more human organizations, but that’s exactly what’s
   happening."
-f_amazon-url: https://www.amazon.com/dp/0789741121/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0789741121/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

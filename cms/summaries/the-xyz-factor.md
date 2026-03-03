@@ -123,7 +123,7 @@ f_quote-2: >-
   "XYZ isn’t a place or company or an age. It’s a mind-set - a new kind of
   culture where innovation, accessibility, and transparency are the norm. It’s
   an environment created by behaviors and values."
-f_amazon-url: https://www.amazon.com/dp/1941631630/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1941631630/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -126,7 +126,7 @@ f_insight-1: >-
   bring my dream to life).
 f_conclusion: ''
 f_quote-2: '"The universe may be nothing more than a giant hologram created by the mind."'
-f_amazon-url: https://www.amazon.com/dp/1401916902/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1401916902/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

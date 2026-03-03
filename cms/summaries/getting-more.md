@@ -116,7 +116,7 @@ f_quote-2: >-
   “persuasion,’ ‘communication,’ or ‘selling.’ They all should have the same
   process. That is, they should start with goals, focus on people, and be
   situational."
-f_amazon-url: https://www.amazon.com/dp/0307716899/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0307716899/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

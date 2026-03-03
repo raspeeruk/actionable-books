@@ -129,7 +129,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Throwing things away requires effort. Getting rid of things is not difficult
   in itself, but judging what is useful and what is not can be."
-f_amazon-url: https://www.amazon.com/dp/1250120306/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1250120306/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

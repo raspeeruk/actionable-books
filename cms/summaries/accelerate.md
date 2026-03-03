@@ -93,7 +93,7 @@ f_quote-2: >-
   "The world is now changing at a rate at which the basic systems, structures,
   and cultures built over the past century cannot keep up with the demands being
   placed on them."
-f_amazon-url: https://www.amazon.com/dp/B00HSNMGC2/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00HSNMGC2/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

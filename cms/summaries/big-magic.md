@@ -114,7 +114,7 @@ f_conclusion: >-
 f_quote-2: >-
   "What do you love doing so much that the words failure and success essentially
   become irrelevant?"
-f_amazon-url: https://www.amazon.com/dp/1594634718/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1594634718/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

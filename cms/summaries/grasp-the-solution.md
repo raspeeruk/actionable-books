@@ -150,7 +150,7 @@ f_conclusion: >-
   it. He believes that the value of the book is that it will make it easier for
   you to apply this knowledge systematically in a world that’s becoming more
   complex and fast-paced.
-f_amazon-url: https://www.amazon.com/dp/1905493959/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1905493959/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

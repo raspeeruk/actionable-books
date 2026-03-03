@@ -203,7 +203,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The greater your goals, the more you'll need to change people's hearts,
   minds, and actions."
-f_amazon-url: https://www.amazon.com/dp/1591843790/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591843790/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

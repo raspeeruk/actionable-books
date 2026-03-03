@@ -158,7 +158,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The key is to manage your career as if it were a start-up business: a living,
   breathing, growing start-up of you."
-f_amazon-url: https://www.amazon.com/dp/0307888908/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0307888908/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

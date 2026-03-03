@@ -117,7 +117,7 @@ f_conclusion: >-
 f_quote-2: >-
   “The challenge, simply stated, is this: there is not enough top talent to go
   around, so how do we get good, solid people to produce great results?”
-f_amazon-url: https://www.amazon.com/dp/0986253103/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0986253103/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

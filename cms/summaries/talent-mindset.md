@@ -129,7 +129,7 @@ f_conclusion: >-
   employee perks and traditional HR buzzwords and labels? Why do we continue to
   settle with simply meeting expectations in this area where it is clearly
   possible to exceed? Perhaps it is true that old habits die hard.
-f_amazon-url: https://www.amazon.com/dp/0990866408/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0990866408/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

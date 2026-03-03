@@ -150,7 +150,7 @@ f_quote-2: >-
   "But for every goal you set, every initiative you design, there might be a
   better one just beyond your grasp – an innovation you don’t yet see. Creative
   strategy helps you see it."
-f_amazon-url: https://www.amazon.com/dp/0231160526/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0231160526/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

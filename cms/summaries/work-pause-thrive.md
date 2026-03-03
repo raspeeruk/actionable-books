@@ -132,7 +132,7 @@ f_conclusion: ''
 f_quote-2: >-
   "It’s time to reframe the narrative that says college-educated, professional
   women who pause their careers have nothing to offer the workforce."
-f_amazon-url: https://www.amazon.com/dp/1942952732/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1942952732/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

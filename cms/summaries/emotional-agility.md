@@ -167,7 +167,7 @@ f_quote-2: >-
   "Emotionally agile people are dynamic… able to tolerate high levels of stress
   and to endure setbacks… to act according to their most cherished values and
   pursue big, long-term goals."
-f_amazon-url: https://www.amazon.com/dp/B016JPTPDW/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B016JPTPDW/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

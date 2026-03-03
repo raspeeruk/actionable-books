@@ -143,7 +143,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The world needs leaders to stand up for what they believe in, stay true to
   their values and have the courage to say no when something is not right."
-f_amazon-url: https://www.amazon.com/dp/B00TJUMZGO/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00TJUMZGO/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -101,7 +101,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Nonverbal behaviors comprise approximately 60 to 65 percent of all
   interpersonal communication."
-f_amazon-url: https://www.amazon.com/dp/0061438294/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0061438294/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

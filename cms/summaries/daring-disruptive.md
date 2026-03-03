@@ -129,7 +129,7 @@ f_quote-2: >-
   “If I’m going to fail, then I want to do it well – fast and with minimum risk.
   And as a result of this ethos, I’m quite prepared to try out a lot of new and
   interesting things, unafraid of the outcome.”
-f_amazon-url: https://www.amazon.com/dp/1501135864/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1501135864/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

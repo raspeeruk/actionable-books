@@ -247,7 +247,7 @@ f_insight-1: >-
   two groups.”_
 f_conclusion: ''
 f_quote-2: '"Ideas and products and messages and behaviors spread just like viruses do."'
-f_amazon-url: https://www.amazon.com/dp/0316346624/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0316346624/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

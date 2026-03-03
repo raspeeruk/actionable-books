@@ -97,7 +97,7 @@ f_quote-2: >-
   "If they say ‘I see what you’re doing. You’re trying to get me to talk myself
   into this,’ a possible response might be 'No, only if there’s some genuine
   benefit to you. But since we’ve never talked about it, how would you know?'"
-f_amazon-url: https://www.amazon.com/dp/B00A19YND0/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00A19YND0/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

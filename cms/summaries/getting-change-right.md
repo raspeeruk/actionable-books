@@ -160,7 +160,7 @@ f_quote-2: >-
   a new idea or application. Imposed value happens when one person or one group
   sends an idea out – as if all that is required is that others understand their
   intentions."
-f_amazon-url: https://www.amazon.com/dp/0470550481/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470550481/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

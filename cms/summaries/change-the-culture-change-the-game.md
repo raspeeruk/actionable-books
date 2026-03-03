@@ -144,7 +144,7 @@ f_conclusion: >-
 f_quote-2: >-
   "When you build a Culture of Accountability, you create an organisation filled
   with people who can and will get game-changing results."
-f_amazon-url: https://www.amazon.com/dp/1591845394/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591845394/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

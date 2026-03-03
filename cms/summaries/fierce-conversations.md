@@ -102,7 +102,7 @@ f_quote-2: >-
   "When you think of a fierce conversation, think passion, integrity,
   authenticity, collaboration. Think cultural transformation. Think of
   leadership."
-f_amazon-url: https://www.amazon.com/dp/0425193373/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0425193373/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

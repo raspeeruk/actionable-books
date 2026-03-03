@@ -130,7 +130,7 @@ f_quote-2: >-
   "It doesn’t matter how much authority or power a feedback giver has; the
   receivers are in control of what they do and don’t let in, how they make sense
   of what they’re hearing, and whether they choose to change."
-f_amazon-url: https://www.amazon.com/dp/0143127136/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0143127136/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

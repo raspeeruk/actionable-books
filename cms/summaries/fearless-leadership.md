@@ -161,7 +161,7 @@ f_conclusion: >-
   recommendations are difficult to implement and control because our default or
   automatic behaviours are natural stumbling blocks to fearless leadership, but
   the book provides many exercises to begin and I suggest all leaders should.
-f_amazon-url: https://www.amazon.com/dp/0071624643/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071624643/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -144,7 +144,7 @@ f_conclusion: >-
 f_quote-2: >-
   "This is your one chance in life, you can have anything you want, what is
   worth doing?"
-f_amazon-url: https://www.amazon.com/dp/1936719118/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1936719118/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

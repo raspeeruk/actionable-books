@@ -121,7 +121,7 @@ f_conclusion: ''
 f_quote-2: >-
   "How do you convince someone to do what you want, in a way that leaves both of
   you feeling good about it?"
-f_amazon-url: https://www.amazon.com/dp/B005M1O7EM/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B005M1O7EM/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

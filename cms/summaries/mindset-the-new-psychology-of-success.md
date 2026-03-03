@@ -118,7 +118,7 @@ f_conclusion: >-
 f_quote-2: >-
   "It’s not always the people who start out the smartest who end up the
   smartest."
-f_amazon-url: https://www.amazon.com/dp/0345472322/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0345472322/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

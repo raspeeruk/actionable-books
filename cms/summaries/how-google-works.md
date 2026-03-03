@@ -114,7 +114,7 @@ f_quote-2: >-
   "The plan for creating that great search engine, and all the other great
   services, was equally simple: Hire as many talented software engineers as
   possible and give them freedom."
-f_amazon-url: https://www.amazon.com/dp/1455582344/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1455582344/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

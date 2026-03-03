@@ -125,7 +125,7 @@ f_quote-2: >-
   "The power of productive thinking lies in its potential to increase your
   chances of finding, developing, and ultimately implementing unexpected
   connections."
-f_amazon-url: https://www.amazon.com/dp/0071494936/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071494936/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

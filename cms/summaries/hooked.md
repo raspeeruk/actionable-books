@@ -122,7 +122,7 @@ f_quote-2: >-
   "In order to win the loyalty of their users and create a product that's
   regularly used, companies must learn not only what compels users to click but
   also what makes them tick."
-f_amazon-url: https://www.amazon.com/dp/9781591847/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/9781591847/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

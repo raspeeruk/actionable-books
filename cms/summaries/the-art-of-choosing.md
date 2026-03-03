@@ -164,7 +164,7 @@ f_quote-2: >-
   "We're aware of the positive effects of choice but not the negative ones, so
   we attribute any harm caused by too much choice to some other cause, perhaps
   even to too little choice."
-f_amazon-url: https://www.amazon.com/dp/0446504106/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0446504106/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

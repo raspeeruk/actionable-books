@@ -117,7 +117,7 @@ f_conclusion: >-
   that I was left with after reading _Disciplined Dreaming_ was optimism and
   confidence that there are great things to look forward to that have yet to be
   created and discovered.
-f_amazon-url: https://www.amazon.com/dp/0470922222/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470922222/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

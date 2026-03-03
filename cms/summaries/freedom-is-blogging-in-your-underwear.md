@@ -119,7 +119,7 @@ f_conclusion: >-
 f_quote-2: >-
   "[Blogging] gave me the freedom I spent most of my adult life searching for,
   the same freedom I believe we’re ALL searching for, in one way or another."
-f_amazon-url: https://www.amazon.com/dp/1591844851/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591844851/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

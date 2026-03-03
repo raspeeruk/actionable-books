@@ -154,7 +154,7 @@ f_quote-2: >-
   "The more you’re able to tolerate ambiguity and lean into the unknown, the
   more likely you’ll be able to dance with it long enough to come up with better
   solutions, ideas, and creations."
-f_amazon-url: https://www.amazon.com/dp/159184424X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/159184424X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

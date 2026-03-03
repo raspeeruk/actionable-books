@@ -126,7 +126,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The purpose of this book isn’t to tell you how to live your life. It’s to
   make you more mindful of the choices you make and the story you’re living."
-f_amazon-url: https://www.amazon.com/dp/1250067103/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1250067103/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

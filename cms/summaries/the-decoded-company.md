@@ -160,7 +160,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Decoded Companies don’t want to control their people; they want to unleash
   them."
-f_amazon-url: https://www.amazon.com/dp/B00EV4ZRYK/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00EV4ZRYK/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

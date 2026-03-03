@@ -153,7 +153,7 @@ f_insight-1: >-
   4.  **Environment that doesn’t support your goals.** Pay attention to who you
   surround yourself with. You will become like them – for the good or the bad.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1885167776/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1885167776/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -164,7 +164,7 @@ f_conclusion: >-
 f_quote-2: >-
   “As a Noble Purpose leader, you must believe that your business adds value to
   the world, and that you deserve to get paid for it.”
-f_amazon-url: https://www.amazon.com/dp/1119119804/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1119119804/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

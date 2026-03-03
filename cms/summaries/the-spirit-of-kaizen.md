@@ -128,7 +128,7 @@ f_quote-2: >-
   innovation and kaizen. Innovation calls for a radical, immediate rethink of
   the status quo. Kaizen, on the other hand, asks for nothing other than small,
   doable steps toward improvement."
-f_amazon-url: https://www.amazon.com/dp/B009Q0CQMA/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B009Q0CQMA/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

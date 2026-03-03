@@ -123,7 +123,7 @@ f_quote-2: >-
   meaning, for the sense that we have figured out how to live so that our lives
   matter, so that the world will be at least a little bit different for our
   having passed through it."
-f_amazon-url: https://www.amazon.com/dp/1455548170/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1455548170/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

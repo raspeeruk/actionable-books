@@ -126,7 +126,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Everyone should have a side hustle. Even if you love your job., having more
   than one source of income will give you more freedom and more options."
-f_amazon-url: https://www.amazon.com/dp/1524758841/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1524758841/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

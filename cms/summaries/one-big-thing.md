@@ -119,7 +119,7 @@ f_quote-2: >-
   calling, expertise, and brand, and what doesn’t? What will actually take you
   into the future? What could you potentially be the best in your field at
   accomplishing?"
-f_amazon-url: https://www.amazon.com/dp/159555484X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/159555484X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -108,7 +108,7 @@ f_quote-2: >-
   on what you do rather than who you are, and when credentials, access to
   capital, and raw power have been dwarfed by the simple question 'Do I care
   about what you do?'"
-f_amazon-url: https://www.amazon.com/dp/1591846072/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591846072/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

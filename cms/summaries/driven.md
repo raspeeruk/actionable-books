@@ -94,7 +94,7 @@ f_insight-1: >-
   world without making some kind of sacrifice. Anyone who is driven to succeed
   recognizes this fact._”
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/155468708X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/155468708X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

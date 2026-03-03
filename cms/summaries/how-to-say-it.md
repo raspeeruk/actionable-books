@@ -133,7 +133,7 @@ f_conclusion: >-
   of this book. All professional sales pros need the occasional booster shot of
   theory, so they’ll find something in this book that is a reminder of what had
   been learned and forgotten at past sales training classes.
-f_amazon-url: https://www.amazon.com/dp/0735204586/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0735204586/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

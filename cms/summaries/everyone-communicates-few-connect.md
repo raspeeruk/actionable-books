@@ -129,7 +129,7 @@ f_quote-2: >-
   "If I had to pick a first rule of communication - the practice above all
   others that opens the door to connection with others - it would be to look for
   common ground."
-f_amazon-url: https://www.amazon.com/dp/0785214259/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0785214259/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

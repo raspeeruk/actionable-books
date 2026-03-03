@@ -150,7 +150,7 @@ f_quote-2: >-
   behaviors. Applying good ideas transforms behaviors to drive results. Subtle
   differences in the ways leaders act and respond, little differences in the
   ways they behave, can make a big difference in their results."
-f_amazon-url: https://www.amazon.com/dp/1119363209/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1119363209/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

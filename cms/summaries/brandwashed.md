@@ -126,7 +126,7 @@ f_conclusion: >-
   consumer who thinks twice about your brand and product choices. After reading
   this book, you will never look at another billboard, commercial, or magazine
   ad the same way again.
-f_amazon-url: https://www.amazon.com/dp/0385531737/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0385531737/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

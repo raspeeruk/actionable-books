@@ -141,7 +141,7 @@ f_quote-2: >-
   "We’ve been staring at the tools of productivity – the gadgets and apps and
   complicated filing systems for keeping track of various to-do lists – rather
   than the lessons those technologies are trying to teach us."
-f_amazon-url: https://www.amazon.com/dp/B012089MSA/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B012089MSA/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

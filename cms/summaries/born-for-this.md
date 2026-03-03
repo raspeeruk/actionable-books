@@ -172,7 +172,7 @@ f_insight-1: >-
   reframe everything. This is Guillebeau’s mantra and within the book he cites
   several examples of people hitting the career lottery after quitting.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1101903988/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1101903988/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -127,7 +127,7 @@ f_conclusion: >-
 f_quote-2: >-
   "By understanding your brain, you increase your capacity to change your
   brain."
-f_amazon-url: https://www.amazon.com/dp/0061771295/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0061771295/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -87,7 +87,7 @@ f_insight-1: >-
   path. Remember that you aren’t the only one on this wild and crazy
   rollercoaster ride. Be very sure you want it.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/144342062X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/144342062X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

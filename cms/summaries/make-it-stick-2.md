@@ -121,7 +121,7 @@ f_conclusion: >-
   can be put to use right now everywhere learners, teachers, and trainers are at
   work,” advise the authors.
 f_quote-2: '"People generally are going about learning in the wrong ways."'
-f_amazon-url: https://www.amazon.com/dp/0674729013/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0674729013/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

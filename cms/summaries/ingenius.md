@@ -127,7 +127,7 @@ f_conclusion: >-
   overcome challenges and generate opportunities of all dimensions” (page 201).
   Change the game.
 f_quote-2: '"Creativity is not just something you think about – it is something you do."'
-f_amazon-url: https://www.amazon.com/dp/0062020706/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062020706/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

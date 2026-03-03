@@ -137,7 +137,7 @@ f_conclusion: >-
   long will it take to do excellently? What extra could you do to make this
   event your masterpiece? The weekly review offers as much benefit looking
   forward as it does looking back.
-f_amazon-url: https://www.amazon.com/dp/0143116622/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0143116622/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

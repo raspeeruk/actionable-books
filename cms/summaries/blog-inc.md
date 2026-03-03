@@ -138,7 +138,7 @@ f_quote-2: >-
   "A handbook like this—full of advice from those who have already navigated the
   world of blogging—is one of the easiest ways to ensure that you develop and
   stay true to your core blogging goals and values."
-f_amazon-url: https://www.amazon.com/dp/1452107203/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1452107203/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

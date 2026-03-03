@@ -170,7 +170,7 @@ f_quote-2: >-
   "This process simply puts names on the stages of innovation that we all do
   normally. There is no big revelation here. The revelation comes in what
   happens when we consciously follow this process as a team."
-f_amazon-url: https://www.amazon.com/dp/1118115716/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118115716/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

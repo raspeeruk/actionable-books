@@ -151,7 +151,7 @@ f_quote-2: >-
   know; it’s who you know.’ …this cliché isn’t quite on target, but if we adjust
   it to ‘it’s not only what you know but how you manage perception,’ we are
   taking the first steps on a life-altering journey."
-f_amazon-url: https://www.amazon.com/dp/0071632875/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071632875/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

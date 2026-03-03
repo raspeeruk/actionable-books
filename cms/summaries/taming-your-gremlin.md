@@ -110,7 +110,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Like it or not you are, indeed, in charge. And if that realization has not
   left you shaking in your boots, then you have not fully had it."
-f_amazon-url: https://www.amazon.com/dp/B001ODEPM6/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B001ODEPM6/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

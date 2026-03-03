@@ -152,7 +152,7 @@ f_quote-2: >-
   “I imagine a world where we all find satisfaction in our work. It is a world
   where every human being is intellectually engaged, motivated and
   self-inspired.”
-f_amazon-url: https://www.amazon.com/dp/1591846404/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591846404/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

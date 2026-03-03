@@ -136,7 +136,7 @@ f_quote-2: >-
   "It soon became clear that my best resource for managing Angel would be,
   unexpectedly, the six decades of experience I had in a variety of management
   positions and the principles I had learned in the process."
-f_amazon-url: https://www.amazon.com/dp/1616083247/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1616083247/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

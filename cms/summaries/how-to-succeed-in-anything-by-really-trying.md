@@ -77,7 +77,7 @@ f_conclusion: >-
   poignant insights into what truly makes us successful in our day to day lives.
   It’s a fun read, with something for everyone, and the kind of book you’ll want
   to reference again and again.
-f_amazon-url: https://www.amazon.com/dp/B00338076S/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00338076S/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

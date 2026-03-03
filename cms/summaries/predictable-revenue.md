@@ -139,7 +139,7 @@ f_quote-2: >-
   helped Salesforce.com add $100 million in incremental recurring revenue over
   just a few short years. The team and process were sustainable, and is still
   going strong all these years later."
-f_amazon-url: https://www.amazon.com/dp/0984380213/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0984380213/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

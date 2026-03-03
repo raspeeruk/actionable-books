@@ -102,7 +102,7 @@ f_conclusion: >-
 f_quote-2: >-
   "…allowing your life to be taken up by financial struggle and strife is
   playing smaller than you’re capable of."
-f_amazon-url: https://www.amazon.com/dp/1401941761/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1401941761/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

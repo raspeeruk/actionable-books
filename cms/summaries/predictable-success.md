@@ -139,7 +139,7 @@ f_quote-2: >-
   relative ease) achieve their common goals – a state called Predictable
   Success. No special skills required; no leap of faith is needed; there are no
   mantras to learn or secrets to divine."
-f_amazon-url: https://www.amazon.com/dp/1608321223/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1608321223/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

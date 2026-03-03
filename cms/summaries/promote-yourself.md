@@ -157,7 +157,7 @@ f_conclusion: >-
 f_quote-2: >-
   "If you believe in yourself, try new things, and spend some time outside your
   comfort zone, you can do anything you want."
-f_amazon-url: https://www.amazon.com/dp/1250044553/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1250044553/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

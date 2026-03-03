@@ -130,7 +130,7 @@ f_quote-2: >-
   "Success is messy. Career visions spill into lifestyle choices, mash into
   spiritual paradigms, and ride on top of relationships. It’s all interconnected
   and paradoxical. And promising."
-f_amazon-url: https://www.amazon.com/dp/030795210X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/030795210X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

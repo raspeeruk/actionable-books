@@ -159,7 +159,7 @@ f_quote-2: >-
   "The brain Merzenich describes is not an inanimate vessel that we fill; rather
   it is more like a living creature with an appetite, one that can grow and
   change itself with proper nourishment and exercise."
-f_amazon-url: https://www.amazon.com/dp/0143113100/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0143113100/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

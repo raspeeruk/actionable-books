@@ -120,7 +120,7 @@ f_quote-2: >-
   "My whole life has turned into an exercise in hurry, in packing more and more
   into every hour. I am Scrooge with a stopwatch, obsessed with saving every
   last scrap of time, a minute here, a few seconds there."
-f_amazon-url: https://www.amazon.com/dp/0060750510/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0060750510/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

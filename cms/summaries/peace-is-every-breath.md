@@ -160,7 +160,7 @@ f_conclusion: ''
 f_quote-2: >-
   "All of us need to have a spiritual dimension in our lives. The really good
   news is that spiritual practice can be done at any time of the day."
-f_amazon-url: https://www.amazon.com/dp/0062005820/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062005820/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -133,7 +133,7 @@ f_quote-2: >-
   "What could be more natural than to treat our organizations, not as mystical
   hierarchies of authority, but as communities of engagement, where every member
   is respected and so returns that respect?"
-f_amazon-url: https://www.amazon.com/dp/1609949234/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1609949234/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

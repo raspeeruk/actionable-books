@@ -102,7 +102,7 @@ f_conclusion: >-
 f_quote-2: >-
   "...there are patterns in you. And the most dominant – the most frequently
   recurring patterns – are the source of your strengths."
-f_amazon-url: https://www.amazon.com/dp/140020237X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/140020237X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

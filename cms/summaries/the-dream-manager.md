@@ -93,7 +93,7 @@ f_conclusion: >-
   accomplishment of those dreams are so simple to do, provided you just allow
   yourself a little regular time to do so. Give it a shot this week and see what
   happens.
-f_amazon-url: https://www.amazon.com/dp/1401303706/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1401303706/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

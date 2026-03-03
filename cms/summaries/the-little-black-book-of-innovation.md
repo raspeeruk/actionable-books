@@ -142,7 +142,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Innovation – something different that has impact – is both more important and
   more accessible than ever before."
-f_amazon-url: https://www.amazon.com/dp/1422171728/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1422171728/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

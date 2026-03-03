@@ -124,7 +124,7 @@ f_quote-2: >-
   "Every nonprofit leader who breaks out of the three-year planning cycle to
   form strategies as opportunities and challenges arise is manning the strategy
   revolution barricades"
-f_amazon-url: https://www.amazon.com/dp/0940069652/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0940069652/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -146,7 +146,7 @@ f_quote-2: >-
   "Our culture made a virtue of living only as extroverts. We discouraged the
   inner journey, the quest for a center. So we lost our center and have to find
   it again."
-f_amazon-url: https://www.amazon.com/dp/0307352145/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0307352145/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

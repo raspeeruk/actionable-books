@@ -103,7 +103,7 @@ f_insight-1: >-
   disposal. The key to identifying an appropriate beachhead is to understand and
   embrace a delicate balance of belief and humility.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1591840562/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591840562/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

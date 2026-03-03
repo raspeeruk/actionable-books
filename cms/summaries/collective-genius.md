@@ -137,7 +137,7 @@ f_quote-2: >-
   team or a large corporation, contains a slice of genius. Your task as leader
   is to create a place where all those slices can be elicited, combined, and
   converted into collective genius."
-f_amazon-url: https://www.amazon.com/dp/1422130029/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1422130029/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

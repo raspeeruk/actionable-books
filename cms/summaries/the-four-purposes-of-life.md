@@ -124,7 +124,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Never make the mistake of thinking that your birth number defines you as a
   person or limits your choices in the world."
-f_amazon-url: https://www.amazon.com/dp/1932073736/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1932073736/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -115,7 +115,7 @@ f_conclusion: >-
 f_quote-2: >-
   "It’s the ability to close that makes a difference more than any other skill
   you will learn in life"
-f_amazon-url: https://www.amazon.com/dp/B00LLO8JLG/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00LLO8JLG/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

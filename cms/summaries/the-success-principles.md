@@ -118,7 +118,7 @@ f_quote-2: >-
   "If you are committed to a cause that evokes your passion and commitment, you
   keep learning from your experiences, and you stay the course to the end, you
   will eventually create your desired outcome."
-f_amazon-url: https://www.amazon.com/dp/0060594896/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0060594896/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

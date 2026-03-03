@@ -140,7 +140,7 @@ f_conclusion: >-
   you have that could benefit from analyzing how social influence can make an
   impact?
 f_quote-2: “Social influence is as silent as it is powerful.”
-f_amazon-url: https://www.amazon.com/dp/1476759693/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1476759693/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

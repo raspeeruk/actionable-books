@@ -127,7 +127,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The blind spot in the twentieth-century toolkit of economics and management
   can be summarized in a single word: consciousness."
-f_amazon-url: https://www.amazon.com/dp/1605099260/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1605099260/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

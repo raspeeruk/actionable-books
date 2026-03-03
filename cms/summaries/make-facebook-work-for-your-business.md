@@ -119,7 +119,7 @@ f_conclusion: >-
 f_quote-2: >-
   "My goal is to help you save your time and your resources and provide you with
   a highly effective system to make Facebook work for your business."
-f_amazon-url: https://www.amazon.com/dp/1502876949/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1502876949/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

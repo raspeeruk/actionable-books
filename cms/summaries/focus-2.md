@@ -145,7 +145,7 @@ f_quote-2: >-
   "Promotion focus is about maximizing gains and avoiding missed opportunities…
   Prevention focus, on the other hand, is about minimizing losses, to keep
   things working."
-f_amazon-url: https://www.amazon.com/dp/1594631026/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1594631026/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

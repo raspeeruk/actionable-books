@@ -154,7 +154,7 @@ f_quote-2: >-
   "This book is the culmination of our research and experience helping clients
   connect with audiences in boardrooms, on K street, at cocktail parties and
   Sunday picnics."
-f_amazon-url: https://www.amazon.com/dp/0142181021/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0142181021/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

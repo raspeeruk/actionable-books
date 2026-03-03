@@ -116,7 +116,7 @@ f_conclusion: >-
 f_quote-2: >-
   “I think in many cases, the traditional approach of appraising performance is
   a waste of time and can even cause more harm than good.”
-f_amazon-url: https://www.amazon.com/dp/113734749X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/113734749X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

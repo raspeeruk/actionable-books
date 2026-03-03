@@ -84,7 +84,7 @@ f_quote-2: >-
   "Finding your Element is a quest to find yourself…it is a two-way journey: an
   inward journey to explore what lies within you and an outward journey to
   explore opportunities in the world around you."
-f_amazon-url: https://www.amazon.com/dp/0670022381/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0670022381/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

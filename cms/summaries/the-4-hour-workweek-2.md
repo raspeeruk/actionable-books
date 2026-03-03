@@ -167,7 +167,7 @@ f_conclusion: >-
   inspiration and actionable business advice. Follow up those dreams and
   theories with your actions.
 f_quote-2: '"It''s not an elitist club; it''s a middle-class leaderless movement."'
-f_amazon-url: https://www.amazon.com/dp/0307465357/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0307465357/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

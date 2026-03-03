@@ -149,7 +149,7 @@ f_insight-1: >-
   understanding makes it easier to change plans.
 f_conclusion: ''
 f_quote-2: '"Business is a dogfight. Your job as leader: Outmaneuver the competition."'
-f_amazon-url: https://www.amazon.com/dp/1413453767/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1413453767/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

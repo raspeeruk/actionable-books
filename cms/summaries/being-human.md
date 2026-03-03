@@ -155,7 +155,7 @@ f_conclusion: >-
   can come quickly—and he’s not just talking about feeling good at work, he’s
   talking about improved business outcomes across the organization.
 f_quote-2: '"My strategy is that my people will be happy and have fun."'
-f_amazon-url: https://www.amazon.com/dp/0995429618/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0995429618/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

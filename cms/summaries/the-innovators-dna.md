@@ -130,7 +130,7 @@ f_conclusion: >-
 f_quote-2: >-
   "…one’s ability to generate innovative ideas is not merely a function of the
   mind, but also a function of behaviors."
-f_amazon-url: https://www.amazon.com/dp/1422134814/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1422134814/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

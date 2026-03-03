@@ -130,7 +130,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Metaphorically speaking, a traditional business requires more brawn, while
   subscription business requires more brain."
-f_amazon-url: https://www.amazon.com/dp/B00LFYXDNQ/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00LFYXDNQ/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -172,7 +172,7 @@ f_quote-2: >-
   "I needed to be the hero of my own story. If I didn’t lead a life that
   mattered, it was by my own choice, not because of circumstances I couldn’t
   control."
-f_amazon-url: https://www.amazon.com/dp/1118674707/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118674707/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

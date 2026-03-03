@@ -138,7 +138,7 @@ f_quote-2: >-
   to craft a pitch, learning how to distinguish between what’s important and
   what isn’t when you do craft one, and training yourself to focus on the parts
   that matter."
-f_amazon-url: https://www.amazon.com/dp/B011P7OI8G/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B011P7OI8G/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

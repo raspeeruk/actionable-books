@@ -114,7 +114,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Don’t get distracted running the business and forget to grow the people who
   are helping to grow the business.”
-f_amazon-url: https://www.amazon.com/dp/B06XQGV8QY/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B06XQGV8QY/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

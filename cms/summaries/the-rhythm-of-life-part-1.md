@@ -93,7 +93,7 @@ f_quote-2: >-
   "Do you ever feel you just need a little time to yourself? Do you find
   yourself questioning the way you are living your life? Do you have questions
   about what is best for you now? Do you feel overloaded or overwhelmed?"
-f_amazon-url: https://www.amazon.com/dp/0743265254/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0743265254/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

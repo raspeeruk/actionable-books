@@ -97,7 +97,7 @@ f_conclusion: >-
   Michele’s tenacious personality – along with her passion for her people and
   her business – shines through.
 f_quote-2: '"Transparency is the foundation of everything we do."'
-f_amazon-url: https://www.amazon.com/dp/0992024307/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0992024307/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

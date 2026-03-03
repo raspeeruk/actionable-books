@@ -117,7 +117,7 @@ f_quote-2: >-
   made of? It’s made of our own unique mix of talents, inclinations, and
   passions. The treasure that can be unlocked by that key, and by that key only,
   is the version of success we define for ourselves.”
-f_amazon-url: https://www.amazon.com/dp/0307464725/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0307464725/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

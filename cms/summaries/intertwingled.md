@@ -119,7 +119,7 @@ f_conclusion: >-
 f_quote-2: >-
   "People keep pretending they can make things hierarchical, categorizable, and
   sequential when they can’t. Everything is deeply intertwingled.”
-f_amazon-url: https://www.amazon.com/dp/0692225587/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0692225587/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -132,7 +132,7 @@ f_conclusion: >-
 f_quote-2: >-
   "When we say our people matter but we don’t actually care for them, it can
   shatter trust and create a culture of paranoia, cynicism, and self-interest."
-f_amazon-url: https://www.amazon.com/dp/B00SI02E5S/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00SI02E5S/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

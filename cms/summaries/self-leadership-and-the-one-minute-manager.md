@@ -124,7 +124,7 @@ f_conclusion: >-
 f_quote-2: >-
   "I want people who are problem solvers and are willing to take initiative. I
   want people working for me who act like they own the place."
-f_amazon-url: https://www.amazon.com/dp/0060799129/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0060799129/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -102,7 +102,7 @@ f_quote-2: >-
   relying on century-old customs and antiquated ideas about ‘property rights’,
   ‘education’, ‘jobs’, ‘politics’, and so on that have kept people enslaved with
   ancient philosophical shackles."
-f_amazon-url: https://www.amazon.com/dp/1490313370/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1490313370/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

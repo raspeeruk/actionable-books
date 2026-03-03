@@ -74,7 +74,7 @@ f_quote-2: >-
   a place you’ll go; it’s a place you will invent. Your ability to shape your
   future depends on how well you communicate where you want to be when you get
   there."
-f_amazon-url: https://www.amazon.com/dp/0470632011/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470632011/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

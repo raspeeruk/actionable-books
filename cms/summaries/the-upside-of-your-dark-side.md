@@ -143,7 +143,7 @@ f_conclusion: >-
 f_quote-2: >-
   "One does not become enlightened by imagining figures of light, but by making
   the darkness conscious."
-f_amazon-url: https://www.amazon.com/dp/0147516447/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0147516447/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -174,7 +174,7 @@ f_conclusion: >-
   recognized overwhelming parallels to two in my life who I’ve assumed just
   wasn’t listening, trying, caring.
 f_quote-2: '"[J]ust as our brains shape us, we can shape our brains."'
-f_amazon-url: https://www.amazon.com/dp/1451607938/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1451607938/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

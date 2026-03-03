@@ -133,7 +133,7 @@ f_conclusion: >-
   to it making us be a better leader, we will be in a follower role everyday in
   some part of our lives for the rest of our lives.
 f_quote-2: '"Leadership is really a particular form of followership."'
-f_amazon-url: https://www.amazon.com/dp/B00A2ULAFM/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00A2ULAFM/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

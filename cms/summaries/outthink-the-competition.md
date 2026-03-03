@@ -209,7 +209,7 @@ f_quote-2: >-
   outthinkers. Outthinkers step outside of the accepted paradigms in which
   thinkers operate. They act differently because they see the world
   differently."
-f_amazon-url: https://www.amazon.com/dp/1118105087/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118105087/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

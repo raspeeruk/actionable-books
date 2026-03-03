@@ -138,7 +138,7 @@ f_quote-2: >-
   your commitment is staunch, the how-tos invariably show up. I saw over and
   over how once the women I was talking to set their sights on higher earnings,
   lo and behold, that’s what they got."
-f_amazon-url: https://www.amazon.com/dp/0060933461/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0060933461/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

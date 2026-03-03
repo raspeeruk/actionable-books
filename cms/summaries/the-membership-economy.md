@@ -93,7 +93,7 @@ f_quote-2: >-
   "The Membership Economy model, enabled by technological transformation and
   emphasizing ongoing relationships rather than individual transactions, can
   benefit almost every organisation."
-f_amazon-url: https://www.amazon.com/dp/0071839321/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071839321/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

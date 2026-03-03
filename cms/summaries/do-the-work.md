@@ -117,7 +117,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Resistance is the response of the frightened, petty, small-time ego to the
   brave, generous, magnificent impulse of the creative self."
-f_amazon-url: https://www.amazon.com/dp/1936719010/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1936719010/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

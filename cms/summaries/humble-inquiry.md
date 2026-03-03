@@ -120,7 +120,7 @@ f_quote-2: >-
   us things that would improve matters or avoid pitfalls, when discussions turn
   into arguments that end in stalemates and hurt feelings – what went wrong and
   what could have been done to get better outcomes?"
-f_amazon-url: https://www.amazon.com/dp/1609949811/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1609949811/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -111,7 +111,7 @@ f_conclusion: >-
 f_quote-2: >-
   “The harder you try to be perfect, the less likely you’ll accomplish your
   goals.”
-f_amazon-url: https://www.amazon.com/dp/1591847621/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591847621/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

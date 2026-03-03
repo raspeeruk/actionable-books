@@ -150,7 +150,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The idea of Less Doing is to reclaim your time and – more important – your
   mind, so you can do the things you want to do."
-f_amazon-url: https://www.amazon.com/dp/0399168524/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0399168524/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

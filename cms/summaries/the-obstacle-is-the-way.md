@@ -120,7 +120,7 @@ f_quote-2: >-
   "All great victories, be they in politics, business, art or seduction,
   involved resolving vexing problems with a potent cocktail of creativity, focus
   and daring."
-f_amazon-url: https://www.amazon.com/dp/1591846358/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591846358/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

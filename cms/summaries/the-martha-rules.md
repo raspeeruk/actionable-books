@@ -131,7 +131,7 @@ f_quote-2: >-
   "The advantage of starting a business in an area about which you are
   passionate is that when you really care about something… you can often serve
   your customers very well by thinking about what you need and want yourself."
-f_amazon-url: https://www.amazon.com/dp/1594864705/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1594864705/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

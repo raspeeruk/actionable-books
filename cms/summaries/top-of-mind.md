@@ -104,7 +104,7 @@ f_conclusion: >-
 f_quote-2: >-
   "When helping others becomes the framework through which you interact with the
   world, you’ll find yourself at the top of many minds."
-f_amazon-url: https://www.amazon.com/dp/1260011925/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1260011925/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

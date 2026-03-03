@@ -148,7 +148,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Life is never perfect. We all live some form of Option B. This book is to
   help us all kick the shit out of it."
-f_amazon-url: https://www.amazon.com/dp/1524732680/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1524732680/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

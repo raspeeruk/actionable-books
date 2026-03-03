@@ -134,7 +134,7 @@ f_quote-2: >-
   you know. Too many people go through life living by chance, but when you live
   by design and know the life you want to create, you are able to create a
   masterpiece instead of a piece of junk."
-f_amazon-url: https://www.amazon.com/dp/0470888547/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470888547/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

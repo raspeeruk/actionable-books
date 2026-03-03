@@ -128,7 +128,7 @@ f_quote-2: >-
   or ‘Why do you like that guy?’ or ‘Why did you laugh at that joke?’ Research
   suggests that we think we know the answers to such questions but really we
   often don’t."
-f_amazon-url: https://www.amazon.com/dp/0307472256/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0307472256/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

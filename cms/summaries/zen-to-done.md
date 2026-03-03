@@ -117,7 +117,7 @@ f_insight-1: >-
   all only stick with the ones the best serve you and your work.
 f_conclusion: ''
 f_quote-2: '"How soon ''not now'' becomes ''never.''"'
-f_amazon-url: https://www.amazon.com/dp/B001970HQU/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B001970HQU/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

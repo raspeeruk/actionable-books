@@ -106,7 +106,7 @@ f_conclusion: >-
 f_quote-2: >-
   "What you do need is a degree of determination - the perseverance to be sure
   you’ve said what you want to say."
-f_amazon-url: https://www.amazon.com/dp/0060956437/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0060956437/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

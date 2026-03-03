@@ -122,7 +122,7 @@ f_quote-2: >-
   "Weird (not normal) means that you've made a choice, that you've stood up for
   what you believe in and done what you want, not what the marketer wants. More
   and more, that's precisely what's happening."
-f_amazon-url: https://www.amazon.com/dp/1936719223/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1936719223/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

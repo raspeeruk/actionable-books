@@ -113,7 +113,7 @@ f_conclusion: >-
   perfect. Perfect practice makes perfect.” With Geoff Colvin’s _Talent Is
   Overrated_, I finally get the point.
 f_quote-2: '"By understanding how a few become great, anyone can become better."'
-f_amazon-url: https://www.amazon.com/dp/1591842948/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591842948/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

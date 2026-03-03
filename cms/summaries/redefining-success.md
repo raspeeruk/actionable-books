@@ -195,7 +195,7 @@ f_quote-2: >-
   because it truly forced me to slow down and think about how I was living.
   Cancer may have saved my life. Cancer allowed me to say no to every request
   for my time."
-f_amazon-url: https://www.amazon.com/dp/067006694X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/067006694X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

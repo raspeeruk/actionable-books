@@ -100,7 +100,7 @@ f_quote-2: >-
   "In an effort to use high tech to connect with people more effectively, we are
   losing the human “touch” – that critical person-to-person connection which is
   still the engine of commerce."
-f_amazon-url: https://www.amazon.com/dp/B00IISHOFK/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00IISHOFK/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

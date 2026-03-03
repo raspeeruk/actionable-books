@@ -134,7 +134,7 @@ f_quote-2: >-
   "The mechanism that drives you to conceal your darkness is the same mechanism
   that has you hide your light. What you’ve been hiding from can actually give
   you what you’ve been trying hard to achieve."
-f_amazon-url: https://www.amazon.com/dp/1401927130/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1401927130/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

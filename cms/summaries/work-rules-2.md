@@ -164,7 +164,7 @@ f_quote-2: >-
   "This book is the story of how we [Google] think about our people, what we’ve
   learned over the past fifteen years, and what you can do to put people first
   and transform how you live and lead."
-f_amazon-url: https://www.amazon.com/dp/1455554790/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1455554790/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

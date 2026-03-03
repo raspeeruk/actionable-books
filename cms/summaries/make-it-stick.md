@@ -168,7 +168,7 @@ f_conclusion: >-
 f_quote-2: >-
   "For the most part, we are going about learning in the wrong ways, and we are
   giving poor advice to those who are coming up behind us."
-f_amazon-url: https://www.amazon.com/dp/0674729013/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0674729013/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

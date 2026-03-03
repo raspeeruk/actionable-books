@@ -122,7 +122,7 @@ f_conclusion: >-
   Confidence, Courage and Strength. It’s up to each of us which set we choose to
   listen to.
 f_quote-2: '"Fear knocked at the door, love answered and no one was there."'
-f_amazon-url: https://www.amazon.com/dp/B0070XB0SG/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B0070XB0SG/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

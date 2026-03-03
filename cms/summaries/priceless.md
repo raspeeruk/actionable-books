@@ -167,7 +167,7 @@ f_conclusion: ''
 f_quote-2: >-
   "The same psychological tricks apply whether you're setting a price for text
   messages or toilet paper or airline tickets."
-f_amazon-url: https://www.amazon.com/dp/0809078813/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0809078813/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

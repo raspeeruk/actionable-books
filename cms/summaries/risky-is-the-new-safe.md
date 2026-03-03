@@ -121,7 +121,7 @@ f_quote-2: >-
   do. The people who create prosperity in the new economy will be in front of
   the trends, anticipating them instead of naively reacting to what happened
   yesterday."
-f_amazon-url: https://www.amazon.com/dp/111848147X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/111848147X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

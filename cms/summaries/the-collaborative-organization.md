@@ -131,7 +131,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Technology is supposed to support us and do what we tell it to do. Instead we
   have the opposite: Technology tells us what to do and when to use it."
-f_amazon-url: https://www.amazon.com/dp/B0089VI82O/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B0089VI82O/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

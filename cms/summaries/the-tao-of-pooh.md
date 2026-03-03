@@ -144,7 +144,7 @@ f_insight-1: >-
   Success is a state of mind that can be achieved once you learn to fit your
   circumstances – because only those best-suited to their environments survive.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/014095144X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/014095144X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

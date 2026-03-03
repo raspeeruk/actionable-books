@@ -112,7 +112,7 @@ f_quote-2: >-
   “Always focus on the outcome you want to achieve in a meeting, interview, or
   negotiation rather than how you think you’re doing and what you think people
   will think of you.”
-f_amazon-url: https://www.amazon.com/dp/0544800842/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0544800842/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

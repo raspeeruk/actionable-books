@@ -188,7 +188,7 @@ f_conclusion: ''
 f_quote-2: >-
   "How would you feel knowing that every time you started a new book project,
   you already had people excited to buy it and ready to recommend it to others?"
-f_amazon-url: https://www.amazon.com/dp/0615796796/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0615796796/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

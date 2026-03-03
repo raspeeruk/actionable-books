@@ -132,7 +132,7 @@ f_conclusion: >-
 f_quote-2: >-
   "If our brains were simple enough to be understood, we wouldn’t be smart
   enough to understand them."
-f_amazon-url: https://www.amazon.com/dp/0307377334/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0307377334/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -190,7 +190,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Teams compose a large part of our private and public lives. We depend on them
   for both our success and our happiness."
-f_amazon-url: https://www.amazon.com/dp/006230254X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/006230254X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

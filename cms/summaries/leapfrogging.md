@@ -136,7 +136,7 @@ f_conclusion: ''
 f_quote-2: >-
   "If there’s something that’s really a big surprise… that’s generally the real
   world speaking to you, saying there’s something you don’t yet understand."
-f_amazon-url: https://www.amazon.com/dp/1609944941/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1609944941/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

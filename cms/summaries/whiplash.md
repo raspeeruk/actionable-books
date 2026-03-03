@@ -157,7 +157,7 @@ f_quote-2: >-
   ignorance offers strategic advantages over expending resources - subcommittees
   and think tanks and sales forecasts - toward the increasingly futile goal of
   forecasting future events.”
-f_amazon-url: https://www.amazon.com/dp/1455544590/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1455544590/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

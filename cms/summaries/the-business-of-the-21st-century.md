@@ -123,7 +123,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Most of the U.S. population has been living for years on the knife-edge
   precipice between solvency and ruin."
-f_amazon-url: https://www.amazon.com/dp/8183222609/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/8183222609/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

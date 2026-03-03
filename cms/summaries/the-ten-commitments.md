@@ -143,7 +143,7 @@ f_conclusion: >-
 f_quote-2: >-
   "When all your desires are distilled you will cast just two votes: To love
   more and to be happy."
-f_amazon-url: https://www.amazon.com/dp/0757304060/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0757304060/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

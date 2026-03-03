@@ -92,7 +92,7 @@ f_conclusion: >-
   are drawn to certain people and companies, and how can we cultivate more of it
   in our lives. Fascinate is a great read – enjoyable and poignant, and sure to
   be referenced for years to come.
-f_amazon-url: https://www.amazon.com/dp/0061714704/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0061714704/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

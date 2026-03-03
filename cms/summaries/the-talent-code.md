@@ -131,7 +131,7 @@ f_conclusion: >-
 f_quote-2: >-
   "All skills, all language, all music, all movements, are made of living
   circuits, and all circuits grow according to certain rules."
-f_amazon-url: https://www.amazon.com/dp/055380684X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/055380684X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

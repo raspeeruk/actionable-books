@@ -122,7 +122,7 @@ f_quote-2: >-
   "People don’t want more information. They can’t process the information they
   already have. What they want is faith in you, your words, and your good
   intentions."
-f_amazon-url: https://www.amazon.com/dp/0814409148/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0814409148/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

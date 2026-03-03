@@ -140,7 +140,7 @@ f_conclusion: >-
   is fair and compassionate with others, is passionate about their work, and has
   a clear sense of where they’re going, the Web is your friend. Just don’t
   forget that it’s there to work for you, and not the other way around.
-f_amazon-url: https://www.amazon.com/dp/0470635495/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470635495/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

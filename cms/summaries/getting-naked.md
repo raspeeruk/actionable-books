@@ -133,7 +133,7 @@ f_conclusion: >-
 f_quote-2: >-
   "...transparency and modesty - qualities that are immensely more attractive
   than intelligence."
-f_amazon-url: https://www.amazon.com/dp/0787976393/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0787976393/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

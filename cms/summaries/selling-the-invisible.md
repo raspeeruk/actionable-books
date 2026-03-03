@@ -119,7 +119,7 @@ f_quote-2: >-
   people. The more you can see the patterns and better understand people, the
   more you will succeed – and this book was written with the hope that it will
   help you do just that."
-f_amazon-url: https://www.amazon.com/dp/0446672319/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0446672319/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

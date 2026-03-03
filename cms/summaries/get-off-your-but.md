@@ -84,7 +84,7 @@ f_conclusion: >-
   your attention on determines what you accomplish, how you feel, and what you
   can handle in life.”_
 f_quote-2: '"It’s more fun to be the underdog anyway – it makes for much better stories."'
-f_amazon-url: https://www.amazon.com/dp/0470399937/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470399937/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

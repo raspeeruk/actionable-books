@@ -129,7 +129,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Life is too long not to be spending it doing something that you are genuinely
   passionate about.”
-f_amazon-url: https://www.amazon.com/dp/1601633157/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1601633157/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

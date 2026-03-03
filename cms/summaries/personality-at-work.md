@@ -150,7 +150,7 @@ f_quote-2: >-
   "Personality at Work lays out, in plain English with stories and hard data,
   the key personality traits that drive effectiveness and high performance and
   the common traits that derail and degrade effectiveness."
-f_amazon-url: https://www.amazon.com/dp/B01N7JXRQF/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B01N7JXRQF/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -175,7 +175,7 @@ f_quote-2: >-
   the skills in this book well is a necessary addition to a college education,
   if you want to achieve more success in your work and life. This book shows you
   the way."
-f_amazon-url: https://www.amazon.com/dp/B0085RZKVE/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B0085RZKVE/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

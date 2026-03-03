@@ -160,7 +160,7 @@ f_conclusion: ''
 f_quote-2: >-
   "But it’s my vision… I know I’m right – and if the Big Boys haven’t seen it,
   then it is their mistake, not mine."
-f_amazon-url: https://www.amazon.com/dp/0062128558/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062128558/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

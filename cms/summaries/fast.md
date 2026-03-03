@@ -170,7 +170,7 @@ f_conclusion: >-
 f_quote-2: >-
   "I am not afraid of an army led by a sheep, but I am afraid of an army of
   sheep led by a lion."
-f_amazon-url: https://www.amazon.com/dp/1681020572/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1681020572/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

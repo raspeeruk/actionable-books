@@ -86,7 +86,7 @@ f_conclusion: >-
   look at community, gratitude and help. Palmer is doing her part to make it
   okay for all of us to ask for anything.
 f_quote-2: '"You can fix almost anything by authentically communicating."'
-f_amazon-url: https://www.amazon.com/dp/1455581089/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1455581089/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

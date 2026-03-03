@@ -118,7 +118,7 @@ f_conclusion: >-
 f_quote-2: >-
   It’s remarkable how powerful a single common rallying point can be in
   establishing breakthrough results.
-f_amazon-url: https://www.amazon.com/dp/B003L7871I/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B003L7871I/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -115,7 +115,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Coming up with ten ideas a day is like exercise. And exercise makes the idea
   muscle stronger."
-f_amazon-url: https://www.amazon.com/dp/1502593009/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1502593009/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

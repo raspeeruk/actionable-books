@@ -108,7 +108,7 @@ f_insight-1: >-
   easier work. But don’t spend too much time – the more time you spend planning
   is more time you’re not spending actually making the dream happen.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/B000OFOUJI/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B000OFOUJI/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

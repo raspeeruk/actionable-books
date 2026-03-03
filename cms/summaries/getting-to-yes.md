@@ -170,7 +170,7 @@ f_insight-1: >-
   people involved in the negotiation.
 f_conclusion: ''
 f_quote-2: '"Like it or not, you are a negotiator. Negotiation is a fact of life."'
-f_amazon-url: https://www.amazon.com/dp/0143118757/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0143118757/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

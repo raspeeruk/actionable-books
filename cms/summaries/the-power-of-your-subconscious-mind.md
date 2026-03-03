@@ -161,7 +161,7 @@ f_quote-2: >-
   thought is a cause, and every condition is an effect. This is the reason it is
   so essential that you take charge of your thoughts. In that way, you can bring
   forth only desirable conditions.”
-f_amazon-url: https://www.amazon.com/dp/1614270198/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1614270198/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

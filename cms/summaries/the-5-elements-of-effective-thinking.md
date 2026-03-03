@@ -139,7 +139,7 @@ f_quote-2: >-
   commitments by your results, not by what you say your commitments are. We are
   all committed. Conscious leaders own their commitments by owning their
   results."
-f_amazon-url: https://www.amazon.com/dp/0691156662/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0691156662/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

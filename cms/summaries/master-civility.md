@@ -153,7 +153,7 @@ f_quote-2: >-
   roller­coaster ride. It siphons cognitive resources. It even eats away at
   physical health. Ultimately, we become a fraction of ourselves. We don’t show
   up to the same extent. If you’re experiencing incivility, don’t brush it off."
-f_amazon-url: https://www.amazon.com/dp/B01G1K1SFS/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B01G1K1SFS/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

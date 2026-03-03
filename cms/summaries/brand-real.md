@@ -146,7 +146,7 @@ f_conclusion: >-
   Vincent has established himself as the go-to guy on the topic of effective
   branding. For anyone looking to brand or re-brand their company, Laurence
   Vincent’s _Brand Real_ is the book for you. This is _the_ branding bible.
-f_amazon-url: https://www.amazon.com/dp/B0076YH5NS/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B0076YH5NS/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

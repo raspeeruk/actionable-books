@@ -125,7 +125,7 @@ f_quote-2: >-
   for disorderly chaos. Instead, in understanding and treating it as a Social
   Organism, we have a unique opportunity to nourish a new, healthier society and
   to build a more inclusive, prosperous, and sustainable world."
-f_amazon-url: https://www.amazon.com/dp/0316359521/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0316359521/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

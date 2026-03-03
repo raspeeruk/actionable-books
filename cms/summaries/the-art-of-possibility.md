@@ -107,7 +107,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Our joint conviction is that much, much more is possible than people
   ordinarily think."
-f_amazon-url: https://www.amazon.com/dp/0142001104/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0142001104/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

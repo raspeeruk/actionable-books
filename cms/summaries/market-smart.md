@@ -141,7 +141,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The most successful B2B companies in the world use marketing to dominate
   their industries and deliver enviable results."
-f_amazon-url: https://www.amazon.com/dp/1477227784/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1477227784/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -126,7 +126,7 @@ f_insight-1: >-
   gratitude for the things that are right; pushing out any room for complaining.
 f_conclusion: ''
 f_quote-2: '"This book is about success and what it really takes to earn it."'
-f_amazon-url: https://www.amazon.com/dp/1593157134/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1593157134/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -119,7 +119,7 @@ f_conclusion: >-
 f_quote-2: >-
   "At any presentation, the audience is investing a part of their lives in us.
   Let’s give them a show."
-f_amazon-url: https://www.amazon.com/dp/1591846854/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591846854/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

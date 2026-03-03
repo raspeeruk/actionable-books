@@ -130,7 +130,7 @@ f_conclusion: >-
 f_quote-2: >-
   "It was this combination of passion and perseverance that made high achievers
   special. In a word, they had grit."
-f_amazon-url: https://www.amazon.com/dp/1501111108/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1501111108/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

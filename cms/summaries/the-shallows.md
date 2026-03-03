@@ -109,7 +109,7 @@ f_conclusion: >-
 f_quote-2: >-
   When we go online, we enter an environment that promotes cursory reading,
   hurried and distracted thinking, and superficial learning.
-f_amazon-url: https://www.amazon.com/dp/0393339750/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0393339750/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

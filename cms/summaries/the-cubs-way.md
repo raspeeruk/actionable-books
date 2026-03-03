@@ -94,7 +94,7 @@ f_conclusion: >-
 f_quote-2: >-
   "We are not going to compromise character for talent. We’re the Cubs. We’re
   going to have both. Talent and character."
-f_amazon-url: https://www.amazon.com/dp/0804190011/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0804190011/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

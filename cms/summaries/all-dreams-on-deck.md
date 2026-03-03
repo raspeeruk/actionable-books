@@ -129,7 +129,7 @@ f_conclusion: >-
   dreaming specifically, intentionally, and taking the time to plan with a
   purpose.
 f_quote-2: '"Both business and life should be an adventure."'
-f_amazon-url: https://www.amazon.com/dp/1626343381/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1626343381/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

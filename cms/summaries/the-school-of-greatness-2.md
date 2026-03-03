@@ -130,7 +130,7 @@ f_quote-2: >-
   (Lewis) have discovered on my journey, with help of my network of mentors and
   coaches, colleagues and teachers. By studying greatness this way, we will
   learn that it is a process of continuous education and self-realization."
-f_amazon-url: https://www.amazon.com/dp/1623365961/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1623365961/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

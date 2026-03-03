@@ -95,7 +95,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Conventionally, you concentrate on narrow boundaries when running a company.
   Not only do I find that restrictive I also think that it's dangerous."
-f_amazon-url: https://www.amazon.com/dp/0307720748/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0307720748/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

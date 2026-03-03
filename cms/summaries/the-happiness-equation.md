@@ -146,7 +146,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Happiness is when what you think, what you say, and what you do are in
   harmony."
-f_amazon-url: https://www.amazon.com/dp/0399169474/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0399169474/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

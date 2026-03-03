@@ -121,7 +121,7 @@ f_quote-2: >-
   “Expert performers develop their extraordinary abilities through years and
   years of dedicated practice, improving step by step in a long, laborious
   process.”
-f_amazon-url: https://www.amazon.com/dp/0670068764/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0670068764/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

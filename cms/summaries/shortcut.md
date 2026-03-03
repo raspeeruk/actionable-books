@@ -105,7 +105,7 @@ f_conclusion: >-
   to make your point more convincing. Combine it with a coherent story and an
   emotional appeal to boost your credibility and persuasion power.
 f_quote-2: '"The perfect analogy makes things as simple as possible, but no simpler."'
-f_amazon-url: https://www.amazon.com/dp/1592408494/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1592408494/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

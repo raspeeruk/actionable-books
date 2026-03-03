@@ -144,7 +144,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Sales skills are life skills. What makes us better at sales makes us better
   in life. And vice versa.”
-f_amazon-url: https://www.amazon.com/dp/1591842263/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591842263/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

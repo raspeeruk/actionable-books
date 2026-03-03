@@ -106,7 +106,7 @@ f_conclusion: >-
 f_quote-2: >-
   "An interesting thing happens when you reclaim your weekend: you reclaim your
   childlike abandon and sense of possibility."
-f_amazon-url: https://www.amazon.com/dp/0062440187/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062440187/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

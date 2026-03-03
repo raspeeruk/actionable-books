@@ -164,7 +164,7 @@ f_quote-2: >-
   "What can a hospital learn from a hotel? What can a car manufacturer learn
   from the video game industry? What can a chemical company learn from a
   festival organizer?"
-f_amazon-url: https://www.amazon.com/dp/9063693796/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/9063693796/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

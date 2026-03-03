@@ -146,7 +146,7 @@ f_conclusion: >-
 f_quote-2: >-
   "In this book you’ll get an inside look at how your prospects actually make
   decisions – or don’t – in today’s crazy-busy organizations."
-f_amazon-url: https://www.amazon.com/dp/B003NX7NLU/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B003NX7NLU/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

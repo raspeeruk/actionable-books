@@ -111,7 +111,7 @@ f_quote-2: >-
   little to do with entrepreneurship. In fact, this is belief in the
   Entrepreneurial Myth is the most important factor in the devastating rate of
   small business failure today.”
-f_amazon-url: https://www.amazon.com/dp/0887307280/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0887307280/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

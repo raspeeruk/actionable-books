@@ -137,7 +137,7 @@ f_conclusion: >-
 f_quote-2: >-
   "When we encounter chaos, we seek ways to structure it, to see through it, or
   at least to gain an overview of it."
-f_amazon-url: https://www.amazon.com/dp/B00C57C392/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00C57C392/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -185,7 +185,7 @@ f_quote-2: >-
   “For good or bad, habits are the invisible architecture of daily life.
   Research suggests that about 40% of our behavior is repeated almost daily, and
   mostly in the same context.”
-f_amazon-url: https://www.amazon.com/dp/0385348614/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0385348614/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

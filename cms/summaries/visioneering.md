@@ -119,7 +119,7 @@ f_conclusion: >-
   planning, risk-taking and sacrifice. Are you ready to pay the price and
   embrace the vision you have been given and end up somewhere on purpose?
 f_quote-2: '"Everybody ends up somewhere in life. You can end up somewhere on purpose!"'
-f_amazon-url: https://www.amazon.com/dp/159052456X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/159052456X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

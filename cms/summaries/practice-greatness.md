@@ -144,7 +144,7 @@ f_conclusion: >-
 f_quote-2: >-
   "People in twenty-first century organizations don’t practice. They just
   perform. Working for nine hours means performing. Practice is not included."
-f_amazon-url: https://www.amazon.com/dp/0989589528/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0989589528/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

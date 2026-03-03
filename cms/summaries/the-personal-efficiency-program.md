@@ -126,7 +126,7 @@ f_quote-2: >-
   has nothing to do with the amount of information you process or the demands
   placed on you, or even the amount of time you have. Your challenge will be
   overcoming your own tendency to put things off that you don't like to do."
-f_amazon-url: https://www.amazon.com/dp/0470371315/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470371315/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

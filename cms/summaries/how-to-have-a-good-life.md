@@ -159,7 +159,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Real happiness comes not when you choose to be happy, but when you discover
   the things that will make you happy and then do them.”
-f_amazon-url: https://www.amazon.com/dp/1401948413/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1401948413/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

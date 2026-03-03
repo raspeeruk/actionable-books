@@ -123,7 +123,7 @@ f_conclusion: >-
   I like the premise behind this small 159-page book because there are times
   when we can feel stuck, and O’Neil shows you that you can make changes and
   make your way towards your end goal.
-f_amazon-url: https://www.amazon.com/dp/1775540235/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1775540235/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

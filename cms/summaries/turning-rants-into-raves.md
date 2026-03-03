@@ -134,7 +134,7 @@ f_conclusion: ''
 f_quote-2: >-
   "No matter what industry, size, or type of organization you lead, delivering
   an experience that inspires your customers is what every business wants."
-f_amazon-url: https://www.amazon.com/dp/0988239507/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0988239507/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

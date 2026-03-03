@@ -124,7 +124,7 @@ f_quote-2: >-
   "Intelligence, imagination, and knowledge are essential resources, but only
   effectiveness converts them into results. By themselves, they only set limits
   to what can be attained."
-f_amazon-url: https://www.amazon.com/dp/0060833459/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0060833459/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

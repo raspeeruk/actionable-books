@@ -133,7 +133,7 @@ f_conclusion: ''
 f_quote-2: >-
   "If you don’t like something, change it. If you can’t change it, change your
   attitude. Don’t complain."
-f_amazon-url: https://www.amazon.com/dp/0770436390/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0770436390/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

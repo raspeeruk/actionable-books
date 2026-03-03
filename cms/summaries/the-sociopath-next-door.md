@@ -145,7 +145,7 @@ f_conclusion: >-
   and do not care about anyone except themselves.** Their lives usually follow a
   downward spiral where they end up alone and without status, power, and
   authority – all the things they worked so hard to rob from others.
-f_amazon-url: https://www.amazon.com/dp/0767915828/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0767915828/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

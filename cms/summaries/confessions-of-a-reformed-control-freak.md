@@ -159,7 +159,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The real impediment to producing a higher quality product more efficiently
   aren’t the workers, union or nonunion, it’s management."
-f_amazon-url: https://www.amazon.com/dp/B005IXSR36/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B005IXSR36/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

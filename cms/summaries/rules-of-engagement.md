@@ -156,7 +156,7 @@ f_quote-2: >-
   “In other words, you can’t engage your higher functions while your Reptile
   Brain perceives that you’re in danger. It’s a phenomenon I once heard summed
   up perfectly as ‘you can’t write a symphony when you’re drowning.’“
-f_amazon-url: https://www.amazon.com/dp/1988179351/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1988179351/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

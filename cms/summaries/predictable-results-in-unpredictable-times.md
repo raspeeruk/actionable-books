@@ -120,7 +120,7 @@ f_conclusion: “So what about your team?” ask the authors.
 f_quote-2: >-
   "This small book is about getting predictable results in good times and
   bad—whether you believe ‘this time is different’ or not."
-f_amazon-url: https://www.amazon.com/dp/B004N3AZDM/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B004N3AZDM/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -139,7 +139,7 @@ f_quote-2: >-
   land mines at seemingly every turn—and often ones we didn’t even know existed.
   It was like trying to dodge the stench that lurks on a New York City street on
   a hot summer night: there you were, minding your own business, and BAM.”
-f_amazon-url: https://www.amazon.com/dp/0062439782/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062439782/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

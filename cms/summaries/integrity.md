@@ -112,7 +112,7 @@ f_conclusion: >-
   that truth, and then consciously learn from and use the information found in
   our personal wakes, we can continue to improve and grown steadily into the
   leaders we wish to become.
-f_amazon-url: https://www.amazon.com/dp/006084969X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/006084969X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

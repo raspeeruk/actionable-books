@@ -176,7 +176,7 @@ f_quote-2: >-
   were as sloppily run as our meetings, patients would die. If a restaurant
   kitchen put as little planning into a meal as we put into our meetings, dinner
   would never be served."
-f_amazon-url: https://www.amazon.com/dp/1936719169/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1936719169/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

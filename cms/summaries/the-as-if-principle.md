@@ -137,7 +137,7 @@ f_quote-2: >-
   smile. You feel afraid — You run away. The As If theory suggests that the
   opposite is also true: You smile — You feel happy. You run away — You feel
   afraid."
-f_amazon-url: https://www.amazon.com/dp/1451675054/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1451675054/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

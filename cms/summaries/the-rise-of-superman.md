@@ -108,7 +108,7 @@ f_insight-1: >-
   you are on your way to entering your peak flow state.
 f_conclusion: _“What the world needs most is Superman. What the worlds needs most is us.”_
 f_quote-2: '"The data is clear. Flow is the very thing that makes us come alive."'
-f_amazon-url: https://www.amazon.com/dp/1477800832/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1477800832/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -138,7 +138,7 @@ f_conclusion: >-
 f_quote-2: >-
   “I am committed to the belief that everyone should have fulfilling work,
   because fulfilling work leads to fulfilled lives.”
-f_amazon-url: https://www.amazon.com/dp/0996675353/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0996675353/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

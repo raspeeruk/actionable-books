@@ -123,7 +123,7 @@ f_quote-2: >-
   "The moment leaders think they have nothing more to learn and have no
   obligation to help develop those they lead is the moment they ensure they’ll
   never know their true potential."
-f_amazon-url: https://www.amazon.com/dp/B00AG8FNFS/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00AG8FNFS/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

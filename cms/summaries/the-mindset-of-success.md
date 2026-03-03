@@ -121,7 +121,7 @@ f_conclusion: >-
   self-aware and capitalize on their natural strengths and talents to be a
   successful person and leader.
 f_quote-2: '"There is a key to success, and that key is in your head."'
-f_amazon-url: https://www.amazon.com/dp/0749473118/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0749473118/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

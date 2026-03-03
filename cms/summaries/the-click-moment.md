@@ -137,7 +137,7 @@ f_quote-2: >-
   "While on stage, he was asked what, exactly, he had done to create such a
   success. [He] hesitated for a bit before simply saying, 'If I knew that, I
   would do it again and again.'"
-f_amazon-url: https://www.amazon.com/dp/1591844932/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591844932/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

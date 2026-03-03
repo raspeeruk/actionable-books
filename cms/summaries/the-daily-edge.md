@@ -112,7 +112,7 @@ f_quote-2: >-
   presentations and seminars have asked me to expand on this topic of
   productivity. Perhaps one of the reasons why my message is appealing is the
   simplicity of my approach."
-f_amazon-url: https://www.amazon.com/dp/1626565953/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1626565953/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

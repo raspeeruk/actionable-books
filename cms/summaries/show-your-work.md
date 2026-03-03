@@ -90,7 +90,7 @@ f_quote-2: >-
   process, how to share your process in a way that attracts people who might be
   interested in what you do, and how do deal with the ups and downs of putting
   yourself and your work out in the world"
-f_amazon-url: https://www.amazon.com/dp/B00GU2RGGI/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00GU2RGGI/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

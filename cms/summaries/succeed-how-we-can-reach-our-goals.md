@@ -112,7 +112,7 @@ f_conclusion: >-
   opportunity. Reach for this invaluable book if you’re serious about achieving
   your goals and making this year count. “You can be more successful in reaching
   your goals than you have been in the past. Make success happen.”
-f_amazon-url: https://www.amazon.com/dp/B00475AYJG/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00475AYJG/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

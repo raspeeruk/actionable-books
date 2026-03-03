@@ -108,7 +108,7 @@ f_quote-2: >-
   and small. They have become my essential truths. I’ve written them with the
   hope that they will be carried forward, shared with others, and adopted in
   ways that will help you in your own journey as well."
-f_amazon-url: https://www.amazon.com/dp/1476730636/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1476730636/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

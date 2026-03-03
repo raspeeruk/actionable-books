@@ -127,7 +127,7 @@ f_quote-2: >-
   radically new or different ways of doing things that will fundamentally change
   customer expectations and behaviours, or break long established industry
   paradigms, or shift the entire basis for competitive advantage?"
-f_amazon-url: https://www.amazon.com/dp/1118740246/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118740246/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

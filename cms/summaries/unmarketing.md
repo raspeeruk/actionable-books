@@ -119,7 +119,7 @@ f_conclusion: >-
   hilarious too. If you do buy the book (and I recommend you do), check out the
   story about Rockport shoes on pages 133-35. This is a guy who gets it… and
   then makes it fun.
-f_amazon-url: https://www.amazon.com/dp/047061787X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/047061787X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

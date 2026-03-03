@@ -184,7 +184,7 @@ f_quote-2: >-
   "You don't need an MBA, a certificate, a fancy suit, a briefcase, or an
   above-average tolerance for risk. You just need an idea, a touch of
   confidence, and a push to get started."
-f_amazon-url: https://www.amazon.com/dp/0307463745/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0307463745/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

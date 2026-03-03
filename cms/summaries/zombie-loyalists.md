@@ -104,7 +104,7 @@ f_quote-2: >-
   "Imagine if you could make your customers so in love with you, so amazed at
   their experience with you, each and every time, that they’d have no choice but
   to tell the world how great you are?"
-f_amazon-url: https://www.amazon.com/dp/1137279664/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1137279664/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

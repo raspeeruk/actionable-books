@@ -127,7 +127,7 @@ f_quote-2: >-
   "We perceive only the sensations we are programmed to receive, and our
   awareness is further restricted by the fact that we recognize only those for
   which we have mental maps or categories."
-f_amazon-url: https://www.amazon.com/dp/0142001104/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0142001104/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

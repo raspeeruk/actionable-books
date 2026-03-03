@@ -136,7 +136,7 @@ f_conclusion: >-
 f_quote-2: >-
   "If you do an extraordinary job at three or four things that matter most, not
   only will you succeed, you will likely succeed far beyond your expectations."
-f_amazon-url: https://www.amazon.com/dp/1118569873/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118569873/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -90,7 +90,7 @@ f_quote-2: >-
   "So this is a rejection of mediocrity, and an invitation to excellence. Don’t
   be afraid to be powerful beyond all measure. … Don’t forget your cape. Be a
   superhero. And deliver on the promise of who you could become"
-f_amazon-url: https://www.amazon.com/dp/1449042147/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1449042147/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

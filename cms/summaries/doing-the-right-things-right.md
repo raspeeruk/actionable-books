@@ -113,7 +113,7 @@ f_quote-2: >-
   "Truly successful executives are those who can thoroughly mine the
   intersection of efficiency and effectiveness to maximize their value and that
   of their team’s."
-f_amazon-url: https://www.amazon.com/dp/B013J8GTMM/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B013J8GTMM/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -179,7 +179,7 @@ f_quote-2: >-
   value. Then there’s the fortune, the magical, intangible part of the product
   or service, which is where the real value lies in the heart and minds of the
   customer."
-f_amazon-url: https://www.amazon.com/dp/1489583947/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1489583947/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

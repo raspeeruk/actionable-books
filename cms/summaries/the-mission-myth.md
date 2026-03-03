@@ -152,7 +152,7 @@ f_quote-2: >-
   "The things that cause a nonprofit organization's success are often the very
   same things we couldn't stand about the for-profit world when we worked
   there."
-f_amazon-url: https://www.amazon.com/dp/0984027300/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0984027300/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

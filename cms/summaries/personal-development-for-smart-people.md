@@ -192,7 +192,7 @@ f_quote-2: >-
   intuitive sense, satisfying both head and heart. It would have to appear
   logically correct in order to satisfy the left brain, and it would have to
   feel intuitively correct in order to engage the right brain."
-f_amazon-url: https://www.amazon.com/dp/1401922767/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1401922767/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

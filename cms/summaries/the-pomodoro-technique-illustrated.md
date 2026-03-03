@@ -150,7 +150,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Who doesn’t want to have a stress-free life? To have brilliant ideas? To
   improve? To enjoy free time? But how can we achieve these goals?"
-f_amazon-url: https://www.amazon.com/dp/1934356506/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1934356506/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

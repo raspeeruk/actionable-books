@@ -120,7 +120,7 @@ f_conclusion: >-
   practice, together with an unwavering focus on your audience’s experience,
   will take you a long way.
 f_quote-2: '"Most people aren''t as influential as they think they are."'
-f_amazon-url: https://www.amazon.com/dp/B01N9OWI2J/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B01N9OWI2J/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

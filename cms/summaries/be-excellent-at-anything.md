@@ -116,7 +116,7 @@ f_quote-2: >-
   "We live in a gray zone, constantly juggling activities but rarely fully
   engaging in any of them….The consequence is that we settle for a pale version
   of the possible."
-f_amazon-url: https://www.amazon.com/dp/1451610262/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1451610262/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

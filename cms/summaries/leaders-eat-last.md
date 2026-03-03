@@ -126,7 +126,7 @@ f_conclusion: >-
   we need to help people love their jobs, but **how** to do it and exactly
   **what** we need to do.
 f_quote-2: '"Customers will never love a company until the employees love it first."'
-f_amazon-url: https://www.amazon.com/dp/1591845327/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591845327/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

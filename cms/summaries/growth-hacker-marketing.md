@@ -151,7 +151,7 @@ f_conclusion: >-
 f_quote-2: >-
   "A growth hacker is someone who has thrown out the playbook of traditional
   marketing and replaced it with only what is testable, trackable, and scalable"
-f_amazon-url: https://www.amazon.com/dp/B00INIXL3O/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00INIXL3O/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

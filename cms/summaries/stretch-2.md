@@ -181,7 +181,7 @@ f_quote-2: >-
   "Stretching is the future imperative for us all. Whenever people stretch, in
   any area of their lives, they can achieve unimagined success. Sometimes all we
   need is a little guidance. You have dreams."
-f_amazon-url: https://www.amazon.com/dp/1119087252/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1119087252/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -89,7 +89,7 @@ f_conclusion: >-
   had and discipline herself to make the tweaks in her life that are proven to
   bring greater joy. What one little thing do you know you need to do?
 f_quote-2: “There is no duty we so much underrate as the duty of being happy.”
-f_amazon-url: https://www.amazon.com/dp/B0089LOHZ6/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B0089LOHZ6/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -112,7 +112,7 @@ f_conclusion: >-
   cyber-market climate. Paul shares strategies to empower customers with the
   right information, and how to deliver it instantaneously.
 f_quote-2: “The race doesn’t go to the swift; it goes to the responsive”
-f_amazon-url: https://www.amazon.com/dp/1614480508/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1614480508/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

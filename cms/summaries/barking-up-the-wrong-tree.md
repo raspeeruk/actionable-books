@@ -119,7 +119,7 @@ f_quote-2: >-
   behind what separates the extremely successful from the rest of us, learn what
   we can do to be more like them, and find out in some cases why it’s good that
   we aren’t.
-f_amazon-url: https://www.amazon.com/dp/0062416049/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062416049/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

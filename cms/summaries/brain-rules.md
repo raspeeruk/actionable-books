@@ -174,7 +174,7 @@ f_conclusion: >-
   Wired Differently), to being fully active while we sleep (Brain Rule #7: Sleep
   Well, Think Well), the power of our brains is truly remarkable.
 f_quote-2: '"Most of us have no idea what’s really going on inside our heads.”'
-f_amazon-url: https://www.amazon.com/dp/0979777747/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0979777747/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

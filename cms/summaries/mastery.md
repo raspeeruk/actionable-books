@@ -164,7 +164,7 @@ f_conclusion: >-
   has the ability to leverage the principles and strategies used by such
   visionaries. **Which begs the question, how much better could you be?**
 f_quote-2: '"It is the choice of where to direct his or her energy that makes the Master."'
-f_amazon-url: https://www.amazon.com/dp/0670024961/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0670024961/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

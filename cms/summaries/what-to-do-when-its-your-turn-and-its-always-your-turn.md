@@ -126,7 +126,7 @@ f_quote-2: >-
   "No wonder we don’t want to speak up or stand up or do anything much that
   matters. We’ve persuaded ourselves that good feelings aren’t even close to
   outweighing bad ones."
-f_amazon-url: https://www.amazon.com/dp/1936719312/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1936719312/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -176,7 +176,7 @@ f_quote-2: >-
   "Behind every story of major advance is a turning point where someone has a
   useful idea that changes the field or starts a new one. Strategic intuition
   explains what happens in the mind of whoever has that idea."
-f_amazon-url: https://www.amazon.com/dp/0231142684/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0231142684/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

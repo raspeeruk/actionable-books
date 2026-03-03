@@ -43,4 +43,4 @@ Maybe there is no perfect remedy to the situation and instead practitioners must
 
 A single best practice approach to performance management is no longer a given, but a judgement call practitioners make on how best to manage their specific talent issues.
 
-To learn more about performance management and its effect on the employment deal, pick up a copy of my book, [_Misplaced Talent: A Guide to Better People Decisions_](https://www.amazon.com/gp/product/1119030943/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1119030943&linkCode=as2&tag=gooseducmedi-20&linkId=0be12f6ba39bb2d3bf76b4f039b3b60a).
+To learn more about performance management and its effect on the employment deal, pick up a copy of my book, [_Misplaced Talent: A Guide to Better People Decisions_](https://www.amazon.com/gp/product/1119030943/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1119030943&linkCode=as2&tag=actionableb08-20&linkId=0be12f6ba39bb2d3bf76b4f039b3b60a).

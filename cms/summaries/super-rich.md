@@ -157,7 +157,7 @@ f_quote-2: >-
   "So rather than any state of material abundance, Super Rich actually refers to
   living in a state of consciousness where you’re able to see the miracles of
   life unfolding in front of you all time."
-f_amazon-url: https://www.amazon.com/dp/1592405878/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1592405878/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

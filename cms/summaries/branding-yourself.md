@@ -106,7 +106,7 @@ f_conclusion: >-
   For those just jumping into the use of social media, this book offers
   invaluable information on everything from setting up a Linkedin Profile to how
   to decide which blogging platform is best for your needs.
-f_amazon-url: https://www.amazon.com/dp/0789749726/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0789749726/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

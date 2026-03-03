@@ -96,7 +96,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Creating an amazing startup company is valuable and meaningful, but it is
   only one aspect of a whole life."
-f_amazon-url: https://www.amazon.com/dp/1118443640/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118443640/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -140,7 +140,7 @@ f_conclusion: >-
   you surpass even your own wild expectations for life and success. Today, pick
   someone you admire and invite them out for the long slow dinner that could
   change your life.
-f_amazon-url: https://www.amazon.com/dp/0385521332/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0385521332/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

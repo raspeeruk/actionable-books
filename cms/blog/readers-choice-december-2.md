@@ -22,17 +22,17 @@ tags: blog
 
 &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;a href=”http://polldaddy.com/poll/6666559/”&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;What business book do you want us to summarize in December?&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;
 
-[1\. THE ACCIDENTAL CREATIVE: HOW TO BE BRILLIANT AT A MOMENT’S NOTICE by Todd Henry](http://www.amazon.com/gp/product/1591844010/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591844010&linkCode=as2&tag=gooseducmedi-20)
+[1\. THE ACCIDENTAL CREATIVE: HOW TO BE BRILLIANT AT A MOMENT’S NOTICE by Todd Henry](http://www.amazon.com/gp/product/1591844010/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591844010&linkCode=as2&tag=actionableb08-20)
 
 It isn’t enough to just do your job anymore. In order to thrive in today’s marketplace, all of us, regardless of our role, have to be ready to generate brilliant ideas on demand. _The Accidental Creative_ teaches effective practices that support your creative process. You’ll discover how to: Focus in on your most critical work and reclaim your attention, develop stimulating relationships that will lead to creative insights, effectively manage your energy so that you are always ready to engage, curate stimuli that help you stay mentally focused, and leverage your hours wisely and effectively to eliminate creativity drains.
 
 _The Accidental Creative_ is your guide to staying fresh and doing your best work each day.
 
-> [2\. ALL IN: HOW THE BEST MANAGERS CREATE A CULTURE OF BELIEF AND DRIVE BIG RESULTS by Adrian Gostick and Chester Elton](http://www.amazon.com/gp/product/1451659822/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451659822&linkCode=as2&tag=gooseducmedi-20)
+> [2\. ALL IN: HOW THE BEST MANAGERS CREATE A CULTURE OF BELIEF AND DRIVE BIG RESULTS by Adrian Gostick and Chester Elton](http://www.amazon.com/gp/product/1451659822/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451659822&linkCode=as2&tag=actionableb08-20)
 
 Bestselling authors of _The Carrot Principle_ and _The Orange Revolution,_ Adrian Gostick and Chester Elton return to answer the most overlooked leadership questions of our day: Why are some managers able to get their employees to commit wholeheartedly to their culture and give that extra push that leads to outstanding results? And how can managers at any level build and sustain a profitable, vibrant work-group culture of their own?These leading workplace experts teamed up with research giant Towers Watson to analyze an unprecedented 300,000-person study, and they made a groundbreaking finding: managers of the highest-performing work groups create a “culture of belief.” In these distinctive workplaces, people _believe_ in their leaders and in the company’s vision, values, and goals. Employees are not only engaged but also enabled and energized (termed the three Es), which leads to astonishing results—average annual revenues three times higher than for organizations lacking such a positive culture. And this was true during a period that included this most recent recession.
 
-> [3\. THE ART OF EXPLANATION: MAKING YOUR IDEAS, PRODUCTS, AND SERVICES EASIER TO UNDERSTAND by Lee LeFever](http://www.amazon.com/gp/product/1451659822/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451659822&linkCode=as2&tag=gooseducmedi-20)
+> [3\. THE ART OF EXPLANATION: MAKING YOUR IDEAS, PRODUCTS, AND SERVICES EASIER TO UNDERSTAND by Lee LeFever](http://www.amazon.com/gp/product/1451659822/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451659822&linkCode=as2&tag=actionableb08-20)
 
 You’ve done the hard work. Your product or service works beautifully – but something is missing. People just don’t see the big idea – and it’s keeping you from being successful. Your idea has an explanation problem.
 
@@ -40,7 +40,7 @@ The Art of Explanation is for business people, educators and influencers who wan
 
 Author Lee LeFever is the founder of Common Craft, a company known around the world for making complex ideas easy to understand through short animated videos. He is your guide to helping audiences fall in love with your ideas, products or services through better explanations in any medium.
 
-> [4\. THE COMMITMENT ENGINE: MAKING WORK WORTH IT by John Jantsch](http://www.amazon.com/gp/product/1591844878/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591844878&linkCode=as2&tag=gooseducmedi-20)
+> [4\. THE COMMITMENT ENGINE: MAKING WORK WORTH IT by John Jantsch](http://www.amazon.com/gp/product/1591844878/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591844878&linkCode=as2&tag=actionableb08-20)
 
 Why are some companies able to generate committed, long-term customers while others struggle to stay afloat? Why do the employees of some organizations fully dedicate themselves while others punch the clock without enthusiasm?
 

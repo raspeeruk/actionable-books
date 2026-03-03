@@ -149,7 +149,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Innovations typically fail, not because of technical challenges, but rather
   due to resistance within and outside of the organization."
-f_amazon-url: https://www.amazon.com/dp/159184360X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/159184360X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

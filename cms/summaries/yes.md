@@ -126,7 +126,7 @@ f_conclusion: >-
   have benefitted from the work of Robert Cialdini and his co-authors – pick up
   a copy of _Yes!_ so you can too.
 f_quote-2: '"Small changes can make a big different to your powers of persuasion."'
-f_amazon-url: https://www.amazon.com/dp/1416576142/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1416576142/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

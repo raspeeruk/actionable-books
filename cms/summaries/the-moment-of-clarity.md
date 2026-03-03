@@ -134,7 +134,7 @@ f_conclusion: >-
   I plan to work on things that I deeply care about, and find ways to care about
   the things I’ve been asked to work on.
 f_quote-2: '"Getting people right is the key to taking your business out of a fog."'
-f_amazon-url: https://www.amazon.com/dp/B00HKZGKB6/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00HKZGKB6/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -174,7 +174,7 @@ f_conclusion: >-
   something. As Trip Advisor CEO Steve Kaufer states “The quickest death in this
   new world is deliberation rather than doing.” (_Socialnomics,_ page 204)
 f_quote-2: '"Build something from the user''s viewpoint, not the company''s viewpoint."'
-f_amazon-url: https://www.amazon.com/dp/0470638842/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470638842/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

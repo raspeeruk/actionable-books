@@ -121,7 +121,7 @@ f_conclusion: >-
   chasing giant lists of goals, fulfilling countless commitments and filling our
   lives with more of everything and embrace the _Power of Less_ that we become
   truly effective in a meaningful way.
-f_amazon-url: https://www.amazon.com/dp/1848501161/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1848501161/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

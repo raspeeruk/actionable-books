@@ -121,7 +121,7 @@ f_conclusion: ''
 f_quote-2: >-
   "I’m here to tell you that you not only can but must make time to do things
   that matter to you, no matter how busy life gets."
-f_amazon-url: https://www.amazon.com/dp/0800723481/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0800723481/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

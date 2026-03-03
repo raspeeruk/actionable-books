@@ -113,7 +113,7 @@ f_quote-2: >-
   victim, or procrastinating–we also stop learning, taking ownership, acting
   creatively, or being of service. And the trust we've built with others will
   quickly evaporate."
-f_amazon-url: https://www.amazon.com/dp/0399152954/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0399152954/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

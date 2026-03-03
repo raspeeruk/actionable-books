@@ -90,7 +90,7 @@ f_insight-1: >-
   complacency in a system.** You are always striving for something beyond where
   you find yourself today. Something better.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1591846919/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591846919/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

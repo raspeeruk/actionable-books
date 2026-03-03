@@ -119,7 +119,7 @@ f_quote-2: >-
   opportunities that are subsequently blindingly obvious? Why, as Daniel
   Kahneman, the psychologist put it, are we sometimes so 'blind to our own
   blindness?'"
-f_amazon-url: https://www.amazon.com/dp/1451644736/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1451644736/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

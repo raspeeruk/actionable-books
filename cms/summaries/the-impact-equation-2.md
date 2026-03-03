@@ -97,7 +97,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Ideas can help people change the world, and now anyone can become powerful
   enough to be a catalyst for what matters to them."
-f_amazon-url: https://www.amazon.com/dp/1591844908/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591844908/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -119,7 +119,7 @@ f_conclusion: >-
   but bagging one will help you bag your second and continue a path of
   sustainable growth for your business.
 f_quote-2: '"The elephants are waiting."'
-f_amazon-url: https://www.amazon.com/dp/B00AK4AGF0/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00AK4AGF0/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -124,7 +124,7 @@ f_insight-1: >-
   Feeling stuck? **Try something unconventional, do something out of the
   ordinary, shake things up.**
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0525952802/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0525952802/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

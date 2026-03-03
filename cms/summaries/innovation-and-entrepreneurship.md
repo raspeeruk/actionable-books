@@ -212,7 +212,7 @@ f_quote-2: >-
   does not innovate inevitably ages and declines. And in a period of rapid
   change, such as the present, an entrepreneur period, the decline will be
   fast.”
-f_amazon-url: https://www.amazon.com/dp/0060851139/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0060851139/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

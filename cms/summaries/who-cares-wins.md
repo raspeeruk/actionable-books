@@ -162,7 +162,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Social media has dramatically empowered people. And I believe that people are
   fundamentally good and will use this power to make the world a better place."
-f_amazon-url: https://www.amazon.com/dp/0273762532/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0273762532/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

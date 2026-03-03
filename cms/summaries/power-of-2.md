@@ -127,7 +127,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Ultimately, if you can harness the same cooperative instincts that allowed
   your distant ancestors to survive, you will enjoy greater happiness."
-f_amazon-url: https://www.amazon.com/dp/159562029X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/159562029X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

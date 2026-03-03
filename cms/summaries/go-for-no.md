@@ -71,7 +71,7 @@ f_conclusion: >-
 f_quote-2: >-
   "What did the customer say no to? – nothing? – then how did you know he was
   done (had bought all he was going to)?"
-f_amazon-url: https://www.amazon.com/dp/0966398130/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0966398130/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

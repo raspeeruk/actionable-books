@@ -112,7 +112,7 @@ f_conclusion: >-
 f_quote-2: >-
   "People won’t remember most of what we say—but they will remember what they
   think and feel about what we say."
-f_amazon-url: https://www.amazon.com/dp/0230120512/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0230120512/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

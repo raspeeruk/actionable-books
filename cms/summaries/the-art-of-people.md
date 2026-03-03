@@ -155,7 +155,7 @@ f_quote-2: >-
   "You may think that the hard-driving, take no prisoners self-promoter is the
   person who ends up on top, but today it is actually the person with the best
   people skills who gets everything she wants at home, at work and in life."
-f_amazon-url: https://www.amazon.com/dp/0553419404/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0553419404/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

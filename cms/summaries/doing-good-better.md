@@ -125,7 +125,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Every one of us has the power to save dozens or hundreds of lives, or to
   significantly improve the welfare of thousands of people.”
-f_amazon-url: https://www.amazon.com/dp/1592409105/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1592409105/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

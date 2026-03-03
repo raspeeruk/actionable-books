@@ -166,7 +166,7 @@ f_quote-2: >-
   “Technology can dehumanize and make things harder to navigate for customers
   and less flexible. Service design offers tools to domesticate and humanize
   technology.”
-f_amazon-url: https://www.amazon.com/dp/1118988922/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1118988922/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

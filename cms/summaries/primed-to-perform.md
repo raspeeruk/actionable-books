@@ -124,7 +124,7 @@ f_quote-2: >-
   potential—they are likely performing at their best. If the culture is
   dominated by indirect motives—emotional pressure, economic pressure, or
   inertia—their performance is likely to be much worse."
-f_amazon-url: https://www.amazon.com/dp/B00S590OQI/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00S590OQI/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

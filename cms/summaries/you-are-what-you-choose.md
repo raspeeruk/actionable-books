@@ -127,7 +127,7 @@ f_insight-1: >-
   allows you to better identify patterns that are intrinsic to that individual’s
   decision-making process.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1591842867/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591842867/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

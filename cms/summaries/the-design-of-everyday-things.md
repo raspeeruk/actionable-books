@@ -170,7 +170,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Two of the most important characteristics of good design are discoverability
   and understanding.”
-f_amazon-url: https://www.amazon.com/dp/0465050654/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0465050654/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -85,7 +85,7 @@ f_conclusion: >-
   life. Possibly the most important thought though, buried near the end of the
   book is this: _“As he looked back, he was glad he had not waited to use One
   Minute Management until he thought he could do it just right.”_
-f_amazon-url: https://www.amazon.com/dp/0688014291/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0688014291/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

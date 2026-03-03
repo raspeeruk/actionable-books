@@ -145,7 +145,7 @@ f_quote-2: >-
   – or your family – had no weaknesses? Seriously – no joke: How would you lead
   if every strength and quality you needed for those around you to perform at
   higher levels already existed within them?"
-f_amazon-url: https://www.amazon.com/dp/0979376823/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0979376823/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

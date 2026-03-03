@@ -116,7 +116,7 @@ f_quote-2: >-
   tapes on how to create a motivated workforce, but if you want to see examples
   of businesses that have cracked the code, so to speak, you need look no
   further than the small giants."
-f_amazon-url: https://www.amazon.com/dp/1591841496/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591841496/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

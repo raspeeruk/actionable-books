@@ -103,7 +103,7 @@ f_conclusion: >-
   Despite the fact that _The Law of Success_ was first published in 1928, the 15
   laws described are still as relevant as ever, proving that there are some
   universal truths that do not change regardless of how many years pass.
-f_amazon-url: https://www.amazon.com/dp/158542689X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/158542689X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

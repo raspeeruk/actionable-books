@@ -100,7 +100,7 @@ f_quote-2: >-
   wasn’t just about sharing what kind of music you were listening to or where
   you were at that moment; it was about connecting people and making them feel
   less alone."
-f_amazon-url: https://www.amazon.com/dp/1444767046/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1444767046/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

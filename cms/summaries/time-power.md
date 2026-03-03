@@ -117,7 +117,7 @@ f_insight-1: >-
 
   *   Focus on the important. Life’s too short to spend it wading through muck.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0814474705/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0814474705/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

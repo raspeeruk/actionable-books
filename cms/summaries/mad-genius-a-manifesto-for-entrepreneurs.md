@@ -194,7 +194,7 @@ f_quote-2: >-
   are prepared to lead in an age of exponential disruption. Because whether you
   work in a traditional business…or are a government official…the best way to
   create fresh and innovative solutions is to think like an entrepreneur."
-f_amazon-url: https://www.amazon.com/dp/0399175563/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0399175563/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

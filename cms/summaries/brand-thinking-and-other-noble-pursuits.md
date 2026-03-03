@@ -127,7 +127,7 @@ f_conclusion: 'To summarize what a brand is, let’s end with a puzzle:'
 f_quote-2: >-
   "Perhaps our motivation to brand, and to be branded, comes from our hardwired
   instinct to connect."
-f_amazon-url: https://www.amazon.com/dp/162153247X/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/162153247X/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

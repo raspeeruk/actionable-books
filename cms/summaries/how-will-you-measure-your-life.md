@@ -142,7 +142,7 @@ f_quote-2: >-
   "I know for sure that none of these people graduated with a deliberate
   strategy to get divorced or lose touch with their children—much less to end up
   in jail. Yet this is the exact strategy that too many ended up implementing."
-f_amazon-url: https://www.amazon.com/dp/0062102419/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0062102419/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

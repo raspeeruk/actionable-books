@@ -144,7 +144,7 @@ f_quote-2: >-
   "I live in a small town with only one steakhouse. The steak there is fine. But
   the minute a new restaurant opens, you bet I’ll go there. So am I satisfied?
   Sure. Loyal? No way."
-f_amazon-url: https://www.amazon.com/dp/1591845815/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591845815/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

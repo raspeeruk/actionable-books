@@ -110,7 +110,7 @@ f_quote-2: >-
   "The ideal referral system, based on a strategy that gets people voluntarily
   talking about your business, can eliminate the need to ever actually ask for
   referrals again."
-f_amazon-url: https://www.amazon.com/dp/1591844428/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591844428/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

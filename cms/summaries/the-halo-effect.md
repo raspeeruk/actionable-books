@@ -134,7 +134,7 @@ f_conclusion: >-
 f_quote-2: >-
   "For all the secrets and formulas, for all the self-proclaimed thought
   leadership, success in business is as elusive as ever."
-f_amazon-url: https://www.amazon.com/dp/0743291263/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0743291263/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

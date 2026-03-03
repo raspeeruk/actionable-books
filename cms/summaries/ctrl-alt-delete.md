@@ -128,7 +128,7 @@ f_conclusion: >-
   the other hand, it’s always a testament to the value one can gain from reading
   the book itself.
 f_quote-2: '"In short, when something goes wrong: reboot."'
-f_amazon-url: https://www.amazon.com/dp/1455523305/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1455523305/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -131,7 +131,7 @@ f_quote-2: >-
   performance coaching discussions in ways that open up communications and build
   trust. It also creates a powerful commitment to mutual learning and
   partnership for discovering the next best steps."
-f_amazon-url: https://www.amazon.com/dp/0966087437/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0966087437/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

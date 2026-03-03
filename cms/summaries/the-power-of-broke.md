@@ -92,7 +92,7 @@ f_conclusion: >-
   _“Well, the bottom-line message beneath each mega-success story is that broke
   only breaks you if you let it.”_
 f_quote-2: “The choice of whether to succeed – or not – is all mine.”
-f_amazon-url: https://www.amazon.com/dp/1101903597/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1101903597/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

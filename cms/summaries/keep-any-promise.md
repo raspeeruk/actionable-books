@@ -127,7 +127,7 @@ f_conclusion: >-
   success. The message of _Keep Any Promise_ highlights that we all face
   struggles and we are all individually capable which is really the common
   ground uniting all humanity and perhaps even the universe.
-f_amazon-url: https://www.amazon.com/dp/0595467059/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0595467059/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

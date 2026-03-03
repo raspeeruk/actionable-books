@@ -155,7 +155,7 @@ f_quote-2: >-
   “The fact is, if we want to communicate, we must speak the right language-not
   the message that would work most effectively with us but the message that will
   persuade the listener.”
-f_amazon-url: https://www.amazon.com/dp/1524760919/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1524760919/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

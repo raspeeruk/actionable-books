@@ -163,7 +163,7 @@ f_conclusion: >-
   I’ll close with selected quotes which gave me that goose bumps “write that
   down now” feeling:
 f_quote-2: '"Every significant choice we make in life carries with it some uncertainty."'
-f_amazon-url: https://www.amazon.com/dp/0374275637/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0374275637/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

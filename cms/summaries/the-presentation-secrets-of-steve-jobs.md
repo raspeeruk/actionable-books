@@ -151,7 +151,7 @@ f_conclusion: >-
   creating drama and well-rehearsed staging, Steve Job’s presentations delighted
   audiences and left the media buzzing.
 f_quote-2: '"Stay hungry, stay foolish."'
-f_amazon-url: https://www.amazon.com/dp/0071636080/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071636080/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

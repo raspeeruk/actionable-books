@@ -149,7 +149,7 @@ f_quote-2: >-
   endgame, on people over paycheck, on personal development over company
   loyalty. The values of what we might refer to as the 'status generation' have
   yielded to those of the ‘awareness generation.'
-f_amazon-url: https://www.amazon.com/dp/0071638857/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071638857/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

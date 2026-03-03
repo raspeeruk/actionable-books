@@ -153,7 +153,7 @@ f_insight-1: >-
   moved on… I had not thought of it as a hardship at the time, and I never made
   excuses.”
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/9780830732/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/9780830732/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

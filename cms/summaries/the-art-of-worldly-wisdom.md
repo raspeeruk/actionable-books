@@ -138,7 +138,7 @@ f_quote-2: >-
   "Things have their seasons, and even certain kinds of eminence go in and out
   of style. But wisdom has an advantage: she is eternal. If this is not her
   century, many others will be."
-f_amazon-url: https://www.amazon.com/dp/B0049P1LUK/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B0049P1LUK/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -142,7 +142,7 @@ f_quote-2: >-
   inefficiencies they maintained during their start-up phase, and
   unintentionally erect barriers to innovation as they become ever more
   efficient and profitable."
-f_amazon-url: https://www.amazon.com/dp/0470621672/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0470621672/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

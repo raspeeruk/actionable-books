@@ -132,7 +132,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Meaningful behavioral change is very hard to do. No one can make us change
   unless we truly want to change."
-f_amazon-url: https://www.amazon.com/dp/0804141231/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0804141231/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

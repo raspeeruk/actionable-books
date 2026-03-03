@@ -126,7 +126,7 @@ f_quote-2: >-
   "We favor the visible, the embedded, the personal, the narrated, and the
   tangible; we scorn the abstract. Everything good (aesthetics, ethics) and
   wrong (Fooled by Randomness) seems to flow from it."
-f_amazon-url: https://www.amazon.com/dp/0812975219/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0812975219/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

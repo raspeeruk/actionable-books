@@ -163,7 +163,7 @@ f_conclusion: >-
   shelter from life-threatening weather. We loaned things just because we were
   asked. We believed what we were told.
 f_quote-2: '"In today''s networked world, trust has become the new currency."'
-f_amazon-url: https://www.amazon.com/dp/1451651457/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1451651457/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

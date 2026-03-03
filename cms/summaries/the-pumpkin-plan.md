@@ -130,7 +130,7 @@ f_quote-2: >-
   more, so much more.) There it was, in black and white...and orange. The answer
   I’d been looking for, for years. I needed to treat my company like a giant
   pumpkin!"
-f_amazon-url: https://www.amazon.com/dp/1591844886/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591844886/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

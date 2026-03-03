@@ -119,7 +119,7 @@ f_conclusion: >-
   unbelievable rate. And yet… and yet, the fundamentals remain the same. Create
   something of value; create it with passion, and the world will respond. The
   classics are forever.
-f_amazon-url: https://www.amazon.com/dp/1401309666/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1401309666/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

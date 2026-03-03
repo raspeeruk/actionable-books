@@ -113,7 +113,7 @@ f_conclusion: >-
   we want and turning off those we don’t want. Changes in human consciousness
   produce physical changes, both in structure and function, in the human body.
 f_quote-2: '"What reality do you choose to live?"'
-f_amazon-url: https://www.amazon.com/dp/B00IEKS6HM/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00IEKS6HM/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -123,7 +123,7 @@ f_conclusion: >-
   The authors remind us that “only when you assume full accountability for your
   thoughts, feelings, actions, and results can you direct your own destiny;
   otherwise someone or something else will.”
-f_amazon-url: https://www.amazon.com/dp/1591843480/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1591843480/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

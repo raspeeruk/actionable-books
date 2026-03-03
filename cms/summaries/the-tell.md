@@ -126,7 +126,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Scientists are increasingly coming to the conclusion that the mind is a
   prediction machine."
-f_amazon-url: https://www.amazon.com/dp/B00BKRW51E/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00BKRW51E/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

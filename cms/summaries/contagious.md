@@ -161,7 +161,7 @@ f_quote-2: >-
   "This book provides cutting-edge science about how word of mouth and social
   transmission work. And how you can leverage them to make your products and
   ideas succeed."
-f_amazon-url: https://www.amazon.com/dp/1451686579/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1451686579/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

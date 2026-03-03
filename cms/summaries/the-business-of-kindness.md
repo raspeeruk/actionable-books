@@ -146,7 +146,7 @@ f_quote-2: >-
   “Kindness takes words like “caring” and “respect” to the next level—into
   action. When we say “be kind” or “show kindness,” we understand what that
   means immediately.”
-f_amazon-url: https://www.amazon.com/dp/B00T3QX892/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00T3QX892/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

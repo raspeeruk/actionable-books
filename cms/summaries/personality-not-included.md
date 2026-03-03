@@ -155,7 +155,7 @@ f_quote-2: >-
   "Thinking differently requires focusing less on marketing your products and
   benefits, and more on understanding how to use the personality behind your
   brand to build a relationship with your customers."
-f_amazon-url: https://www.amazon.com/dp/0071545212/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0071545212/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

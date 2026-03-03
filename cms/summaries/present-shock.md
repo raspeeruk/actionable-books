@@ -100,7 +100,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Everything is live, real time, and always-on. It's not mere speeding up . . .
   It's more of a diminishment of anything that isn't happening right now."
-f_amazon-url: https://www.amazon.com/dp/1617230103/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1617230103/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

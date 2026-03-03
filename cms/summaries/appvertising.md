@@ -203,7 +203,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Apps are here to stay and they are changing the face of all businesses, big
   and small."
-f_amazon-url: https://www.amazon.com/dp/B00C7VHSCS/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00C7VHSCS/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

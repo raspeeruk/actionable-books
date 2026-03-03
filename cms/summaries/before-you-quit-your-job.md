@@ -125,7 +125,7 @@ f_conclusion: >-
   Quit Your Job_ is a Robert Kiyosaki’s personal story of overcoming those
   doubts through careful planning and the right mindset. Definitely worth a
   read.
-f_amazon-url: https://www.amazon.com/dp/0446696374/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0446696374/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

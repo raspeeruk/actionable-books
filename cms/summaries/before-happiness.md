@@ -115,7 +115,7 @@ f_quote-2: >-
   truly inspired. … Let your new reality seep into your subconscious. Once you
   do you’ll find yourself capable of the kind of inspiration necessary for true
   greatness."
-f_amazon-url: https://www.amazon.com/dp/B00BVJG2P6/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00BVJG2P6/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

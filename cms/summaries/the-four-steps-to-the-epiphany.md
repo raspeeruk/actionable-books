@@ -132,7 +132,7 @@ f_quote-2: >-
   "In the early stages of a startup, focusing on ‘execution’ will put you out of
   business. Instead, you need a ‘learning and discovery’ process so you can get
   the company to the point where you know what to execute."
-f_amazon-url: https://www.amazon.com/dp/0989200507/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0989200507/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

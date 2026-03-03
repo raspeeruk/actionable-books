@@ -123,7 +123,7 @@ f_quote-2: >-
   "More than half of all cell phone users now live in developing countries,
   making the mobile phone the first electronic technology to garner more users
   in the Third World than the First."
-f_amazon-url: https://www.amazon.com/dp/1554683963/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1554683963/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

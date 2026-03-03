@@ -131,7 +131,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Simple rules are shortcut strategies that save time and effort by focusing
   our attention and simplifying the way we process information."
-f_amazon-url: https://www.amazon.com/dp/B00LZ7GTSY/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00LZ7GTSY/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

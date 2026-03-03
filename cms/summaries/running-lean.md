@@ -104,7 +104,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The key takeaway from Lean Startup can best be summed up around the concept
   of using smaller, faster iterations for testing a vision."
-f_amazon-url: https://www.amazon.com/dp/1449305172/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1449305172/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

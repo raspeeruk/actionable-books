@@ -117,7 +117,7 @@ f_insight-1: >-
   but for the purposes of this discussion, we really only need to ask ourselves
   one question…
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0743265254/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0743265254/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

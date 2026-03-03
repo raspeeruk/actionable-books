@@ -145,7 +145,7 @@ f_conclusion: >-
   reinforces for me why I am in this role as a manager and what I need to do.
   That “why” is essential to us as managers and coaches, as we work to keep the
   “hope” that David discusses alive.
-f_amazon-url: https://www.amazon.com/dp/1605440027/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1605440027/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -119,7 +119,7 @@ f_insight-1: >-
   And so, for us readers, there is a real application to be seized here and as
   Ms. Tharp herself says, “You’ve just got to get in there and _do_.”
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0743235266/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0743235266/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

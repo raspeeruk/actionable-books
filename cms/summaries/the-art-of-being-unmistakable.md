@@ -136,7 +136,7 @@ f_conclusion: ''
 f_quote-2: >-
   "My greatest sin was to waste my life believing that I wasn’t capable of
   something more."
-f_amazon-url: https://www.amazon.com/dp/1493746286/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1493746286/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -117,7 +117,7 @@ f_conclusion: >-
 f_quote-2: >-
   "You are today where your thoughts have brought you. You will be tomorrow
   where your thoughts take you."
-f_amazon-url: https://www.amazon.com/dp/1599951681/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1599951681/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

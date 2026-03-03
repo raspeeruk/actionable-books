@@ -112,7 +112,7 @@ f_conclusion: >-
   her “Fix your hair. It won’t be long before the caller can see your face over
   the wires.”
 f_quote-2: '"We need all hands on deck to right the ship of humanity."'
-f_amazon-url: https://www.amazon.com/dp/B00L9AY254/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/B00L9AY254/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -130,7 +130,7 @@ f_quote-2: >-
   “Using words that talk straight to the part of the brain that is free from
   maybes and responds on reflex gives you a fair advantage in conversation and
   can result in you getting your own way more often.”
-f_amazon-url: https://www.amazon.com/dp/0692881956/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/0692881956/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---

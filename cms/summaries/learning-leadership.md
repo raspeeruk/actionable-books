@@ -148,7 +148,7 @@ f_conclusion: >-
   the self-coaching exercises, start a leadership journal, aspire to improve
   every day, challenge yourself, engage support and commit to being the best and
   make it a successful one.
-f_amazon-url: https://www.amazon.com/dp/1119144280/?tag=gooseducmedi-20
+f_amazon-url: https://www.amazon.com/dp/1119144280/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 ---
