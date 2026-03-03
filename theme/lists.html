@@ -95,7 +95,7 @@
           </div>
           <div class="uui-blog04_component">
             <div class="uui-blog04_list-wrapper">
-              {%- assign listItems = collections.lists | sort: "date" | reverse -%}<div class="w-dyn-list">
+              {%- assign listItems = collections.lists | published | sort: "date" | reverse -%}<div class="w-dyn-list">
                 {%- unless listItems.length == 0 -%}<div role="list" class="collection-list-2 w-dyn-items">
                   {%- for item in listItems -%}<div role="listitem" class="w-dyn-item">
                     <div class="uui-blog04_item">

@@ -17,10 +17,20 @@ const markdownIt = require("markdown-it");
               return content;
           });
                
+        // Schedule filter: exclude future-dated content from collections
+        eleventyConfig.addFilter("published", (collection) => {
+            const now = new Date();
+            return (collection || []).filter(item => {
+                const pubDate = item.data && item.data['published-on'];
+                if (!pubDate) return true;
+                return new Date(pubDate) <= now;
+            });
+        });
+
         eleventyConfig.addPassthroughCopy({"theme/assets": "assets"});
 
         eleventyConfig.addPassthroughCopy("admin");
-        
+
         createCollectionsAndFilters(eleventyConfig);
         
         return {
