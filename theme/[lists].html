@@ -87,12 +87,32 @@
         <div class="uui-navbar07_menu-left">
           <a href="{{ links.2f }}" class="uui-navbar07_link w-nav-link">{{ texts.2268ff }}</a>
           <a href="{{ links.4326835a }}" class="uui-navbar07_link w-nav-link">{{ texts.-2e52b95c }}</a>
+          <div data-hover="true" data-delay="300" data-w-id="518bc1f9-39db-98ee-d3d4-4c063ac7ba44" class="uui-navbar07_menu-dropdown w-dropdown">
+            <nav class="uui-navbar07_dropdown-list w-dropdown-list">
+              <div class="uui-navbar07_dropdown-link-list">
+                <a href="{{ links.23 }}" class="uui-navbar07_dropdown-link w-inline-block">
+                  <div class="uui-navbar07_icon-wrapper">
+                    <div class="uui-icon-1x1-xsmall w-embed"><svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M20 19.5V16.5H7C5.34315 16.5 4 17.8431 4 19.5M8.8 22.5H16.8C17.9201 22.5 18.4802 22.5 18.908 22.282C19.2843 22.0903 19.5903 21.7843 19.782 21.408C20 20.9802 20 20.4201 20 19.3V5.7C20 4.57989 20 4.01984 19.782 3.59202C19.5903 3.21569 19.2843 2.90973 18.908 2.71799C18.4802 2.5 17.9201 2.5 16.8 2.5H8.8C7.11984 2.5 6.27976 2.5 5.63803 2.82698C5.07354 3.1146 4.6146 3.57354 4.32698 4.13803C4 4.77976 4 5.61984 4 7.3V17.7C4 19.3802 4 20.2202 4.32698 20.862C4.6146 21.4265 5.07354 21.8854 5.63803 22.173C6.27976 22.5 7.11984 22.5 8.8 22.5Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                      </svg></div>
+                  </div>
+                  <div class="uui-navbar07_item-right">
+                    <div class="uui-navbar07_item-heading">{{ texts.1fa3c2 }}</div>
+                    <div class="uui-text-size-small">{{ texts.-1eac165e }}</div>
+                  </div>
+                </a>
+              </div>
+            </nav>
+          </div>
           <a href="{{ links.55cb89fe }}" class="uui-navbar07_link w-nav-link">{{ texts.1fa3c2 }}</a>
           <a href="{{ links.61642f31 }}" class="uui-navbar07_link w-nav-link">{{ texts.3c2336d }}</a>
           <a href="{{ links.16bdc13e }}" class="uui-navbar07_link w-nav-link">{{ texts.-64104400 }}</a>
         </div>
         <div class="uui-navbar07_menu-right">
           <div class="uui-navbar07_button-wrapper">
+            <a href="{{ links.23 }}" class="uui-button-secondary-gray show-tablet w-inline-block">
+              <div>{{ texts.-7804285f }}</div>
+            </a>
             <a href="{{ links.d489d94 }}" class="uui-button w-inline-block">
               <div>{{ texts.-69de02d6 }}</div>
             </a>
@@ -110,53 +130,88 @@
       </div>
     </div>
   </div>
-  <div class="uui-page-padding-6">
-    <div class="uui-container-large-6">
-      <div class="uui-padding-vertical-xhuge-6">
-        <nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="/">Home</a> <span class="breadcrumb-sep">/</span> <a href="/lists/">Lists</a> <span class="breadcrumb-sep">/</span> <span>{{ title }}</span></nav>
-        <h1 class="uui-heading-large-2">{{ title }}</h1>
-        {% if f_content-type == "ai" %}<div class="ai-disclosure">This list was curated with AI assistance. All original book reviews are written by human experts.</div>{% endif %}
-        {% if f_intro %}<div class="uui-text-rich-text w-richtext">{{ f_intro | markdown }}</div>{% endif %}
-        <div style="margin-top: 2rem;">
-          {%- for item in f_items -%}
-          <div class="list-item-card">
-            <div>
-              <div class="list-item-number">{{ forloop.index }}</div>
-              {% if item.item_image %}<img src="{{ item.item_image }}" alt="{{ item.item_title | escape }} book cover" class="list-item-img" loading="lazy">{% endif %}
-            </div>
-            <div class="list-item-content">
-              <h3>{{ item.item_title }}</h3>
-              <div class="uui-text-rich-text w-richtext">{{ item.item_description | markdown }}</div>
-              <div class="list-item-actions">
-                {% if item.item_amazon_url %}<a href="{{ item.item_amazon_url }}" class="btn-amazon" rel="nofollow">Buy on Amazon</a>{% endif %}
-                {% if item.item_summary_ref %}{%- assign summaryRef = item.item_summary_ref | resolveReference -%}{% if summaryRef.url %}<a href="{{ summaryRef.url }}" class="btn-summary">Read Summary</a>{% endif %}{% endif %}
+  <header class="uui-section_blogpost05">
+    <div class="uui-page-padding-5">
+      <div class="uui-container-large-5">
+        <div class="uui-padding-vertical-xhuge-5">
+          <div class="w-layout-grid uui-blogpost05_header">
+            <div class="uui-blogpost05_title-wrapper">
+              <div class="uui-button-row-2">
+                <a data-w-id="acc27456-382f-4708-5688-0d34cd1972cd" href="/lists/" class="uui-button-link-2 w-inline-block">
+                  <div class="uui-button-icon-2 w-embed"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M15.8332 10.0003H4.1665M4.1665 10.0003L9.99984 15.8337M4.1665 10.0003L9.99984 4.16699" stroke="CurrentColor" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </svg></div>
+                  <div>All lists</div>
+                </a>
               </div>
+              <nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="/">Home</a> <span class="breadcrumb-sep">/</span> <a href="/lists/">Lists</a> <span class="breadcrumb-sep">/</span> <span>{{ title }}</span></nav>
+              <h1 class="uui-heading-large">{{ title }}</h1>
             </div>
           </div>
-          {%- if forloop.index == 5 -%}
-          <div class="uui-padding-vertical-xhuge-9 summary" style="padding: 2rem 0;">
-            <div class="uui-cta06_component">
-              <div class="uui-cta06_content">
-                <div class="uui-max-width-large-4">
-                  <h3 class="uui-heading-medium-5">{{ texts.28be5fa3 }}</h3>
-                  <div class="uui-space-xsmall-5"></div>
-                  <div class="uui-text-size-large-4">{{ texts.-554ef933 }}</div>
+          <div class="uui-blogpost05_content-wrapper">
+            <div class="uui-blogpost05_content-left">
+              <div class="uui-blogpost05_newsletter">
+                <div class="uui-blogpost05_sidebar-heading">{{ texts.-5cba046d }}</div>
+                <div class="uui-blogpost05_form w-form">
+                  <form id="email-form" name="email-form" data-name="email" method="get" data-netlify="true" data-ajax="true">
+                    <div class="uui-blogpost05_form-wrapper"><input class="uui-form_input-3 w-input" maxlength="256" name="email-2" placeholder="Enter your email" type="email" required=""><input type="submit" data-wait="Please wait..." class="uui-button-3 is-button-small w-button" value="Subscribe"></div>
+                    <div class="uui-text-size-small-2">{{ texts.343433b1 }}<a href="{{ links.23 }}" class="uui-text-style-link-2">{{ texts.329660ca }}</a>{{ texts.2e }}</div>
+                  </form>
+                  <div class="w-form-done">
+                    <div>{{ texts.5a0ea5a1 }}</div>
+                  </div>
+                  <div class="w-form-fail">
+                    <div>{{ texts.-7c112e99 }}</div>
+                  </div>
                 </div>
               </div>
-              <div class="uui-cta06_form w-form">
-                <form id="email-form" name="email-form" data-name="email" method="get" class="uui-form_component-2" data-netlify="true" data-ajax="true">
-                  <div class="uui-signup-form_wrapper-2"><input class="uui-form_input-6 w-input" maxlength="256" name="email-list" placeholder="Enter your email" type="email" required=""><input type="submit" data-wait="Please wait..." class="uui-button-7 w-button" value="Subscribe"></div>
-                </form>
+            </div>
+            <div id="w-node-list-content" class="uui-blogpost05_content">
+              <div class="rich-text-block w-richtext">
+                {% if f_content-type == "ai" %}<div class="ai-disclosure">This list was curated with AI assistance. All original book reviews are written by human experts.</div>{% endif %}
+                {% if f_intro %}{{ f_intro | markdown }}{% endif %}
+                {%- for item in f_items -%}
+                <div class="list-item-card">
+                  <div>
+                    <div class="list-item-number">{{ forloop.index }}</div>
+                    {% if item.item_image %}<img src="{{ item.item_image }}" alt="{{ item.item_title | escape }} book cover" class="list-item-img" loading="lazy">{% endif %}
+                  </div>
+                  <div class="list-item-content">
+                    <h3>{{ item.item_title }}</h3>
+                    {{ item.item_description | markdown }}
+                    <div class="list-item-actions">
+                      {% if item.item_amazon_url %}<a href="{{ item.item_amazon_url }}" class="uui-button-3 w-button" style="display:inline-block;margin-right:0.5rem;" rel="nofollow">Buy on Amazon</a>{% endif %}
+                      {% if item.item_summary_ref %}{%- assign summaryRef = item.item_summary_ref | resolveReference -%}{% if summaryRef.url %}<a href="{{ summaryRef.url }}" class="uui-button-secondary-gray-2 is-button-small w-inline-block" style="display:inline-block;">Read Summary</a>{% endif %}{% endif %}
+                    </div>
+                  </div>
+                </div>
+                {%- if forloop.index == 5 -%}
+                <div class="uui-padding-vertical-xhuge-9 summary" style="padding: 2rem 0;">
+                  <div class="uui-cta06_component">
+                    <div class="uui-cta06_content">
+                      <div class="uui-max-width-large-4">
+                        <h3 class="uui-heading-medium-5">{{ texts.28be5fa3 }}</h3>
+                        <div class="uui-space-xsmall-5"></div>
+                        <div class="uui-text-size-large-4">{{ texts.-554ef933 }}</div>
+                      </div>
+                    </div>
+                    <div class="uui-cta06_form w-form">
+                      <form id="email-form-mid" name="email-form-mid" data-name="email" method="get" class="uui-form_component-2" data-netlify="true" data-ajax="true">
+                        <div class="uui-signup-form_wrapper-2"><input class="uui-form_input-6 w-input" maxlength="256" name="email-list" placeholder="Enter your email" type="email" required=""><input type="submit" data-wait="Please wait..." class="uui-button-7 w-button" value="Subscribe"></div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+                {%- endif -%}
+                {%- endfor -%}
+                {% if f_conclusion %}{{ f_conclusion | markdown }}{% endif %}
               </div>
             </div>
           </div>
-          {%- endif -%}
-          {%- endfor -%}
         </div>
-        {% if f_conclusion %}<div class="uui-text-rich-text w-richtext" style="margin-top: 2rem;">{{ f_conclusion | markdown }}</div>{% endif %}
       </div>
     </div>
-  </div>
+  </header>
   <footer class="uui-footer01_component">
     <div class="uui-page-padding-2">
       <div class="uui-container-large-2">
@@ -169,6 +224,13 @@
               <div class="uui-text-size-medium">{{ texts.-17811534 }}</div>
               <div class="uui-footer01_form-block w-form">
                 <form id="email-form-footer" name="email-form-footer" data-name="email" method="get" class="uui-footer01_form" data-netlify="true" data-ajax="true"><input class="uui-form_input-2 w-input" maxlength="256" name="email-footer" placeholder="Enter your email" type="email" required=""><input type="submit" data-wait="Please wait..." class="uui-button-2 is-button-small w-button" value="Subscribe"></form>
+                <div class="uui-text-size-small">{{ texts.-5505a12a }}<a href="{{ links.23 }}" class="uui-text-style-link">{{ texts.329660ca }}</a>{{ texts.2e }}</div>
+                <div class="success-message w-form-done">
+                  <div>{{ texts.62588949 }}</div>
+                </div>
+                <div class="error-message w-form-fail">
+                  <div>{{ texts.-7c112e99 }}</div>
+                </div>
               </div>
             </div>
             <div class="w-layout-grid uui-footer01_menu-wrapper">
@@ -178,17 +240,44 @@
                 <a href="{{ links.-7204a5ea }}" class="uui-footer01_link w-inline-block"><div>{{ texts.3cafa828 }}</div></a>
                 <a href="{{ links.61642f31 }}" class="uui-footer01_link w-inline-block"><div>{{ texts.6460dcd1 }}</div></a>
                 <a href="{{ links.16bdc13e }}" class="uui-footer01_link w-inline-block"><div>{{ texts.-64104400 }}</div></a>
+                <a href="{{ links.2bb81f90 }}" class="uui-footer01_link w-inline-block"><div>{{ texts.-1f9bbb6b }}</div></a>
               </div>
               <div class="uui-footer01_link-list">
                 <div class="uui-footer01_link-list-heading">{{ texts.13ede05 }}</div>
                 <a href="{{ links.55cb89fe }}" class="uui-footer01_link w-inline-block"><div>{{ texts.1fa3c2 }}</div></a>
                 <a href="{{ links.4326835a }}" class="uui-footer01_link w-inline-block"><div>{{ texts.-2e52b95c }}</div></a>
-                <a href="/lists/" class="uui-footer01_link w-inline-block"><div>Lists</div></a>
+                <a href="{{ links.4b2d3eda }}" class="uui-footer01_link w-inline-block"><div>{{ texts.4b0c1ae4 }}</div></a>
+                <a href="{{ links.-4984787c }}" class="uui-footer01_link w-inline-block"><div>{{ texts.-2842a996 }}</div></a>
+                <a href="{{ links.-4984787c }}" class="uui-footer01_link w-inline-block"><div>{{ texts.7b966fe2 }}</div></a>
+              </div>
+              <div class="uui-footer01_link-list">
+                <div class="uui-footer01_link-list-heading">{{ texts.-6c12fc73 }}</div>
+                <a href="{{ links.-881d6bb }}" class="uui-footer01_social-link w-inline-block">
+                  <div class="uui-footer01_social-icon w-embed"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M24 12C24 5.37258 18.6274 0 12 0C5.37258 0 0 5.37258 0 12C0 17.9895 4.3882 22.954 10.125 23.8542V15.4688H7.07812V12H10.125V9.35625C10.125 6.34875 11.9166 4.6875 14.6576 4.6875C15.9701 4.6875 17.3438 4.92188 17.3438 4.92188V7.875H15.8306C14.34 7.875 13.875 8.80008 13.875 9.75V12H17.2031L16.6711 15.4688H13.875V23.8542C19.6118 22.954 24 17.9895 24 12Z" fill="currentColor"></path>
+                    </svg></div>
+                  <div>{{ texts.217bfee6 }}</div>
+                </a>
+                <a href="{{ links.-16fe26f3 }}" class="uui-footer01_social-link w-inline-block">
+                  <div class="uui-footer01_social-icon w-embed"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M7.55016 21.75C16.6045 21.75 21.5583 14.2467 21.5583 7.74186C21.5583 7.53092 21.5536 7.3153 21.5442 7.10436C22.5079 6.40746 23.3395 5.54425 24 4.5553C23.1025 4.9546 22.1496 5.21538 21.1739 5.32874C22.2013 4.71291 22.9705 3.74547 23.3391 2.60577C22.3726 3.17856 21.3156 3.58261 20.2134 3.80061C19.4708 3.01156 18.489 2.48912 17.4197 2.31405C16.3504 2.13899 15.2532 2.32105 14.2977 2.8321C13.3423 3.34314 12.5818 4.15471 12.1338 5.14131C11.6859 6.12792 11.5754 7.23462 11.8195 8.2903C9.86249 8.19209 7.94794 7.6837 6.19998 6.7981C4.45203 5.91249 2.90969 4.66944 1.67297 3.14952C1.0444 4.23324 0.852057 5.51565 1.13503 6.73609C1.418 7.95654 2.15506 9.02345 3.19641 9.71999C2.41463 9.69517 1.64998 9.48468 0.965625 9.10592V9.16686C0.964925 10.3041 1.3581 11.4066 2.07831 12.2868C2.79852 13.167 3.80132 13.7706 4.91625 13.995C4.19206 14.1931 3.43198 14.222 2.69484 14.0794C3.00945 15.0574 3.62157 15.9129 4.44577 16.5263C5.26997 17.1398 6.26512 17.4806 7.29234 17.5012C5.54842 18.8711 3.39417 19.6141 1.17656 19.6106C0.783287 19.61 0.390399 19.5859 0 19.5384C2.25286 20.9837 4.87353 21.7514 7.55016 21.75Z" fill="currentColor"></path>
+                    </svg></div>
+                  <div>{{ texts.2c9a4253 }}</div>
+                </a>
+                <a href="{{ links.604a25d8 }}" class="uui-footer01_social-link w-inline-block">
+                  <div class="uui-footer01_social-icon w-embed"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M22.2234 0H1.77187C0.792187 0 0 0.773438 0 1.72969V22.2656C0 23.2219 0.792187 24 1.77187 24H22.2234C23.2031 24 24 23.2219 24 22.2703V1.72969C24 0.773438 23.2031 0 22.2234 0ZM7.12031 20.4516H3.55781V8.99531H7.12031V20.4516ZM5.33906 7.43438C4.19531 7.43438 3.27188 6.51094 3.27188 5.37187C3.27188 4.23281 4.19531 3.30937 5.33906 3.30937C6.47813 3.30937 7.40156 4.23281 7.40156 5.37187C7.40156 6.50625 6.47813 7.43438 5.33906 7.43438ZM20.4516 20.4516H16.8937V14.8828C16.8937 13.5562 16.8703 11.8453 15.0422 11.8453C13.1906 11.8453 12.9094 13.2937 12.9094 14.7891V20.4516H9.35625V8.99531H12.7687V10.5609H12.8156C13.2891 9.66094 14.4516 8.70938 16.1813 8.70938C19.7859 8.70938 20.4516 11.0813 20.4516 14.1656V20.4516Z" fill="currentColor"></path>
+                    </svg></div>
+                  <div>{{ texts.4b0ff13e }}</div>
+                </a>
               </div>
             </div>
           </div>
           <div class="uui-footer01_bottom-wrapper">
             <div class="uui-text-size-small text-color-gray500">{{ texts.47030631 }}</div>
+            <div class="uui-text-size-small text-color-gray500">
+              <a href="{{ links.-42a01fbf }}" class="link-3">{{ texts.-1e17b8bf }}</a>
+            </div>
             <div class="w-layout-grid uui-footer01_legal-list">
               <a href="{{ links.37af4a02 }}" class="uui-footer01_legal-link">{{ texts.4cf5967 }}</a>
               <a href="{{ links.-1a0f480e }}" class="uui-footer01_legal-link">{{ texts.5079bb68 }}</a>
