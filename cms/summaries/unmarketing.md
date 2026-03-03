@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:19.282Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78026cf344b81908daa57_unmarketing_sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/unmarketing/
+  alt: UnMarketing book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/unmarketing/'
 f_author-plain-text: Scott Stratten
 f_author: cms/authors/scott-stratten.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -119,7 +119,7 @@ f_conclusion: >-
   hilarious too. If you do buy the book (and I recommend you do), check out the
   story about Rockport shoes on pages 133-35. This is a guy who gets it… and
   then makes it fun.
-f_amazon-url: https://www.amazon.com/dp/047061787X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/047061787X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780a5d5383806327c9d8c_togetherisbetter_booksize-1-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/together-is-better/
+  alt: Together is Better book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/together-is-better/'
 f_author-plain-text: Simon Sinek
 f_author: cms/authors/simon-sinek.md
 f_category-3: cms/summary-categories/leadership.md
@@ -36,7 +36,7 @@ f_big-idea: >-
   the wins and the losses as just a part of the journey. As long as we continue
   to learn, grow and get better (from success and failure) our results over the
   long-term will be where we hoped they would be.
-f_quote-reference: \- Simon Sinek’s Website, startwithwhy.com
+f_quote-reference: '\- Simon Sinek’s Website, startwithwhy.com'
 f_insight-2: >-
   ### Be a Student, Not the Teacher
 
@@ -97,7 +97,7 @@ f_quote-2: >-
   safe while they are there, and return home at the end of the day feeling
   fulfilled by the work they do, feeling that they have contributed to something
   greater than themselves.”
-f_amazon-url: https://www.amazon.com/dp/1591847850/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591847850/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

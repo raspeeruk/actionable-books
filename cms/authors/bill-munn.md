@@ -1,10 +1,10 @@
 ---
 title: Bill Munn
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Bill-Munn/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Bill-Munn/'
 f_unique-id: '838'
 f_image:
   url: /assets/external/65d779bec7eef1dc826b3836_bill-munn-180x220.jpeg
-  alt: null
+  alt: Bill Munn
 slug: bill-munn
 f_summaries:
   - cms/summaries/why-make-eagles-swim.md

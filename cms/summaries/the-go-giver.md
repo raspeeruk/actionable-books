@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:57.894Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803f9b76cdf5e3a25b4b_the-go-giver-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-go-giver/
+  alt: The Go-Giver book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-go-giver/'
 f_author-plain-text: Bob Burg
 f_author: cms/authors/bob-burg.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -34,7 +34,7 @@ f_big-idea: >-
   you – that’s what you will get. We get what we focus on and expect. So instead
   of worrying about being taken advantage of and falling into the mindset of
   lack and scarcity, be open to giving and expecting abundance.
-f_quote-reference: \- The Go-Giver, page 11
+f_quote-reference: '\- The Go-Giver, page 11'
 f_insight-2: >-
   ### Be Open To Receive
 
@@ -72,7 +72,7 @@ f_conclusion: >-
   my life. The principles outlined in _The Go-Giver_ can easily be applied to
   both.
 f_quote-2: “All right. I'm going to share my Trade Secret with you now.”
-f_amazon-url: https://www.amazon.com/dp/159184200X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/159184200X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

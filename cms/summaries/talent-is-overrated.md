@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:45.693Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809ad33c7df02ee1719b_talent_is_overrated.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/talent-is-overrated/
+  alt: Talent Is Overrated book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/talent-is-overrated/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/01/ActionableBooks-Audio-Talent-is-Overrated.mp3
 f_author-plain-text: Geoff Colvin
@@ -39,7 +39,7 @@ f_big-idea: >-
   deliberate practice into our lives and become masters in our chosen fields.
   The catch—and there is a catch—it won’t be easy. But that may just be a good
   thing.
-f_quote-reference: \- Talent is Overrated, page 206
+f_quote-reference: '\- Talent is Overrated, page 206'
 f_insight-2: >-
   ### Applying the Principles of Deliberate Practice
 
@@ -113,7 +113,7 @@ f_conclusion: >-
   perfect. Perfect practice makes perfect.” With Geoff Colvin’s _Talent Is
   Overrated_, I finally get the point.
 f_quote-2: '"By understanding how a few become great, anyone can become better."'
-f_amazon-url: https://www.amazon.com/dp/1591842948/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591842948/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

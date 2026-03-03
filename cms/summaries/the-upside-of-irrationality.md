@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7802be71bbdd1f5230f43_theupsideofirrationality-tiny-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-upside-of-irrationality/
+  alt: The Upside of Irrationality book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-upside-of-irrationality/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/01/Actionable-Books-Audio-The-Upside-of-Irrationality.mp3
 f_author-plain-text: Dan Ariely
@@ -49,7 +49,7 @@ f_big-idea: >-
   consideration of that girl 15 years from now. It isn’t until we recognize that
   irrational thinking, understand our motivations behind it and then invent or
   create new ways to behave, that these changes will be sustainable.
-f_quote-reference: \- The Upside of Irrationality, page 6
+f_quote-reference: '\- The Upside of Irrationality, page 6'
 f_insight-2: >-
   ### The Wisdom to Know the Difference
 
@@ -128,7 +128,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Sure, it would be nice if we were more rational and clear-headed about our
   “should”s. Unfortunately, we’re not."
-f_amazon-url: https://www.amazon.com/dp/0061995037/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0061995037/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

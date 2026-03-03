@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:19.070Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78064529024c0144a2b70_ideavirus_sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/unleashing-the-ideavirus/
+  alt: Unleashing the Ideavirus book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/unleashing-the-ideavirus/'
 f_author-plain-text: Seth Godin
 f_author: cms/authors/seth-godin.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -131,7 +131,7 @@ f_conclusion: >-
   politicians and thinkers, Seth Godin’s Unleashing the Ideavirus stands to do
   the same for marketers – by opening their eyes to a newer, more effective
   marketing strategy relayed by one of the masters of the craft itself.
-f_amazon-url: https://www.amazon.com/dp/0786887176/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0786887176/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

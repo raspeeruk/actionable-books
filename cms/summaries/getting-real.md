@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:09.666Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805933ad93c5dc416b08_getting-real.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/getting-real/
+  alt: Getting Real book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/getting-real/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/ActionableBooks-Audio-Getting-Real.mp3
 f_author-plain-text: David Heinemeier Hansson
@@ -51,7 +51,7 @@ f_big-idea: >-
   constraints, embrace them. Let them guide you. Constraints drive innovation
   and force focus. Instead of trying to remove them, use them to your
   advantage.”
-f_quote-reference: \- Getting Real, page 2
+f_quote-reference: '\- Getting Real, page 2'
 f_insight-2: >-
   ### Start With No
 
@@ -146,7 +146,7 @@ f_quote-2: >-
   "Getting Real delivers better results because it forces you to deal with the
   actual problems you’re trying to solve instead of your ideas about those
   problems."
-f_amazon-url: https://www.amazon.com/dp/0578012812/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0578012812/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

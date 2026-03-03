@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:53.770Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806004ee7820ceb3261e_creative-habit.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-creative-habit/
+  alt: The Creative Habit book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-creative-habit/'
 f_author-plain-text: Twlya Tharp
 f_author: cms/authors/twlya-tharp.md
 f_category-3: cms/summary-categories/self-management.md
@@ -119,7 +119,7 @@ f_insight-1: >-
   And so, for us readers, there is a real application to be seized here and as
   Ms. Tharp herself says, “You’ve just got to get in there and _do_.”
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0743235266/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0743235266/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

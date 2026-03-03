@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:07.961Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804cb0003bf0734dafd6_flipping-the-switch.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/flipping-the-switch/
+  alt: Flipping the Switch book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/flipping-the-switch/'
 f_author-plain-text: John G. Miller
 f_author: cms/authors/john-g-miller.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -41,7 +41,7 @@ f_big-idea: >-
   are behaving unruly, ask “How can I become a better parent?” Miller emphasizes
   that **asking better questions leads us to better answers which in turn can
   influence our behavior.**
-f_quote-reference: \- Flipping the Switch, page 3
+f_quote-reference: '\- Flipping the Switch, page 3'
 f_insight-2: >-
   ### Be honest and build trust
 
@@ -113,7 +113,7 @@ f_quote-2: >-
   victim, or procrastinating–we also stop learning, taking ownership, acting
   creatively, or being of service. And the trust we've built with others will
   quickly evaporate."
-f_amazon-url: https://www.amazon.com/dp/0399152954/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0399152954/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

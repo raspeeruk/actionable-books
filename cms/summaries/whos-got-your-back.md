@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:22.742Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804c2d3147c9543adb31_whos-got-your-back.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/whos-got-your-back/
+  alt: Who’s Got Your Back? book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/whos-got-your-back/'
 f_author-plain-text: Keith Ferrazzi
 f_author: cms/authors/keith-ferrazzi.md
 f_category-3: cms/summary-categories/leadership.md
@@ -140,7 +140,7 @@ f_conclusion: >-
   you surpass even your own wild expectations for life and success. Today, pick
   someone you admire and invite them out for the long slow dinner that could
   change your life.
-f_amazon-url: https://www.amazon.com/dp/0385521332/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0385521332/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

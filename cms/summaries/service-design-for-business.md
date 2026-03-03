@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7807e589ec7f59357aa80_service-design-for-business-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/service-design-for-business/
+  alt: Service Design for Business book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/service-design-for-business/'
 f_author-plain-text: Ben Reason
 f_author: cms/authors/ben-reason.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -94,7 +94,7 @@ f_big-idea: >-
   Transactions are where the monetary exchanges happen. Setting up the customer
   on the system, and dealing with their payments and defaults has to be a robust
   and stable process.
-f_quote-reference: \- Service Design For Business, page 4
+f_quote-reference: '\- Service Design For Business, page 4'
 f_insight-2: >-
   ### The Customer Story
 
@@ -166,7 +166,7 @@ f_quote-2: >-
   “Technology can dehumanize and make things harder to navigate for customers
   and less flexible. Service design offers tools to domesticate and humanize
   technology.”
-f_amazon-url: https://www.amazon.com/dp/1118988922/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118988922/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

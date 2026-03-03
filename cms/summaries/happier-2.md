@@ -48,7 +48,7 @@ f_big-idea: >-
   we deem valuable. Happiness is not about making it to the peak of the mountain
   nor is it about climbing aimlessly around the mountain; happiness is the
   experience of climbing toward the peak.”
-f_quote-reference: ''
+f_quote-reference: '- Happier, page 27'
 f_insight-2: >-
   ### Simplify
 
@@ -106,9 +106,14 @@ f_conclusion: >-
   Ben-Shahar’s coaching questions felt easier with a roadmap. A great coach gets
   out of the way and gives us the space to do the work. Ultimately, we discover
   the answers for ourselves, in our own time.
-f_amazon-url: https://www.amazon.com/dp/0071492399/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071492399/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Attaining lasting happiness requires that we enjoy the journey on our way
+  toward a destination we deem valuable. Happiness is not about making it to the
+  peak of the mountain nor is it about climbing aimlessly around the mountain;
+  happiness is the experience of climbing toward the peak.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/ActionableBooks-Audio-Happier.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/ActionableBooks-Audio-Happier.mp3)

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:58.967Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806a327de59b9577180f_the-hidden-leader-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-hidden-leader/
+  alt: The Hidden Leader book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-hidden-leader/'
 f_author-plain-text: Laurie Sain
 f_author: cms/authors/laurie-sain.md
 f_category-3: cms/summary-categories/leadership.md
@@ -38,7 +38,7 @@ f_big-idea: >-
   do, and support them in stretching the boundaries of our processes, guidelines
   and internal structures to make decisions. Decisions that surpass the
   expectations of our customers and propel our businesses forward.
-f_quote-reference: \- The Hidden Leader, page xi
+f_quote-reference: '\- The Hidden Leader, page xi'
 f_insight-2: >-
   ### On Your Mark. Get Set. Go!
 
@@ -120,7 +120,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Leadership is not about who you are or where you come from. It’s about what
   you do"
-f_amazon-url: https://www.amazon.com/dp/0814433995/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0814433995/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780bd2ea4a5ee784097a5_read_this_before_our_next_meeting.jpeg
-  alt: null
+  alt: Read This Before Our Next Meeting book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/read-this-before-our-next-meeting/
 f_author-plain-text: Al Pittampalli
@@ -58,7 +58,7 @@ f_big-idea: >-
   **So how can we be more effective with our meetings?  
 
   **By following the Seven Principles of Modern Meetings…
-f_quote-reference: \- Read This Before Our Next Meeting, page 3
+f_quote-reference: '\- Read This Before Our Next Meeting, page 3'
 f_insight-2: >-
   ### Make A Decision
 
@@ -176,7 +176,7 @@ f_quote-2: >-
   were as sloppily run as our meetings, patients would die. If a restaurant
   kitchen put as little planning into a meal as we put into our meetings, dinner
   would never be served."
-f_amazon-url: https://www.amazon.com/dp/1936719169/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1936719169/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

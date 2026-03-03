@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:22.212Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b5e997a36d75091680_listful-thinking.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/listful-thinking/
+  alt: Listful Thinking book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/listful-thinking/'
 f_author-plain-text: Paula Rizzo
 f_author: cms/authors/paula-rizzo.md
 f_category-3: cms/summary-categories/self-management.md
@@ -39,7 +39,7 @@ f_big-idea: >-
   act of writing things down helps you be more accountable and plan for what is
   needed. And as Paula mentions, there is an inherent satisfaction in crossing
   things off a list that is hard to beat.
-f_quote-reference: \- Listful Thinking, page 1
+f_quote-reference: '\- Listful Thinking, page 1'
 f_insight-2: >-
   ### Be Realistic
 
@@ -104,7 +104,7 @@ f_quote-2: >-
   Johnny Cash have in common? Each is or was a list maker. These successful
   people, along with many CEOs and busy entrepreneurs, all use lists to keep
   track of their ideas, thoughts, and tasks."
-f_amazon-url: https://www.amazon.com/dp/1632280035/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1632280035/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

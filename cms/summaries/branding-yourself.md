@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:50.499Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78066b974b768d91c2357_branding_yourself.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/branding-yourself/
+  alt: Branding Yourself book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/branding-yourself/'
 f_author-plain-text: Erik Deckers
 f_author: cms/authors/erik-deckers.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -106,7 +106,7 @@ f_conclusion: >-
   For those just jumping into the use of social media, this book offers
   invaluable information on everything from setting up a Linkedin Profile to how
   to decide which blogging platform is best for your needs.
-f_amazon-url: https://www.amazon.com/dp/0789749726/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0789749726/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

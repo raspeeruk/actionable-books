@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:55.281Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802713cdde318a63e7a4_effective-executive-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-effective-executive/
+  alt: The Effective Executive book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-effective-executive/'
 f_author-plain-text: Peter Drucker
 f_author: cms/authors/peter-drucker.md
 f_category-3: cms/summary-categories/self-management.md
@@ -49,7 +49,7 @@ f_big-idea: >-
   Then we lose the possibility big or small and we are stuck with the same
   results we always get. Our loss is greater if we chose not to take a bigger
   risk because the rewards for success are also greater.
-f_quote-reference: \- The Effective Executive, page 2
+f_quote-reference: '\- The Effective Executive, page 2'
 f_insight-2: >-
   ### Crisis generates pressure, not priorities
 
@@ -124,7 +124,7 @@ f_quote-2: >-
   "Intelligence, imagination, and knowledge are essential resources, but only
   effectiveness converts them into results. By themselves, they only set limits
   to what can be attained."
-f_amazon-url: https://www.amazon.com/dp/0060833459/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0060833459/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

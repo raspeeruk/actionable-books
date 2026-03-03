@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7804b397b6c82c2eb60c8_the-ten-faces-of-innovation-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-ten-faces-of-innovation/
+  alt: The Ten Faces of Innovation book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-ten-faces-of-innovation/'
 f_author-plain-text: Jonathan Littman
 f_author: cms/authors/jonathan-littman.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -80,7 +80,7 @@ f_big-idea: >-
   outside the project why your idea is worth considering. Stories will help show
   not only how beneficial your project is, but just how genuine your companies
   values and mission is.
-f_quote-reference: \- The Ten Faces of Innovation, page 12
+f_quote-reference: '\- The Ten Faces of Innovation, page 12'
 f_insight-2: >-
   ### Flex Your Innovation Muscles
 
@@ -158,7 +158,7 @@ f_quote-2: >-
   their operations. They do it year-round and in widely differing parts of their
   enterprises. When the team’s creative engine is running at top speed, the
   momentum and synergy can keep a company ahead through bad times and good."
-f_amazon-url: https://www.amazon.com/dp/0385512074/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0385512074/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

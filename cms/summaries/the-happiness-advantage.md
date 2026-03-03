@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:58.229Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78044cec14bdda493b665_happiness-advantage.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-happiness-advantage/
+  alt: The Happiness Advantage book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-happiness-advantage/'
 f_author-plain-text: Shawn Achor
 f_author: cms/authors/shawn-achor.md
 f_category-3: cms/summary-categories/self-management.md
@@ -32,7 +32,7 @@ f_big-idea: >-
   Of course, this knowledge doesn’t guarantee the results described. It takes
   practice. Fortunately for us, Achor provides proven ways that we can practice
   happiness – thereby changing our brains AND our lives.
-f_quote-reference: \- The Happiness Advantage, page 4
+f_quote-reference: '\- The Happiness Advantage, page 4'
 f_insight-2: >-
   ### Happiness Habits
 
@@ -123,7 +123,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Happiness is the precursor to success, not merely the result…happiness and
   optimism actually fuel performance and achievement."
-f_amazon-url: https://www.amazon.com/dp/0307591549/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0307591549/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

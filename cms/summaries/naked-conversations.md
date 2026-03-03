@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:28.054Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780260cdf6979a6b471be_naked-conversations.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/naked-conversations/
+  alt: Naked Conversations book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/naked-conversations/'
 f_author-plain-text: Robert Scoble
 f_author: cms/authors/robert-scoble.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -42,7 +42,7 @@ f_big-idea: >-
 
   To get these benefits and avoid the potential pitfalls with blogging, you must
   follow the rules.
-f_quote-reference: \- Naked Conversations, page 25
+f_quote-reference: '\- Naked Conversations, page 25'
 f_insight-2: >-
   ### Be Authentic
 
@@ -137,7 +137,7 @@ f_quote-2: >-
   "Revolutions may be hard to predict, but ignoring them often has unfortunate
   consequences…in business numbers speak. They indicate blogging is no fad, and
   its relevance to business cannot logically continue to be denied."
-f_amazon-url: https://www.amazon.com/dp/047174719X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/047174719X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

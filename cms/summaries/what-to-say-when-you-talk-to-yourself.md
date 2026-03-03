@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:07:21.595Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805c48fff91cd31830be_what-to-say.jpeg
-  alt: null
+  alt: What to Say When You Talk to Yourself book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/what-to-say-when-you-talk-to-yourself/
 f_author-plain-text: Shad Helmstetter
@@ -47,7 +47,7 @@ f_big-idea: >-
 
 
   Actions create results.
-f_quote-reference: \- What to Say When You Talk to Yourself, page 13
+f_quote-reference: '\- What to Say When You Talk to Yourself, page 13'
 f_insight-2: >-
   ### Your Mental Apartment
 
@@ -133,7 +133,7 @@ f_quote-2: >-
   "You are everything that is, your thoughts, your life, your dreams come true.
   You are everything you choose to be. You are as unlimited as the endless
   universe."
-f_amazon-url: https://www.amazon.com/dp/0671708821/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0671708821/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

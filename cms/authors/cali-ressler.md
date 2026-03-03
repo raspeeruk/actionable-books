@@ -1,16 +1,16 @@
 ---
 title: Cali Ressler
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Cali-Ressler/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Cali-Ressler/'
 f_unique-id: '839'
 slug: cali-ressler
 f_image:
   url: /assets/external/65d779c528bdb50947f46f1b_cali.jpeg
-  alt: null
+  alt: Cali Ressler
 updated-on: '2024-02-23T13:30:58.191Z'
 created-on: '2024-02-22T16:43:50.050Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/caliressler/
-f_website-2: http://gorowe.com
+f_twitter-2: 'http://twitter.com/caliressler/'
+f_website-2: 'http://gorowe.com'
 layout: '[authors].html'
 tags: authors
 ---

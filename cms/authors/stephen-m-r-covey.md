@@ -1,17 +1,17 @@
 ---
 title: Stephen M.R. Covey
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Stephen-M.R.-Covey/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Stephen-M.R.-Covey/'
 f_unique-id: '527'
 f_image:
   url: /assets/external/65d77a53f8540e935862d832_stephen-m-r-covey-lg-180x220.jpeg
-  alt: null
+  alt: Stephen M.R. Covey
 slug: stephen-m-r-covey
 updated-on: '2024-02-23T13:30:37.553Z'
 created-on: '2024-02-22T16:46:11.628Z'
 published-on: '2024-02-23T13:42:23.311Z'
 f_facebook-2: >-
   http://www.facebook.com/pages/Business-At-The-Speed-of-Trust-Tour-with-Stephen-MR-Covey/58258742187
-f_website-2: http://www.coveylink.com/
+f_website-2: 'http://www.coveylink.com/'
 layout: '[authors].html'
 tags: authors
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:07.083Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780954f1f96a38b49ab10_power-of-moments-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-power-of-moments/
+  alt: The Power of Moments book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-power-of-moments/'
 f_author-plain-text: Chip And Dan Heath
 f_author: cms/authors/chip-and-dan-heath.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -71,7 +71,7 @@ f_big-idea: >-
   I’ll now share just two of the many insights the authors provide for creating
   each of these elements—specifically related to creating pride. Both can be
   applied as easily to individual as team or organizational pursuits.
-f_quote-reference: \- The Power of Moments, page 5
+f_quote-reference: '\- The Power of Moments, page 5'
 f_insight-2: >-
   ### Practice Courage
 
@@ -161,7 +161,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Defining moments shape our lives, but we don’t have to wait for them to
   happen. We can be the authors of them.”
-f_amazon-url: https://www.amazon.com/dp/1501147765/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1501147765/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

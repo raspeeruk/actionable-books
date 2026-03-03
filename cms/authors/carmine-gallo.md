@@ -1,16 +1,16 @@
 ---
 title: Carmine Gallo
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Carmine-Gallo/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Carmine-Gallo/'
 f_unique-id: '559'
 slug: carmine-gallo
 f_image:
   url: /assets/external/65d779c695897b7a2707870e_carmine_gallo.jpeg
-  alt: null
+  alt: Carmine Gallo
 updated-on: '2024-02-23T13:31:08.129Z'
 created-on: '2024-02-22T16:43:51.042Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/carminegallo/
-f_website-2: http://carminegallo.com
+f_twitter-2: 'http://twitter.com/carminegallo/'
+f_website-2: 'http://carminegallo.com'
 layout: '[authors].html'
 tags: authors
 ---

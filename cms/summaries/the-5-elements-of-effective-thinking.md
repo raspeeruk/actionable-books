@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7805f9b76cdf5e3a26991_5-elements-effective-thinking-94x144.jpeg
-  alt: null
+  alt: The 5 Elements of Effective Thinking book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-5-elements-of-effective-thinking/
 f_author-plain-text: Edward B. Burger
@@ -57,7 +57,7 @@ f_big-idea: >-
 
   Note: For a wonderful introduction, check out this
   [video](https://www.youtube.com/watch?v=fLqzYDZAqCI) from the authors.
-f_quote-reference: \- The 15 Commitments of Conscious Leadership, location 303
+f_quote-reference: '\- The 15 Commitments of Conscious Leadership, location 303'
 f_insight-2: >-
   ### Speak Unarguably—Listen with Curiosity
 
@@ -139,7 +139,7 @@ f_quote-2: >-
   commitments by your results, not by what you say your commitments are. We are
   all committed. Conscious leaders own their commitments by owning their
   results."
-f_amazon-url: https://www.amazon.com/dp/0691156662/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0691156662/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

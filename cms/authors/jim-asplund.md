@@ -1,10 +1,10 @@
 ---
 title: Jim Asplund
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Jim-Asplund/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Jim-Asplund/'
 f_unique-id: '297'
 f_image:
   url: /assets/external/65d77a0f46b4157301605380_asplund.jpeg
-  alt: null
+  alt: Jim Asplund
 slug: jim-asplund
 f_summaries:
   - cms/summaries/human-sigma.md

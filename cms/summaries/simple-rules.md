@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:40.680Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780caba0ab2be8afa69a4_simple-rules-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/simple-rules/
+  alt: Simple Rules book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/simple-rules/'
 f_author-plain-text: Donald Sull
 f_author: cms/authors/donald-sull.md
 f_category-3: cms/summary-categories/self-management.md
@@ -52,7 +52,7 @@ f_big-idea: >-
 
   We’ve identified our objectives and bottlenecks and are now ready to move on
   to creating our own simple rules.
-f_quote-reference: \- Simple Rules, page 5
+f_quote-reference: '\- Simple Rules, page 5'
 f_insight-2: >-
   ### Simplify to increase compliance
 
@@ -131,7 +131,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Simple rules are shortcut strategies that save time and effort by focusing
   our attention and simplifying the way we process information."
-f_amazon-url: https://www.amazon.com/dp/B00LZ7GTSY/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00LZ7GTSY/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

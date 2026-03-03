@@ -1,18 +1,18 @@
 ---
 title: Jeremy Cage
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Jeremy-Cage/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Jeremy-Cage/'
 f_unique-id: '52'
 f_image:
   url: /assets/external/65d77a0ddea862ebf351091a_jeremy-cage-180x220.jpeg
-  alt: null
+  alt: Jeremy Cage
 slug: jeremy-cage
 f_summaries:
   - cms/summaries/all-dreams-on-deck.md
 updated-on: '2024-02-23T13:30:44.172Z'
 created-on: '2024-02-22T16:45:01.690Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/cagejeremy/
-f_website-2: http://thecagegroup.org
+f_twitter-2: 'http://twitter.com/cagejeremy/'
+f_website-2: 'http://thecagegroup.org'
 layout: '[authors].html'
 tags: authors
 ---

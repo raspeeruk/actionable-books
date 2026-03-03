@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:35.602Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808e029e815b3dc3c09d_public-parts-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/public-parts/
+  alt: Public Parts book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/public-parts/'
 f_author-plain-text: Jeff Jarvis
 f_author: cms/authors/jeff-jarvis.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -52,7 +52,7 @@ f_big-idea: >-
   There’s reason to be protective of your privacy, to be sure. But informed
   analysis and understanding of how your information is shared and used will
   serve you better than complete avoidance of the web, in the long run.
-f_quote-reference: \- Public Parts, page 46
+f_quote-reference: '\- Public Parts, page 46'
 f_insight-2: >-
   ### Rules of Engagement
 
@@ -132,7 +132,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The internet has changed the infrastructure of relationships… Each time you
   don’t share, a relationship loses its wings."
-f_amazon-url: https://www.amazon.com/dp/1451636008/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1451636008/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

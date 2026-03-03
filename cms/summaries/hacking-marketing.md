@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:11.997Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807f0271589378cbbae6_hacking-marketing-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/hacking-marketing/
+  alt: Hacking Marketing book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/hacking-marketing/'
 f_author-plain-text: Scott Brinker
 f_author: cms/authors/scott-brinker.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -57,7 +57,7 @@ f_big-idea: >-
 
   *   A closing chapter on managing marketing talent in this digital
   environment.
-f_quote-reference: \- Hacking Marketing, Kindle Edition, locations 398-402
+f_quote-reference: '\- Hacking Marketing, Kindle Edition, locations 398-402'
 f_insight-2: >-
   ### Seek out ‘T-Shaped’ People
 
@@ -119,7 +119,7 @@ f_quote-2: >-
   It imagines what's possible, figures out clever ways to realize those ideas
   within the tangle of real-world constraints, and above all, celebrates the
   courage to try, tinker, and learn.
-f_amazon-url: https://www.amazon.com/dp/1119183170/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1119183170/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

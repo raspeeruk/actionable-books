@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:48.217Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780958a4b4a660fe3dec6_become-an-idea-machine-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/becoming-an-idea-machine/
+  alt: Becoming An Idea Machine book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/becoming-an-idea-machine/'
 f_author-plain-text: Claudia Azula Altucher
 f_author: cms/authors/claudia-azula-altucher.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -48,7 +48,7 @@ f_big-idea: >-
   moments during your day when you can close your eyes and sit quietly. And if
   you can’t come up with ten ideas, then that’s all the more reason to get
   started!
-f_quote-reference: \- Become An Idea Machine, page 19
+f_quote-reference: '\- Become An Idea Machine, page 19'
 f_insight-2: >-
   ### Connecting the Dots
 
@@ -115,7 +115,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Coming up with ten ideas a day is like exercise. And exercise makes the idea
   muscle stronger."
-f_amazon-url: https://www.amazon.com/dp/1502593009/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1502593009/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

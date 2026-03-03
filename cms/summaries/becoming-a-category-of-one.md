@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:48.063Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78053126c8e2a4b917edc_category_of_one1.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/becoming-a-category-of-one/
+  alt: Becoming a Category of One book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/becoming-a-category-of-one/'
 f_author-plain-text: Joe Calloway
 f_author: cms/authors/joe-calloway.md
 f_category-3: cms/summary-categories/leadership.md
@@ -37,7 +37,7 @@ f_big-idea: >-
   redefine your market share on a continuous basis in order to survive. Business
   owners must ask themselves, “am I willing to commit to do what it takes to be
   extraordinary?”
-f_quote-reference: \- Becoming a Category of One, page 12
+f_quote-reference: '\- Becoming a Category of One, page 12'
 f_insight-2: >-
   ### Your Story: Give them something they can feel
 
@@ -115,7 +115,7 @@ f_conclusion: >-
   that have clearly drawn their own mark in the sand. Deliberate action that is
   customer focused is the key to becoming a _Category of One_ company.
 f_quote-2: '"Nothing of substance will take place without commitment."'
-f_amazon-url: https://www.amazon.com/dp/0470496355/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470496355/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

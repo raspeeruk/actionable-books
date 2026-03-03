@@ -1,18 +1,18 @@
 ---
 title: Amanda Palmer
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Amanda-Palmer/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Amanda-Palmer/'
 f_unique-id: '581'
 f_image:
   url: /assets/external/65d779ab9aefcd9e75756533_amanda-palmer.jpeg
-  alt: null
+  alt: Amanda Palmer
 f_summaries:
   - cms/summaries/the-art-of-asking.md
 slug: amanda-palmer
 updated-on: '2024-02-23T13:31:11.173Z'
 created-on: '2024-02-22T16:43:24.201Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/amandapalmer/
-f_website-2: http://amandapalmer.net/
+f_twitter-2: 'http://twitter.com/amandapalmer/'
+f_website-2: 'http://amandapalmer.net/'
 layout: '[authors].html'
 tags: authors
 ---

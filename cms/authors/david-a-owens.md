@@ -1,18 +1,18 @@
 ---
 title: David A. Owens
-f_original-url: https://www.actionablebooks.com/en-ca/authors/David-A.-Owens/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/David-A.-Owens/'
 f_unique-id: '152'
 slug: david-a-owens
 f_image:
   url: /assets/external/65d779e0a4f705134a2c520b_owens.jpeg
-  alt: null
+  alt: David A. Owens
 f_summaries:
   - cms/summaries/creative-people-must-be-stopped.md
 updated-on: '2024-02-23T13:31:06.742Z'
 created-on: '2024-02-22T16:44:17.114Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/daveowens‎/
-f_website-2: http://creativepeoplemustbestopped.com/
+f_twitter-2: 'http://twitter.com/daveowens‎/'
+f_website-2: 'http://creativepeoplemustbestopped.com/'
 layout: '[authors].html'
 tags: authors
 ---

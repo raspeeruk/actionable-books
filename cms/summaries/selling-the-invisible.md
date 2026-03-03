@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:39.345Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805048fff91cd3182cbc_selling-the-invisible.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/selling-the-invisible/
+  alt: Selling the Invisible book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/selling-the-invisible/'
 f_author-plain-text: Harry Beckwith
 f_author: cms/authors/harry-beckwith.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -36,7 +36,7 @@ f_big-idea: >-
   work to maintain the relationship was not done, and the client considered
   other prospects. Our clients are inundated with possibilities now more than
   ever before. Focusing on maintaining that connection is paramount.
-f_quote-reference: \- Selling the Invisible, page 239
+f_quote-reference: '\- Selling the Invisible, page 239'
 f_insight-2: >-
   ### Communicate Clearly
 
@@ -119,7 +119,7 @@ f_quote-2: >-
   people. The more you can see the patterns and better understand people, the
   more you will succeed – and this book was written with the hope that it will
   help you do just that."
-f_amazon-url: https://www.amazon.com/dp/0446672319/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0446672319/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

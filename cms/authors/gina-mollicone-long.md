@@ -1,18 +1,18 @@
 ---
 title: Gina Mollicone Long
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Gina-Mollicone-Long/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Gina-Mollicone-Long/'
 f_unique-id: '785'
 f_image:
   url: >-
     /assets/external/65d779f88628c88448362bc1_gina_mollicone-long_headshot-lg-180x220.jpeg
-  alt: null
+  alt: Gina Mollicone Long
 f_summaries:
   - cms/summaries/think-or-sink.md
 slug: gina-mollicone-long
 updated-on: '2024-02-23T13:30:26.151Z'
 created-on: '2024-02-22T16:44:40.346Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://www.facebook.com/GinaMollicone
+f_facebook-2: 'http://www.facebook.com/GinaMollicone'
 f_website-2: www.GinaML.com
 layout: '[authors].html'
 tags: authors

@@ -1,18 +1,18 @@
 ---
 title: Rohit Bhargava
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Rohit-Bhargava/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Rohit-Bhargava/'
 f_unique-id: '356'
 slug: rohit-bhargava
 f_image:
   url: /assets/external/65d77a49428fe8e31fb0299e_bhargava.jpeg
-  alt: null
+  alt: Rohit Bhargava
 f_summaries:
   - cms/summaries/likeonomics.md
 updated-on: '2024-02-23T13:30:47.252Z'
 created-on: '2024-02-22T16:46:01.483Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/rohitbhargava/
-f_website-2: http://rohitbhargava.com
+f_twitter-2: 'http://twitter.com/rohitbhargava/'
+f_website-2: 'http://rohitbhargava.com'
 layout: '[authors].html'
 tags: authors
 ---

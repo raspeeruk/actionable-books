@@ -1,18 +1,18 @@
 ---
 title: Kelly Leonard
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Kelly-Leonard/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Kelly-Leonard/'
 f_unique-id: '857'
 slug: kelly-leonard
 f_image:
   url: /assets/external/65d77a1eebe0093552d548f6_kelly-leonard-180x220.jpeg
-  alt: null
+  alt: Kelly Leonard
 f_summaries:
   - cms/summaries/yes-and.md
 updated-on: '2024-02-23T13:30:46.776Z'
 created-on: '2024-02-22T16:45:18.354Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/klsecondcity/
-f_website-2: http://secondcity.com
+f_twitter-2: 'http://twitter.com/klsecondcity/'
+f_website-2: 'http://secondcity.com'
 layout: '[authors].html'
 tags: authors
 ---

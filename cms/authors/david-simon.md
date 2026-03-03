@@ -1,11 +1,11 @@
 ---
 title: David Simon
-f_original-url: https://www.actionablebooks.com/en-ca/authors/David-Simon/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/David-Simon/'
 f_unique-id: '758'
 slug: david-simon
 f_image:
   url: /assets/external/65d779e60c4923752829ebba_david-simon-180x220.jpeg
-  alt: null
+  alt: David Simon
 f_summaries:
   - cms/summaries/the-ten-commitments.md
 updated-on: '2024-02-23T13:31:18.901Z'

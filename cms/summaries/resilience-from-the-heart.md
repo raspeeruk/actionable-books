@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d78085fdcd722e457fff41_resilience-from-the-heart-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/resilience-from-the-heart/
+  alt: Resilience from the Heart book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/resilience-from-the-heart/'
 f_author-plain-text: Gregg Braden
 f_author: cms/authors/gregg-braden.md
 f_category-3: cms/summary-categories/self-management.md
@@ -48,7 +48,7 @@ f_big-idea: >-
   the opportunity to turn crisis into transformation. This fact is the good news
   that helps us to recognize opportunities for change when they appear in our
   lives.
-f_quote-reference: \- Resilience from the Heart, page 158
+f_quote-reference: '\- Resilience from the Heart, page 158'
 f_insight-2: >-
   ### Accessing Heart Intelligence
 
@@ -143,7 +143,7 @@ f_quote-2: >-
   "Both science and indigenous wisdom remind us that we’re part of all that we
   see. This means that we’re a part of the solutions as well. The key is that we
   must first shift our perspective so we can recognize our connection.”
-f_amazon-url: https://www.amazon.com/dp/1401929265/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1401929265/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

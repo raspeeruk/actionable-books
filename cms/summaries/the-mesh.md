@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:02.577Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809c52fced3f2a0b11b3_the_mesh-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-mesh/
+  alt: The Mesh book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-mesh/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/07/ActionableBooks-Audio-The-Mesh.mp3
 f_author-plain-text: Lisa Gansky
@@ -39,7 +39,7 @@ f_big-idea: >-
   economy recovers, people lose faith in the “Big Brands” and change their
   thinking about materiality and “keeping up with the Joneses”, creating huge
   opportunities for Mesh businesses to thrive.
-f_quote-reference: \- The Mesh, page 7
+f_quote-reference: '\- The Mesh, page 7'
 f_insight-2: >-
   ### Truly the Information Superhighway
 
@@ -110,7 +110,7 @@ f_quote-2: >-
   "The Mesh is that next big opportunity – for creating new businesses and
   renewing old ones, for our communities, and for the planet. And it’s just the
   beginning."
-f_amazon-url: https://www.amazon.com/dp/1591843715/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591843715/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

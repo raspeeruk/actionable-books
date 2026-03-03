@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780d54397237729ca3819_seven-thousand-ways-to-listen-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/seven-thousand-ways-to-listen/
+  alt: Seven Thousand Ways to Listen book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/seven-thousand-ways-to-listen/'
 f_author-plain-text: Mark Nepo
 f_author: cms/authors/mark-nepo.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -40,7 +40,7 @@ f_big-idea: >-
   willingness to circle back. Ironically, the author came to the awareness that
   there exists a different way of being (and interacting with the world) as his
   own hearing was breaking down.
-f_quote-reference: \- Seven Thousand Ways to Listen, page 7
+f_quote-reference: '\- Seven Thousand Ways to Listen, page 7'
 f_insight-2: >-
   ### Table Questions
 
@@ -119,7 +119,7 @@ f_conclusion: >-
 f_quote-2: >-
   "We add to our suffering when life changes and we still behave as if it
   hadn’t."
-f_amazon-url: https://www.amazon.com/dp/B007EE4WX6/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B007EE4WX6/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

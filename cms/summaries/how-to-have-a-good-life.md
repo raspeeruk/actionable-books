@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780850271589378cbbd7c_how-to-live-a-good-life-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/how-to-have-a-good-life/
+  alt: How To Have A Good Life book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/how-to-have-a-good-life/'
 f_author-plain-text: Jonathan Fields
 f_author: cms/authors/jonathan-fields.md
 f_category-3: cms/summary-categories/self-management.md
@@ -54,7 +54,7 @@ f_big-idea: >-
   2.  Your emptiest bucket will drag the others down with it
 
   3.  The buckets never lie
-f_quote-reference: \- How To Have A Good Life, page 228
+f_quote-reference: '\- How To Have A Good Life, page 228'
 f_insight-2: >-
   ### Spark yourself
 
@@ -159,7 +159,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Real happiness comes not when you choose to be happy, but when you discover
   the things that will make you happy and then do them.”
-f_amazon-url: https://www.amazon.com/dp/1401948413/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1401948413/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

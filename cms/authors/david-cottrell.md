@@ -1,15 +1,15 @@
 ---
 title: David Cottrell
-f_original-url: https://www.actionablebooks.com/en-ca/authors/David-Cottrell/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/David-Cottrell/'
 f_unique-id: '394'
 f_image:
   url: /assets/external/65d779e3f8540e935862912a_david_cottrell.jpeg
-  alt: null
+  alt: David Cottrell
 slug: david-cottrell
 updated-on: '2024-02-23T13:31:03.869Z'
 created-on: '2024-02-22T16:44:19.566Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://davidcottrell.com/
+f_website-2: 'http://davidcottrell.com/'
 layout: '[authors].html'
 tags: authors
 ---

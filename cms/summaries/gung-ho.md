@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:11.657Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78033e997a36d7508c774_gung-ho.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/gung-ho/
+  alt: Gung Ho! book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/gung-ho/'
 f_author-plain-text: Ken Blanchard
 f_author: cms/authors/ken-blanchard.md
 f_category-3: cms/summary-categories/leadership.md
@@ -98,7 +98,7 @@ f_conclusion: >-
   I could spend the next six months talking about _Gung Ho!_, and if you’re in a
   leadership position, I absolutely encourage you to pick up a copy. For today’s
   purposes, we’ll end our discussion on two points:
-f_amazon-url: https://www.amazon.com/dp/068815428X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/068815428X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:12.440Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d0493e1ac825f56ae3_how-full-is-your-bucket.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/how-full-is-your-bucket/
+  alt: How Full Is Your Bucket? book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/how-full-is-your-bucket/'
 f_author-plain-text: Donald O. Clifton
 f_author: cms/authors/donald-o-clifton.md
 f_category-3: cms/summary-categories/self-management.md
@@ -32,7 +32,7 @@ f_big-idea: >-
 
   As we fill other’s buckets with positive emotions, with recognition, with
   gratitude, with kindness, so too will our own buckets be filled.
-f_quote-reference: \- How Full is Your Bucket?, page 5
+f_quote-reference: '\- How Full is Your Bucket?, page 5'
 f_insight-2: >-
   ### Bucket filling can be transformative
 
@@ -108,7 +108,7 @@ f_quote-2: >-
   "So we face a choice every moment of every day: We can fill one another’s
   buckets, or we can dip from them. It’s an important choice – one that
   profoundly influences our relationships, productivity, health, and happiness."
-f_amazon-url: https://www.amazon.com/dp/B001RNNRSG/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B001RNNRSG/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

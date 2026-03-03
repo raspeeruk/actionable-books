@@ -1,11 +1,11 @@
 ---
 title: Laurie Sain
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Laurie-Sain/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Laurie-Sain/'
 f_unique-id: '661'
 slug: laurie-sain
 f_image:
   url: /assets/external/65d77a22b5306fca6adc2e2d_laure-sain-180x220.png
-  alt: null
+  alt: Laurie Sain
 f_summaries:
   - cms/summaries/the-hidden-leader.md
 updated-on: '2024-02-23T13:31:15.492Z'

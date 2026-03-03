@@ -1,17 +1,17 @@
 ---
 title: Mandy Holloway
-f_original-url: https://www.actionablebooks.com/en-ca/authors/mandy-holloway/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/mandy-holloway/'
 f_unique-id: '878'
 f_image:
   url: /assets/external/65d77a2753c6c7714956e94a_mandy-holloway-180x220.jpeg
-  alt: null
+  alt: Mandy Holloway
 slug: mandy-holloway
 f_summaries:
   - cms/summaries/inspiring-courageous-leaders.md
 updated-on: '2024-02-23T13:30:27.612Z'
 created-on: '2024-02-22T16:45:27.664Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: https://courageousleaders.com.au/
+f_website-2: 'https://courageousleaders.com.au/'
 layout: '[authors].html'
 tags: authors
 ---

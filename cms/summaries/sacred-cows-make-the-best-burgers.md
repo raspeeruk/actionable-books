@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:38.135Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c9126c8e2a4b91b478_sacred-cows.jpeg
-  alt: null
+  alt: Sacred Cows Make the Best Burgers book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/sacred-cows-make-the-best-burgers/
 f_author-plain-text: Robert Kriegel
@@ -146,7 +146,7 @@ f_insight-1: >-
   Question “obvious”. Question what works, and what doesn’t. Question
   everything.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/B000LP66SE/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B000LP66SE/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,18 +1,18 @@
 ---
 title: Paul Axtell
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Paul-Axtell/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Paul-Axtell/'
 f_unique-id: '384'
 f_image:
   url: /assets/external/65d77a3ae29cdc69d415d3c9_paul-axtell-180x220.jpeg
-  alt: null
+  alt: Paul Axtell
 f_summaries:
   - cms/summaries/meetings-matter.md
 slug: paul-axtell
 updated-on: '2024-02-23T13:30:48.959Z'
 created-on: '2024-02-22T16:45:47.182Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/askpaulaxtell/
-f_website-2: http://paulaxtell.com
+f_twitter-2: 'http://twitter.com/askpaulaxtell/'
+f_website-2: 'http://paulaxtell.com'
 layout: '[authors].html'
 tags: authors
 ---

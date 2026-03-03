@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:46.451Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b741703458021822be_1-principle-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-1-principle/
+  alt: The 1% Principle book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-1-principle/'
 f_author-plain-text: Tom O'Neil
 f_author: cms/authors/tom-oneil.md
 f_category-3: cms/summary-categories/self-management.md
@@ -123,7 +123,7 @@ f_conclusion: >-
   I like the premise behind this small 159-page book because there are times
   when we can feel stuck, and O’Neil shows you that you can make changes and
   make your way towards your end goal.
-f_amazon-url: https://www.amazon.com/dp/1775540235/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1775540235/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

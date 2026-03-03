@@ -1,16 +1,16 @@
 ---
 title: Amy Cuddy
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Amy-Cuddy/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Amy-Cuddy/'
 f_unique-id: '468'
 slug: amy-cuddy
 f_image:
   url: /assets/external/65d779ac0c4923752829cbe8_amy-cuddy-180x220.jpeg
-  alt: null
+  alt: Amy Cuddy
 updated-on: '2024-02-23T13:31:10.950Z'
 created-on: '2024-02-22T16:43:24.891Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/amyjccuddy/
-f_website-2: http://amycuddy.com
+f_twitter-2: 'http://twitter.com/amyjccuddy/'
+f_website-2: 'http://amycuddy.com'
 layout: '[authors].html'
 tags: authors
 ---

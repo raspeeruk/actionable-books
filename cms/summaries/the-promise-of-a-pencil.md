@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:08.004Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78091a1ca3470eb5a8b62_promise-of-a-pencil.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-promise-of-a-pencil/
+  alt: The Promise of a Pencil book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-promise-of-a-pencil/'
 f_author-plain-text: Adam Braun
 f_author: cms/authors/adam-braun.md
 f_category-3: cms/summary-categories/leadership.md
@@ -42,7 +42,7 @@ f_big-idea: >-
 
   Appropriately, the mantra Braun uses to title this chapter is “tourists see,
   travelers seek.”
-f_quote-reference: \- The Promise of a Pencil, page 3
+f_quote-reference: '\- The Promise of a Pencil, page 3'
 f_insight-2: >-
   ### Make your life a story worth telling
 
@@ -108,7 +108,7 @@ f_quote-2: >-
   and small. They have become my essential truths. I’ve written them with the
   hope that they will be carried forward, shared with others, and adopted in
   ways that will help you in your own journey as well."
-f_amazon-url: https://www.amazon.com/dp/1476730636/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1476730636/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

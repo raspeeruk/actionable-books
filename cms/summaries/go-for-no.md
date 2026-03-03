@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:10.336Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806c759822d957043052_go_for_no.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/go-for-no/
+  alt: Go for No book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/go-for-no/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/10/ActionableBooks-Audio-Go-for-No.mp3
 f_author-plain-text: Andrea Waltz
@@ -27,7 +27,7 @@ f_big-idea: >-
   **Yes**? Now I wonder, was I thinking too small in my ask? Had I gotten some
   **No**’s (_4 of them_) on the way to **Yes** I’d know for sure I’d done my
   best.
-f_quote-reference: \- Go for No, page 28
+f_quote-reference: '\- Go for No, page 28'
 f_insight-2: >-
   ### Next – The Magic Word
 
@@ -71,7 +71,7 @@ f_conclusion: >-
 f_quote-2: >-
   "What did the customer say no to? – nothing? – then how did you know he was
   done (had bought all he was going to)?"
-f_amazon-url: https://www.amazon.com/dp/0966398130/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0966398130/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:06.022Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780822a2994bbba9dd7c7_fearless-at-work-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/fearless-at-work/
+  alt: Fearless At Work book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/fearless-at-work/'
 f_author-plain-text: Molly Fletcher
 f_author: cms/authors/molly-fletcher.md
 f_category-3: cms/summary-categories/leadership.md
@@ -68,7 +68,7 @@ f_big-idea: >-
   of our lives. These trades will make the rest of what it takes to achieve
   fearlessness possible, because each of the future trades will be based on
   these fundamental choices.
-f_quote-reference: \- Fearless At Work, page 35
+f_quote-reference: '\- Fearless At Work, page 35'
 f_insight-2: >-
   ### Embrace fear to make yourself better
 
@@ -120,7 +120,7 @@ f_quote-2: >-
   “At the heart of fearless living is a sense of purpose. The values that
   inspire your purpose must be anchored within you to guide your reactions and
   decisions in the small moments.”
-f_amazon-url: https://www.amazon.com/dp/1259862984/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1259862984/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

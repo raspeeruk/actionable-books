@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:44.986Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c7589ec7f59357d073_xlr8.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/accelerate/
+  alt: Accelerate book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/accelerate/'
 f_author-plain-text: John P. Kotter
 f_author: cms/authors/john-p-kotter.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -35,7 +35,7 @@ f_big-idea: >-
   a web. This second system creates an informal network that enables people to
   do work that really matters apart from, or above and beyond, their job
   descriptions while impacting the organization from top to bottom.
-f_quote-reference: \- Accelerate, page viii
+f_quote-reference: '\- Accelerate, page viii'
 f_insight-2: >-
   ### Your Organization Slows with Time
 
@@ -93,7 +93,7 @@ f_quote-2: >-
   "The world is now changing at a rate at which the basic systems, structures,
   and cultures built over the past century cannot keep up with the demands being
   placed on them."
-f_amazon-url: https://www.amazon.com/dp/B00HSNMGC2/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00HSNMGC2/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

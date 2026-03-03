@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:28.675Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803957e639fa01dbd0ef_nice-companies-finish-first.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/nice-companies-finish-first/
+  alt: Nice Companies Finish First book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/nice-companies-finish-first/'
 f_author-plain-text: Peter Shankman
 f_author: cms/authors/peter-shankman.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -107,7 +107,7 @@ f_conclusion: >-
   Shankman’s nine traits, you will be shown up. “It’s a transparent world out
   there, so you really don’t have a choice. You have to be nice”, says Joel
   Bomgar, one of the case studies in the book.
-f_amazon-url: https://www.amazon.com/dp/113727915X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/113727915X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

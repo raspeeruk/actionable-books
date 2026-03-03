@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780c8391413176f579fb3_building-your-business-the-right-brain-way.jpeg
-  alt: null
+  alt: Building Your Business the Right-Brain Way book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/building-your-business-the-right-brain-way/
 f_author-plain-text: Jennifer Lee
@@ -64,7 +64,7 @@ f_big-idea: >-
 
   Each of these components works together to create and support a strong,
   thriving business.
-f_quote-reference: \- Building Your Business the Right-Brain Way, page 4
+f_quote-reference: '\- Building Your Business the Right-Brain Way, page 4'
 f_insight-2: >-
   ### Filter Everything Through Your Core Message
 
@@ -129,7 +129,7 @@ f_quote-2: >-
   our business all the time. Yet somehow, when it comes to anything business
   related, we right-brainers presume we must follow an imposed left-brain,
   linear process."
-f_amazon-url: https://www.amazon.com/dp/B00J4XMEQM/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00J4XMEQM/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

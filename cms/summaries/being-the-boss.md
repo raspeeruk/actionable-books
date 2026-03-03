@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:48.690Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d32a2994bbba9e09a9_being-the-boss.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/being-the-boss/
+  alt: Being the Boss book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/being-the-boss/'
 f_category-3: cms/summary-categories/leadership.md
 f_team-2: cms/team/hanna-felipe.md
 f_big-idea: >-
@@ -30,7 +30,7 @@ f_big-idea: >-
 
   The true litmus test of a good manager is “not how good you are at bossing.
   But what little bossing you have to do.”
-f_quote-reference: \- Being the Boss, page 219
+f_quote-reference: '\- Being the Boss, page 219'
 f_insight-2: >-
   ### Management is about getting things accomplished through others
 
@@ -90,7 +90,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Effective managers accomplish much of their work in hundreds of little steps
   that eventually accomplish the work of management."
-f_amazon-url: https://www.amazon.com/dp/B004CFAZYU/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B004CFAZYU/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

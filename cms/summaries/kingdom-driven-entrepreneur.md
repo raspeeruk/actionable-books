@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:19.493Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d62d3147c9543b1c4c_kingdom_driven.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/kingdom-driven-entrepreneur/
+  alt: Kingdom Driven Entrepreneur book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/kingdom-driven-entrepreneur/'
 f_author-plain-text: Antonina Geer
 f_author: cms/authors/antonina-geer.md
 f_category-3: cms/summary-categories/leadership.md
@@ -93,7 +93,7 @@ f_conclusion: >-
   and surround yourself with a team that can assist you in those efforts. _The
   Kingdom Driven Entrepreneur_ presents viable action steps to assist you in
   developing a greater purpose for your business.
-f_amazon-url: https://www.amazon.com/dp/B009V61F1W/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B009V61F1W/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

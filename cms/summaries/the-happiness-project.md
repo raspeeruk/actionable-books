@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:58.621Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d973685ce4f9a14965_98278680-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-happiness-project/
+  alt: The Happiness Project book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-happiness-project/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/01/ActionableBooks-Audio-The-Happiness-Project.mp3
 f_author-plain-text: Gretchen Rubin
@@ -33,7 +33,7 @@ f_big-idea: >-
 
   The goal here is to **actively** assess activities and aspects of your life,
   with the intention of monitoring them for happiness triggers.
-f_quote-reference: \- The Happiness Project, page 1
+f_quote-reference: '\- The Happiness Project, page 1'
 f_insight-2: >-
   ### What Makes You Feel Good?
 
@@ -97,7 +97,7 @@ f_conclusion: >-
   differently I increased my feelings of happiness, within my already happy
   life. How can you do the same?
 f_quote-2: '"What do I want from life, anyway?"'
-f_amazon-url: https://www.amazon.com/dp/B0089LOHZ6/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B0089LOHZ6/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

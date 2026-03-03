@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:48.523Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804f2a7f9d2c04d6d6b8_art_of_choosing-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-art-of-choosing/
+  alt: The Art of Choosing book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-art-of-choosing/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/01/ActionableBooks-Audio-The-Art-of-Choosing.mp3
 f_author-plain-text: Sheena Iyengar
@@ -58,7 +58,7 @@ f_big-idea: >-
   outdoor adventure. While it turned into a running joke for the getaway
   weekend, “FOMO” acted as a great example of the stress that too much choice
   can inject into our daily decision making.
-f_quote-reference: \- The Art of Choosing, page 205
+f_quote-reference: '\- The Art of Choosing, page 205'
 f_insight-2: >-
   ### Imagination trumps option
 
@@ -164,7 +164,7 @@ f_quote-2: >-
   "We're aware of the positive effects of choice but not the negative ones, so
   we attribute any harm caused by too much choice to some other cause, perhaps
   even to too little choice."
-f_amazon-url: https://www.amazon.com/dp/0446504106/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0446504106/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

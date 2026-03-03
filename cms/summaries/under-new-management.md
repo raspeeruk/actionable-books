@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:18.814Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78058589ec7f5935792b2_under-new-management-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/under-new-management/
+  alt: Under New Management book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/under-new-management/'
 f_author-plain-text: David Burkus
 f_author: cms/authors/david-burkus.md
 f_category-3: cms/summary-categories/self-management.md
@@ -47,7 +47,7 @@ f_big-idea: >-
 
   So how do we do cut down on email pollution and find more effective tools for
   communication in our organizations? Read on…
-f_quote-reference: \- Under New Management, page 10
+f_quote-reference: '\- Under New Management, page 10'
 f_insight-2: >-
   ### Limited access
 
@@ -133,7 +133,7 @@ f_conclusion: >-
 f_quote-2: >-
   "At first blush, all of the ideas in this book will seem odd compared to
   business as usual, but the truth is that business isn't usual anymore."
-f_amazon-url: https://www.amazon.com/dp/0544630971/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0544630971/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

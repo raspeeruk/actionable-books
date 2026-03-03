@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:49.506Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78042f91f45c22806ea55_the-art-of-the-pitch-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-art-of-the-pitch/
+  alt: The Art of the Pitch book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-art-of-the-pitch/'
 f_author-plain-text: Peter Coughter
 f_author: cms/authors/peter-coughter.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -37,7 +37,7 @@ f_big-idea: >-
   questions, versus passing the presentation baton to one another depending on
   the topic, will make you look like a more prepared, intelligent and cohesive
   team.
-f_quote-reference: \- The Art of the Pitch, page 52
+f_quote-reference: '\- The Art of the Pitch, page 52'
 f_insight-2: >-
   ### Never Phone It In
 
@@ -112,7 +112,7 @@ f_conclusion: >-
 f_quote-2: >-
   "People won’t remember most of what we say—but they will remember what they
   think and feel about what we say."
-f_amazon-url: https://www.amazon.com/dp/0230120512/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0230120512/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

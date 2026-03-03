@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:27.170Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802feadf9e5ad1503552_mind-gym-1-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/mind-gym/
+  alt: Mind Gym book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/mind-gym/'
 f_author-plain-text: Octavius Black
 f_author: cms/authors/octavius-black.md
 f_category-3: cms/summary-categories/self-management.md
@@ -46,7 +46,7 @@ f_big-idea: >-
 
   Once you’ve focused on the present, the next step is to ask yourself how you
   explain away experiences in your life.
-f_quote-reference: \- Mind Gym, page 2
+f_quote-reference: '\- Mind Gym, page 2'
 f_insight-2: >-
   ### Question your assumptions to boost your creativity
 
@@ -124,7 +124,7 @@ f_conclusion: ''
 f_quote-2: >-
   "When your mind is fit, you get more out of life, more out of work, more out
   of relationships, more out of everything."
-f_amazon-url: https://www.amazon.com/dp/0062331450/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062331450/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

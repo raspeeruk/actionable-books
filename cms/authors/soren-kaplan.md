@@ -1,10 +1,10 @@
 ---
 title: Soren Kaplan
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Soren-Kaplan/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Soren-Kaplan/'
 f_unique-id: '345'
 f_image:
   url: /assets/external/65d77a5109f784c2620f99e8_soren-kaplan.jpeg
-  alt: null
+  alt: Soren Kaplan
 slug: soren-kaplan
 updated-on: '2024-02-23T13:31:28.655Z'
 created-on: '2024-02-22T16:46:09.143Z'

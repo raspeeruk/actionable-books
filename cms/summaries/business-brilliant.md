@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:52.129Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d6f5fb999468487b26_business-brilliant-cover-lg.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/business-brilliant/
+  alt: Business Brilliant book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/business-brilliant/'
 f_author-plain-text: Lewis Schiff
 f_author: cms/authors/lewis-schiff.md
 f_category-3: cms/summary-categories/self-management.md
@@ -44,7 +44,7 @@ f_big-idea: >-
   If we truly are in the pursuit of greatness – financially or otherwise – we
   need to reframe our beliefs and views around failure… so let’s explore how to
   do that.
-f_quote-reference: \- Business Brilliant, page 167
+f_quote-reference: '\- Business Brilliant, page 167'
 f_insight-2: >-
   ### Talk it out
 
@@ -129,7 +129,7 @@ f_quote-2: >-
   "The belief that failure is necessary for success, a belief shared among
   self-made millionaires but not among the middle class, could be the most
   important finding our survey has uncovered."
-f_amazon-url: https://www.amazon.com/dp/B008XOEDX0/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B008XOEDX0/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

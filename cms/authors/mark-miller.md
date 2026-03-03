@@ -1,10 +1,10 @@
 ---
 title: Mark Miller
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Mark-Miller/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Mark-Miller/'
 f_unique-id: '127'
 f_image:
   url: /assets/external/65d77a2a617bb3014a3c5e08_mark-miller-180x220.jpeg
-  alt: null
+  alt: Mark Miller
 slug: mark-miller
 updated-on: '2024-02-23T13:31:20.023Z'
 created-on: '2024-02-22T16:45:30.563Z'

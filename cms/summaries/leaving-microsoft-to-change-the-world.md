@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:21.312Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780cb71f7aab80c3165c5_leaving-microsoft-sm.jpeg
-  alt: null
+  alt: Leaving Microsoft to Change the World book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/leaving-microsoft-to-change-the-world/
 f_author-plain-text: John Wood
@@ -108,7 +108,7 @@ f_insight-1: >-
   easier work. But don’t spend too much time – the more time you spend planning
   is more time you’re not spending actually making the dream happen.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/B000OFOUJI/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B000OFOUJI/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

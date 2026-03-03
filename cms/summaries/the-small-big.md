@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:10.388Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78091899573618576ca7b_the-small-big.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-small-big/
+  alt: The small BIG book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-small-big/'
 f_author-plain-text: Noah J. Goldstein
 f_author: cms/authors/noah-j-goldstein.md
 f_category-3: cms/summary-categories/leadership.md
@@ -42,7 +42,7 @@ f_big-idea: >-
   This is good news for us. Anyone can significantly increase their impact on
   others by making small shifts in their approach so that they link their
   message to deeply felt human motivations.
-f_quote-reference: \- The small BIG, page 164
+f_quote-reference: '\- The small BIG, page 164'
 f_insight-2: >-
   ### One ingredient and just five minutes
 
@@ -190,7 +190,7 @@ f_quote-2: >-
   "The purpose of this book is to demonstrate, with scientific evidence, how
   making small changes in your approach can lead to big differences in how
   successful an influencer and persuader you are."
-f_amazon-url: https://www.amazon.com/dp/1455584258/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1455584258/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

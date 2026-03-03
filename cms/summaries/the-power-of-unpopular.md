@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:07.412Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807838e9272e48f4de4a_power_of_unpopular.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-power-of-unpopular/
+  alt: The Power of Unpopular book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-power-of-unpopular/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/04/ActionableBooks-Audio-The-Power-of-Unpopular.mp3
 f_author-plain-text: Erika Napoletano
@@ -56,7 +56,7 @@ f_big-idea: >-
   rachet up your business to respond to growing demand. Finally, _profitability_
   covers understanding the value that you bring to your market and having the
   foundations of being profitable at every stage of development.
-f_quote-reference: \- The Power of Unpopular, page xiii
+f_quote-reference: '\- The Power of Unpopular, page xiii'
 f_insight-2: >-
   ### Build For Those Who Will Love You – No One Else Matters
 
@@ -117,7 +117,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Popular is what we're leaving behind because, to be quite honest, it's not a
   tool you even need in your toolbox."
-f_amazon-url: https://www.amazon.com/dp/1118134664/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118134664/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780644b8c885f258cd951_developing-the-leader-within-you.jpeg
-  alt: null
+  alt: Developing the Leader Within You – Part I book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/developing-the-leader-within-you/
 f_author-plain-text: John C. Maxwell
@@ -114,7 +114,7 @@ f_conclusion: >-
   Fortune 500 company; to be a leader, you need to be moving in a direction
   people want to go, and be doing it in such a way that’s deliberate, thought
   out and with enthusiasm.
-f_amazon-url: https://www.amazon.com/dp/0785281126/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0785281126/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

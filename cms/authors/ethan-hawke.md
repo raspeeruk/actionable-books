@@ -1,10 +1,10 @@
 ---
 title: Ethan Hawke
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Ethan-Hawke/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Ethan-Hawke/'
 f_unique-id: '498'
 f_image:
   url: /assets/external/65d779f23191f005ae2de92c_ethan-hawke-180x220.jpeg
-  alt: null
+  alt: Ethan Hawke
 slug: ethan-hawke
 f_summaries:
   - cms/summaries/rules-for-a-knight.md

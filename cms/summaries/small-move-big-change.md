@@ -1,14 +1,14 @@
 ---
 f_unique-number: 635
-title: Small Move, Big Change
+title: 'Small Move, Big Change'
 slug: small-move-big-change
 updated-on: '2024-02-27T20:30:20.716Z'
 created-on: '2024-02-22T16:06:41.012Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803d09562db31847cdb0_small-move-big-change-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/small-move-big-change/
+  alt: 'Small Move, Big Change book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/small-move-big-change/'
 f_author-plain-text: Caroline L. Arnold
 f_author: cms/authors/caroline-l-arnold.md
 f_category-3: cms/summary-categories/self-management.md
@@ -40,7 +40,7 @@ f_big-idea: >-
   tradeoffs of the original change. Unfortunately for us, this means we are less
   likely to have the necessary energy to implement the change. The goal here is
   for auto pilot – no decision making necessary.
-f_quote-reference: \- Small Move, Big Change, page xiv
+f_quote-reference: '\- Small Move, Big Change, page xiv'
 f_insight-2: >-
   ### No need to wait!
 
@@ -95,7 +95,7 @@ f_quote-2: >-
   "[It] is about making resolutions that succeed EVERY time. By rethinking
   willpower, and refocusing your resolutions, you can master the art of instant
   and sustainable self-improvement."
-f_amazon-url: https://www.amazon.com/dp/0143126164/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0143126164/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:15.281Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b1f6702f0b878ca557_hustle-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/hustle/
+  alt: Hustle book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/hustle/'
 f_author-plain-text: Jonas Koffler
 f_author: cms/authors/jonas-koffler.md
 f_category-3: cms/summary-categories/self-management.md
@@ -107,7 +107,7 @@ f_big-idea: >-
   There is no meaning without others. You need to approach each “situation and
   interaction with kindness, support, and openness, as if it will have a
   positive, mutually beneficial outcome” for all parties involved.
-f_quote-reference: \- Hustle, page 14
+f_quote-reference: '\- Hustle, page 14'
 f_insight-2: >-
   ### Embrace Mental Exercise
 
@@ -164,7 +164,7 @@ f_quote-2: >-
   an engaged life; making your best, most decisive choices; not being afraid of
   the consequences, and correcting your course along the way. It means taking
   action and assuming rightful ownership of your destiny.”
-f_amazon-url: https://www.amazon.com/dp/1623367166/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1623367166/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

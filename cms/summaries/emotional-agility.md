@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:03.999Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d7b3b818ca436c8965_emotional-agility-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/emotional-agility/
+  alt: Emotional Agility book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/emotional-agility/'
 f_author-plain-text: Susan David
 f_author: cms/authors/susan-david.md
 f_category-3: cms/summary-categories/self-management.md
@@ -54,7 +54,7 @@ f_big-idea: >-
   that we instead slow down, show up to the emotions with self-compassion and
   awareness so we can be in control of ourselves, rather than our emotions
   controlling us.
-f_quote-reference: \- Emotional Agility, page 6
+f_quote-reference: '\- Emotional Agility, page 6'
 f_insight-2: >-
   ### Your Values Will Lead the Way
 
@@ -167,7 +167,7 @@ f_quote-2: >-
   "Emotionally agile people are dynamic… able to tolerate high levels of stress
   and to endure setbacks… to act according to their most cherished values and
   pursue big, long-term goals."
-f_amazon-url: https://www.amazon.com/dp/B016JPTPDW/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B016JPTPDW/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

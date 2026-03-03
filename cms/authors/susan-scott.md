@@ -1,18 +1,18 @@
 ---
 title: Susan Scott
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Susan-Scott/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Susan-Scott/'
 f_unique-id: '220'
 f_image:
   url: /assets/external/65d77a587e1b1fa86a52b3e2_susan_scott.jpeg
-  alt: null
+  alt: Susan Scott
 slug: susan-scott
 f_summaries:
   - cms/summaries/fierce-conversations.md
 updated-on: '2024-02-23T13:30:36.098Z'
 created-on: '2024-02-22T16:46:16.533Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/fierce_inc/
-f_website-2: http://www.fierceinc.com/
+f_twitter-2: 'http://twitter.com/fierce_inc/'
+f_website-2: 'http://www.fierceinc.com/'
 layout: '[authors].html'
 tags: authors
 ---

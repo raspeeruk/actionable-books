@@ -1,16 +1,16 @@
 ---
 title: Marcus Buckingham
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Marcus-Buckingham/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Marcus-Buckingham/'
 f_unique-id: '411'
 slug: marcus-buckingham
 f_image:
   url: /assets/external/65d77a284538df72c01c3440_marcus-buckingham-180x220.jpeg
-  alt: null
+  alt: Marcus Buckingham
 updated-on: '2024-02-23T13:31:17.411Z'
 created-on: '2024-02-22T16:45:28.285Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://www.facebook.com/marcuswbuckingham
-f_twitter-2: http://twitter.com/mwbuckingham/
+f_facebook-2: 'http://www.facebook.com/marcuswbuckingham'
+f_twitter-2: 'http://twitter.com/mwbuckingham/'
 layout: '[authors].html'
 tags: authors
 ---

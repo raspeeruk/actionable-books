@@ -1,15 +1,15 @@
 ---
 title: Benjamin Zander
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Benjamin-Zander/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Benjamin-Zander/'
 f_unique-id: '590'
 f_image:
   url: /assets/external/65d779bb4993ac69f25df606_zander.jpeg
-  alt: null
+  alt: Benjamin Zander
 slug: benjamin-zander
 updated-on: '2024-02-23T13:31:08.991Z'
 created-on: '2024-02-22T16:43:39.181Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://benjaminzander.com
+f_website-2: 'http://benjaminzander.com'
 layout: '[authors].html'
 tags: authors
 ---

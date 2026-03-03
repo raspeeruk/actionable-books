@@ -1,16 +1,16 @@
 ---
 title: Srinivas Rao
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Srinivas-Rao/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Srinivas-Rao/'
 f_unique-id: '583'
 slug: srinivas-rao
 f_image:
   url: /assets/external/65d77a51dea862ebf3512383_srinivas-rao.jpeg
-  alt: null
+  alt: Srinivas Rao
 updated-on: '2024-02-23T13:30:41.529Z'
 created-on: '2024-02-22T16:46:09.787Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/skooloflife/
-f_website-2: http://unmistakablecreative.com
+f_twitter-2: 'http://twitter.com/skooloflife/'
+f_website-2: 'http://unmistakablecreative.com'
 layout: '[authors].html'
 tags: authors
 ---

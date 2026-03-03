@@ -1,18 +1,18 @@
 ---
 title: Stephen Witt
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Stephen-Witt/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Stephen-Witt/'
 f_unique-id: '280'
 f_image:
   url: /assets/external/65d77a53ebe0093552d55b64_stephen-witt-180x220.jpeg
-  alt: null
+  alt: Stephen Witt
 slug: stephen-witt
 f_summaries:
   - cms/summaries/how-music-got-free.md
 updated-on: '2024-02-23T13:30:45.733Z'
 created-on: '2024-02-22T16:46:11.975Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/stephenwitt/
-f_website-2: http://stephenwittbooks.com/
+f_twitter-2: 'http://twitter.com/stephenwitt/'
+f_website-2: 'http://stephenwittbooks.com/'
 layout: '[authors].html'
 tags: authors
 ---

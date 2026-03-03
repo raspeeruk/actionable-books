@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:07.641Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807a67d3671dc03676ca_9781118529799_p0_v1_s114x166.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/flat-army/
+  alt: Flat Army book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/flat-army/'
 f_author-plain-text: Dan Pontefract
 f_author: cms/authors/dan-pontefract.md
 f_category-3: cms/summary-categories/leadership.md
@@ -38,7 +38,7 @@ f_big-idea: >-
 
 
   Let’s distill it further into a couple of key lessons.
-f_quote-reference: \- Flat Army, page 261
+f_quote-reference: '\- Flat Army, page 261'
 f_insight-2: >-
   ### You Won't Get Far Without Building Deep Trust
 
@@ -111,7 +111,7 @@ f_quote-2: >-
   "Treat your people and your team members like tools, numbers or subordinates,
   and you can merrily look forward to an organizational culture replete with
   apathy, disengagement and insubordination."
-f_amazon-url: https://www.amazon.com/dp/1118529790/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118529790/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,16 +1,16 @@
 ---
 title: Harvey Mackay
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Harvey-Mackay/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Harvey-Mackay/'
 f_unique-id: '555'
 f_image:
   url: /assets/external/65d779fdece107615fe2caa7_harvey-mckay1.jpeg
-  alt: null
+  alt: Harvey Mackay
 slug: harvey-mackay
 updated-on: '2024-02-23T13:30:35.331Z'
 created-on: '2024-02-22T16:44:45.775Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/HarveyMackay/
-f_website-2: http://www.harveymackay.com/‎
+f_twitter-2: 'http://twitter.com/HarveyMackay/'
+f_website-2: 'http://www.harveymackay.com/‎'
 layout: '[authors].html'
 tags: authors
 ---

@@ -1,18 +1,18 @@
 ---
 title: Lisa Shepherd
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Lisa-Shepherd/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Lisa-Shepherd/'
 f_unique-id: '378'
 f_image:
   url: /assets/external/65d77a25f26fc2ba2dfb0f9a_lisa-shepherd.jpeg
-  alt: null
+  alt: Lisa Shepherd
 slug: lisa-shepherd
 f_summaries:
   - cms/summaries/market-smart.md
 updated-on: '2024-02-23T13:30:51.639Z'
 created-on: '2024-02-22T16:45:25.882Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/MEZZLISA/
-f_website-2: http://marketsmartb2b.com/
+f_twitter-2: 'http://twitter.com/MEZZLISA/'
+f_website-2: 'http://marketsmartb2b.com/'
 layout: '[authors].html'
 tags: authors
 ---

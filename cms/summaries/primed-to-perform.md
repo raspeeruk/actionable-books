@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:35.271Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780cc4b8c885f258d05db_primed-to-perform-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/primed-to-perform/
+  alt: Primed to Perform book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/primed-to-perform/'
 f_author-plain-text: Lindsay Mcgregor
 f_author: cms/authors/lindsay-mcgregor.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -45,7 +45,7 @@ f_big-idea: >-
   meaning into their jobs which might motivate an individual to pursue their own
   agenda. For an organization to thrive there needs to be a sense that we all
   have the same purpose and meaning embedded in the company’s culture.
-f_quote-reference: \- Primed to Perform, page 18
+f_quote-reference: '\- Primed to Perform, page 18'
 f_insight-2: >-
   ### Set Effective Motivators
 
@@ -124,7 +124,7 @@ f_quote-2: >-
   potential—they are likely performing at their best. If the culture is
   dominated by indirect motives—emotional pressure, economic pressure, or
   inertia—their performance is likely to be much worse."
-f_amazon-url: https://www.amazon.com/dp/B00S590OQI/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00S590OQI/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

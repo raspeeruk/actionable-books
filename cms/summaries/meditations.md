@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:26.604Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805c029e815b3dc3aa88_meditations-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/meditations/
+  alt: Meditations book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/meditations/'
 f_author-plain-text: Marcus Aurelius
 f_author: cms/authors/marcus-aurelius.md
 f_category-3: cms/summary-categories/self-management.md
@@ -46,7 +46,7 @@ f_big-idea: >-
   from the objects and events around us can turn a challenge into an
   opportunity. It’s not easy but we owe it to ourselves to exercise stringent
   control over our perception.
-f_quote-reference: \- Meditations, page 102
+f_quote-reference: '\- Meditations, page 102'
 f_insight-2: >-
   ### Take personal responsibility
 
@@ -117,7 +117,7 @@ f_quote-2: >-
   Remind yourself that your task is to be a good human being… Then do it,
   without hesitation, and speak the truth as you see it. But with kindness. With
   humility. Without hypocrisy."
-f_amazon-url: https://www.amazon.com/dp/0679642609/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0679642609/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

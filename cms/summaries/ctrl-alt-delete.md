@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:57.644Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780900882405b4cf113f8_ctrl_alt_delete.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/ctrl-alt-delete/
+  alt: Ctrl Alt Delete book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/ctrl-alt-delete/'
 f_author-plain-text: Mitch Joel
 f_author: cms/authors/mitch-joel.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -46,7 +46,7 @@ f_big-idea: >-
   Like I said, it’s a subtle shift, but a powerful one, and one that breeds
   authenticity, loyalty and excitement. It’s also a refreshing viewpoint to
   take.
-f_quote-reference: \- Ctrl Alt Delete, page 234
+f_quote-reference: '\- Ctrl Alt Delete, page 234'
 f_insight-2: >-
   ### Less Content (Yes, Really)
 
@@ -128,7 +128,7 @@ f_conclusion: >-
   the other hand, it’s always a testament to the value one can gain from reading
   the book itself.
 f_quote-2: '"In short, when something goes wrong: reboot."'
-f_amazon-url: https://www.amazon.com/dp/1455523305/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1455523305/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

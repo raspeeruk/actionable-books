@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:54.667Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78099b881391585a5a2e2_the-dip.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-dip/
+  alt: The Dip book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-dip/'
 f_author-plain-text: Seth Godin
 f_author: cms/authors/seth-godin.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -18,7 +18,7 @@ f_quote-reference: ''
 f_insight-2: ''
 f_insight-1: ''
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1591841666/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591841666/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

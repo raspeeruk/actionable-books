@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:33.726Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806be7814865e30fdd61_pope-francis.jpeg
-  alt: null
+  alt: 'Pope Francis: Why He Leads the Way He Leads book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/pope-francis-why-he-leads-the-way-he-leads/
 f_author-plain-text: Chris Lowney
@@ -39,7 +39,7 @@ f_big-idea: >-
   the exodus. The leader can create hope that things can change, that things
   WILL change. A good workplace will link vision to purpose through the
   organization’s products or community service.
-f_quote-reference: \- Pope Francis, page 43
+f_quote-reference: '\- Pope Francis, page 43'
 f_insight-2: >-
   ### We are all leaders
 
@@ -152,7 +152,7 @@ f_conclusion: >-
   Francis said, “Have you understood? You won’t be afraid of the journey? Thank
   you.”
 f_quote-2: '"Let us never forget that authentic power is service."'
-f_amazon-url: https://www.amazon.com/dp/0829440917/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0829440917/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

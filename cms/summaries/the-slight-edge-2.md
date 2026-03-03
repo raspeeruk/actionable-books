@@ -28,7 +28,7 @@ f_big-idea: >-
   successful in the first place? Jeff argues that all we need to do we already
   know – they are simple actions – we just need to keep doing them, not give up,
   and over time, we will succeed.
-f_quote-reference: \- The Slight Edge, page 87
+f_quote-reference: '\- The Slight Edge, page 87'
 f_insight-2: >-
   ### The Seven Daily Disciplines For Success
 
@@ -119,12 +119,18 @@ f_insight-1: >-
 
   Jeff had already changed my life and I was only on Chapter 4. I couldn’t put
   this book down. Then I read this next little insight and was blown away.
-f_conclusion: ''
+f_conclusion: >-
+  Whilst a lengthy and at times tedious venture, _The Slight Edge_ provides
+  clear takeaways, and readers are truly set up to capture all the applications.
+  For those who value efficiency in all forms, the valuable concepts will, at
+  times, appear to drag on with anecdotes and stories, but rest assured the
+  Insights awaiting are worth it. Bonus: There are summaries at the end of every
+  chapter should you want to skim over the fluff.
 f_quote-2: >-
   "No matter in what arena, in life or work or play, the difference between
   winning and losing, the gap that separates success and failure, is so slight,
   so subtle, that most never see it."
-f_amazon-url: https://www.amazon.com/dp/1626340463/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1626340463/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

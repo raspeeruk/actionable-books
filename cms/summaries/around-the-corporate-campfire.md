@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:47.018Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808c13d1e7c4be6e95b8_around-the-corporate-campfire.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/around-the-corporate-campfire/
+  alt: Around the Corporate Campfire book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/around-the-corporate-campfire/'
 f_author-plain-text: Evelyn Clark
 f_author: cms/authors/evelyn-clark.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -43,7 +43,7 @@ f_big-idea: >-
   those stories with your family, friends and colleagues? If not, you might want
   to buy a rocking chair and spend some time crafting a few good stories that
   will let everyone around you know what’s important to you.
-f_quote-reference: \- Around the Corporate Campfire, page 16
+f_quote-reference: '\- Around the Corporate Campfire, page 16'
 f_insight-2: >-
   ### Be Like Gumby
 
@@ -119,7 +119,7 @@ f_conclusion: >-
   its message and impact the listener. Stories get better each time you tell
   them, and the more you tell them the more lasting the impact.
 f_quote-2: '"The stories you tell about your past shape your future."'
-f_amazon-url: https://www.amazon.com/dp/1451594054/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1451594054/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

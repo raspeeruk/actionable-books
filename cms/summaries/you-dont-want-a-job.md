@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:25.551Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78070f40a70780ee9b82f_ydwaj.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/you-dont-want-a-job/
+  alt: You Don’t Want A Job book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/you-dont-want-a-job/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/07/ActionableBooks-Audio-You-Dont-Want-a-Job.mp3
 f_author-plain-text: Joel D Canfield
@@ -53,7 +53,7 @@ f_big-idea: >-
 
 
   Let’s explore some of the ramifications of that power.
-f_quote-reference: \- You Don't Want a Job, page 38
+f_quote-reference: '\- You Don''t Want a Job, page 38'
 f_insight-2: >-
   ### Life's Too Short...
 
@@ -129,7 +129,7 @@ f_conclusion: >-
 f_quote-2: >-
   "While we all hope to choose recreation we enjoy, most have forgotten that
   once upon a time, we made the same proactive choices about work."
-f_amazon-url: https://www.amazon.com/dp/0984094083/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0984094083/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

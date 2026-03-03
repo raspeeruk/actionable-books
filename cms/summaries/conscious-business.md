@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:54.513Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c173685ce4f9a13528_conscious-business-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/conscious-business/
+  alt: Conscious Business book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/conscious-business/'
 f_author-plain-text: Fred Kofman
 f_author: cms/authors/fred-kofman.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -47,7 +47,7 @@ f_big-idea: >-
 
   A team that is well managed, and thus well led, operates in alignment, because
   each of the team members takes the team goal as his own.
-f_quote-reference: \- Conscious Business, page 293
+f_quote-reference: '\- Conscious Business, page 293'
 f_insight-2: >-
   ### How to Have ‘Difficult’ Conversations
 
@@ -185,7 +185,7 @@ f_quote-2: >-
   their mission) while they develop healthy relationships (belong to a
   community) and experience an unconditional sense of peace, happiness, and
   growth (actualize and transcend the self)."
-f_amazon-url: https://www.amazon.com/dp/9781622032/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/9781622032/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

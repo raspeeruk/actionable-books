@@ -1,18 +1,18 @@
 ---
 title: Scott Berkun
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Scott-Berkun/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Scott-Berkun/'
 f_unique-id: '388'
 slug: scott-berkun
 f_image:
   url: /assets/external/65d77a4cf784f4859409e1e6_scott_berkun.jpeg
-  alt: null
+  alt: Scott Berkun
 f_summaries:
   - cms/summaries/mindfire.md
 updated-on: '2024-02-23T13:30:30.666Z'
 created-on: '2024-02-22T16:46:04.894Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/berkun/
-f_website-2: http://www.scottberkun.com
+f_twitter-2: 'http://twitter.com/berkun/'
+f_website-2: 'http://www.scottberkun.com'
 layout: '[authors].html'
 tags: authors
 ---

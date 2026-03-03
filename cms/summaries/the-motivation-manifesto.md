@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:03.367Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d35b95979f7943fbcd991f_motivation-manifesto.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-motivation-manifesto/
+  alt: The Motivation Manifesto book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-motivation-manifesto/'
 f_author-plain-text: Brendon Burchard
 f_author: cms/authors/brendon-burchard.md
 f_category-3: cms/summary-categories/self-management.md
@@ -57,7 +57,7 @@ f_big-idea: >-
 
   9.  **Slow time.** Life is meant to be a growing mosaic of long, meaningful
   moments. Are you capturing them all or rushing to the next one?
-f_quote-reference: \- The Motivation Manifesto, page 23
+f_quote-reference: '\- The Motivation Manifesto, page 23'
 f_insight-2: >-
   ### The power plant doesn’t have energy, it generates it!
 
@@ -161,7 +161,7 @@ f_conclusion: >-
 f_quote-2: >-
   "To spend the full force of our energies advancing toward a Personal Freedom –
   the genuine life full of vibrancy and meaning – this shall be our aim."
-f_amazon-url: https://www.amazon.com/dp/1401948073/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1401948073/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

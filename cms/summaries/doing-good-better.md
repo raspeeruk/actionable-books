@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:02.126Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a6b974b768d91c4c95_doing-good-better-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/doing-good-better/
+  alt: Doing Good Better book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/doing-good-better/'
 f_author-plain-text: William Macaskill
 f_author: cms/authors/william-macaskill.md
 f_category-3: cms/summary-categories/self-management.md
@@ -44,7 +44,7 @@ f_big-idea: >-
   a life.’ In developing countries money buys 100 times the QUALY’s as it does
   domestically. If we allocate our resources wisely, we can all save lives and
   dramatically improve the quality of life for those who suffer the most.
-f_quote-reference: \- Doing Good Better, page 197
+f_quote-reference: '\- Doing Good Better, page 197'
 f_insight-2: >-
   ### Earn to Give
 
@@ -125,7 +125,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Every one of us has the power to save dozens or hundreds of lives, or to
   significantly improve the welfare of thousands of people.”
-f_amazon-url: https://www.amazon.com/dp/1592409105/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1592409105/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

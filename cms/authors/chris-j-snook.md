@@ -1,18 +1,18 @@
 ---
 title: Chris J. Snook
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Chris-J.-Snook/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Chris-J.-Snook/'
 f_unique-id: '176'
 slug: chris-j-snook
 f_image:
   url: /assets/external/65d779cf7ae3a8760854f0f5_chris-j-snook-180x193.png
-  alt: null
+  alt: Chris J. Snook
 f_summaries:
   - cms/summaries/digital-sense.md
 updated-on: '2024-02-23T13:30:37.912Z'
 created-on: '2024-02-22T16:43:59.410Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/chrisjsnook/
-f_website-2: http://www.chrisjsnook.com
+f_twitter-2: 'http://twitter.com/chrisjsnook/'
+f_website-2: 'http://www.chrisjsnook.com'
 layout: '[authors].html'
 tags: authors
 ---

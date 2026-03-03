@@ -1,18 +1,18 @@
 ---
 title: Nancy Duarte
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Nancy-Duarte/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Nancy-Duarte/'
 f_unique-id: '492'
 slug: nancy-duarte
 f_image:
   url: /assets/external/65d77a34a859109b87e3e65f_nancy-duarte1.jpeg
-  alt: null
+  alt: Nancy Duarte
 f_summaries:
   - cms/summaries/resonate.md
 updated-on: '2024-02-23T13:31:00.585Z'
 created-on: '2024-02-22T16:45:40.977Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/nancyduarte/
-f_website-2: http://duarte.com
+f_twitter-2: 'http://twitter.com/nancyduarte/'
+f_website-2: 'http://duarte.com'
 layout: '[authors].html'
 tags: authors
 ---

@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780b2eadf9e5ad1508f63_the-invisible-advantage-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-invisible-advantage/
+  alt: The Invisible Advantage book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-invisible-advantage/'
 f_author-plain-text: Soren Kaplan
 f_author: cms/authors/soren-kaplan.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -44,7 +44,7 @@ f_big-idea: >-
   behaviors in leadership, employees, and customers. Establishing these metrics
   is a process unique to each company, there are no standards. Where do we
   begin? Read on to the GEM’s.
-f_quote-reference: \- The Invisible Advantage, page 21
+f_quote-reference: '\- The Invisible Advantage, page 21'
 f_insight-2: >-
   ### Fuel the Innovation Engine: Define the Inputs
 
@@ -118,7 +118,7 @@ f_quote-2: >-
   reinforce (or inhibit) innovation. By understanding the things that shape
   norms, values, and behavior, it becomes possible to influence them—and to
   create a culture of innovation."
-f_amazon-url: https://www.amazon.com/dp/1626343217/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1626343217/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

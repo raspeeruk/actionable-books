@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:35.136Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780af0535ac2cb61efdb3_present-shock.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/present-shock/
+  alt: Present Shock book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/present-shock/'
 f_author-plain-text: Douglas Rushkoff
 f_author: cms/authors/douglas-rushkoff.md
 f_category-3: cms/summary-categories/self-management.md
@@ -48,7 +48,7 @@ f_big-idea: >-
 
   So, how can we reclaim our sanity? Reset your priorities, and take back
   control.
-f_quote-reference: \- Present Shock, page 2
+f_quote-reference: '\- Present Shock, page 2'
 f_insight-2: >-
   ### Make Technology Work For You
 
@@ -100,7 +100,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Everything is live, real time, and always-on. It's not mere speeding up . . .
   It's more of a diminishment of anything that isn't happening right now."
-f_amazon-url: https://www.amazon.com/dp/1617230103/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1617230103/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

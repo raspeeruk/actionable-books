@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:26.016Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780cfee157554c65c0677_mastering-civility-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/master-civility/
+  alt: Mastering Civility book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/master-civility/'
 f_author-plain-text: Christine Porath
 f_author: cms/authors/christine-porath.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -58,7 +58,7 @@ f_big-idea: >-
   incivility is tolerated is not so easy. Porath makes the case that it’s worth
   the effort both because it’s the right thing to do and because it’s good for
   business.
-f_quote-reference: \- Mastering Civility, location 353
+f_quote-reference: '\- Mastering Civility, location 353'
 f_insight-2: >-
   ### Know Thyself
 
@@ -153,7 +153,7 @@ f_quote-2: >-
   roller­coaster ride. It siphons cognitive resources. It even eats away at
   physical health. Ultimately, we become a fraction of ourselves. We don’t show
   up to the same extent. If you’re experiencing incivility, don’t brush it off."
-f_amazon-url: https://www.amazon.com/dp/B01G1K1SFS/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B01G1K1SFS/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

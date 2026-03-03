@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7803d6fb09c7aedcd29f6_words-for-readers-and-writers-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/words-for-readers-and-writers/
+  alt: Words for Readers and Writers book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/words-for-readers-and-writers/'
 f_author-plain-text: Larry Woiwode
 f_author: cms/authors/larry-woiwode.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -47,7 +47,7 @@ f_big-idea: >-
 
   No matter what you’re writing, check your facts or better yet, have someone
   else check them.
-f_quote-reference: \- Words for Readers and Writers, page 6
+f_quote-reference: '\- Words for Readers and Writers, page 6'
 f_insight-2: >-
   ### Tolstoy’s Writing Process
 
@@ -128,7 +128,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Words construct personages and place them in phenomenal existence. That’s the
   primary use of words."
-f_amazon-url: https://www.amazon.com/dp/143353522X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/143353522X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

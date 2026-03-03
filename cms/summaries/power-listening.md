@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:34.159Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809e029e815b3dc3c72b_power_listening.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/power-listening/
+  alt: Power Listening book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/power-listening/'
 f_author-plain-text: Bernard T. Ferrari
 f_author: cms/authors/bernard-t-ferrari.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -87,7 +87,7 @@ f_big-idea: >-
   – Isn’t really interested in what is being said  
 
   – Knows he should listen so pretends to
-f_quote-reference: \- Power Listening, page 13
+f_quote-reference: '\- Power Listening, page 13'
 f_insight-2: >-
   ### Earning Trust
 
@@ -150,7 +150,7 @@ f_conclusion: >-
   the interpersonal interactions that shape the culture. And guess what is the
   root of these? Good listening.
 f_quote-2: '"Listening is the front end of decision making."'
-f_amazon-url: https://www.amazon.com/dp/1591844622/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591844622/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

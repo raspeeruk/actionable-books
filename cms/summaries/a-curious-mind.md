@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:44.064Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803e0535ac2cb61ec8ed_a-curious-mind-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/a-curious-mind/
+  alt: A Curious Mind book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/a-curious-mind/'
 f_author-plain-text: Brian Grazer
 f_author: cms/authors/brian-grazer.md
 f_category-3: cms/summary-categories/self-management.md
@@ -46,7 +46,7 @@ f_big-idea: >-
   result of his natural curiosity. He attributes the doors that have opened up
   for him professionally and personally to specific questions or moments of
   wondering why something “x” he had throughout his life.
-f_quote-reference: \- A Curious Mind, page xiii
+f_quote-reference: '\- A Curious Mind, page xiii'
 f_insight-2: >-
   ### Curiosity + Determination = Confidence & Success
 
@@ -101,7 +101,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Curiosity has been the most valuable quality, the most important resource,
   the central motivation of my life."
-f_amazon-url: https://www.amazon.com/dp/147673075X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/147673075X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

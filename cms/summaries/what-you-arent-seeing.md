@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:21.633Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78037f0b248a4671a1f64_what-you-arent-seeing-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/what-you-arent-seeing/
+  alt: What You Aren’t Seeing book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/what-you-arent-seeing/'
 f_author-plain-text: Patrick Sweeney
 f_author: cms/authors/patrick-sweeney.md
 f_category-3: cms/summary-categories/self-management.md
@@ -48,7 +48,7 @@ f_big-idea: >-
 
   How might your over-reliance on proven experience be limiting your potential
   and that of those around you? Insights 1 & 2 may help you change your focus.
-f_quote-reference: \- What You Aren’t Seeing, page 62
+f_quote-reference: '\- What You Aren’t Seeing, page 62'
 f_insight-2: >-
   ### What are You Practicing?
 
@@ -123,7 +123,7 @@ f_quote-2: >-
   "At the end of the day, the more we can take in and give out positive
   messages, the more we will be able to believe in ourselves and in those around
   us."
-f_amazon-url: https://www.amazon.com/dp/0071849750/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071849750/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

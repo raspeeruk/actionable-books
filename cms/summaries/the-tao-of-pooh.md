@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:11.656Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780249b92e746e8684ba2_taoofpooh-tiny-94x139.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-tao-of-pooh/
+  alt: The Tao of Pooh book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-tao-of-pooh/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2010/12/ActionableBooks-Audio-The-Tao-of-Pooh.mp3
 f_author-plain-text: Benjamin Hoff
@@ -144,7 +144,7 @@ f_insight-1: >-
   Success is a state of mind that can be achieved once you learn to fit your
   circumstances – because only those best-suited to their environments survive.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/014095144X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/014095144X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,17 +1,17 @@
 ---
 title: Chip And Dan Heath
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Chip-and-Dan-Heath/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Chip-and-Dan-Heath/'
 f_unique-id: '165'
 f_image:
   url: /assets/external/65d779cb17fd1b2d4af6cc7a_chip-and-dan-heath-180x220.jpeg
-  alt: null
+  alt: Chip And Dan Heath
 slug: chip-and-dan-heath
 updated-on: '2024-02-23T13:30:57.733Z'
 created-on: '2024-02-22T16:43:56.127Z'
 published-on: '2024-02-23T13:42:23.311Z'
 f_facebook-2: >-
   http://www.facebook.com/pages/Heath-Brothers-authors-of-SWITCH-and-MADE-TO-STICK/296563302813?ref=ts
-f_website-2: http://heathbrothers.com/
+f_website-2: 'http://heathbrothers.com/'
 layout: '[authors].html'
 tags: authors
 ---

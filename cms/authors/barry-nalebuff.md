@@ -1,17 +1,17 @@
 ---
 title: Barry Nalebuff
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Barry-Nalebuff/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Barry-Nalebuff/'
 f_unique-id: '390'
 slug: barry-nalebuff
 f_image:
   url: /assets/external/65d779b90d646c836189c700_barry-nalebuff.jpeg
-  alt: null
+  alt: Barry Nalebuff
 f_summaries:
   - cms/summaries/mission-in-a-bottle.md
 updated-on: '2024-02-23T13:30:50.202Z'
 created-on: '2024-02-22T16:43:37.475Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://missioninabottle.net/
+f_website-2: 'http://missioninabottle.net/'
 layout: '[authors].html'
 tags: authors
 ---

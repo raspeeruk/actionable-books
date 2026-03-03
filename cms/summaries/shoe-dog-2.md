@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:40.069Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809598fda031132dbbcb_shoe-dog-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/shoe-dog-2/
+  alt: Shoe Dog book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/shoe-dog-2/'
 f_author-plain-text: Phil Knight
 f_author: cms/authors/phil-knight.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -40,7 +40,7 @@ f_big-idea: >-
   them, instead he let it fuel them. Unapologetic is owning your responsibility
   as your true self. When you do that, you’re tribe will come (GEM #1) and they
   will stay with you (GEM #2).
-f_quote-reference: \- Shoe Dog, page 5
+f_quote-reference: '\- Shoe Dog, page 5'
 f_insight-2: >-
   ### It Meant Something
 
@@ -97,7 +97,7 @@ f_conclusion: >-
 f_quote-2: >-
   "For that matter, few ideas are as crazy as my favourite thing, running. It’s
   hard. It’s painful. It’s risky. The rewards are few and far from guaranteed."
-f_amazon-url: https://www.amazon.com/dp/1501135910/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1501135910/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:02.020Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780bcc84c1d05fdbae1a7_148844713.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/do-the-work/
+  alt: Do the Work book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/do-the-work/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/12/ActionableBooks-Audio-Do-the-Work.mp3
 f_author-plain-text: Steven Pressfield
@@ -40,7 +40,7 @@ f_big-idea: >-
   The hardest thing to do is to realize when the Resistance is working against
   us. Once we are able to identify it, then the fight becomes a lot easier to
   win.
-f_quote-reference: \- Do the Work, page 63
+f_quote-reference: '\- Do the Work, page 63'
 f_insight-2: >-
   ### Be Ready For It When You Least Expect It
 
@@ -117,7 +117,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Resistance is the response of the frightened, petty, small-time ego to the
   brave, generous, magnificent impulse of the creative self."
-f_amazon-url: https://www.amazon.com/dp/1936719010/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1936719010/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

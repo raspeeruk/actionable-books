@@ -1,11 +1,11 @@
 ---
 title: Dr. Joseph Murphy
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Dr.-Joseph-Murphy/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Dr.-Joseph-Murphy/'
 f_unique-id: '719'
 slug: dr-joseph-murphy
 f_image:
   url: /assets/external/65d779eec7eef1dc826b4c45_joseph-murphy-180x220.jpeg
-  alt: null
+  alt: Dr. Joseph Murphy
 f_summaries:
   - cms/summaries/the-power-of-your-subconscious-mind.md
 updated-on: '2024-02-23T13:31:26.109Z'

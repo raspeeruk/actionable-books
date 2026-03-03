@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:16.399Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803bc687d3e7e90f4f8c_humans-are-underrated-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/humans-are-underrated/
+  alt: Humans are Underrated book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/humans-are-underrated/'
 f_author-plain-text: Geoff Colvin
 f_author: cms/authors/geoff-colvin.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -52,7 +52,7 @@ f_big-idea: >-
   human skills atrophy and our ability to sense the emotions, motives, fears,
   and needs of others, fades. Those with strong ability to empathize become less
   common and more valuable in the workplace.
-f_quote-reference: \- Humans are Underrated, page 4
+f_quote-reference: '\- Humans are Underrated, page 4'
 f_insight-2: >-
   ### Win with self-motivation and focus on others
 
@@ -133,7 +133,7 @@ f_quote-2: >-
   feelings of others, working productively in groups, building relationships,
   solving problems together, expressing ourselves with greater power than logic
   can ever achieve.”
-f_amazon-url: https://www.amazon.com/dp/0143108379/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0143108379/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

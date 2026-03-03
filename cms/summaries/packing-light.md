@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:31.332Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c32ebc9b7d62b3714b_packing-light.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/packing-light/
+  alt: Packing Light book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/packing-light/'
 f_author-plain-text: Allison Vesterfelt
 f_author: cms/authors/allison-vesterfelt.md
 f_category-3: cms/summary-categories/self-management.md
@@ -58,7 +58,7 @@ f_big-idea: >-
   less transient addresses. You can start packing light by doing something that
   jars you from your routine. For some taking inventory of your baggage might
   consist of brushing your teeth on the side of the road with a water bottle.
-f_quote-reference: \- Packing Light, page 18
+f_quote-reference: '\- Packing Light, page 18'
 f_insight-2: >-
   ### Resistance isn't always a bad sign
 
@@ -118,7 +118,7 @@ f_quote-2: >-
   "We are all carrying baggage—things we’ve picked up at home, past experiences,
   expectations for what’s ahead. It might look different than mine, but it
   weighs you down just the same."
-f_amazon-url: https://www.amazon.com/dp/B00C2ZT8L8/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00C2ZT8L8/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

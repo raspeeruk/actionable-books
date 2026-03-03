@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:58.990Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807f3cf2f7d756cf2197_ideal-team-player-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-ideal-team-player/
+  alt: The Ideal Team Player book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-ideal-team-player/'
 f_author-plain-text: Patrick Lencioni
 f_author: cms/authors/patrick-lencioni.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -56,7 +56,7 @@ f_big-idea: >-
   The following Insights offer two ways to ensure that you’re recruiting
   individuals who embody the virtues of humble, hungry and smart during the
   all-important interview process.
-f_quote-reference: \- The Ideal Team Player, page ix
+f_quote-reference: '\- The Ideal Team Player, page ix'
 f_insight-2: >-
   ### Do some real work
 
@@ -129,7 +129,7 @@ f_quote-2: >-
   "If someone were to ask me to make a list of the most valuable qualities a
   person should develop in order to thrive in the world of work—and for that
   matter, life—I would put being a team player at the top."
-f_amazon-url: https://www.amazon.com/dp/1119209595/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1119209595/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

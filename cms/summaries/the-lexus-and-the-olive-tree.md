@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780802f4b2fce2806a6c5_the-lexus-and-the-olive-tree-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-lexus-and-the-olive-tree/
+  alt: The Lexus and the Olive Tree book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-lexus-and-the-olive-tree/'
 f_category-3: cms/summary-categories/innovative-thinking.md
 f_team-2: cms/team/erin-gordon.md
 f_big-idea: >-
@@ -33,7 +33,7 @@ f_big-idea: >-
   necessary underlying fabric of our communities. Individuals and countries and
   governments want progress and the comforts it brings, but the loss of their
   identity is sometimes too high a price to pay.
-f_quote-reference: \- The Lexus and the Olive Tree, page 462
+f_quote-reference: '\- The Lexus and the Olive Tree, page 462'
 f_insight-2: >-
   ### Boom Bust Repeat!
 
@@ -107,7 +107,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Fasten your seat belts and put your seat backs and tray tables into a fixed
   and upright position."
-f_amazon-url: https://www.amazon.com/dp/1250013747/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1250013747/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

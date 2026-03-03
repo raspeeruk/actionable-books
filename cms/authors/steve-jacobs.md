@@ -1,18 +1,18 @@
 ---
 title: Steve Jacobs
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Steve-Jacobs/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Steve-Jacobs/'
 f_unique-id: '598'
 slug: steve-jacobs
 f_image:
   url: /assets/external/65d77a54177fb5ac60886209_steve-jacobs.jpeg
-  alt: null
+  alt: Steve Jacobs
 f_summaries:
   - cms/summaries/the-behavior-breakthrough.md
 updated-on: '2024-02-23T13:31:08.993Z'
 created-on: '2024-02-22T16:46:12.227Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/SteveJacobs_/
-f_website-2: http://behaviorbreakthrough.com/
+f_twitter-2: 'http://twitter.com/SteveJacobs_/'
+f_website-2: 'http://behaviorbreakthrough.com/'
 layout: '[authors].html'
 tags: authors
 ---

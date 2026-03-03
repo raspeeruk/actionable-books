@@ -1,10 +1,10 @@
 ---
 title: Richard E. Nisbett
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Richard-E.-Nisbett/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Richard-E.-Nisbett/'
 f_unique-id: '389'
 f_image:
   url: /assets/external/65d77a439dd4a722889e4e5f_richard-nesbitt-180x220.jpeg
-  alt: null
+  alt: Richard E. Nisbett
 slug: richard-e-nisbett
 f_summaries:
   - cms/summaries/mindware.md

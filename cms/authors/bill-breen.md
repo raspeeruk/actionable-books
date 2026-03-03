@@ -1,10 +1,10 @@
 ---
 title: Bill Breen
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Bill-Breen/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Bill-Breen/'
 f_unique-id: '109'
 f_image:
   url: /assets/external/65d779bc3c55e1cc53b1c93d_bill-breen.jpeg
-  alt: null
+  alt: Bill Breen
 slug: bill-breen
 f_summaries:
   - cms/summaries/brick-by-brick.md

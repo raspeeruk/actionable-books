@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:57.281Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b80271589378cbdea1_five-minute-coach-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-five-minute-coach/
+  alt: The Five-Minute Coach book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-five-minute-coach/'
 f_author-plain-text: Lynne Cooper
 f_author: cms/authors/lynne-cooper.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -55,7 +55,7 @@ f_big-idea: >-
 
   How can you use the five-minute coach behaviours to improve performance? Keep
   reading…
-f_quote-reference: \- The Five-Minute Coach, page 6
+f_quote-reference: '\- The Five-Minute Coach, page 6'
 f_insight-2: >-
   ### Developing as a Coach
 
@@ -146,7 +146,7 @@ f_insight-1: >-
   you hear and accept what has been said.
 f_conclusion: ''
 f_quote-2: '"Establish a shift from problem-thinking to an outcome focus."'
-f_amazon-url: https://www.amazon.com/dp/1845908007/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1845908007/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780d16d3d2478cfb40b17_emotional-intelligence-2-0-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/emotional-intelligence-2-0/
+  alt: Emotional Intelligence 2.0 book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/emotional-intelligence-2-0/'
 f_author-plain-text: Jean Greaves
 f_author: cms/authors/jean-greaves.md
 f_category-3: cms/summary-categories/self-management.md
@@ -50,7 +50,7 @@ f_big-idea: >-
   creating habits to recognize and respond skillfully to our emotions. Anyone
   seeking to improve their EQ needs proper knowledge of the personal and social
   competencies, along with productive and daily practice.
-f_quote-reference: \- Emotional Intelligence 2.0, page 3
+f_quote-reference: '\- Emotional Intelligence 2.0, page 3'
 f_insight-2: >-
   ### Social Competence
 
@@ -122,7 +122,7 @@ f_quote-2: >-
   "First, people just don’t understand it. They often mistake emotional
   intelligence for a form of charisma or gregariousness. Second, they don’t see
   it as something that can be improved."
-f_amazon-url: https://www.amazon.com/dp/B002U3CBUW/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B002U3CBUW/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

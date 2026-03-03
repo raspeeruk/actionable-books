@@ -1,11 +1,11 @@
 ---
 title: Carissa Reiniger
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Carissa-Reiniger/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Carissa-Reiniger/'
 f_unique-id: '314'
 slug: carissa-reiniger
 f_image:
   url: /assets/external/65d779a49c49c73f41478f48_author-large.png
-  alt: null
+  alt: Carissa Reiniger
 f_summaries:
   - cms/summaries/inspiring-entrepreneurs.md
 updated-on: '2024-02-23T13:31:17.111Z'

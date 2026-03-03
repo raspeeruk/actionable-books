@@ -1,10 +1,10 @@
 ---
 title: Lynne Cooper
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Lynne-Cooper/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Lynne-Cooper/'
 f_unique-id: '646'
 f_image:
   url: /assets/external/65d77a262772244af7c1946e_lynne-cooper-180x220.jpeg
-  alt: null
+  alt: Lynne Cooper
 f_summaries:
   - cms/summaries/the-five-minute-coach.md
 slug: lynne-cooper

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:24.400Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804242b337f9acb015be_123507777-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/work-the-system/
+  alt: Work the System book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/work-the-system/'
 f_author-plain-text: Sam Carpenter
 f_author: cms/authors/sam-carpenter.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -44,7 +44,7 @@ f_big-idea: >-
   how it can be made better. As we expand our perspective of the system under
   review, we increase our understanding and awareness of how that specific
   system impacts us.
-f_quote-reference: \- Work the System, Preface to the 1st Edition
+f_quote-reference: '\- Work the System, Preface to the 1st Edition'
 f_insight-2: >-
   ### Further Considerations
 
@@ -145,7 +145,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The word ‘system’ is a pointed and unique unit of language; it’s so precise
   that it doesn’t have a lot of synonyms."
-f_amazon-url: https://www.amazon.com/dp/160832253X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/160832253X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

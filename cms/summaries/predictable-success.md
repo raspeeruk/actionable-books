@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:34.912Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780ad6c1a1ebc9b54c509_predictable_success.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/predictable-success/
+  alt: Predictable Success book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/predictable-success/'
 f_author-plain-text: Les Mckeown
 f_author: cms/authors/les-mckeown.md
 f_category-3: cms/summary-categories/leadership.md
@@ -47,7 +47,7 @@ f_big-idea: >-
   success tends to be patchy: Sometimes stuff works and sometimes it doesn’t.
   Look at the business book titles and you’ll see how universal the elusiveness
   of business success is.
-f_quote-reference: \- Predictable Success, page vii
+f_quote-reference: '\- Predictable Success, page vii'
 f_insight-2: >-
   ### What Predictable Success Is Not
 
@@ -139,7 +139,7 @@ f_quote-2: >-
   relative ease) achieve their common goals – a state called Predictable
   Success. No special skills required; no leap of faith is needed; there are no
   mantras to learn or secrets to divine."
-f_amazon-url: https://www.amazon.com/dp/1608321223/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1608321223/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

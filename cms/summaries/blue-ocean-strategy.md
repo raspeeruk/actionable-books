@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:49.348Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809941703458021815ea_blue_ocean_strategy.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/blue-ocean-strategy/
+  alt: Blue Ocean Strategy book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/blue-ocean-strategy/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/11/ActionableBooks-Audio-Blue-Ocean-Strategy.mp3
 f_author-plain-text: Ren√©E Mauborgne
@@ -244,7 +244,7 @@ f_conclusion: >-
   strategic planning. _Blue Ocean Strategy_ is one of those books where no
   matter how much you try to summarize, there’s always more you just wish you
   could have included. So just do yourself a favour and read the book.
-f_amazon-url: https://www.amazon.com/dp/1591396190/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591396190/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:07.264Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780cf04ee7820ceb35065_power-of-onlyness-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-power-of-onlyness/
+  alt: The Power of Onlyness book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-power-of-onlyness/'
 f_author-plain-text: Nilofer Merchant
 f_author: cms/authors/nilofer-merchant.md
 f_category-3: cms/summary-categories/self-management.md
@@ -44,7 +44,7 @@ f_big-idea: >-
   In the Insights below we’ll explore how questions (a component of noticing)
   are often the first step to defining your onlyness, and then how to take
   action.
-f_quote-reference: \- The Power of Onlyness, page 3
+f_quote-reference: '\- The Power of Onlyness, page 3'
 f_insight-2: >-
   ### Don’t Waste Time Navel-Gazing
 
@@ -120,7 +120,7 @@ f_quote-2: >-
   "Through the power of onlyness, an individual conceives an idea born of his
   narrative, nurtures it with the help of a community that embraces it, and,
   through shared action, makes the idea powerful enough to dent the world."
-f_amazon-url: https://www.amazon.com/dp/B01N0UULIJ/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B01N0UULIJ/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

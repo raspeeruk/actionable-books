@@ -1,18 +1,18 @@
 ---
 title: David Desteno
-f_original-url: https://www.actionablebooks.com/en-ca/authors/David-DeSteno/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/David-DeSteno/'
 f_unique-id: '763'
 f_image:
   url: /assets/external/65d779e2689a516315f358c4_david-desteno.jpeg
-  alt: null
+  alt: David Desteno
 f_summaries:
   - cms/summaries/the-truth-about-trust.md
 slug: david-desteno
 updated-on: '2024-02-23T13:31:03.672Z'
 created-on: '2024-02-22T16:44:18.948Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/daviddesteno/
-f_website-2: http://daviddesteno.com/
+f_twitter-2: 'http://twitter.com/daviddesteno/'
+f_website-2: 'http://daviddesteno.com/'
 layout: '[authors].html'
 tags: authors
 ---

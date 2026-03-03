@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:39.665Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78027c9a8372615bafe73_self-leadership.jpeg
-  alt: null
+  alt: Self Leadership and the One Minute Manager book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/self-leadership-and-the-one-minute-manager/
 f_author-plain-text: Ken Blanchard
@@ -58,7 +58,7 @@ f_big-idea: >-
   to be part of the action. Literally thousands of meals have been given to
   homeless men and women because two young girls recognized they had more power
   than they knew.
-f_quote-reference: \- Self Leadership and the One Minute Manager, page v
+f_quote-reference: '\- Self Leadership and the One Minute Manager, page v'
 f_insight-2: >-
   ### You are responsible for getting what you need
 
@@ -124,7 +124,7 @@ f_conclusion: >-
 f_quote-2: >-
   "I want people who are problem solvers and are willing to take initiative. I
   want people working for me who act like they own the place."
-f_amazon-url: https://www.amazon.com/dp/0060799129/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0060799129/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

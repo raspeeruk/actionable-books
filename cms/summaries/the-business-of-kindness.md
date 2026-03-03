@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:51.770Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780ccfde0fad249b1028e_business-of-kindness-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-business-of-kindness/
+  alt: The Business of Kindness book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-business-of-kindness/'
 f_author-plain-text: Olivia Mcivor
 f_author: cms/authors/olivia-mcivor.md
 f_category-3: cms/summary-categories/self-management.md
@@ -60,7 +60,7 @@ f_big-idea: >-
   do both at an advanced level is a privilege. I’m embarrassed to admit how far
   into my 20s I was before I realized many communities suffer from low rates of
   literacy, and started thinking about how to pitch in.
-f_quote-reference: \- The Business of Kindness, page xv
+f_quote-reference: '\- The Business of Kindness, page xv'
 f_insight-2: >-
   ### The Five-Coin Challenge
 
@@ -146,7 +146,7 @@ f_quote-2: >-
   “Kindness takes words like “caring” and “respect” to the next level—into
   action. When we say “be kind” or “show kindness,” we understand what that
   means immediately.”
-f_amazon-url: https://www.amazon.com/dp/B00T3QX892/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00T3QX892/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

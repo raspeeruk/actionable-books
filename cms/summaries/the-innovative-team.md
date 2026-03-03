@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:59.413Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807713d1e7c4be6e8b16_innovative_team.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-innovative-team/
+  alt: The Innovative Team book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-innovative-team/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/ActionableBooks-Audio-The-Innovative-Team.mp3
 f_author-plain-text: Chris Grivas
@@ -60,7 +60,7 @@ f_big-idea: >-
   that the team has uncovered enough potentially relevant data and possible
   causes, she has them converge by choosing which data is most relevant and most
   essential to understanding the client company’s challenge.
-f_quote-reference: \- The Innovative Team, page 47
+f_quote-reference: '\- The Innovative Team, page 47'
 f_insight-2: >-
   ### Learn Others' Preferences
 
@@ -170,7 +170,7 @@ f_quote-2: >-
   "This process simply puts names on the stages of innovation that we all do
   normally. There is no big revelation here. The revelation comes in what
   happens when we consciously follow this process as a team."
-f_amazon-url: https://www.amazon.com/dp/1118115716/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118115716/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:16.453Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780711a3802ce7ed1dc26_i-engage-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/i-engage/
+  alt: I-Engage book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/i-engage/'
 f_author-plain-text: Bob Kelleher
 f_author: cms/authors/bob-kelleher.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -84,7 +84,7 @@ f_big-idea: >-
   of the following; what does the company do, and is it of value? What is their
   mission, what are their differentiators? Do your personal values and mission
   align with theirs?
-f_quote-reference: \- I-Engage, Preface
+f_quote-reference: '\- I-Engage, Preface'
 f_insight-2: >-
   ### Know your Differentiators
 
@@ -188,7 +188,7 @@ f_conclusion: >-
 f_quote-2: >-
   "A simple yet revolutionary concept...it’s impossible to fully separate life
   from work."
-f_amazon-url: https://www.amazon.com/dp/0984532927/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0984532927/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

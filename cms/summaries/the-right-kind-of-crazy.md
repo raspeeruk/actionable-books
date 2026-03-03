@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:09.102Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780ccf72bdcc46c19c497_right-kind-of-crazy-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-right-kind-of-crazy/
+  alt: The Right Kind of Crazy book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-right-kind-of-crazy/'
 f_author-plain-text: Adam Steltzner
 f_author: cms/authors/adam-steltzner.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -47,7 +47,7 @@ f_big-idea: >-
   Clarity of ideas, resources, and people is important, but there are stumbling
   blocks that halt creativity and innovation. Our egos might prevent us from
   accepting new ideas and from sharing them. Read on to the Insights.
-f_quote-reference: \- The Right Kind of Crazy, Page 227
+f_quote-reference: '\- The Right Kind of Crazy, Page 227'
 f_insight-2: >-
   ### Share the Answer
 
@@ -123,7 +123,7 @@ f_quote-2: >-
   instance, or for migrating south when the sun hits a certain angle in the sky.
   We come into this world programmed with few instructions, save for one
   paramount piece of code: Be curious."
-f_amazon-url: https://www.amazon.com/dp/B00SI02EQC/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00SI02EQC/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

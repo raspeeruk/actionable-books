@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:09.428Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780ce1e0dea9899f915d8_getting-beyond-better-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/getting-beyond-better/
+  alt: Getting Beyond Better book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/getting-beyond-better/'
 f_author-plain-text: Roger Martin
 f_author: cms/authors/roger-martin.md
 f_category-3: cms/summary-categories/leadership.md
@@ -46,7 +46,7 @@ f_big-idea: >-
   experiment with change. Too often the paradox is hard to resolve, so we skip
   to the solution, and it’s ineffective or rejected by the population we wish to
   help.
-f_quote-reference: \- Getting Beyond Better, page 11
+f_quote-reference: '\- Getting Beyond Better, page 11'
 f_insight-2: >-
   ### Exchange ideas, experiment, and commit
 
@@ -118,7 +118,7 @@ f_quote-2: >-
   condition. Unlike social advocates, social entrepreneurs act directly,
   creating a product, service, or methodology that spurs the transformation of
   the status quo."
-f_amazon-url: https://www.amazon.com/dp/B00WDDOSCS/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00WDDOSCS/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

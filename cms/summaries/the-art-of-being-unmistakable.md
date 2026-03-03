@@ -35,7 +35,7 @@ f_big-idea: >-
   they couldn’t relate with the system. But in taking that risk, and becoming
   unmistakable, they ended up being truly better than we could have possibly
   imagined.
-f_quote-reference: \- The Art of Being Unmistakable, page 35
+f_quote-reference: '\- The Art of Being Unmistakable, page 35'
 f_insight-2: >-
   ### Don’t worry about what other people think
 
@@ -132,11 +132,15 @@ f_insight-1: >-
 
 
   My action: go make something unique, put it out into the world.
-f_conclusion: ''
+f_conclusion: >-
+  As the online world rapidly expands, it is almost too easy to fall into the
+  trap of following someone else’s formula for success in business and life in
+  general. After all, there are webinars and e-courses for just about
+  everything.
 f_quote-2: >-
   "My greatest sin was to waste my life believing that I wasn’t capable of
   something more."
-f_amazon-url: https://www.amazon.com/dp/1493746286/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1493746286/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

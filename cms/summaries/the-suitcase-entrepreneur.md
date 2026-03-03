@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:11.544Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78056813424c8d3a5bb42_suitcase_entrepreneur.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-suitcase-entrepreneur/
+  alt: The Suitcase Entrepreneur book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-suitcase-entrepreneur/'
 f_author-plain-text: Natalie Sisson
 f_author: cms/authors/natalie-sisson.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -36,7 +36,7 @@ f_big-idea: >-
   necessarily what we need to feel successful and have a great life. **Thus
   achieving the right mindset is a process of shedding this traditional value
   system and opening your mind to new ways of defining your life.**
-f_quote-reference: \- The Suitcase Entrepreneur, page 219
+f_quote-reference: '\- The Suitcase Entrepreneur, page 219'
 f_insight-2: >-
   ### It doesn't have to be totally unconventional
 
@@ -111,7 +111,7 @@ f_quote-2: >-
   endless meetings, getting stuck in long commutes and having to be in one
   location in order to run a successful business and ultimately enjoy your
   life."
-f_amazon-url: https://www.amazon.com/dp/0473251248/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0473251248/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

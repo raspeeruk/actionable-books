@@ -1,18 +1,18 @@
 ---
 title: Josh Linkner
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Josh-Linkner/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Josh-Linkner/'
 f_unique-id: '177'
 slug: josh-linkner
 f_image:
   url: /assets/external/65d77a19b9c74277593031dd_josh-linkner.jpeg
-  alt: null
+  alt: Josh Linkner
 f_summaries:
   - cms/summaries/disciplined-dreaming.md
 updated-on: '2024-02-23T13:31:23.194Z'
 created-on: '2024-02-22T16:45:14.075Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://facebook.com/joshlinkner
-f_twitter-2: http://twitter.com/joshlinkner/
+f_facebook-2: 'http://facebook.com/joshlinkner'
+f_twitter-2: 'http://twitter.com/joshlinkner/'
 layout: '[authors].html'
 tags: authors
 ---

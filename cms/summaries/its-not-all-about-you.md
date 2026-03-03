@@ -1,14 +1,14 @@
 ---
 f_unique-number: 359
-title: It’s NOT All About You, It’s About the Company You Keep
+title: 'It’s NOT All About You, It’s About the Company You Keep'
 slug: its-not-all-about-you
 updated-on: '2024-02-27T20:30:58.372Z'
 created-on: '2024-02-22T16:06:19.182Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807487289c3de6904e20_rsz_its-not-about-you.png
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/its-not-all-about-you/
+  alt: 'It’s NOT All About You, It’s About the Company You Keep book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/its-not-all-about-you/'
 f_author-plain-text: Michele Bailey
 f_author: cms/authors/michele-bailey.md
 f_category-3: cms/summary-categories/leadership.md
@@ -36,7 +36,7 @@ f_big-idea: >-
 
 
   2\. Help employees determine how it resonates for them.
-f_quote-reference: \- It's NOT All About You, page 39
+f_quote-reference: '\- It''s NOT All About You, page 39'
 f_insight-2: >-
   ### Lift the Fog
 
@@ -97,7 +97,7 @@ f_conclusion: >-
   Michele’s tenacious personality – along with her passion for her people and
   her business – shines through.
 f_quote-2: '"Transparency is the foundation of everything we do."'
-f_amazon-url: https://www.amazon.com/dp/0992024307/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0992024307/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

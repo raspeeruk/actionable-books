@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780cf9cdbb081a57984f6_victory-through-organization-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/victory-through-organization/
+  alt: Victory Through Organization book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/victory-through-organization/'
 f_author-plain-text: Dave Ulrich
 f_author: cms/authors/dave-ulrich.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -68,7 +68,7 @@ f_big-idea: >-
   overemphasized, it can reduce HR’s ability to impact business performance.
   Even the most brilliant and apparently self-made entrepreneurs had significant
   organizational nurturing early in their careers.
-f_quote-reference: \- Victory Through Organization, page 63
+f_quote-reference: '\- Victory Through Organization, page 63'
 f_insight-2: >-
   ### Focus on employee performance
 
@@ -171,7 +171,7 @@ f_conclusion: >-
   in a way that maximizes people’s skills and strengths, companies are missing
   out on one of their best opportunities.
 f_quote-2: '"The competitive advantage is what you do with the talent once you have it."'
-f_amazon-url: https://www.amazon.com/dp/B01N4FQ81G/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B01N4FQ81G/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

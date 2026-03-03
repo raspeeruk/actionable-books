@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:02.834Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806d1de9c6d7938eaa65_miracle_morning.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-miracle-morning/
+  alt: The Miracle Morning book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-miracle-morning/'
 f_author-plain-text: Hal Elrod
 f_author: cms/authors/hal-elrod.md
 f_category-3: cms/summary-categories/self-management.md
@@ -65,7 +65,7 @@ f_big-idea: >-
   documenting) their own Miracle Mornings – making it work – it is a valid
   question. “How can I build the habit of getting up an hour earlier every day?”
   It’s a question that Hal addresses fairly well, I think.
-f_quote-reference: \- George Lorimer, quoted in The Miracle Morning
+f_quote-reference: '\- George Lorimer, quoted in The Miracle Morning'
 f_insight-2: >-
   ### It Gets Easier... I Promise
 
@@ -154,7 +154,7 @@ f_conclusion: >-
 f_quote-2: >-
   "You've got to wake up every morning with determination if you're going to go
   to bed with satisfaction."
-f_amazon-url: https://www.amazon.com/dp/0979019710/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0979019710/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

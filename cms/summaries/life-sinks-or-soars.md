@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:21.756Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808f5c2518978102a33b_sinks_or_soars-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/life-sinks-or-soars/
+  alt: Life Sinks or Soars book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/life-sinks-or-soars/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/07/ActionableBooks-Audio-Life-Sinks-or-Soars.mp3
 f_author-plain-text: Rael Kalley
@@ -36,7 +36,7 @@ f_big-idea: >-
   choices—and why we should make them—is the purpose of this book. As Hugh says,
   “The slightest difference in the choices we make will profoundly influence the
   largest differences in the end results.”
-f_quote-reference: \- Life Sinks or Soars, page 36
+f_quote-reference: '\- Life Sinks or Soars, page 36'
 f_insight-2: >-
   ### Why?
 
@@ -120,7 +120,7 @@ f_quote-2: >-
   always questioning why the whole world seemed to be conspiring against me, why
   the only luck I ever had was bad luck when, in fact, my whole life had been
   playing out like a symphony and, all along, I had been the conductor."
-f_amazon-url: https://www.amazon.com/dp/1452543755/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1452543755/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

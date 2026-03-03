@@ -1,10 +1,10 @@
 ---
 title: Charlie Murphy
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Charlie-Murphy/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Charlie-Murphy/'
 f_unique-id: '121'
 f_image:
   url: /assets/external/65d779ca7c144d13154ca91a_charlie-murphy.jpeg
-  alt: null
+  alt: Charlie Murphy
 slug: charlie-murphy
 f_summaries:
   - cms/summaries/catch-the-fire.md

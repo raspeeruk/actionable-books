@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780b419cb93b80712a0a6_marketing-above-the-noise-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/marketing-above-the-noise/
+  alt: Marketing Above the Noise book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/marketing-above-the-noise/'
 f_author-plain-text: Linda J. Popky
 f_author: cms/authors/linda-j-popky.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -73,7 +73,7 @@ f_big-idea: >-
   your message. Understanding the interplay of these eight factors and letting
   that interplay inform your strategy is the key to marketing successfully,
   digitally or otherwise.
-f_quote-reference: \- Marketing Above the Noise, page xviii
+f_quote-reference: '\- Marketing Above the Noise, page xviii'
 f_insight-2: >-
   ### Singing the Same Song
 
@@ -137,7 +137,7 @@ f_quote-2: >-
   "It’s time to move the discussion away from today’s latest hot marketing tools
   and tactics to what really counts: convincing customers to trust you with
   their business—not just once, but time and time again."
-f_amazon-url: https://www.amazon.com/dp/1629560375/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1629560375/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

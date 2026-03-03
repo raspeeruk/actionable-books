@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:22.604Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78090589ec7f59357b41e_whiplash-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/whiplash/
+  alt: Whiplash book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/whiplash/'
 f_author-plain-text: Jeff Howe
 f_author: cms/authors/jeff-howe.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -57,7 +57,7 @@ f_big-idea: >-
   Why not amplify the sloppy, emotional, creative and organic nature of human
   beings—that together with artificial intelligence and automation—will create
   the workforce of the future?
-f_quote-reference: \- Whiplash, page 29
+f_quote-reference: '\- Whiplash, page 29'
 f_insight-2: >-
   ### Diversity over Ability
 
@@ -157,7 +157,7 @@ f_quote-2: >-
   ignorance offers strategic advantages over expending resources - subcommittees
   and think tanks and sales forecasts - toward the increasingly futile goal of
   forecasting future events.”
-f_amazon-url: https://www.amazon.com/dp/1455544590/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1455544590/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

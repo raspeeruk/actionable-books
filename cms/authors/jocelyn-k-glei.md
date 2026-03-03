@@ -1,15 +1,15 @@
 ---
 title: Jocelyn K. Glei
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Jocelyn-K.-Glei/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Jocelyn-K.-Glei/'
 f_unique-id: '374'
 f_image:
   url: /assets/external/65d77a1002f4de5f64d774a3_glei.jpeg
-  alt: null
+  alt: Jocelyn K. Glei
 slug: jocelyn-k-glei
 updated-on: '2024-02-23T13:31:20.720Z'
 created-on: '2024-02-22T16:45:04.580Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/jkglei/
+f_twitter-2: 'http://twitter.com/jkglei/'
 layout: '[authors].html'
 tags: authors
 ---

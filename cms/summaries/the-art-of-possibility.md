@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:49.350Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803a9b92e746e8685524_art-of-possibility.gif
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-art-of-possibility/
+  alt: The Art of Possibility book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-art-of-possibility/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/ActionableBooks-Audio-The-Art-of-Possibility.mp3
 f_author-plain-text: Benjamin Zander
@@ -38,7 +38,7 @@ f_big-idea: >-
   with others for the purpose of making a difference.** If service and
   contribution are the goals, then the interests of the individual are by
   default aligned with the interests of the organization.
-f_quote-reference: \- The Art of Possibility, page 2
+f_quote-reference: '\- The Art of Possibility, page 2'
 f_insight-2: >-
   ### Rule Number 6
 
@@ -107,7 +107,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Our joint conviction is that much, much more is possible than people
   ordinarily think."
-f_amazon-url: https://www.amazon.com/dp/0142001104/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0142001104/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

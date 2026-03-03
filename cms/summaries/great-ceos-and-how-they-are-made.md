@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:11.097Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c309562db318480724_great-ceos.jpeg
-  alt: null
+  alt: Great CEOs and How They Are Made book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/great-ceos-and-how-they-are-made/
 f_author-plain-text: John Wilson
@@ -98,7 +98,7 @@ f_conclusion: >-
 f_quote-2: >-
   "This is not a tome for your living room bookshelf. This is a guide to be kept
   on your desk, dog-eared and highlighted"
-f_amazon-url: https://www.amazon.com/dp/B00CRIIGS6/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00CRIIGS6/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

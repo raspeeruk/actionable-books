@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:11.361Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804c77c4a8c4e31ae938_greater_than_yourself_sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/greater-than-yourself/
+  alt: Greater Than Yourself book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/greater-than-yourself/'
 f_author-plain-text: Steve Farber
 f_author: cms/authors/steve-farber.md
 f_category-3: cms/summary-categories/leadership.md
@@ -110,7 +110,7 @@ f_conclusion: >-
   Yourself_, Steve Farber does a tremendous job of reminding us of that fact,
   and of teaching us how to tap into that desire in our day-to-day lives. I
   highly recommend this book.
-f_amazon-url: https://www.amazon.com/dp/0385522614/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0385522614/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:20.662Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808cd05b1686bfb9d9a2_leading-women-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/leading-women/
+  alt: Leading Women book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/leading-women/'
 f_author-plain-text: Nancy D. O'Reilly
 f_author: cms/authors/nancy-d-oreilly.md
 f_category-3: cms/summary-categories/leadership.md
@@ -53,7 +53,7 @@ f_big-idea: >-
   table, endless sports references, jokes that warrant apologies after the punch
   line. Until both men and women have an awareness, it will be more than
   revenues that suffer.
-f_quote-reference: \- Leading Women, page 141
+f_quote-reference: '\- Leading Women, page 141'
 f_insight-2: >-
   ### Choice
 
@@ -135,7 +135,7 @@ f_conclusion: >-
 f_quote-2: >-
   "At the core of my passion is this nagging reality that the glass ceiling,
   although cracking, still exists."
-f_amazon-url: https://www.amazon.com/dp/1440584176/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1440584176/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

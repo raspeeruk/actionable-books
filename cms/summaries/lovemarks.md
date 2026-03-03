@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:23.303Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78098a0ece9a8c8355c67_lovemarks_book-sm-94x121.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/lovemarks/
+  alt: Lovemarks book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/lovemarks/'
 f_category-3: cms/summary-categories/effective-communication.md
 f_team-2: cms/team/bernadette-jiwa.md
 f_big-idea: >-
@@ -35,7 +35,7 @@ f_big-idea: >-
 
   _“A crucial problem for brands in their battle against commodification is
   their growing apart from consumers. Distant, undifferentiated, unremarkable.”_
-f_quote-reference: \- Lovemarks, inside cover
+f_quote-reference: '\- Lovemarks, inside cover'
 f_insight-2: >-
   ### Communication is a two way street
 
@@ -121,7 +121,7 @@ f_quote-2: >-
   "Lovemarks are the brands, events and experiences that people love. Not just
   like or admire but love passionately. For great brands to survive they must
   create loyalty beyond reason in consumers."
-f_amazon-url: https://www.amazon.com/dp/1576872041/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1576872041/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

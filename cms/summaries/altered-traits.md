@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:46.200Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804daed215aa0062c6c1_altered-traits-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/altered-traits/
+  alt: Altered Traits book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/altered-traits/'
 f_author-plain-text: Daniel Goleman
 f_author: cms/authors/daniel-goleman.md
 f_team-2: cms/team/ronni-hendel-giller.md
@@ -54,7 +54,7 @@ f_big-idea: >-
   duration or practice and consistency of practice are critical factors in
   realizing those state changes. And, different types of meditation practice
   will result in different kinds of changes.
-f_quote-reference: \- Altered Traits, location 234
+f_quote-reference: '\- Altered Traits, location 234'
 f_insight-2: >-
   ### Meditation (Quickly) Increases Compassion
 
@@ -131,7 +131,7 @@ f_quote-2: >-
   necessarily the ones we hear about in the press, on Facebook, or from email
   marketing blasts. And some of those trumpeted far and wide have little
   scientific merit."
-f_amazon-url: https://www.amazon.com/dp/0399184384/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0399184384/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

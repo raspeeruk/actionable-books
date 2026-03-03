@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:28.368Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c9b4b3d748708aed35_neurotribes-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/neurotribes/
+  alt: NeuroTribes book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/neurotribes/'
 f_author-plain-text: Steve Silberman
 f_author: cms/authors/steve-silberman.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -51,7 +51,7 @@ f_big-idea: >-
   to sustain both their own growth and development, as well as success at work
   in being able to work and communicate effectively with others who come from a
   wide range of backgrounds.
-f_quote-reference: \- Zosia Zaks, quoted in NeuroTribes, page 469
+f_quote-reference: '\- Zosia Zaks, quoted in NeuroTribes, page 469'
 f_insight-2: >-
   ### Embrace the future and those who can describe it
 
@@ -112,7 +112,7 @@ f_conclusion: >-
   her “Fix your hair. It won’t be long before the caller can see your face over
   the wires.”
 f_quote-2: '"We need all hands on deck to right the ship of humanity."'
-f_amazon-url: https://www.amazon.com/dp/B00L9AY254/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00L9AY254/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

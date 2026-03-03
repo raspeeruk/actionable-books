@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:54.581Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804f2d3147c9543adc78_conspiracy-of-the-rich.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/conspiracy-of-the-rich/
+  alt: Conspiracy of the Rich book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/conspiracy-of-the-rich/'
 f_author-plain-text: Robert T. Kiyosaki
 f_author: cms/authors/robert-t-kiyosaki.md
 f_category-3: cms/summary-categories/self-management.md
@@ -130,7 +130,7 @@ f_conclusion: >-
   Possibly one of the greatest insights into the current economic climate,
   _Conspiracy of the Rich_ is a must read for anyone interested in controlling
   their own financial future. It’s time to get the third type of education.
-f_amazon-url: https://www.amazon.com/dp/0446559806/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0446559806/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

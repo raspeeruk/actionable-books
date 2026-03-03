@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:47.934Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804596d29f515b361efd_the-angel-inside.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-angel-inside/
+  alt: The Angel Inside book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-angel-inside/'
 f_author-plain-text: Chris Widener
 f_author: cms/authors/chris-widener.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -128,7 +128,7 @@ f_conclusion: >-
   my heart – if you don’t have passion for what you’re doing, you really don’t
   have anything. It’s a limitless world out there; find your corner and bask in
   it.
-f_amazon-url: https://www.amazon.com/dp/0307719537/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0307719537/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

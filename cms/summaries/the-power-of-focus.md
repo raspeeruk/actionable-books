@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:06.538Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78063f6702f0b878c6bc3_power_of_focus.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-power-of-focus/
+  alt: The Power of Focus book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-power-of-focus/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/01/ActionableBooks-Audio-The-Power-of-Focus.mp3
 f_author-plain-text: Jack Canfield
@@ -20,7 +20,7 @@ f_quote-reference: ''
 f_insight-2: ''
 f_insight-1: ''
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0757316026/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0757316026/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

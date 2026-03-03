@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:50.075Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806e371cd956ed972258_136481616-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/brain-rules/
+  alt: Brain Rules book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/brain-rules/'
 f_author-plain-text: John Medina
 f_author: cms/authors/john-medina.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -36,7 +36,7 @@ f_big-idea: >-
   But what actually _grabs_ our attention in the first place? What makes us
   _pay_ attention, and _keep_ paying attention, to something? Well, for
   starters, we don’t pay attention to boring things.
-f_quote-reference: \- Brain Rules, Inside Flap
+f_quote-reference: '\- Brain Rules, Inside Flap'
 f_insight-2: >-
   ### Stimulate More of the Senses
 
@@ -174,7 +174,7 @@ f_conclusion: >-
   Wired Differently), to being fully active while we sleep (Brain Rule #7: Sleep
   Well, Think Well), the power of our brains is truly remarkable.
 f_quote-2: '"Most of us have no idea what’s really going on inside our heads.”'
-f_amazon-url: https://www.amazon.com/dp/0979777747/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0979777747/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

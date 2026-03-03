@@ -1,6 +1,6 @@
 ---
 f_unique-number: 211
-title: Everyone Communicates, Few Connect
+title: 'Everyone Communicates, Few Connect'
 slug: everyone-communicates-few-connect
 updated-on: '2024-02-27T20:30:49.857Z'
 created-on: '2024-02-22T16:06:05.220Z'
@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7806439068c80d91715c9_everyone-communicates-few-connect-94x144.jpeg
-  alt: null
+  alt: 'Everyone Communicates, Few Connect book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/everyone-communicates-few-connect/
 f_author-plain-text: John C. Maxwell
@@ -66,7 +66,7 @@ f_big-idea: >-
   *   Being humble by thinking of ourselves less and thinking of others more
 
   *   Being adaptable by moving from our own world to theirs
-f_quote-reference: \- Everyone Communicates, Few Connect, page 123
+f_quote-reference: '\- Everyone Communicates, Few Connect, page 123'
 f_insight-2: >-
   ### Keeping your communication simple
 
@@ -129,7 +129,7 @@ f_quote-2: >-
   "If I had to pick a first rule of communication - the practice above all
   others that opens the door to connection with others - it would be to look for
   common ground."
-f_amazon-url: https://www.amazon.com/dp/0785214259/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0785214259/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

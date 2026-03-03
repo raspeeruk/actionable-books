@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:52.891Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d9c687d3e7e90f91ef_collaborative-organization.jpeg
-  alt: null
+  alt: The Collaborative Organization book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-collaborative-organization/
 f_author-plain-text: Jacob Morgan
@@ -43,7 +43,7 @@ f_big-idea: >-
   social networking tools, and recognizing business is becoming increasingly
   global in nature, it makes sense to leverage collaborative applications for
   business purposes.
-f_quote-reference: \- The Collaborative Organization, page 18
+f_quote-reference: '\- The Collaborative Organization, page 18'
 f_insight-2: >-
   ### #Sharing-Knowledge-Freely
 
@@ -131,7 +131,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Technology is supposed to support us and do what we tell it to do. Instead we
   have the opposite: Technology tells us what to do and when to use it."
-f_amazon-url: https://www.amazon.com/dp/B0089VI82O/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B0089VI82O/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

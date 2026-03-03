@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:55.512Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780372ea4a5ee78402a30_connectability.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/connectability/
+  alt: ConnectAbility book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/connectability/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-ConnectAbility.mp3
 f_author-plain-text: David Nour
@@ -67,7 +67,7 @@ f_big-idea: >-
   actions. During times of uncertainty, knowing the difference you are making
   helps you to sleep at night. Energy is invested in doing what is right for the
   business instead of pleasing certain leaders.
-f_quote-reference: \- ConnectAbility, page xi
+f_quote-reference: '\- ConnectAbility, page xi'
 f_insight-2: >-
   ### Overcome Failure through Acceptance
 
@@ -149,7 +149,7 @@ f_quote-2: >-
   endgame, on people over paycheck, on personal development over company
   loyalty. The values of what we might refer to as the 'status generation' have
   yielded to those of the ‘awareness generation.'
-f_amazon-url: https://www.amazon.com/dp/0071638857/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071638857/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

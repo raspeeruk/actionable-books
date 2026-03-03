@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:08.570Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809d589ec7f59357beda_115831350-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-rare-find/
+  alt: The Rare Find book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-rare-find/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/03/ActionableBooks-Audio-The-Rare-Find.mp3
 f_author-plain-text: George Anders
@@ -61,7 +61,7 @@ f_big-idea: >-
   about finding people who are “smart.” In fact, having the right character
   attributes are more important, and may be the difference maker, in hiring the
   right talent.
-f_quote-reference: \- The Rare Find, page 246
+f_quote-reference: '\- The Rare Find, page 246'
 f_insight-2: >-
   ### Discard Formulas
 
@@ -122,7 +122,7 @@ f_quote-2: >-
   search for brilliance as their calling. They see themselves as discoverers,
   protectors, and builders of an entire discipline… They are cultivating a
   garden, not running a toll booth."
-f_amazon-url: https://www.amazon.com/dp/1591844258/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591844258/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

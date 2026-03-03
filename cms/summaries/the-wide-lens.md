@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:14.203Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809e67d3671dc0368648_lens.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-wide-lens/
+  alt: The Wide Lens book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-wide-lens/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/08/ActionableBooks-Audio-The-Wide-Lens.mp3
 f_author-plain-text: Ron Adner
@@ -45,7 +45,7 @@ f_big-idea: >-
   prone to ignore the implications of co-innovators and adoption chain
   partners,” Adner says. Using a wide lens to assess your innovation transforms
   the key strategic choices you make to achieve success.
-f_quote-reference: \- Wide Lens, page 5
+f_quote-reference: '\- Wide Lens, page 5'
 f_insight-2: >-
   ### Hidden Risks
 
@@ -108,7 +108,7 @@ f_quote-2: >-
   "Innovation success remains as elusive as ever. Even when firms come up with
   great new ideas and follow them up with great implementation, failure is not
   only possible but likely. How can we do better?"
-f_amazon-url: https://www.amazon.com/dp/1591844606/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591844606/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

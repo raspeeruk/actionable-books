@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:56.073Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780244563120af428c62e_fire-starter-sessions.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-fire-starter-sessions/
+  alt: The Fire Starter Sessions book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-fire-starter-sessions/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/ActionableBooks-Audio-The-Fire-Starter-Sessions.mp3
 f_author-plain-text: Danielle Laporte
@@ -48,7 +48,7 @@ f_big-idea: >-
 
   So how do you show up in the office? What about your home? If you’re showing
   up as two different people, you may be hiding pieces of your whole self.
-f_quote-reference: \- The Fire Starter Sessions, xxv
+f_quote-reference: '\- The Fire Starter Sessions, xxv'
 f_insight-2: >-
   ### Choosing Ease
 
@@ -130,7 +130,7 @@ f_quote-2: >-
   "Success is messy. Career visions spill into lifestyle choices, mash into
   spiritual paradigms, and ride on top of relationships. It’s all interconnected
   and paradoxical. And promising."
-f_amazon-url: https://www.amazon.com/dp/030795210X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/030795210X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

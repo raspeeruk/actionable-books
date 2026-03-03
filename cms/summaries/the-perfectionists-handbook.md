@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:05.915Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780566fb09c7aedcd378e_perfectionists-handbook.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-perfectionists-handbook/
+  alt: The Perfectionist’s Handbook book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-perfectionists-handbook/'
 f_author-plain-text: Jeff Szymanski
 f_author: cms/authors/jeff-szymanski.md
 f_category-3: cms/summary-categories/self-management.md
@@ -41,7 +41,7 @@ f_big-idea: >-
 
   Let’s look at some ways where you can make some tangible progress in achieving
   a healthy balance.
-f_quote-reference: \- The Perfectionist’s Handbook, page 60
+f_quote-reference: '\- The Perfectionist’s Handbook, page 60'
 f_insight-2: >-
   ### Learn to Analyze Your Effort
 
@@ -128,7 +128,7 @@ f_conclusion: >-
   flexible enough to avoid perseveration, and use the Pareto Principle (80/20
   Rule) to focus on the areas where you’ll make the greatest impact.
 f_quote-2: '"Having a sense of healthy perfectionism requires balance."'
-f_amazon-url: https://www.amazon.com/dp/0470923369/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470923369/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

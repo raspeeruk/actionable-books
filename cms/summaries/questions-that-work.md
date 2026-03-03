@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:35.660Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806a57e639fa01dbf093_questions-that-work-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/questions-that-work/
+  alt: Questions that Work book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/questions-that-work/'
 f_author-plain-text: Andrew Finlayson
 f_author: cms/authors/andrew-finlayson.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -38,7 +38,7 @@ f_big-idea: >-
   from seeking answers to establishing and strengthening relationships will
   subtly alter the way I ask questions and, perhaps more importantly, how I
   listen to the responses.
-f_quote-reference: \- Questions that Work, page 48
+f_quote-reference: '\- Questions that Work, page 48'
 f_insight-2: >-
   ### Create a “To Ask” List!
 
@@ -128,7 +128,7 @@ f_quote-2: >-
   percent. Would that result in 10 percent more useful information? Would it
   save you 10 percent of your workday in time? Could it lead to a 10 percent
   raise in salary at the end of the year?"
-f_amazon-url: https://www.amazon.com/dp/0814473296/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0814473296/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

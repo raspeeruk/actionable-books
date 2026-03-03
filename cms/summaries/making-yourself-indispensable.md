@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:26.046Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78040a8157b6a52468690_indispensable.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/making-yourself-indispensable/
+  alt: Making Yourself Indispensable book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/making-yourself-indispensable/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-Making-Yourself-Indispensable.mp3
 f_author-plain-text: Mark Samuel
@@ -159,7 +159,7 @@ f_conclusion: >-
   centered or ME centered, being focused on priority or activity, and valuing or
   disregarding others. And, as a result, I find myself taking ownership of more
   and more.
-f_amazon-url: https://www.amazon.com/dp/159184469X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/159184469X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

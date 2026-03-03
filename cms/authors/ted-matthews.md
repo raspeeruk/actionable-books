@@ -1,17 +1,17 @@
 ---
 title: Ted Matthews
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Ted-Matthews/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Ted-Matthews/'
 f_unique-id: '104'
 f_image:
   url: /assets/external/65d77a5a148bd60c93d7d8ea_tm_001.jpeg
-  alt: null
+  alt: Ted Matthews
 slug: ted-matthews
 f_summaries:
   - cms/summaries/brand-it-aint-the-logo-its-what-people-think-of-you.md
 updated-on: '2024-02-23T13:30:34.850Z'
 created-on: '2024-02-22T16:46:19.253Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://www.instinctbrandequity.com/contact/tmbio.html
+f_website-2: 'http://www.instinctbrandequity.com/contact/tmbio.html'
 layout: '[authors].html'
 tags: authors
 ---

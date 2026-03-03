@@ -1,17 +1,17 @@
 ---
 title: John Wooden
-f_original-url: https://www.actionablebooks.com/en-ca/authors/John-Wooden/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/John-Wooden/'
 f_unique-id: '777'
 slug: john-wooden
 f_image:
   url: /assets/external/65d77a164fe9f51a8bbd899e_wooden-180x152.jpeg
-  alt: null
+  alt: John Wooden
 f_summaries:
   - cms/summaries/the-wisdom-of-wooden.md
 updated-on: '2024-02-23T13:30:37.768Z'
 created-on: '2024-02-22T16:45:11.867Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://www.coachwooden.com/
+f_website-2: 'http://www.coachwooden.com/'
 layout: '[authors].html'
 tags: authors
 ---

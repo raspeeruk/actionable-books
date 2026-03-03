@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:20.958Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b9b3b818ca436c800a_learn-like-a-leader.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/learn-like-a-leader/
+  alt: Learn Like a Leader book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/learn-like-a-leader/'
 f_author-plain-text: Beverly Kaye
 f_author: cms/authors/beverly-kaye.md
 f_category-3: cms/summary-categories/leadership.md
@@ -44,7 +44,7 @@ f_big-idea: >-
   teacher, I agree. You never know what your students will ask or what their
   fresh perspective will bring to the lesson, but it will definitely force you
   to revisit what you thought you knew.
-f_quote-reference: \- Learn like a Leader, page xv
+f_quote-reference: '\- Learn like a Leader, page xv'
 f_insight-2: >-
   ### Choose to Choose the Learning
 
@@ -117,7 +117,7 @@ f_quote-2: >-
   "The most powerful learning is that which comes through experience. While we
   cannot experience all that is to be learned firsthand, we can learn through
   the experience of others. "
-f_amazon-url: https://www.amazon.com/dp/1857885570/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1857885570/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

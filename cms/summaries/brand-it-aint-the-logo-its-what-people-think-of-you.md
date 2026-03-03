@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:05:51.039Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780921ee6bba16c526258_brand_it_aint_about_the_logo.jpeg
-  alt: null
+  alt: 'Brand: It Ain’t the Logo (It’s What People Think of You) book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/brand-it-aint-the-logo-its-what-people-think-of-you/
 f_author-plain-text: Ted Matthews
@@ -41,7 +41,7 @@ f_big-idea: >-
   matters that we repeat ourselves over, and over, and over again in a
   consistent fashion. This isn’t sexy. It isn’t splashy, and it’s not as
   exciting as doing something new. But it works.
-f_quote-reference: \- Brand, page 35
+f_quote-reference: '\- Brand, page 35'
 f_insight-2: >-
   ### Give them Clarity
 
@@ -96,7 +96,7 @@ f_quote-2: >-
   others. So most Brands water down their point of difference in an effort to
   avoid alienating anyone. The result, instead, is a Brand that doesn't deeply
   resonate with anyone."
-f_amazon-url: https://www.amazon.com/dp/1477698523/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1477698523/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

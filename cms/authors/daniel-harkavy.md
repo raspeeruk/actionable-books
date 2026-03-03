@@ -1,16 +1,16 @@
 ---
 title: Daniel Harkavy
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Daniel-Harkavy/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Daniel-Harkavy/'
 f_unique-id: '76'
 f_image:
   url: /assets/external/65d779d990f6f85e3dbc84bb_daniel-harkavy-180x220.jpeg
-  alt: null
+  alt: Daniel Harkavy
 slug: daniel-harkavy
 updated-on: '2024-02-23T13:31:05.656Z'
 created-on: '2024-02-22T16:44:10.576Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/danielharkavy/
-f_website-2: http://danielharkavy.com
+f_twitter-2: 'http://twitter.com/danielharkavy/'
+f_website-2: 'http://danielharkavy.com'
 layout: '[authors].html'
 tags: authors
 ---

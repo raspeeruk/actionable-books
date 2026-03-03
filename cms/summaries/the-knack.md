@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:00.054Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809b2ebc9b7d62b360cc_76198115-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-knack/
+  alt: The Knack book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-knack/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/12/ActionableBooks-Audio-The-Knack.mp3
 f_author-plain-text: Bo Burlingham
@@ -43,7 +43,7 @@ f_big-idea: >-
   The following two Insights explore how to do just that.  
 
   (And no, it doesn’t involve meeting with your Accountant.)
-f_quote-reference: \- The Knack, page 3
+f_quote-reference: '\- The Knack, page 3'
 f_insight-2: >-
   ### Track Your Numbers Weekly and Find The Key Numbers
 
@@ -183,7 +183,7 @@ f_quote-2: >-
   problem is, there aren’t any. Rather, there’s a way of thinking that allows
   someone to deal with many different situations and take advantage of many
   different opportunities as they arise."
-f_amazon-url: https://www.amazon.com/dp/1591843200/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591843200/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

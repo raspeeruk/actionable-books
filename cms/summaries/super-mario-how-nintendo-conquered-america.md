@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:44.606Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809d9b76cdf5e3a287c6_91467996-94x144.jpeg
-  alt: null
+  alt: 'Super Mario: How Nintendo Conquered America book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/super-mario-how-nintendo-conquered-america/
 f_author-plain-text: Jeff Ryan
@@ -54,7 +54,7 @@ f_big-idea: >-
   addiction. Furthermore _DK_provided an engaging narrative – Jumpman trying to
   save Lady from Donkey Kong, which was missing from previous arcade hits that
   were merely scoring games.
-f_quote-reference: \- Super Mario, page 2
+f_quote-reference: '\- Super Mario, page 2'
 f_insight-2: >-
   ### Swim in the Blue Ocean
 
@@ -139,7 +139,7 @@ f_quote-2: >-
   Mario’s gold coins was worth a million dollars, to collect that much moola he
   would have to knock his head on a coin block for almost three and a half
   hours."
-f_amazon-url: https://www.amazon.com/dp/1591844053/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591844053/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:53.546Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780da345fe67ffc991609_click-millionaires.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/click-millionaires/
+  alt: Click Millionaires book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/click-millionaires/'
 f_author-plain-text: Scott Fox
 f_author: cms/authors/scott-fox.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -42,7 +42,7 @@ f_big-idea: >-
   *   What do you most like to do?
 
   *   What kind of contribution do you want to make to the world?
-f_quote-reference: \- Click Millionaires, page 10
+f_quote-reference: '\- Click Millionaires, page 10'
 f_insight-2: >-
   ### A New USP
 
@@ -96,7 +96,7 @@ f_conclusion: ''
 f_quote-2: >-
   "The only person who cares about your personal fulfillment and financial
   independence is you."
-f_amazon-url: https://www.amazon.com/dp/B008066QW2/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B008066QW2/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:42.593Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a30c32dc84c9a54fb7_stand-out-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/stand-out/
+  alt: Stand Out book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/stand-out/'
 f_author-plain-text: Dorie Clark
 f_author: cms/authors/dorie-clark.md
 f_category-3: cms/summary-categories/leadership.md
@@ -49,7 +49,7 @@ f_big-idea: >-
 
   Your head might be spinning with all these ‘ask yourself’ questions that she’s
   developed, but that’s part of the game of coming up with your own Big Idea.
-f_quote-reference: \- Stand Out, page 2
+f_quote-reference: '\- Stand Out, page 2'
 f_insight-2: >-
   ### Developing your expert niche!
 
@@ -127,7 +127,7 @@ f_quote-2: >-
   Developing a reputation as an expert in your field attracts people who want to
   hire you, do business with you and your company, and spread your ideas. It’s
   the ultimate form of career insurance."
-f_amazon-url: https://www.amazon.com/dp/1591847400/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591847400/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

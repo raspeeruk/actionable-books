@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:53.173Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802a13cdde318a63ebe0_change-by-design-tiny-94x142.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/change-by-design-2/
+  alt: Change by Design book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/change-by-design-2/'
 f_author-plain-text: Tim Brown
 f_author: cms/authors/tim-brown.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -50,7 +50,7 @@ f_big-idea: >-
   looking to resolve immediately. Within a safe environment, taking advantage of
   everyone’s perspective and experiences can result in a team coming together –
   addressing and potentially opening up new opportunities that weren’t feasible.
-f_quote-reference: \- Change by Design, page 4
+f_quote-reference: '\- Change by Design, page 4'
 f_insight-2: >-
   ### Be optimistic
 
@@ -104,7 +104,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Design thinking taps into capacities we all have but that are overlooked by
   more conventional problem-solving practices"
-f_amazon-url: https://www.amazon.com/dp/0061766089/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0061766089/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

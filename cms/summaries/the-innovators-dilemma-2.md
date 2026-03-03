@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:59.493Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802bc687d3e7e90f4957_innovators-dilemma1.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-innovators-dilemma-2/
+  alt: The Innovator’s Dilemma book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-innovators-dilemma-2/'
 f_author-plain-text: Clayton M. Christensen
 f_author: cms/authors/clayton-m-christensen.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -47,7 +47,7 @@ f_big-idea: >-
   to propel ourselves forward. With what we want to create and engage – whether
   it to be ourselves, colleagues or consumers – how do those factors come into
   play? Will it have an impact? And if it does, how?
-f_quote-reference: \- The Innovator’s Dilemma, page 165
+f_quote-reference: '\- The Innovator’s Dilemma, page 165'
 f_insight-2: >-
   ### Appraising an organization’s capabilities and disabilities
 
@@ -134,7 +134,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Markets that do not exist cannot be analyzed: Suppliers and customers must
   discover them together"
-f_amazon-url: https://www.amazon.com/dp/0062060244/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062060244/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

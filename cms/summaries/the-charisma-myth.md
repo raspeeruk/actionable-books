@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:52.194Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809e96d29f515b364e0c_151961897.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-charisma-myth/
+  alt: The Charisma Myth book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-charisma-myth/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/05/ActionableBooks-Audio-The-Charisma-Myth.mp3
 f_author-plain-text: Olivia Fox Cabane
@@ -68,7 +68,7 @@ f_big-idea: >-
   to our capabilities – eliminating the roadblocks and empowering our ability to
   lead more effectively and successfully. The following Insights offer two
   examples of how to utilize your untapped charisma.
-f_quote-reference: \- The Charisma Myth, page 2
+f_quote-reference: '\- The Charisma Myth, page 2'
 f_insight-2: >-
   ### Be Self Compassionate
 
@@ -148,7 +148,7 @@ f_quote-2: >-
   "Charisma gets people to like you, trust you, and want to be led by you. It
   can determine whether you’re seen as a follower or a leader, whether your
   ideas get adopted, and how effectively your projects are implemented."
-f_amazon-url: https://www.amazon.com/dp/1591844568/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591844568/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

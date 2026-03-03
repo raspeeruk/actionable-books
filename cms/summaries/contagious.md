@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:54.602Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808e0fab8426e4496e6e_contagious.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/contagious/
+  alt: Contagious book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/contagious/'
 f_author-plain-text: Jonah Berger
 f_author: cms/authors/jonah-berger.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -37,7 +37,7 @@ f_big-idea: >-
   an interested audience. I won’t share, for example, my enthusiasm about this
   book with everyone I meet. I will share it, however, with people who are
   either interested in growing their business or selling their product.
-f_quote-reference: \- Contagious, page 27
+f_quote-reference: '\- Contagious, page 27'
 f_insight-2: >-
   ### Top of mind means tip of tongue
 
@@ -161,7 +161,7 @@ f_quote-2: >-
   "This book provides cutting-edge science about how word of mouth and social
   transmission work. And how you can leverage them to make your products and
   ideas succeed."
-f_amazon-url: https://www.amazon.com/dp/1451686579/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1451686579/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,18 +1,18 @@
 ---
 title: Rowan Gibson
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Rowan-Gibson/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Rowan-Gibson/'
 f_unique-id: '648'
 slug: rowan-gibson
 f_image:
   url: /assets/external/65d77a4afa40147c413b63d3_rowan-gibson-180x220.jpeg
-  alt: null
+  alt: Rowan Gibson
 f_summaries:
   - cms/summaries/the-four-lenses-of-innovation.md
 updated-on: '2024-02-23T13:30:47.162Z'
 created-on: '2024-02-22T16:46:02.409Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/RowanGibson/
-f_website-2: http://rowangibson.com
+f_twitter-2: 'http://twitter.com/RowanGibson/'
+f_website-2: 'http://rowangibson.com'
 layout: '[authors].html'
 tags: authors
 ---

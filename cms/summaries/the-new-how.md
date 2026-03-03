@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:04.036Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78059a2b1b7975210ab95_the-new-how-full-sm-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-new-how/
+  alt: The New How book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-new-how/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/02/Actionable_Books_Audio_-_The_New_How.mp3
 f_author-plain-text: Nilofer Merchant
@@ -112,7 +112,7 @@ f_conclusion: >-
   of personal examples from Merchant’s employee and consulting experience with
   firms like Adobe, Apple Nokia and HP, _The New How_ is a book I believe will
   continue to build credibility and support in the decades to come.
-f_amazon-url: https://www.amazon.com/dp/0596156251/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0596156251/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

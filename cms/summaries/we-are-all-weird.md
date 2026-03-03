@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:20.522Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780bd5c2518978102b3f2_we_are_all_weird-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/we-are-all-weird/
+  alt: We Are All Weird book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/we-are-all-weird/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/09/ActionableBooks-Audio-We-Are-All-Weird.mp3
 f_author-plain-text: Seth Godin
@@ -38,7 +38,7 @@ f_big-idea: >-
   their friends about your weird, and proudly share with their world the loyalty
   they feel to your brand. Flying Dog has rabid fans (pun intended). Their fans
   are loyal because of the _specificity of the weird._
-f_quote-reference: \- We Are All Weird, page 16
+f_quote-reference: '\- We Are All Weird, page 16'
 f_insight-2: >-
   ### Connect the Weird
 
@@ -122,7 +122,7 @@ f_quote-2: >-
   "Weird (not normal) means that you've made a choice, that you've stood up for
   what you believe in and done what you want, not what the marketer wants. More
   and more, that's precisely what's happening."
-f_amazon-url: https://www.amazon.com/dp/1936719223/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1936719223/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

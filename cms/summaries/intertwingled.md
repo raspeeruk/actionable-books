@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:17.638Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805e2f4b2fce2806989c_intertwingled-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/intertwingled/
+  alt: Intertwingled book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/intertwingled/'
 f_author-plain-text: Peter Morville
 f_author: cms/authors/peter-morville.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -43,7 +43,7 @@ f_big-idea: >-
   knowing completely. In a humble way and with an extraordinary insight Morville
   opens the door to collaboration. He invites us to ask questions and seek
   answers together.
-f_quote-reference: \- Intertwingled, page vii
+f_quote-reference: '\- Intertwingled, page vii'
 f_insight-2: >-
   ### Buddha was an Information Architect
 
@@ -119,7 +119,7 @@ f_conclusion: >-
 f_quote-2: >-
   "People keep pretending they can make things hierarchical, categorizable, and
   sequential when they can’t. Everything is deeply intertwingled.”
-f_amazon-url: https://www.amazon.com/dp/0692225587/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0692225587/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

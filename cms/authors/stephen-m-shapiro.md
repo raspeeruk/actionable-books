@@ -1,16 +1,16 @@
 ---
 title: Stephen M. Shapiro
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Stephen-M.-Shapiro/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Stephen-M.-Shapiro/'
 f_unique-id: '84'
 slug: stephen-m-shapiro
 f_image:
   url: /assets/external/65d77a531a2f737b196b0429_steve-shapiro-lg-180x220.jpeg
-  alt: null
+  alt: Stephen M. Shapiro
 updated-on: '2024-02-23T13:31:31.303Z'
 created-on: '2024-02-22T16:46:11.139Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://www.facebook.com/personalitypokerbook
-f_twitter-2: http://twitter.com/perspokerbook/
+f_facebook-2: 'http://www.facebook.com/personalitypokerbook'
+f_twitter-2: 'http://twitter.com/perspokerbook/'
 layout: '[authors].html'
 tags: authors
 ---

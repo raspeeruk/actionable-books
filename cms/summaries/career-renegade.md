@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:52.704Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78064ab601995e06fb8e7_career_renegade.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/career-renegade/
+  alt: Career Renegade book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/career-renegade/'
 f_author-plain-text: Jonathan Fields
 f_author: cms/authors/jonathan-fields.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
@@ -42,7 +42,7 @@ f_big-idea: >-
   losing weight and giving up smoking. Eventually this compilation of articles
   became [ZenHabits.net](http://www.zenhabits.net/). Leo mentions that it was
   hard work for several years, but juggling the workload paid off.
-f_quote-reference: \- Career Renegade, page 269
+f_quote-reference: '\- Career Renegade, page 269'
 f_insight-2: >-
   ### The 7 Career Renegade Paths
 
@@ -127,7 +127,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Like Helen Keller said, ‘Life is either a daring adventure, or nothing.’ What
   are you waiting for?"
-f_amazon-url: https://www.amazon.com/dp/0767927419/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0767927419/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

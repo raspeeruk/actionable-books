@@ -1,16 +1,16 @@
 ---
 title: Robin Sharma
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Robin-Sharma/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Robin-Sharma/'
 f_unique-id: '654'
 f_image:
   url: /assets/external/65d77a4848ca369e0e99fff6_robin-sharma-lg-180x220.jpeg
-  alt: null
+  alt: Robin Sharma
 slug: robin-sharma
 updated-on: '2024-02-23T13:31:23.021Z'
 created-on: '2024-02-22T16:46:00.327Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://www.facebook.com/theofficialrobinsharmapage
-f_twitter-2: http://twitter.com/_robin_sharma/
+f_facebook-2: 'http://www.facebook.com/theofficialrobinsharmapage'
+f_twitter-2: 'http://twitter.com/_robin_sharma/'
 layout: '[authors].html'
 tags: authors
 ---

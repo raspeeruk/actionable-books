@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:23.649Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804d52fced3f2a0aeb70_mad-genius-94x144.jpeg
-  alt: null
+  alt: 'Mad Genius: A Manifesto for Entrepreneurs book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/mad-genius-a-manifesto-for-entrepreneurs/
 f_author-plain-text: Randy Gage
@@ -69,7 +69,7 @@ f_big-idea: >-
   But get started with the confidence and belief from the author that “There has
   never been a goal worth achieving that didn’t warrant some failure along the
   way.”
-f_quote-reference: \- Mad Genius, page 11
+f_quote-reference: '\- Mad Genius, page 11'
 f_insight-2: >-
   ### Create possibilities
 
@@ -194,7 +194,7 @@ f_quote-2: >-
   are prepared to lead in an age of exponential disruption. Because whether you
   work in a traditional business…or are a government official…the best way to
   create fresh and innovative solutions is to think like an entrepreneur."
-f_amazon-url: https://www.amazon.com/dp/0399175563/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0399175563/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

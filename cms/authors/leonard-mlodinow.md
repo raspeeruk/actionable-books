@@ -1,17 +1,17 @@
 ---
 title: Leonard Mlodinow
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Leonard-Mlodinow/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Leonard-Mlodinow/'
 f_unique-id: '547'
 slug: leonard-mlodinow
 f_image:
   url: /assets/external/65d77a237a09868617747849_leonard_mlodinow.jpeg
-  alt: null
+  alt: Leonard Mlodinow
 f_summaries:
   - cms/summaries/subliminal.md
 updated-on: '2024-02-23T13:30:34.783Z'
 created-on: '2024-02-22T16:45:24.047Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://www.its.caltech.edu/~len/
+f_website-2: 'http://www.its.caltech.edu/~len/'
 layout: '[authors].html'
 tags: authors
 ---

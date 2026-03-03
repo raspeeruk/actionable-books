@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:12.794Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803d0882405b4cf0f24a_how-not-to-be-wrong-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/how-not-to-be-wrong/
+  alt: How Not to Be Wrong book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/how-not-to-be-wrong/'
 f_author-plain-text: Jordan Ellenberg
 f_author: cms/authors/jordan-ellenberg.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -37,7 +37,7 @@ f_big-idea: >-
   that demonstrate how digging into what assumptions are we making—and if they
   are justified—can provide you an outcome you may otherwise not have
   considered.
-f_quote-reference: \- How Not to Be Wrong, page 16
+f_quote-reference: '\- How Not to Be Wrong, page 16'
 f_insight-2: >-
   ### Lines are curves. Curves are lines.
 
@@ -106,7 +106,7 @@ f_quote-2: >-
   "The mathematical ideas we want to address are ones that can be engaged with
   directly and profitably, whether your mathematical training stops at
   pre-algebra or extends much further."
-f_amazon-url: https://www.amazon.com/dp/0143127535/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0143127535/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:14.056Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78024f40a70780ee99bae_how_to_talk_to_anyone.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/how-to-talk-to-anyone/
+  alt: How to Talk to Anyone book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/how-to-talk-to-anyone/'
 f_author-plain-text: Leil Lowndes
 f_author: cms/authors/leil-lowndes.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -35,7 +35,7 @@ f_big-idea: >-
   The phrase “Thank You” is used so often that people often don’t hear it. To
   make them truly feel appreciated, simply add what you are thanking them for:
   “Thank you for your kind offer” or “Thank you for the compliment.”
-f_quote-reference: \- How to Talk to Anyone, page 43
+f_quote-reference: '\- How to Talk to Anyone, page 43'
 f_insight-2: >-
   ### Friendly First Impressions
 
@@ -119,7 +119,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Small talk! Can you hear the shudder? These two little words drive a stake
   into the hearts of some otherwise fearless and undaunted souls."
-f_amazon-url: https://www.amazon.com/dp/007141858X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/007141858X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

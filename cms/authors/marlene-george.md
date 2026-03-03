@@ -1,18 +1,18 @@
 ---
 title: Marlene George
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Marlene-George/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Marlene-George/'
 f_unique-id: '869'
 slug: marlene-george
 f_image:
   url: /assets/external/65d77a2bf8540e935862baa3_marlene-george-180x220.jpeg
-  alt: null
+  alt: Marlene George
 f_summaries:
   - cms/summaries/your-life-is-now.md
 updated-on: '2024-02-23T13:30:32.989Z'
 created-on: '2024-02-22T16:45:31.655Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/marlenegeorge/
-f_website-2: http://www.marlenegeorge.com/
+f_twitter-2: 'http://twitter.com/marlenegeorge/'
+f_website-2: 'http://www.marlenegeorge.com/'
 layout: '[authors].html'
 tags: authors
 ---

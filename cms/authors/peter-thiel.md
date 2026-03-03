@@ -1,18 +1,18 @@
 ---
 title: Peter Thiel
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Peter-Thiel/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Peter-Thiel/'
 f_unique-id: '871'
 slug: peter-thiel
 f_image:
   url: /assets/external/65d77a3ff780a90bc645ec43_peter-theil-180x220.jpeg
-  alt: null
+  alt: Peter Thiel
 f_summaries:
   - cms/summaries/zero-to-one.md
 updated-on: '2024-02-23T13:30:27.811Z'
 created-on: '2024-02-22T16:45:51.243Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/peterthiel/
-f_website-2: http://ZeroToOneBook.com
+f_twitter-2: 'http://twitter.com/peterthiel/'
+f_website-2: 'http://ZeroToOneBook.com'
 layout: '[authors].html'
 tags: authors
 ---

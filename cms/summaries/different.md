@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:00.882Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78024417034580217e63f_9780307460868_p0_v1_s114x166.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/different/
+  alt: Different book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/different/'
 f_author-plain-text: Youngme Moon
 f_author: cms/authors/youngme-moon.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -43,7 +43,7 @@ f_big-idea: >-
   look more and more like all the others. It’s conformity of the herd at its
   finest. And it is the exact opposite of what we want to create. So how do we
   become “different”?
-f_quote-reference: \- Different, Chapter 1
+f_quote-reference: '\- Different, Chapter 1'
 f_insight-2: >-
   ### Individuality Has Its Price And Its Benefits
 
@@ -102,7 +102,7 @@ f_conclusion: >-
   else and you fade into the sameness of the grocery aisle shelves of breakfast
   cereal.
 f_quote-2: '"…any competitive metric, tends to bring out the herd in us."'
-f_amazon-url: https://www.amazon.com/dp/030746086X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/030746086X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,18 +1,18 @@
 ---
 title: Twlya Tharp
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Twlya-Tharp/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Twlya-Tharp/'
 f_unique-id: '620'
 slug: twlya-tharp
 f_image:
   url: /assets/external/65d77a61eec53b71dc747adf_tharp.jpeg
-  alt: null
+  alt: Twlya Tharp
 f_summaries:
   - cms/summaries/the-creative-habit.md
 updated-on: '2024-02-23T13:30:41.629Z'
 created-on: '2024-02-22T16:46:25.842Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/TharpTwyla/
-f_website-2: http://twylatharp.org
+f_twitter-2: 'http://twitter.com/TharpTwyla/'
+f_website-2: 'http://twylatharp.org'
 layout: '[authors].html'
 tags: authors
 ---

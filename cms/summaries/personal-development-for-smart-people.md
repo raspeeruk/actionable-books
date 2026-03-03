@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780847434e224b36c147f_personal_development_for_smart_people.jpeg
-  alt: null
+  alt: Personal Development for Smart People book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/personal-development-for-smart-people/
 f_podcast-url: >-
@@ -81,7 +81,7 @@ f_big-idea: >-
 
 
   So where do we go next?
-f_quote-reference: \- Personal Development for Smart People, page xv
+f_quote-reference: '\- Personal Development for Smart People, page xv'
 f_insight-2: >-
   ### Power
 
@@ -192,7 +192,7 @@ f_quote-2: >-
   intuitive sense, satisfying both head and heart. It would have to appear
   logically correct in order to satisfy the left brain, and it would have to
   feel intuitively correct in order to engage the right brain."
-f_amazon-url: https://www.amazon.com/dp/1401922767/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1401922767/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

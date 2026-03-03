@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:38.705Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802d327123816fae3535_search-inside-yourself.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/search-inside-yourself/
+  alt: Search Inside Yourself book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/search-inside-yourself/'
 f_author-plain-text: Chade Meng Tan
 f_author: cms/authors/chade-meng-tan.md
 f_category-3: cms/summary-categories/self-management.md
@@ -67,7 +67,7 @@ f_big-idea: >-
   Each time that you create an intention, what you’re doing is forming or
   reinforcing a mental habit. Over time, that habit will eventually guide your
   behavior.
-f_quote-reference: \- Search Inside Yourself, page 52
+f_quote-reference: '\- Search Inside Yourself, page 52'
 f_insight-2: >-
   ### Mindful Emailing
 
@@ -221,7 +221,7 @@ f_quote-2: >-
   "The Mind of calmness and clarity you experience while sitting in mindfulness
   meditation is very nice, but it only becomes life changing when you can bring
   up that mind on demand, in day-to-day life."
-f_amazon-url: https://www.amazon.com/dp/0062116932/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062116932/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

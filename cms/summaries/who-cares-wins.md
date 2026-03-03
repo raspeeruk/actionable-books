@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:22.351Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804319cb93b807125ffa_who-cares-wins.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/who-cares-wins/
+  alt: Who Cares Wins book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/who-cares-wins/'
 f_author-plain-text: David Jones
 f_author: cms/authors/david-jones.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -68,7 +68,7 @@ f_big-idea: >-
   *   watches it happen
 
   *   wakes up too late and wonders what happened?
-f_quote-reference: \- Who Cares Wins, page xiv
+f_quote-reference: '\- Who Cares Wins, page xiv'
 f_insight-2: >-
   ### Collaboration
 
@@ -162,7 +162,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Social media has dramatically empowered people. And I believe that people are
   fundamentally good and will use this power to make the world a better place."
-f_amazon-url: https://www.amazon.com/dp/0273762532/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0273762532/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

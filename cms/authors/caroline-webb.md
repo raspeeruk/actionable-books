@@ -1,17 +1,17 @@
 ---
 title: Caroline Webb
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Caroline-Webb/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Caroline-Webb/'
 f_unique-id: '287'
 slug: caroline-webb
 f_image:
   url: /assets/external/65d779ce192430f52a08f213_carloine-webb-180x166.jpeg
-  alt: null
+  alt: Caroline Webb
 f_summaries:
   - cms/summaries/how-to-have-a-good-day.md
 updated-on: '2024-02-23T13:31:08.126Z'
 created-on: '2024-02-22T16:43:59.532Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://carolinewebb.co/
+f_website-2: 'http://carolinewebb.co/'
 layout: '[authors].html'
 tags: authors
 ---

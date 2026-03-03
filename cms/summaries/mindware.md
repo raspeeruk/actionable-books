@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:27.234Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804a71f7aab80c3124de_mindware-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/mindware/
+  alt: Mindware book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/mindware/'
 f_author-plain-text: Richard E. Nisbett
 f_author: cms/authors/richard-e-nisbett.md
 f_category-3: cms/summary-categories/self-management.md
@@ -54,7 +54,7 @@ f_big-idea: >-
   when we are evaluating decisions others have made and information that we
   receive, we should try to understand whether it is backed by assumptions—or
   experiments.
-f_quote-reference: \- Mindware, page 32
+f_quote-reference: '\- Mindware, page 32'
 f_insight-2: >-
   ### The Sunk Cost Fallacy
 
@@ -135,7 +135,7 @@ f_quote-2: >-
   about just how certain we should be about our judgments, as well as a
   recognition that the views of other people that differ from our own may have
   more validity than our intuitions tell us they do."
-f_amazon-url: https://www.amazon.com/dp/0374112673/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0374112673/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

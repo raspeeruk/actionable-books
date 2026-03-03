@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780d91de9c6d7938ee3b7_so-good-they-cant-ignore-you-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/so-good-they-cant-ignore-you/
+  alt: So Good They Can’t Ignore You book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/so-good-they-cant-ignore-you/'
 f_author-plain-text: Cal Newport
 f_author: cms/authors/cal-newport.md
 f_category-3: cms/summary-categories/self-management.md
@@ -60,7 +60,7 @@ f_big-idea: >-
   can accelerate past their peers in the acquisition of career capital. For
   example, Cal’s deliberate practice routine includes summarising a research
   paper weekly, indicating how it might be relevant to his research.
-f_quote-reference: \- So Good They Can’t Ignore You, page 42
+f_quote-reference: '\- So Good They Can’t Ignore You, page 42'
 f_insight-2: >-
   ### The Power of Mission
 
@@ -159,7 +159,7 @@ f_quote-2: >-
   "If you want to love what you do, abandon the passion mindset (‘what can the
   world offer me’) and instead adopt the craftsman mindset (‘what can I offer
   the world’)."
-f_amazon-url: https://www.amazon.com/dp/B0076DDBJ6/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B0076DDBJ6/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

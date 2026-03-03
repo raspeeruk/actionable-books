@@ -1,6 +1,6 @@
 ---
 f_unique-number: 236
-title: First, Break All the Rules
+title: 'First, Break All the Rules'
 slug: first-break-all-the-rules
 updated-on: '2024-02-27T20:30:43.879Z'
 created-on: '2024-02-22T16:06:07.460Z'
@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7805a0fab8426e4494b01_first-break-all-the-rules-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/first-break-all-the-rules/
+  alt: 'First, Break All the Rules book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/first-break-all-the-rules/'
 f_author-plain-text: Curt Coffman
 f_author: cms/authors/curt-coffman.md
 f_category-3: cms/summary-categories/leadership.md
@@ -76,7 +76,7 @@ f_big-idea: >-
   questions then you have the ability to attract and retain quality employees.
   The importance of influential perks, pay, or a charismatic CEO were not
   established in the author’s research.
-f_quote-reference: \- First Break all the Rules, page 3
+f_quote-reference: '\- First Break all the Rules, page 3'
 f_insight-2: >-
   ### Temptations to Avoid
 
@@ -171,7 +171,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Before they do anything else, they break all the rules of conventional
   wisdom”
-f_amazon-url: https://www.amazon.com/dp/595621113/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/595621113/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

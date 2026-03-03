@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780644b8c885f258cd951_developing-the-leader-within-you.jpeg
-  alt: null
+  alt: Developing the Leader Within You – Part 2 book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/developing-the-leader-within-you-part-2/
 f_podcast-url: >-
@@ -39,7 +39,7 @@ f_big-idea: >-
   Motivation doesn’t come from someone’s words, no matter how impactful.
   Motivation does, however, share this fascinating and reciprocal relationship
   with “Action”.
-f_quote-reference: \- Developing the Leader Within You, page 120
+f_quote-reference: '\- Developing the Leader Within You, page 120'
 f_insight-2: >-
   ### Be Different
 
@@ -97,7 +97,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Most people think success is instantaneous. They look at it as a moment, an
   event, or a place in time. It’s not. Success is really a process."
-f_amazon-url: https://www.amazon.com/dp/0785281126/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0785281126/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

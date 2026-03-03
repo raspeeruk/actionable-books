@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:55.089Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78055f40a70780ee9ae3e_content-rules.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/content-rules/
+  alt: Content Rules book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/content-rules/'
 f_author-plain-text: Ann Handley
 f_author: cms/authors/ann-handley.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -103,7 +103,7 @@ f_insight-1: >-
   customers, interviewing luminaries, monitoring search keywords, create how-to
   content and invite guest posts.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0470648287/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470648287/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:06.480Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78030124d447bdbf6ba3a_power-of-fifty-bits-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-power-of-fifty-bits/
+  alt: The Power of Fifty Bits book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-power-of-fifty-bits/'
 f_author-plain-text: Bob Nease
 f_author: cms/authors/bob-nease.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -50,7 +50,7 @@ f_big-idea: >-
   So how does all this insight into our internal mapping help us in directing
   our behavior towards the actions we want to take? We can begin by improving
   the ease of following through on a preferred action.
-f_quote-reference: \- The Power of Fifty Bits, page 156
+f_quote-reference: '\- The Power of Fifty Bits, page 156'
 f_insight-2: >-
   ### Reframing Choices Using Loss Aversion
 
@@ -114,7 +114,7 @@ f_quote-2: >-
   our brains are instead wired for inattention and inertia. These limitations
   lead to a persistent gap between our internal intentions and our outward
   actions.”
-f_amazon-url: https://www.amazon.com/dp/0062407457/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062407457/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

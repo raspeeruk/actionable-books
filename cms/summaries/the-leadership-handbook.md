@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:01.060Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803aad5b1f46c9a64588_leadership-handbook-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-leadership-handbook/
+  alt: The Leadership Handbook book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-leadership-handbook/'
 f_author-plain-text: John C. Maxwell
 f_author: cms/authors/john-c-maxwell.md
 f_category-3: cms/summary-categories/leadership.md
@@ -57,7 +57,7 @@ f_big-idea: >-
   you. Now, assess to what degree you are using that strength in your present
   career and how you can use it more. Do this same exercise with your people.
   How can you help them use their strengths more?
-f_quote-reference: \- The Leadership Handbook, page xi
+f_quote-reference: '\- The Leadership Handbook, page xi'
 f_insight-2: >-
   ### The top 5 factors of excellence in an organization? People, people,
   people, people and people
@@ -146,7 +146,7 @@ f_conclusion: >-
   growing. Congratulations for being part of the minority. You will add value
   and multiply that value through your leadership of others.
 f_quote-2: '"Leadership is, above all, courageous."'
-f_amazon-url: https://www.amazon.com/dp/140020593X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/140020593X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

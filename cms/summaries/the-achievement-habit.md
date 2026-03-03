@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:47.618Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802f97d45cdc3efa4910_achievement-habit-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-achievement-habit/
+  alt: The Achievement Habit book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-achievement-habit/'
 f_author-plain-text: Bernard Roth
 f_author: cms/authors/bernard-roth.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -63,7 +63,7 @@ f_big-idea: >-
 
   Design thinking helps to avoid these pitfalls and many more in our personal
   life and the organizations we work in.
-f_quote-reference: \- The Achievement Habit, page 5
+f_quote-reference: '\- The Achievement Habit, page 5'
 f_insight-2: >-
   ### A Bias Toward Action
 
@@ -119,7 +119,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Achievement can be learned. It is a muscle, and once you learn to flex it,
   there’s no end to what you can accomplish in life."
-f_amazon-url: https://www.amazon.com/dp/0062356100/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062356100/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:38.222Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808c899573618576c93a_running-lean.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/running-lean/
+  alt: Running Lean book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/running-lean/'
 f_author-plain-text: Ash Maurya
 f_author: cms/authors/ash-maurya.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -34,7 +34,7 @@ f_big-idea: >-
   it can’t be confirmed and you won’t learn what you need. The goal of a startup
   is not growing, but learning. If you learn the right things, growing will take
   care of itself.
-f_quote-reference: \- Running Lean, page XXIII
+f_quote-reference: '\- Running Lean, page XXIII'
 f_insight-2: >-
   ### Learn what you are doing
 
@@ -104,7 +104,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The key takeaway from Lean Startup can best be summed up around the concept
   of using smaller, faster iterations for testing a vision."
-f_amazon-url: https://www.amazon.com/dp/1449305172/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1449305172/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

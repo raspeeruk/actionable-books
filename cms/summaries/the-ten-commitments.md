@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:11.992Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806296d29f515b362c65_the-ten-commitments-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-ten-commitments/
+  alt: The Ten Commitments book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-ten-commitments/'
 f_author-plain-text: David Simon
 f_author: cms/authors/david-simon.md
 f_category-3: cms/summary-categories/self-management.md
@@ -52,7 +52,7 @@ f_big-idea: >-
   9.  Truth
 
   10.  Peace
-f_quote-reference: \- Hafiz, quoted in The Ten Commitments, page 1
+f_quote-reference: '\- Hafiz, quoted in The Ten Commitments, page 1'
 f_insight-2: >-
   ### Commit to Acceptance
 
@@ -143,7 +143,7 @@ f_conclusion: >-
 f_quote-2: >-
   "When all your desires are distilled you will cast just two votes: To love
   more and to be happy."
-f_amazon-url: https://www.amazon.com/dp/0757304060/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0757304060/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

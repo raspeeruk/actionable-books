@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:05.546Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809cf91f45c228071c73_the-oz-principle-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-oz-principle/
+  alt: The OZ Principle book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-oz-principle/'
 f_author-plain-text: Craig Hickman
 f_author: cms/authors/craig-hickman.md
 f_category-3: cms/summary-categories/leadership.md
@@ -123,7 +123,7 @@ f_conclusion: >-
   The authors remind us that “only when you assume full accountability for your
   thoughts, feelings, actions, and results can you direct your own destiny;
   otherwise someone or something else will.”
-f_amazon-url: https://www.amazon.com/dp/1591843480/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591843480/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,11 +1,11 @@
 ---
 title: William R. Duggan
-f_original-url: https://www.actionablebooks.com/en-ca/authors/William-R.-Duggan/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/William-R.-Duggan/'
 f_unique-id: '153'
 slug: william-r-duggan
 f_image:
   url: /assets/external/65d77a648edbc07e760bda22_william_duggan.jpeg
-  alt: null
+  alt: William R. Duggan
 updated-on: '2024-02-23T13:31:17.675Z'
 created-on: '2024-02-22T16:46:28.961Z'
 published-on: '2024-02-23T13:42:23.311Z'

@@ -1,10 +1,10 @@
 ---
 title: Randy Komisar
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Randy-Komisar/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Randy-Komisar/'
 f_unique-id: '688'
 f_image:
   url: /assets/external/65d77a419c49c73f4147d964_komisar.jpeg
-  alt: null
+  alt: Randy Komisar
 f_summaries:
   - cms/summaries/the-monk-and-the-riddle.md
 slug: randy-komisar

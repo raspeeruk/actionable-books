@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:30.669Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780482b2bb9366f80778e_outliers-sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/outliers/
+  alt: Outliers book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/outliers/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/01/ActionableBooks-Audio-Outliers.mp3
 f_author-plain-text: Malcolm Gladwell
@@ -104,7 +104,7 @@ f_conclusion: >-
   big but), Gladwell makes it very clear that all the opportunity in the world
   will not guarantee success if they are not coupled with a passion for what we
   do, and a dedication to perfecting our craft.
-f_amazon-url: https://www.amazon.com/dp/0316017922/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0316017922/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

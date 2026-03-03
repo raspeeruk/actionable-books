@@ -1,10 +1,10 @@
 ---
 title: Christopher Rice
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Christopher-Rice/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Christopher-Rice/'
 f_unique-id: '637'
 f_image:
   url: /assets/external/65d779d14df57c64241a691b_christopher-rice-180x220.jpeg
-  alt: null
+  alt: Christopher Rice
 slug: christopher-rice
 f_summaries:
   - cms/summaries/the-engagement-equation.md

@@ -1,18 +1,18 @@
 ---
 title: Anthony Tjan
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Anthony-Tjan/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Anthony-Tjan/'
 f_unique-id: '258'
 slug: anthony-tjan
 f_image:
   url: /assets/external/65d779b2b9c74277592fdfc4_anthony-tjan-180x167.jpeg
-  alt: null
+  alt: Anthony Tjan
 f_summaries:
   - cms/summaries/good-people.md
 updated-on: '2024-02-23T13:31:12.257Z'
 created-on: '2024-02-22T16:43:30.577Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/anthonytjan/
-f_website-2: http://aboutgoodpeople.com
+f_twitter-2: 'http://twitter.com/anthonytjan/'
+f_website-2: 'http://aboutgoodpeople.com'
 layout: '[authors].html'
 tags: authors
 ---

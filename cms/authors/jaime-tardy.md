@@ -1,18 +1,18 @@
 ---
 title: Jaime Tardy
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Jaime-Tardy/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Jaime-Tardy/'
 f_unique-id: '639'
 f_image:
   url: /assets/external/65d77a01e303a77ff77b8d92_jaime-tardy.jpeg
-  alt: null
+  alt: Jaime Tardy
 slug: jaime-tardy
 f_summaries:
   - cms/summaries/the-eventual-millionaire.md
 updated-on: '2024-02-23T13:30:59.581Z'
 created-on: '2024-02-22T16:44:49.815Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/eventualmillion/
-f_website-2: http://eventualmillionaire.com/
+f_twitter-2: 'http://twitter.com/eventualmillion/'
+f_website-2: 'http://eventualmillionaire.com/'
 layout: '[authors].html'
 tags: authors
 ---

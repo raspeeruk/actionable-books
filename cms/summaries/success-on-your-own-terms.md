@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780abb4b3d748708ae0d4_success-on-your-own-terms-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/success-on-your-own-terms/
+  alt: Success on Your Own Terms book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/success-on-your-own-terms/'
 f_author-plain-text: James B. Rousseau Sr.
 f_author: cms/authors/james-b-rousseau-sr.md
 f_category-3: cms/summary-categories/self-management.md
@@ -54,7 +54,7 @@ f_big-idea: >-
   6.  **Practice philanthropy.** Not just with your money but also with your
   time and talent. Align your philanthropy to what you are truly passionate
   about.
-f_quote-reference: \- Success on Your Own Terms, page 15
+f_quote-reference: '\- Success on Your Own Terms, page 15'
 f_insight-2: >-
   ### Treat Networking like a Second Job.
 
@@ -129,7 +129,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Life is too long not to be spending it doing something that you are genuinely
   passionate about.”
-f_amazon-url: https://www.amazon.com/dp/1601633157/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1601633157/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

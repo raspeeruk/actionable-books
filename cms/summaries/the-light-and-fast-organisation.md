@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7805f23d6375759844229_light-and-fast-organisationb-94x144.jpeg
-  alt: null
+  alt: The Light and Fast Organisation book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-light-and-fast-organisation/
 f_author-plain-text: Patrick Hollingworth
@@ -55,7 +55,7 @@ f_big-idea: >-
   *   **Inspired** – love their job
 
   *   **Destined** – born for it
-f_quote-reference: \- The Light and Fast Organisation, page xviii
+f_quote-reference: '\- The Light and Fast Organisation, page xviii'
 f_insight-2: >-
   ### Take time to decide what to do next
 
@@ -136,7 +136,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Regardless of the forthcoming storm, we have a choice as to how we tackle the
   climb ahead"
-f_amazon-url: https://www.amazon.com/dp/0730328279/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0730328279/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

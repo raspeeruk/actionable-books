@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:55.521Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802f38e9272e48f4bb9e_the-end-of-average-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-end-of-average/
+  alt: The End of Average book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-end-of-average/'
 f_author-plain-text: Todd Rose
 f_author: cms/authors/todd-rose.md
 f_category-3: cms/summary-categories/self-management.md
@@ -37,7 +37,7 @@ f_big-idea: >-
   conform to standards because it is ingrained in our culture. However, the
   ideal is an illusion based on the false belief that we should share the same
   attributes and that we all have the same potential.
-f_quote-reference: \- The End of Average, page 11
+f_quote-reference: '\- The End of Average, page 11'
 f_insight-2: >-
   ### Make the opportunity fit the person
 
@@ -112,7 +112,7 @@ f_quote-2: >-
   average character. Nor are there average students or average employees – or
   average brains, for that matter. Every one of these familiar notions is a
   figment of a misguided scientific imagination."
-f_amazon-url: https://www.amazon.com/dp/0062358367/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062358367/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

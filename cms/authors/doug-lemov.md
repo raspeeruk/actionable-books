@@ -1,18 +1,18 @@
 ---
 title: Doug Lemov
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Doug-Lemov/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Doug-Lemov/'
 f_unique-id: '463'
 f_image:
   url: /assets/external/65d779ec8c2c4eb282715709_doug-lemov.jpeg
-  alt: null
+  alt: Doug Lemov
 slug: doug-lemov
 f_summaries:
   - cms/summaries/practice-perfect.md
 updated-on: '2024-02-23T13:30:41.632Z'
 created-on: '2024-02-22T16:44:28.377Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/UncommonSchools/
-f_website-2: http://uncommonschools.org
+f_twitter-2: 'http://twitter.com/UncommonSchools/'
+f_website-2: 'http://uncommonschools.org'
 layout: '[authors].html'
 tags: authors
 ---

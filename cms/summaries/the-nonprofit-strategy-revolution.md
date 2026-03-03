@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:07:04.426Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806cbe5355ca5090489b_nonprofit-strategy-revolution.jpeg
-  alt: null
+  alt: The Nonprofit Strategy Revolution book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-nonprofit-strategy-revolution/
 f_author-plain-text: David La Piana
@@ -49,7 +49,7 @@ f_big-idea: >-
   our decision-making. Once the criteria for a nonprofit is formulated, it can
   be used through the organization’s departments. It is a simple but practical
   tool that should be added to best practices for nonprofits strategic planning.
-f_quote-reference: \- The Nonprofit Strategy Revolution, page XV
+f_quote-reference: '\- The Nonprofit Strategy Revolution, page XV'
 f_insight-2: >-
   ### A fast response environment
 
@@ -124,7 +124,7 @@ f_quote-2: >-
   "Every nonprofit leader who breaks out of the three-year planning cycle to
   form strategies as opportunities and challenges arise is manning the strategy
   revolution barricades"
-f_amazon-url: https://www.amazon.com/dp/0940069652/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0940069652/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

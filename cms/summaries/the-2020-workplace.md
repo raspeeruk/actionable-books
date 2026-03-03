@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:47.529Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802a540dd98b67c361d2_the-2020-workplace-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-2020-workplace/
+  alt: The 2020 Workplace book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-2020-workplace/'
 f_author-plain-text: Jeanne C. Meister
 f_author: cms/authors/jeanne-c-meister.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -36,7 +36,7 @@ f_big-idea: >-
 
 
   “The things that go wrong can be the defining moments of your life.”
-f_quote-reference: \- The 8 Pillars of Motivation, page 377
+f_quote-reference: '\- The 8 Pillars of Motivation, page 377'
 f_insight-2: >-
   ### Have Faith
 
@@ -102,7 +102,7 @@ f_quote-2: >-
   other way around. You do not need to first get motivated to start a new habit
   in your life. The more sensible order is to start a habit so that it acts as a
   motivation."
-f_amazon-url: https://www.amazon.com/dp/0061763276/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0061763276/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

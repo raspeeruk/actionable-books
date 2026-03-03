@@ -1,10 +1,10 @@
 ---
 title: Jo Owen
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Jo-Owen/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Jo-Owen/'
 f_unique-id: '684'
 f_image:
   url: /assets/external/65d77a10bddc0b719a0b9d2e_jo-owen-180x220.jpeg
-  alt: null
+  alt: Jo Owen
 slug: jo-owen
 f_summaries:
   - cms/summaries/the-mindset-of-success.md

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:44.138Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780446c1a1ebc9b5495f7_subliminal.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/subliminal/
+  alt: Subliminal book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/subliminal/'
 f_author-plain-text: Leonard Mlodinow
 f_author: cms/authors/leonard-mlodinow.md
 f_category-3: cms/summary-categories/self-management.md
@@ -55,7 +55,7 @@ f_big-idea: >-
   being wrong, motivated reasoning also causes itself. Action: be grateful for
   when you’re wrong. Pat yourself on the back. **Admitting you used to be wrong
   is an important part of being right.**
-f_quote-reference: \- Subliminal, page 7
+f_quote-reference: '\- Subliminal, page 7'
 f_insight-2: >-
   ### Group Norm Reminders
 
@@ -128,7 +128,7 @@ f_quote-2: >-
   or ‘Why do you like that guy?’ or ‘Why did you laugh at that joke?’ Research
   suggests that we think we know the answers to such questions but really we
   often don’t."
-f_amazon-url: https://www.amazon.com/dp/0307472256/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0307472256/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

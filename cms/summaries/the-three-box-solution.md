@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:12.001Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b64ca49428b7518c45_three-box-solution-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-three-box-solution/
+  alt: The Three-Box Solution book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-three-box-solution/'
 f_author-plain-text: Vijay Govindarajan
 f_author: cms/authors/vijay-govindarajan.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -77,7 +77,7 @@ f_big-idea: >-
   every day is – which horse is which? Which horse do I need to stop worrying
   about because it’s not under my control, and which do I need to steer with
   concentrated effort?”
-f_quote-reference: \- The Three-Box Solution, page 1
+f_quote-reference: '\- The Three-Box Solution, page 1'
 f_insight-2: >-
   ### Assessing your organization’s leaders and yourself
 
@@ -174,7 +174,7 @@ f_quote-2: >-
   "The real problem for leaders is simultaneously meeting the performance
   requirements of the current business – one that is still thriving – while
   dramatically reinventing it."
-f_amazon-url: https://www.amazon.com/dp/1633690148/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1633690148/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

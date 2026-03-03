@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:30.696Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780ce1e0dea9899f915d5_one-red-lipstick-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/one-red-lipstick/
+  alt: One Red Lipstick book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/one-red-lipstick/'
 f_author-plain-text: Spenser Chapple
 f_author: cms/authors/spenser-chapple.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -36,7 +36,7 @@ f_big-idea: >-
   Every day, on some level, the entrepreneur is called upon to push through
   fears and release comfort zones. The reward is to arrive at places you never
   thought possible.
-f_quote-reference: \- One Red Lipstick, Welcome
+f_quote-reference: '\- One Red Lipstick, Welcome'
 f_insight-2: >-
   ### Specific Advice
 
@@ -114,7 +114,7 @@ f_insight-1: >-
   something that stretches you.
 f_conclusion: ''
 f_quote-2: '"You are our role models, our trail-blazers, and we salute and honor you."'
-f_amazon-url: https://www.amazon.com/dp/B01C3OXYOY/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B01C3OXYOY/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

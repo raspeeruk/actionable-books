@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:01.859Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780630dc598fbeb201901_howtodomoregreatwork.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/do-more-great-work/
+  alt: Do More Great Work book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/do-more-great-work/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/06/ActionableBooks-Audio-Do-More-Great-Work.mp3
 f_author-plain-text: Michael Bungay Stanier
@@ -168,7 +168,7 @@ f_conclusion: >-
   Work, but it is certain that you will **very** rarely be involved in truly
   Great Work unless you actively pursue it. And, with a resource like _Do More
   Great Work_ at hand, it’s now that much easier. Go. Make a dent.
-f_amazon-url: https://www.amazon.com/dp/0761156445/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0761156445/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

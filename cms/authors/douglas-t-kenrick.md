@@ -1,11 +1,11 @@
 ---
 title: Douglas T. Kenrick
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Douglas-T.-Kenrick/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Douglas-T.-Kenrick/'
 f_unique-id: '731'
 slug: douglas-t-kenrick
 f_image:
   url: /assets/external/65d779edf0f6c18138333112_douglas-t-kenrick-180x220.jpeg
-  alt: null
+  alt: Douglas T. Kenrick
 f_summaries:
   - cms/summaries/the-rational-animal.md
 updated-on: '2024-02-23T13:31:28.935Z'

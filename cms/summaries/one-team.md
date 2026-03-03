@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:29.867Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806ebf6c5df855b65532_one-team-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/one-team/
+  alt: One Team book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/one-team/'
 f_author-plain-text: Angela Paccione
 f_author: cms/authors/angela-paccione.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -45,7 +45,7 @@ f_big-idea: >-
   Fortunately, it is possible to shift that dynamic even if you aren’t the
   official team leader. All it takes is asking the right question and
   encouraging your team members to share their wisdom.
-f_quote-reference: \- One Team, page 11
+f_quote-reference: '\- One Team, page 11'
 f_insight-2: >-
   ### Lead from Where You Are!
 
@@ -145,7 +145,7 @@ f_quote-2: >-
   teaching, directing, facilitating, or coaching – in other words, constantly
   activating the potential around them – as they move through the workday, the
   company is already at a considerable disadvantage."
-f_amazon-url: https://www.amazon.com/dp/0979376831/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0979376831/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

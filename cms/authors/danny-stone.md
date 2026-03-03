@@ -1,18 +1,18 @@
 ---
 title: Danny Stone
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Danny-Stone/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Danny-Stone/'
 f_unique-id: '864'
 f_image:
   url: /assets/external/65d779deaae19304122c3e85_danny-stone-180x167.jpeg
-  alt: null
+  alt: Danny Stone
 slug: danny-stone
 f_summaries:
   - cms/summaries/you-have-the-keys-now-drive.md
 updated-on: '2024-02-23T13:30:57.087Z'
 created-on: '2024-02-22T16:44:14.580Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/iamdannystone/
-f_website-2: http://iamdannystone.com
+f_twitter-2: 'http://twitter.com/iamdannystone/'
+f_website-2: 'http://iamdannystone.com'
 layout: '[authors].html'
 tags: authors
 ---

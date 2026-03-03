@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:06.931Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b8c182e2f2aa98a2d9_power-of-less-cover-sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-power-of-less/
+  alt: The Power of Less book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-power-of-less/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/01/ActionableBooks-Audio-The-Power-of-Less-Babauta.mp3
 f_author-plain-text: Leo Babauta
@@ -121,7 +121,7 @@ f_conclusion: >-
   chasing giant lists of goals, fulfilling countless commitments and filling our
   lives with more of everything and embrace the _Power of Less_ that we become
   truly effective in a meaningful way.
-f_amazon-url: https://www.amazon.com/dp/1848501161/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1848501161/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

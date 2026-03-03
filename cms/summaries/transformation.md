@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:17.523Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78038be5355ca50902cfb_transformation-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/transformation/
+  alt: Transformation book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/transformation/'
 f_author-plain-text: Shannon M. Tobin
 f_author: cms/authors/shannon-m-tobin.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -32,7 +32,7 @@ f_big-idea: >-
   To step out of this conformity-driven mindset, though, the pain of remaining
   the same must become greater than the pain of change. Only then will the
   decisions plus choices we make also alter.
-f_quote-reference: \- The Amazing Spiderman, quoted in Transformation, page 3
+f_quote-reference: '\- The Amazing Spiderman, quoted in Transformation, page 3'
 f_insight-2: >-
   ### 10 Things Winners Do Differently
 
@@ -132,7 +132,7 @@ f_insight-1: >-
   people we most surround ourselves with.
 f_conclusion: ''
 f_quote-2: '"You owe the world your gifts. You just have to find out how to use them."'
-f_amazon-url: https://www.amazon.com/dp/098448227X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/098448227X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

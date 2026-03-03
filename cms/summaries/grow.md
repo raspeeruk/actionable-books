@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:11.482Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780451b56e0975faade50_grow.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/grow/
+  alt: Grow book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/grow/'
 f_author-plain-text: Jim Stengel
 f_author: cms/authors/jim-stengel.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -106,7 +106,7 @@ f_big-idea: >-
   Bottom line: “If your business or brand is not serving an ideal in one of
   these five fields of fundamental human values you’re likely not positioned for
   significant growth.”
-f_quote-reference: \- Grow, page 1
+f_quote-reference: '\- Grow, page 1'
 f_insight-2: >-
   ### Something bigger
 
@@ -179,7 +179,7 @@ f_conclusion: >-
   on the benefit we bring to the world. Yet, our trustworthiness is at an
   all-time low. Perhaps it’s time to shift our thinking.
 f_quote-2: '"Maximum growth and high ideals are not incompatible. They’re inseparable."'
-f_amazon-url: https://www.amazon.com/dp/0307720357/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0307720357/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

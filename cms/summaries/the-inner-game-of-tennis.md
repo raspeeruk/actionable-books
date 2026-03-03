@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:59.443Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805d327123816fae48f6_inner-game-of-tennis-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-inner-game-of-tennis/
+  alt: The Inner Game of Tennis book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-inner-game-of-tennis/'
 f_author-plain-text: W. Timothy Gallwey
 f_author: cms/authors/w-timothy-gallwey.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -47,7 +47,7 @@ f_big-idea: >-
   Being aware of both of our inner selves and knowing the role that each plays
   in our performance is the first piece that we must be aware of as we strive to
   operate in a peak state.
-f_quote-reference: \- The Inner Game of Tennis, page 134
+f_quote-reference: '\- The Inner Game of Tennis, page 134'
 f_insight-2: >-
   ### The Meaning of Winning
 
@@ -107,7 +107,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Mankind has been so absorbed with overcoming external challenges that the
   essential need to focus on inner challenges has been neglected.”
-f_amazon-url: https://www.amazon.com/dp/0679778314/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0679778314/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:13.067Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780ae0c32dc84c9a559b4_how-to-change-minds.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/how-to-change-minds/
+  alt: How to Change Minds book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/how-to-change-minds/'
 f_author-plain-text: Rob Jolles
 f_author: cms/authors/rob-jolles.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -58,7 +58,7 @@ f_big-idea: >-
   and therefore I won’t be very convincing. On the other hand, when I know
   something works, I can’t help but tell others about it. After reading this
   book, I’ll be just a little more skilled in how I influence.
-f_quote-reference: \- How to Change Minds, page xix
+f_quote-reference: '\- How to Change Minds, page xix'
 f_insight-2: >-
   ### Fully explore the problem
 
@@ -142,7 +142,7 @@ f_insight-1: >-
   curiosity. If I can see a way to help them, it’ll be a less selfish endeavor.
 f_conclusion: ''
 f_quote-2: '"The fear of the unknown often outweighs the pain of the present."'
-f_amazon-url: https://www.amazon.com/dp/1609948297/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1609948297/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

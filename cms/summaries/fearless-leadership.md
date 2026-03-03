@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:06.411Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78034d4a4ec8cc91f0856_fearless-leadership-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/fearless-leadership/
+  alt: Fearless Leadership book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/fearless-leadership/'
 f_author-plain-text: Loretta Malandro
 f_author: cms/authors/loretta-malandro.md
 f_category-3: cms/summary-categories/leadership.md
@@ -161,7 +161,7 @@ f_conclusion: >-
   recommendations are difficult to implement and control because our default or
   automatic behaviours are natural stumbling blocks to fearless leadership, but
   the book provides many exercises to begin and I suggest all leaders should.
-f_amazon-url: https://www.amazon.com/dp/0071624643/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071624643/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

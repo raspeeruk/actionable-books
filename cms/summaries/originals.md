@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:30.392Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78057589ec7f593579260_originals-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/originals/
+  alt: Originals book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/originals/'
 f_author-plain-text: Adam Grant
 f_author: cms/authors/adam-grant.md
 f_category-3: cms/summary-categories/self-management.md
@@ -36,7 +36,7 @@ f_big-idea: >-
 
   If you want to be original, the most important thing you can possibly do is to
   produce a huge volume of work.
-f_quote-reference: \- Originals, page 243
+f_quote-reference: '\- Originals, page 243'
 f_insight-2: >-
   ### Rethinking Groupthink
 
@@ -110,7 +110,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Becoming original is not the easiest path in the pursuit of happiness, but it
   leaves us perfectly poised for the happiness of pursuit."
-f_amazon-url: https://www.amazon.com/dp/0525429565/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0525429565/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

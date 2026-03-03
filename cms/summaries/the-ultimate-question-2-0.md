@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:14.196Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78088f916ebdfffffe1f3_ultimate_question.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-ultimate-question-2-0/
+  alt: The Ultimate Question 2.0 book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-ultimate-question-2-0/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-The-Ultimate-Question-2-0.mp3
 f_author-plain-text: Fred Reichheld
@@ -45,7 +45,7 @@ f_big-idea: >-
   creating a purpose for their people, the vast majority haven’t made much
   progress. Reichheld shows us with many examples of companies that have grasped
   the Net Promoter System are finding their way.
-f_quote-reference: \- The Ultimate Question 2.0, page 1
+f_quote-reference: '\- The Ultimate Question 2.0, page 1'
 f_insight-2: >-
   ### Learn from those who have gone before us: 3 keys to success
 
@@ -135,7 +135,7 @@ f_conclusion: >-
 f_quote-2: >-
   "It always seemed to me that success in business and in life should result
   from your impact on the people you touch."
-f_amazon-url: https://www.amazon.com/dp/1422173356/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1422173356/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

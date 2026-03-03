@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:53.314Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b3327123816fae7290_chess-not-checkers-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/chess-not-checkers/
+  alt: Chess Not Checkers book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/chess-not-checkers/'
 f_author-plain-text: Mark Miller
 f_author: cms/authors/mark-miller.md
 f_category-3: cms/summary-categories/leadership.md
@@ -52,7 +52,7 @@ f_big-idea: >-
 
   So, let me ask you – do you know what game your company is playing? Are you
   playing checkers when you should be learning how to play chess?
-f_quote-reference: \- Chess Not Checkers, page 2
+f_quote-reference: '\- Chess Not Checkers, page 2'
 f_insight-2: >-
   ### Embrace Lifelong Learning
 
@@ -129,7 +129,7 @@ f_quote-2: >-
   which strategy matters; a game in which individual pieces have unique
   abilities that drive unique contributions; a game in which heightened focus
   and a deeper level of thinking are required to win."
-f_amazon-url: https://www.amazon.com/dp/1626563942/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1626563942/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,18 +1,18 @@
 ---
 title: Tiffany Dufu
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Tiffany-Dufu/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Tiffany-Dufu/'
 f_unique-id: '190'
 slug: tiffany-dufu
 f_image:
   url: /assets/external/65d77a5a4fe9f51a8bbdae9b_tiffany-dufu-180x220.jpeg
-  alt: null
+  alt: Tiffany Dufu
 f_summaries:
   - cms/summaries/drop-the-ball.md
 updated-on: '2024-02-23T13:31:25.887Z'
 created-on: '2024-02-22T16:46:18.828Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://www.facebook.com/tiffanydufu
-f_twitter-2: https://twitter.com/tdufu/
+f_facebook-2: 'http://www.facebook.com/tiffanydufu'
+f_twitter-2: 'https://twitter.com/tdufu/'
 layout: '[authors].html'
 tags: authors
 ---

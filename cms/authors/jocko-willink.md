@@ -1,17 +1,17 @@
 ---
 title: Jocko Willink
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Jocko-Willink/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Jocko-Willink/'
 f_unique-id: '209'
 f_image:
   url: /assets/external/65d77a112609744d46321cbc_jocko-willink-180x220.jpeg
-  alt: null
+  alt: Jocko Willink
 slug: jocko-willink
 f_summaries:
   - cms/summaries/extreme-ownership.md
 updated-on: '2024-02-23T13:31:16.635Z'
 created-on: '2024-02-22T16:45:05.439Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/jockowillink/
+f_twitter-2: 'http://twitter.com/jockowillink/'
 layout: '[authors].html'
 tags: authors
 ---

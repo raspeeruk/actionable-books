@@ -1,11 +1,11 @@
 ---
 title: Nick Cowley
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Nick-Cowley/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Nick-Cowley/'
 f_unique-id: '23'
 slug: nick-cowley
 f_image:
   url: /assets/external/65d77a3616003624da6c7f65_nick-cowley-180x220.jpeg
-  alt: null
+  alt: Nick Cowley
 f_summaries:
   - cms/summaries/5-conversations.md
 updated-on: '2024-02-23T13:31:20.567Z'

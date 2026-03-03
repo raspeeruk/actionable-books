@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:44.588Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b00408dd3494679d15_a-more-beautiful-question.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/a-more-beautiful-question/
+  alt: A More Beautiful Question book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/a-more-beautiful-question/'
 f_author-plain-text: Warren Berger
 f_author: cms/authors/warren-berger.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -44,7 +44,7 @@ f_big-idea: >-
   The starting point of all innovation begins with the beautiful question. Bold
   and continuous inquiry is an art and a skill – a part of the creative process
   – that must be relearned and embraced again.
-f_quote-reference: \- A More Beautiful Question, page 9
+f_quote-reference: '\- A More Beautiful Question, page 9'
 f_insight-2: >-
   ### The Power of "How Might We?"
 
@@ -136,7 +136,7 @@ f_conclusion: >-
 f_quote-2: >-
   "We're all hungry today for better answers. But first we must learn to ask the
   right questions."
-f_amazon-url: https://www.amazon.com/dp/1620401452/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1620401452/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

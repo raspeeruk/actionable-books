@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:20.942Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78069da244ed58b68363f_what-great-trainers-do-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/what-great-trainers-do/
+  alt: What Great Trainers Do book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/what-great-trainers-do/'
 f_author-plain-text: Dorothy Grover Bolton
 f_author: cms/authors/dorothy-grover-bolton.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -51,7 +51,7 @@ f_big-idea: >-
   within a training situation, while at the same time having the ability to fix
   disruptive and negative interactions from within the group are key attributes
   that will take you from being an average to a first-rate trainer.
-f_quote-reference: \- What Great Trainers Do, page 95
+f_quote-reference: '\- What Great Trainers Do, page 95'
 f_insight-2: >-
   ### Are you delivering?
 
@@ -163,7 +163,7 @@ f_quote-2: >-
   "Our simple attention, offered to another person, is the most underused of
   human resources, one of the least costly, one of the most freely available,
   and – without a doubt – one of the most powerfully beneficial"
-f_amazon-url: https://www.amazon.com/dp/0814420060/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0814420060/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

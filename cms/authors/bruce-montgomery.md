@@ -1,17 +1,17 @@
 ---
 title: Bruce Montgomery
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Bruce-Montgomery/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Bruce-Montgomery/'
 f_unique-id: '98'
 slug: bruce-montgomery
 f_image:
   url: /assets/external/65d779c4336cf3351ac3cea0_bruce-montgomery-180x220.jpeg
-  alt: null
+  alt: Bruce Montgomery
 f_summaries:
   - cms/summaries/brain-disruption.md
 updated-on: '2024-02-23T13:30:36.580Z'
 created-on: '2024-02-22T16:43:48.279Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://www.experienceyes.com/
+f_website-2: 'http://www.experienceyes.com/'
 layout: '[authors].html'
 tags: authors
 ---

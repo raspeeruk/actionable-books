@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:53.081Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802a13cdde318a63ebe0_change-by-design-tiny-94x142.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/change-by-design/
+  alt: Change By Design book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/change-by-design/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/01/ActionableBooks-Audio-Change-by-Design.mp3
 f_author-plain-text: Tim Brown
@@ -139,7 +139,7 @@ f_conclusion: >-
   building design solutions with their clients. Toward the end of the book,
   Brown expounds on the most challenging yet significant design problems of
   society – improving the lives of people in extreme need.
-f_amazon-url: https://www.amazon.com/dp/0061766089/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0061766089/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:21.257Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78060bf6c5df855b64ea5_what-more-can-i-say-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/what-more-can-i-say/
+  alt: What More Can I Say? book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/what-more-can-i-say/'
 f_author-plain-text: Dianna Booher
 f_author: cms/authors/dianna-booher.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -46,7 +46,7 @@ f_big-idea: >-
   Now that you are aware of this counterintuitive principle, how can you use
   this knowledge to your advantage? My two Insights have been selected to help
   you do just that!
-f_quote-reference: \- What More Can I Say?, page xv
+f_quote-reference: '\- What More Can I Say?, page xv'
 f_insight-2: >-
   ### Plug In to Power On
 
@@ -128,7 +128,7 @@ f_quote-2: >-
   "All the raw ingredients of communication (words, body language, emotion,
   logic, action, inaction, listening, branding, perception, structure, and so
   forth) produce change – either positive or negative."
-f_amazon-url: https://www.amazon.com/dp/0735205337/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0735205337/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

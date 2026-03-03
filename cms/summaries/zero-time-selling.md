@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:26.377Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780af5675061815c42bc8_zero-time-selling.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/zero-time-selling/
+  alt: Zero-Time Selling book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/zero-time-selling/'
 f_author-plain-text: Andy Paul
 f_author: cms/authors/andy-paul.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -70,7 +70,7 @@ f_big-idea: >-
 
   10.  **Disqualify the Losers:** Don’t waste time on poorly qualified leads and
   relocate those resources to prospects that need your product/service.
-f_quote-reference: \- Zero Time Selling, page 13
+f_quote-reference: '\- Zero Time Selling, page 13'
 f_insight-2: >-
   ### Sell With The Sharp End of The Stick
 
@@ -112,7 +112,7 @@ f_conclusion: >-
   cyber-market climate. Paul shares strategies to empower customers with the
   right information, and how to deliver it instantaneously.
 f_quote-2: “The race doesn’t go to the swift; it goes to the responsive”
-f_amazon-url: https://www.amazon.com/dp/1614480508/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1614480508/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

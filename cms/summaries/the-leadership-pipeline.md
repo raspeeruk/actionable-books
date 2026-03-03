@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7805511e0ad2b62bef878_the-leadership-pipeline-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-leadership-pipeline/
+  alt: The Leadership Pipeline book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-leadership-pipeline/'
 f_author-plain-text: Jim Noel
 f_author: cms/authors/jim-noel.md
 f_category-3: cms/summary-categories/leadership.md
@@ -36,7 +36,7 @@ f_big-idea: >-
   appropriate questions about where you are at within the leadership pipeline
   and are your behaviours and actions aligned with what you truly value as most
   important. You can easily start with the following two Insights.
-f_quote-reference: \- The Leadership Pipelines, page xii
+f_quote-reference: '\- The Leadership Pipelines, page xii'
 f_insight-2: >-
   ### Am I coaching towards the results that I want?
 
@@ -89,7 +89,7 @@ f_quote-2: >-
   even more serious problems are (1) failing to recognize and hire the right
   person, instead letting this ideal candidate sail invisibly through the
   selection process, and (2) leaving the wrong person in the job too long."
-f_amazon-url: https://www.amazon.com/dp/0470894563/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470894563/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

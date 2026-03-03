@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:02.540Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780368f07fe5dc44ca173_membership-economy-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-membership-economy/
+  alt: The Membership Economy book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-membership-economy/'
 f_author-plain-text: Robbie Kellman Baxter
 f_author: cms/authors/robbie-kellman-baxter.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -39,7 +39,7 @@ f_big-idea: >-
       To leverage the power of the Membership Economy, it is important to determine the value provided and extend it by building ongoing relationships. Examples include The Nail Concierge (New York), Kepler’s Books with its supportive community, and Alan Weiss, the consultant with the Million-Dollar Community.
   6.  **Nonprofits, professional societies and trade associations  
       **Think about constant innovations while staying true to your mission and relevant to your members. Examples: APPO (Association of Personal Photo Organizers) and The Sierra Club.
-f_quote-reference: \- The Membership Economy, page 29
+f_quote-reference: '\- The Membership Economy, page 29'
 f_insight-2: >-
   ### The technology drivers of the Membership Economy
 
@@ -93,7 +93,7 @@ f_quote-2: >-
   "The Membership Economy model, enabled by technological transformation and
   emphasizing ongoing relationships rather than individual transactions, can
   benefit almost every organisation."
-f_amazon-url: https://www.amazon.com/dp/0071839321/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071839321/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

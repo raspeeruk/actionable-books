@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:15.678Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806748a50b1aa4e42be3_thrive.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/thrive/
+  alt: Thrive book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/thrive/'
 f_author-plain-text: Arianna Huffington
 f_author: cms/authors/arianna-huffington.md
 f_category-3: cms/summary-categories/self-management.md
@@ -88,7 +88,7 @@ f_big-idea: >-
   Charge_](mailto:https://www.actionablebooks.com/summaries/the-charge/)_._ So
   today, I will delve into two of the lessons Arianna shares that have been
   harder for me to learn.
-f_quote-reference: \- Thrive, page 15
+f_quote-reference: '\- Thrive, page 15'
 f_insight-2: >-
   ### A new drug for stress
 
@@ -160,7 +160,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Have you ever noticed that when we die, our eulogies celebrate our lives very
   differently from the way society defines success?"
-f_amazon-url: https://www.amazon.com/dp/0804140847/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0804140847/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

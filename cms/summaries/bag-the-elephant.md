@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:48.019Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c1e5c7d0393961ed0e_bag_the_elephant.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/bag-the-elephant/
+  alt: Bag the Elephant book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/bag-the-elephant/'
 f_author-plain-text: Steve Kaplan
 f_author: cms/authors/steve-kaplan.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -35,7 +35,7 @@ f_big-idea: >-
   Not only do elephants need smaller businesses, if you handle your business
   right and follow the instructions in _Bag the Elephant_, your elephant may
   just come to rely on you.
-f_quote-reference: \- Bag the Elephant, page 21
+f_quote-reference: '\- Bag the Elephant, page 21'
 f_insight-2: >-
   ### Courting an Elephant
 
@@ -119,7 +119,7 @@ f_conclusion: >-
   but bagging one will help you bag your second and continue a path of
   sustainable growth for your business.
 f_quote-2: '"The elephants are waiting."'
-f_amazon-url: https://www.amazon.com/dp/B00AK4AGF0/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00AK4AGF0/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

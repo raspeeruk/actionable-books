@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7806a77c4a8c4e31af804_the-relationship-engine-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-relationship-engine/
+  alt: The Relationship Engine book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-relationship-engine/'
 f_author-plain-text: Ed Wallace
 f_author: cms/authors/ed-wallace.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -81,7 +81,7 @@ f_big-idea: >-
   bus driver at the Phoenix airport. His greater purpose was to make his
   customers smile. He made more than double in tips compared to what his peers
   made and was significantly happier!
-f_quote-reference: \- The Relationship Engine, preface
+f_quote-reference: '\- The Relationship Engine, preface'
 f_insight-2: >-
   ### 5 Ways to Sustain Great Relationships
 
@@ -186,7 +186,7 @@ f_conclusion: >-
   do to move your business relationships forward? Just being conscious of it is
   the first step. So good for you! What will you do next?
 f_quote-2: '"Success comes from the experience we create for others."'
-f_amazon-url: https://www.amazon.com/dp/0814437133/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0814437133/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

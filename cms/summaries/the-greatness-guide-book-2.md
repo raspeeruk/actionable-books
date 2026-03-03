@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:57.941Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803e2ebc9b7d62b328ff_the-greatness-guide-book2-sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-greatness-guide-book-2/
+  alt: 'The Greatness Guide: Book 2 book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-greatness-guide-book-2/'
 f_author-plain-text: Robin Sharma
 f_author: cms/authors/robin-sharma.md
 f_category-3: cms/summary-categories/leadership.md
@@ -102,7 +102,7 @@ f_conclusion: >-
   your dreams. Just remember to enjoy the process. Life would be pretty boring
   if we had complete control over what happened to us along the way. Embrace the
   unexpected. Relax. Smile. Love the journey.
-f_amazon-url: https://www.amazon.com/dp/155468403X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/155468403X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,10 +1,10 @@
 ---
 title: Chris Mcchesney
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Chris-McChesney/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Chris-McChesney/'
 f_unique-id: '567'
 f_image:
   url: /assets/external/65d779cf2772244af7c17620_chris_mcchesney.jpeg
-  alt: null
+  alt: Chris Mcchesney
 slug: chris-mcchesney
 updated-on: '2024-02-23T13:31:33.331Z'
 created-on: '2024-02-22T16:43:59.308Z'

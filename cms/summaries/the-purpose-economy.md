@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:08.171Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780be0408dd349467a332_the-purpose-economy.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-purpose-economy/
+  alt: The Purpose Economy book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-purpose-economy/'
 f_author-plain-text: Aaron Hurst
 f_author: cms/authors/aaron-hurst.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -59,7 +59,7 @@ f_big-idea: >-
   The Purpose Economy is based on the fact that when people serve needs greater
   than their own, when they enable personal growth and build community, value is
   created. So by doing good, people and organizations do well!
-f_quote-reference: \- The Purpose Economy, page 7
+f_quote-reference: '\- The Purpose Economy, page 7'
 f_insight-2: >-
   ### How do we gain purpose? Myth Busting
 
@@ -178,7 +178,7 @@ f_conclusion: >-
 f_quote-2: >-
   "At the core of the Purpose Economy is people’s need and desire to find their
   own professional purpose."
-f_amazon-url: https://www.amazon.com/dp/1937498298/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1937498298/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

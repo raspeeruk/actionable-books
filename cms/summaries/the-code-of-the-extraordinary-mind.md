@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780b011e0ad2b62bf3094_the-code-of-the-extraordinary-mind-94x144.jpeg
-  alt: null
+  alt: The Code of the Extraordinary Mind book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-code-of-the-extraordinary-mind/
 f_author-plain-text: Vishen Lakhiani
@@ -68,7 +68,7 @@ f_big-idea: >-
 
   These models limit our perspective and thus restrict our thinking and our
   actions. They cause us to unknowingly accept the status quo.
-f_quote-reference: \- The Code of the Extraordinary Mind, page 12
+f_quote-reference: '\- The Code of the Extraordinary Mind, page 12'
 f_insight-2: >-
   ### Upgrade your systems for living
 
@@ -161,7 +161,7 @@ f_quote-2: >-
   systems and rules you’ve been living with. The rules are very real in the
   sense that they actually govern how people and societies act, but very real
   does not mean very right."
-f_amazon-url: https://www.amazon.com/dp/1623367085/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1623367085/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

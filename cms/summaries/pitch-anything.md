@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:33.202Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780353b62b64863dbae43_pitch-anything.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/pitch-anything/
+  alt: Pitch Anything book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/pitch-anything/'
 f_author-plain-text: Oren Klaff
 f_author: cms/authors/oren-klaff.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -68,7 +68,7 @@ f_big-idea: >-
   “stacking frames for hot cognition”. Hot cognition means liking something
   before you fully understand it. It’s getting the croc brain to buy in – and
   then going back to the neocortex later to sort out the finer details.
-f_quote-reference: \- Pitch Anything, page 1
+f_quote-reference: '\- Pitch Anything, page 1'
 f_insight-2: >-
   ### Eradicating neediness
 
@@ -149,7 +149,7 @@ f_quote-2: >-
   “There is a fundamental disconnect between the way we pitch anything and the
   way it is received by our audience. As a result, at the crucial moment when it
   is most important to be convincing, nine out of ten times we are not.”
-f_amazon-url: https://www.amazon.com/dp/0071752854/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071752854/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

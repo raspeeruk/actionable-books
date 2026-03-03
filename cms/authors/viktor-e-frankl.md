@@ -1,10 +1,10 @@
 ---
 title: Viktor E. Frankl
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Viktor-E.-Frankl/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Viktor-E.-Frankl/'
 f_unique-id: '373'
 f_image:
   url: /assets/external/65d779a49c49c73f41478f48_author-large.png
-  alt: null
+  alt: Viktor E. Frankl
 slug: viktor-e-frankl
 f_summaries:
   - cms/summaries/mans-search-for-meaning.md

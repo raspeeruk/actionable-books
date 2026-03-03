@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:48.953Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809d2d3147c9543b01bc_bestpracticesarestupid-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/best-practices-are-stupid/
+  alt: Best Practices Are Stupid book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/best-practices-are-stupid/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/11/ActionableBooks-Audio-Best-Practices-are-Stupid.mp3
 f_author-plain-text: Stephen M. Shapiro
@@ -48,7 +48,7 @@ f_big-idea: >-
   says, “treat your employees as owners of the business.” Make them feel as
   though they have a vested interest in the results of effective innovation, and
   make sure they understand that their opinions count and are required.
-f_quote-reference: \- Best Practices Are Stupid, front cover flap
+f_quote-reference: '\- Best Practices Are Stupid, front cover flap'
 f_insight-2: >-
   ### Allocate Appropriately
 
@@ -138,7 +138,7 @@ f_conclusion: >-
   introduction. “Innovate more efficiently. Innovate in a more focused manner.”
   And I, for one, believe they do just that.
 f_quote-2: '"It’s time to innovate the way you innovate."'
-f_amazon-url: https://www.amazon.com/dp/1591843855/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591843855/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

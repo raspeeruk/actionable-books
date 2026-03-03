@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:23.740Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d35b95979f7943fbcd990e_magic.jpeg
-  alt: null
+  alt: 'MAGIC: Five Keys to Unlock the Power of Employee Engagement book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/magic-five-keys-to-unlock-the-power-of-employee-engagement/
 f_author-plain-text: Paul Warner
@@ -68,7 +68,7 @@ f_big-idea: >-
   Maylett and Warner have seen how MAGIC creates more engaged employees, those
   “who take pride in shaping and improving”. But what are the foundations that
   support the magic of MAGIC?
-f_quote-reference: \- MAGIC, page 4
+f_quote-reference: '\- MAGIC, page 4'
 f_insight-2: >-
   ### It’s All About Choice
 
@@ -152,7 +152,7 @@ f_quote-2: >-
   "Engagement is a fundamental human need. It is a power that resides in most
   people, waiting to be unlocked. People want to be engaged in what they do. If
   employers build the foundation, employees will do the rest."
-f_amazon-url: https://www.amazon.com/dp/162634115X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/162634115X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

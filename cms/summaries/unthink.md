@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:19.426Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780649b92e746e86866d3_unthink.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/unthink/
+  alt: Unthink book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/unthink/'
 f_author-plain-text: Erik Wahl
 f_author: cms/authors/erik-wahl.md
 f_category-3: cms/summary-categories/self-management.md
@@ -65,7 +65,7 @@ f_big-idea: >-
   From this book I learned that the secret of being provocative is that not only
   do I become a change artist in a sea of sameness, **I amplify the element of
   adventure in my own journey.**
-f_quote-reference: \- Unthink, page 12
+f_quote-reference: '\- Unthink, page 12'
 f_insight-2: >-
   ### Be Surrendered
 
@@ -162,7 +162,7 @@ f_quote-2: >-
   "You’ve all but forgotten the artistic tools with which you were born. Once
   you remember – once you learn to unthink how you live and work – everything
   will change."
-f_amazon-url: https://www.amazon.com/dp/0770434002/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0770434002/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

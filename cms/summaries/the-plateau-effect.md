@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:06.111Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780575c251897810273e4_plateau-effect.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-plateau-effect/
+  alt: The Plateau Effect book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-plateau-effect/'
 f_author-plain-text: Bob Sullivan
 f_author: cms/authors/bob-sullivan.md
 f_category-3: cms/summary-categories/self-management.md
@@ -124,7 +124,7 @@ f_insight-1: >-
   Feeling stuck? **Try something unconventional, do something out of the
   ordinary, shake things up.**
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0525952802/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0525952802/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

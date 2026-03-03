@@ -1,17 +1,17 @@
 ---
 title: Gillian Tett
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Gillian-Tett/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Gillian-Tett/'
 f_unique-id: '744'
 f_image:
   url: /assets/external/65d779f759f9c776df0e049a_gilliant-tett-180x220.jpeg
-  alt: null
+  alt: Gillian Tett
 slug: gillian-tett
 f_summaries:
   - cms/summaries/the-silo-effect.md
 updated-on: '2024-02-23T13:31:22.316Z'
 created-on: '2024-02-22T16:44:39.476Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/gilliantett/
+f_twitter-2: 'http://twitter.com/gilliantett/'
 layout: '[authors].html'
 tags: authors
 ---

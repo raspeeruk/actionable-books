@@ -1,18 +1,18 @@
 ---
 title: Laurence Vincent
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Laurence-Vincent/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Laurence-Vincent/'
 f_unique-id: '102'
 slug: laurence-vincent
 f_image:
   url: /assets/external/65d77a22ab7f0afdc83a21bf_laurence_vincent_2x2.png
-  alt: null
+  alt: Laurence Vincent
 f_summaries:
   - cms/summaries/brand-real.md
 updated-on: '2024-02-23T13:30:52.738Z'
 created-on: '2024-02-22T16:45:22.786Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/lvincent/
-f_website-2: http://laurencevincent.com/
+f_twitter-2: 'http://twitter.com/lvincent/'
+f_website-2: 'http://laurencevincent.com/'
 layout: '[authors].html'
 tags: authors
 ---

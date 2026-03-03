@@ -1,18 +1,18 @@
 ---
 title: Danielle Laporte
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Danielle-LaPorte/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Danielle-LaPorte/'
 f_unique-id: '642'
 f_image:
   url: /assets/external/65d779debddc0b719a0b8012_danielle-laporte.jpeg
-  alt: null
+  alt: Danielle Laporte
 slug: danielle-laporte
 f_summaries:
   - cms/summaries/the-fire-starter-sessions.md
 updated-on: '2024-02-23T13:31:04.870Z'
 created-on: '2024-02-22T16:44:14.505Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/daniellelaporte/
-f_website-2: http://daniellelaporte.com
+f_twitter-2: 'http://twitter.com/daniellelaporte/'
+f_website-2: 'http://daniellelaporte.com'
 layout: '[authors].html'
 tags: authors
 ---

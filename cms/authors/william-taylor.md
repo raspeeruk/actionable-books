@@ -1,11 +1,11 @@
 ---
 title: William Taylor
-f_original-url: https://www.actionablebooks.com/en-ca/authors/William-Taylor/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/William-Taylor/'
 f_unique-id: '524'
 slug: william-taylor
 f_image:
   url: /assets/external/65d77a64adf985055f07353c_william-taylor-180x220.jpeg
-  alt: null
+  alt: William Taylor
 f_summaries:
   - cms/summaries/simply-brilliant.md
 updated-on: '2024-02-23T13:31:16.361Z'

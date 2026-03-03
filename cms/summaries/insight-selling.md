@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:17.184Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78074c9a8372615bb1d4b_insight-selling.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/insight-selling/
+  alt: Insight Selling book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/insight-selling/'
 f_author-plain-text: Michael Harris
 f_author: cms/authors/michael-harris.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -42,7 +42,7 @@ f_big-idea: >-
   where the customer is today _without_ your product or service and where they
   could be _if_ they purchased what you were selling. And the best way to do
   this, Harris suggests, is to tell an insightful story.
-f_quote-reference: \- Insight Selling, page 76
+f_quote-reference: '\- Insight Selling, page 76'
 f_insight-2: >-
   ### It’s Not about You (or your product)
 
@@ -109,7 +109,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Think of an insight scenario as a flashlight that you use to illuminate
   hidden value."
-f_amazon-url: https://www.amazon.com/dp/0993655505/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0993655505/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

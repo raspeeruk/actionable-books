@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:52.940Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78086aed215aa0062e880_certain_to_win.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/certain-to-win/
+  alt: Certain to Win book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/certain-to-win/'
 f_author-plain-text: Chet Richards
 f_author: cms/authors/chet-richards.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -58,7 +58,7 @@ f_big-idea: >-
   situation. I tend to get stuck in the decision phase, not quite confident
   enough to act. But I know that most actions don’t have as detrimental
   consequences as inaction. Most of the time, they’ll be beneficial.
-f_quote-reference: \- Certain to Win, page 66
+f_quote-reference: '\- Certain to Win, page 66'
 f_insight-2: >-
   ### Culture in business is fundamental
 
@@ -149,7 +149,7 @@ f_insight-1: >-
   understanding makes it easier to change plans.
 f_conclusion: ''
 f_quote-2: '"Business is a dogfight. Your job as leader: Outmaneuver the competition."'
-f_amazon-url: https://www.amazon.com/dp/1413453767/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1413453767/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:49.541Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78095124d447bdbf6ee9b_book-writing-mistakes-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/book-writing-mistakes/
+  alt: Book Writing Mistakes book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/book-writing-mistakes/'
 f_author-plain-text: Jim Edwards
 f_author: cms/authors/jim-edwards.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
@@ -49,7 +49,7 @@ f_big-idea: >-
   place. If you have a passion for the topic, are driven to see your words in
   print and want use your book as platform within your business, you are more
   likely to get past the biggest mistake of never actually writing it at all.
-f_quote-reference: \- Book Writing Mistakes, page 3
+f_quote-reference: '\- Book Writing Mistakes, page 3'
 f_insight-2: >-
   ### Understand your who, why and what
 
@@ -141,7 +141,7 @@ f_conclusion: >-
 f_quote-2: >-
   "When you have your own book, people will also look at you differently.
   They’ll have more respect. They’ll accept your ideas more readily."
-f_amazon-url: https://www.amazon.com/dp/1502437716/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1502437716/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:45.611Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78097d58945232eeba28f_affinity_beyond_branding.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/affinity-beyond-branding/
+  alt: 'Affinity: Beyond Branding book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/affinity-beyond-branding/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-Affinity.mp3
 f_author-plain-text: Howard Aster
@@ -36,7 +36,7 @@ f_big-idea: >-
 
   Solely – affinity keeps relationships tight, lasting, and enduring. It’s the
   charisma of marketplace dominance; a force of attraction.
-f_quote-reference: \- Affinity, page 51
+f_quote-reference: '\- Affinity, page 51'
 f_insight-2: >-
   ### Learn From the Best
 
@@ -98,7 +98,7 @@ f_conclusion: And that’s the beauty of this volume.
 f_quote-2: >-
   "You need to communicate the promise, not just to make the sale. You need more
   values in the promise to make the brand successful."
-f_amazon-url: https://www.amazon.com/dp/1552788911/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1552788911/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

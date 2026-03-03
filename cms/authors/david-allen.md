@@ -1,16 +1,16 @@
 ---
 title: David Allen
-f_original-url: https://www.actionablebooks.com/en-ca/authors/David-Allen/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/David-Allen/'
 f_unique-id: '250'
 f_image:
   url: /assets/external/65d779e1a4f705134a2c5221_david-allen-lg-180x220.jpeg
-  alt: null
+  alt: David Allen
 slug: david-allen
 updated-on: '2024-02-23T13:31:14.164Z'
 created-on: '2024-02-22T16:44:17.240Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://www.facebook.com/gettingthingsdone
-f_twitter-2: http://twitter.com/gtdguy/
+f_facebook-2: 'http://www.facebook.com/gettingthingsdone'
+f_twitter-2: 'http://twitter.com/gtdguy/'
 layout: '[authors].html'
 tags: authors
 ---

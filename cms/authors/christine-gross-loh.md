@@ -1,10 +1,10 @@
 ---
 title: Christine Gross Loh
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Christine-Gross-Loh/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Christine-Gross-Loh/'
 f_unique-id: '705'
 f_image:
   url: /assets/external/65d779d083b10b7d4eab75f3_christine-gross-loh-180x220.jpeg
-  alt: null
+  alt: Christine Gross Loh
 slug: christine-gross-loh
 f_summaries:
   - cms/summaries/the-path.md

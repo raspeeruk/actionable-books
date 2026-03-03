@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:42.754Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807a529024c0144a350c_startup_life.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/startup-life/
+  alt: Startup Life book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/startup-life/'
 f_author-plain-text: Amy Batchelor
 f_author: cms/authors/amy-batchelor.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -37,7 +37,7 @@ f_big-idea: >-
   “perfect” relationship isn’t necessarily the end goal. Rather, strive for deep
   alignment in your values because these are what most fundamentally matter to
   each person.
-f_quote-reference: \- Startup Life, page 90
+f_quote-reference: '\- Startup Life, page 90'
 f_insight-2: >-
   ### Make An Effort, Always
 
@@ -96,7 +96,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Creating an amazing startup company is valuable and meaningful, but it is
   only one aspect of a whole life."
-f_amazon-url: https://www.amazon.com/dp/1118443640/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118443640/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

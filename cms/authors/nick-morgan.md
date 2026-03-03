@@ -1,18 +1,18 @@
 ---
 title: Nick Morgan
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Nick-Morgan/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Nick-Morgan/'
 f_unique-id: '459'
 f_image:
   url: /assets/external/65d77a37428fe8e31fb02192_nick-morgan.jpeg
-  alt: null
+  alt: Nick Morgan
 slug: nick-morgan
 f_summaries:
   - cms/summaries/power-cues.md
 updated-on: '2024-02-23T13:31:24.138Z'
 created-on: '2024-02-22T16:45:43.238Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: https://www.facebook.com/nicholas.h.morgan
-f_twitter-2: http://twitter.com/drnickmorgan/
+f_facebook-2: 'https://www.facebook.com/nicholas.h.morgan'
+f_twitter-2: 'http://twitter.com/drnickmorgan/'
 layout: '[authors].html'
 tags: authors
 ---

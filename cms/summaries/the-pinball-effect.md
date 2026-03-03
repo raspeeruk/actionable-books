@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:06.066Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78048e71bbdd1f52319ed_144127432-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-pinball-effect/
+  alt: The Pinball Effect book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-pinball-effect/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/12/ActionableBooks-Audio-The-Pinball-Effect.mp3
 f_author-plain-text: James Burke
@@ -38,7 +38,7 @@ f_big-idea: >-
   being confirmed: (1) that change is constant, and (2) that the individuals who
   leave their mark on history are those who capitalize on the changes of their
   era.
-f_quote-reference: \- The Pinball Effect, page 3
+f_quote-reference: '\- The Pinball Effect, page 3'
 f_insight-1: >-
   ### Pepper Power
 
@@ -90,9 +90,10 @@ f_quote-2: >-
   "Sometimes the simplest act will have cosmic repercussions a hundred years
   later. On other occasions, the most cataclysmic events will finally lead to
   ordinary, even humdrum results."
-f_amazon-url: https://www.amazon.com/dp/0316116106/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0316116106/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_insight-2: "### Tokyo by Torchlight\n\n> \"By the mid-nineteenth century, gaslight had spread far and wide.\_ It was lighting most major city streets in Britain, and reached Toronto in 1850 and Tokyo in 1872.\"\n> \n> \\- The Pinball Effect, page 72\n\nBeing a resident of Toronto, I found it fascinating to learn that Toronto had regular light a full 22 years before Tokyo.\_ If you visit the two cities now (just over 100 years later), it’s hard to imagine that Toronto was recently “more advanced” than Tokyo.\n\n[![](http://actionablebooks.com/wp-content/uploads/2011/12/tokyo_toronto.jpg \"tokyo_toronto\")](http://actionablebooks.com/summaries/the-pinball-effect/tokyo_toronto/)\n\nToronto’s a great city, but one would be hard pressed to argue that it is more technologically advanced than Tokyo.\_ As Jim Collins pointed out in his latest book, _[Great by Choice](../summaries/great-by-choice/)_, it’s not about “getting there first” that matters in the long run; it’s what you do with a technology or advancement that counts.\_ We live in a fast paced time and, as a result, it often seems as though those who make the breakthrough are those destined for success. Even in the high tech space though, this assumption is flawed.\_ MySpace was first to market; Facebook just made it better.\_ IBM was producing computers long before Apple even existed.\n\nDon’t be disheartened by someone beating you to market.\_ It’s what you do with it (and who you serve with it) that really matters."
 ---
 
 

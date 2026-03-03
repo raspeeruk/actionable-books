@@ -1,17 +1,17 @@
 ---
 title: Michael S. Malone
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Michael-S.-Malone/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Michael-S.-Malone/'
 f_unique-id: '561'
 slug: michael-s-malone
 f_image:
   url: /assets/external/65d77a318e15a167be184afa_michael-s-malone-180x220.jpeg
-  alt: null
+  alt: Michael S. Malone
 f_summaries:
   - cms/summaries/team-genius.md
 updated-on: '2024-02-23T13:30:32.491Z'
 created-on: '2024-02-22T16:45:37.848Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://www.michaelsmalone.com/
+f_website-2: 'http://www.michaelsmalone.com/'
 layout: '[authors].html'
 tags: authors
 ---

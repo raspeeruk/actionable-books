@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:57.788Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780395e2fee3da799ad75_courage-to-execute.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/courage-to-execute/
+  alt: Courage to Execute book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/courage-to-execute/'
 f_author-plain-text: James D. Murphy
 f_author: cms/authors/james-d-murphy.md
 f_category-3: cms/summary-categories/leadership.md
@@ -56,7 +56,7 @@ f_big-idea: >-
   You learn from after-action reflection. To skip that step abbreviates the
   process (which is why we skip it) but forfeits the potential improvement and
   learning.
-f_quote-reference: \- Courage to Execute, page 46
+f_quote-reference: '\- Courage to Execute, page 46'
 f_insight-2: >-
   ### Task Saturation
 
@@ -118,7 +118,7 @@ f_quote-2: >-
   "General ideas lead to general execution, and that gets sloppy. We have to
   eliminate doubt, guesswork, and ambiguity. In the military, those things kill
   people."
-f_amazon-url: https://www.amazon.com/dp/111879009X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/111879009X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:03.802Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802f11e0ad2b62bee4ba_elon-musk-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/elon-musk/
+  alt: Elon Musk book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/elon-musk/'
 f_author-plain-text: Ashlee Vance
 f_author: cms/authors/ashlee-vance.md
 f_category-3: cms/summary-categories/leadership.md
@@ -39,7 +39,7 @@ f_big-idea: >-
   about impacting the human species as a whole. As we better understand the
   enormity of that, the better we’ll understand Elon Musk and truly appreciate
   what he has been able to do.
-f_quote-reference: \- Elon Musk, page 1
+f_quote-reference: '\- Elon Musk, page 1'
 f_insight-2: >-
   ### Willpower
 
@@ -99,7 +99,7 @@ f_conclusion: >-
   groundbreaking ways. While, most of us are not Musk, it does make me think,
   wow we can we advance the world through our own small circles of influence?
 f_quote-2: “Do you think I’m insane?”
-f_amazon-url: https://www.amazon.com/dp/0062301233/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062301233/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

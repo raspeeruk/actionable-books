@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:53.479Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804da6abc3e76db25861_the-conquer-kit-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-conquer-kit/
+  alt: The Conquer Kit book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-conquer-kit/'
 f_author-plain-text: Natalie Macneil
 f_author: cms/authors/natalie-macneil.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -97,7 +97,7 @@ f_big-idea: >-
   aren’t fun for you, that leave you feeling stressed and deflated can really
   make a difference in moving positively towards your business goals. Now is
   your chance.
-f_quote-reference: \- The Conquer Kit, page 40
+f_quote-reference: '\- The Conquer Kit, page 40'
 f_insight-2: >-
   ### Goal setting
 
@@ -213,7 +213,7 @@ f_quote-2: >-
   "Your business will impact people’s lives far beyond your own. People will
   read what you write and change their minds. They use your products to feel
   happier and more connected to their lives and the world around them."
-f_amazon-url: https://www.amazon.com/dp/0399175776/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0399175776/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

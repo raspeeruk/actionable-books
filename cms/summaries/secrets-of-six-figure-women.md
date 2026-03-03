@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780274397237729c992f4_secrets-of-six-figure-women-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/secrets-of-six-figure-women/
+  alt: Secrets of Six-Figure Women book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/secrets-of-six-figure-women/'
 f_author-plain-text: Barbara Stanny
 f_author: cms/authors/barbara-stanny.md
 f_category-3: cms/summary-categories/self-management.md
@@ -47,7 +47,7 @@ f_big-idea: >-
   increases your chances for success. When you have intention, you attract
   success, becoming a magnet that draws you to the next step of your journey,
   whatever that may be.
-f_quote-reference: \- Secrets of Six-Figure Women, page 90
+f_quote-reference: '\- Secrets of Six-Figure Women, page 90'
 f_insight-2: >-
   ### Get in the game
 
@@ -138,7 +138,7 @@ f_quote-2: >-
   your commitment is staunch, the how-tos invariably show up. I saw over and
   over how once the women I was talking to set their sights on higher earnings,
   lo and behold, that’s what they got."
-f_amazon-url: https://www.amazon.com/dp/0060933461/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0060933461/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

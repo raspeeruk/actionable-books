@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:12.676Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78057d1a6d45f96b01fcc_how-music-got-free-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/how-music-got-free/
+  alt: How Music Got Free book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/how-music-got-free/'
 f_author-plain-text: Stephen Witt
 f_author: cms/authors/stephen-witt.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -43,7 +43,7 @@ f_big-idea: >-
   their worldview. If people feel taken advantage of, they easily justify
   actions they know are wrong. Sometimes moral judgement depends as much on fact
   as it depends on individual understanding and perspective.
-f_quote-reference: \- How Music Got Free, page 193
+f_quote-reference: '\- How Music Got Free, page 193'
 f_insight-2: >-
   ### Recognize the Opportunity in Every Crisis
 
@@ -126,7 +126,7 @@ f_quote-2: >-
   over hundreds of dollars for iPods but wouldn’t give the record industry a
   dime. They still, somehow, didn't seem to understand that file-sharing was
   illegal.”
-f_amazon-url: https://www.amazon.com/dp/0525426612/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0525426612/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

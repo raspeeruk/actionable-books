@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:41.998Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803399395c41bc210cd3_spin.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/spin-selling/
+  alt: SPIN Selling book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/spin-selling/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-SPIN-Selling.mp3
 f_author-plain-text: Neil Rackham
@@ -52,7 +52,7 @@ f_big-idea: >-
   Success in the large sale depends, more than anything else, on how _implied
   needs_ are developed, and then how you convert those found needs into
   _EXPLICIT needs_ that you can help the customer in solving.
-f_quote-reference: \- SPIN Selling, page 8
+f_quote-reference: '\- SPIN Selling, page 8'
 f_insight-2: >-
   ### Objection! Did I do that?
 
@@ -122,7 +122,7 @@ f_quote-2: >-
   or services. The building up of perceived value is probably the single most
   important selling skill in larger sales… The reason why the customer wouldn’t
   buy was that she didn’t see enough value to justify so large a decision."
-f_amazon-url: https://www.amazon.com/dp/0070511136/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0070511136/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

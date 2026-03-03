@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780d681456d11fb0700e3_book-cover_24582677-2ecc-4456-a2c1-c2eadfcb8d5b.jpeg
-  alt: null
+  alt: 'Happy Money: The Science of Smarter Spending book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/happy-money-the-science-of-smarter-spending/
 f_category-3: cms/summary-categories/team-optimization.md
@@ -74,7 +74,7 @@ f_big-idea: >-
   *   Paying for the card earlier in the week (Principle #4)
 
   *   Using it to buy coffee for your friend (Principle #5)
-f_quote-reference: \- Happy Money, page xiv
+f_quote-reference: '\- Happy Money, page xiv'
 f_insight-2: >-
   ### Make it a treat
 
@@ -154,7 +154,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Around the world, income has surprisingly little influence on whether people
   smile, laugh or experience enjoyment on a typical day."
-f_amazon-url: https://www.amazon.com/dp/B008J4L17K/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B008J4L17K/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

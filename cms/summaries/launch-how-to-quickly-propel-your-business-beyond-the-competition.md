@@ -7,7 +7,9 @@ created-on: '2024-02-22T16:06:19.678Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780396c1a1ebc9b54924c_launch.jpeg
-  alt: null
+  alt: >-
+    Launch: How to Quickly Propel Your Business Beyond The Competition book
+    cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/launch-how-to-quickly-propel-your-business-beyond-the-competition/
 f_author-plain-text: Michael A. Stelzner
@@ -33,7 +35,7 @@ f_big-idea: >-
   focuses on being of service to others. Stelzner also suggests that this
   facilitates a change in the prospects mind from “I’m being sold” to “I’m being
   educated”.
-f_quote-reference: \- Launch, page 185
+f_quote-reference: '\- Launch, page 185'
 f_insight-2: >-
   ### Other People Will Take Your Business Places
 
@@ -100,7 +102,7 @@ f_quote-2: >-
   your business to unimaginable places. But the idea of restraining marketing
   messages is a difficult pill for most people to swallow. It’s the opposite of
   what many marketers believe to be right and true."
-f_amazon-url: https://www.amazon.com/dp/111802723X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/111802723X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

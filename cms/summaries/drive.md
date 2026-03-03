@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:02.596Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a8124d447bdbf6f785_drive.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/drive/
+  alt: Drive book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/drive/'
 f_author-plain-text: Daniel Pink
 f_author: cms/authors/daniel-pink.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -132,7 +132,7 @@ f_conclusion: >-
   intrinsically motivated to create, develop and produce our best. We don’t need
   carrots or sticks; we need the freedom, the challenge and the purpose to give
   our all.
-f_amazon-url: https://www.amazon.com/dp/1594488843/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1594488843/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:13.605Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78056371cd956ed97133b_the-warren-buffett-way.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-warren-buffett-way/
+  alt: The Warren Buffett Way book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-warren-buffett-way/'
 f_author-plain-text: Robert G. Hagstrom
 f_author: cms/authors/robert-g-hagstrom.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -114,7 +114,7 @@ f_conclusion: >-
   with anecdotes, colourful commentary, and the piercing insight that while we
   as human beings often overcomplicate things, there is tremendous advantage to
   following a few simple, yet timeless principles.
-f_amazon-url: https://www.amazon.com/dp/0471743674/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0471743674/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

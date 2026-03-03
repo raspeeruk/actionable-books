@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:46.399Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802db56c9adb0e29d92d_honest_truth_about_dishonesty.jpeg
-  alt: null
+  alt: The (Honest) Truth About Dishonesty book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-honest-truth-about-dishonesty/
 f_podcast-url: >-
@@ -117,7 +117,7 @@ f_conclusion: >-
 f_quote-2: >-
   "In fact, they were just like you, me, and most of the people on this planet,
   which means that all of us are perfectly capable of cheating a little bit."
-f_amazon-url: https://www.amazon.com/dp/0062183591/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062183591/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

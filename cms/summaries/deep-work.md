@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:59.544Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809138e9272e48f4e8f6_deep-work-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/deep-work/
+  alt: Deep Work book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/deep-work/'
 f_author-plain-text: Cal Newport
 f_author: cms/authors/cal-newport.md
 f_category-3: cms/summary-categories/self-management.md
@@ -39,7 +39,7 @@ f_big-idea: >-
   today. That is why it is so important to intentionally schedule deep work, and
   restrict social media for that period of time. Ritualizing deep work is a
   great place to start.
-f_quote-reference: \- Deep Work, page 14
+f_quote-reference: '\- Deep Work, page 14'
 f_insight-2: >-
   ### Flex your Concentration Muscle
 
@@ -119,7 +119,7 @@ f_quote-2: >-
   same time it is becoming increasingly valuable in our economy. As a
   consequence, the few who cultivate this skill, and then make it the core of
   their working life, will thrive.”
-f_amazon-url: https://www.amazon.com/dp/1455586692/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1455586692/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

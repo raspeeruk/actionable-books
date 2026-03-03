@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:23.169Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805372efaa84589896d1_love_leadership-sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/love-leadership/
+  alt: Love Leadership book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/love-leadership/'
 f_author-plain-text: John Hope Bryant
 f_author: cms/authors/john-hope-bryant.md
 f_category-3: cms/summary-categories/leadership.md
@@ -120,7 +120,7 @@ f_insight-1: >-
   They are loyal to that person and they are hard working for that person. Be
   that person.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0470428783/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470428783/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

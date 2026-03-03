@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:00.429Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808453372b1abe4ca202_last-lecture-sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-last-lecture/
+  alt: The Last Lecture book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-last-lecture/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2010/11/The-Last-Lecture-audio.mp3
 f_author-plain-text: Randy Pausch
@@ -89,7 +89,7 @@ f_insight-1: >-
   want it bad enough. As Pausch says, _“Brick walls are there for a reason. They
   give us a chance to show how badly we want something.”_
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1401323251/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1401323251/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

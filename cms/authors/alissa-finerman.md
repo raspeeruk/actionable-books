@@ -1,19 +1,19 @@
 ---
 title: Alissa Finerman
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Alissa-Finerman/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Alissa-Finerman/'
 f_unique-id: '359'
 slug: alissa-finerman
 f_image:
   url: >-
     /assets/external/65d779aaaa6a5d05550e5fe7_e17be16e8aca0ad8976fe0.L._V182381347_SX200_.jpeg
-  alt: null
+  alt: Alissa Finerman
 f_summaries:
   - cms/summaries/living-in-your-top-1.md
 updated-on: '2024-02-23T13:31:33.316Z'
 created-on: '2024-02-22T16:43:22.636Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://www.facebook.com/alissafinermantop1
-f_twitter-2: http://twitter.com/alissafinerman/
+f_facebook-2: 'http://www.facebook.com/alissafinermantop1'
+f_twitter-2: 'http://twitter.com/alissafinerman/'
 layout: '[authors].html'
 tags: authors
 ---

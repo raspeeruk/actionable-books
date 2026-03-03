@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:40.852Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a4b3b818ca436c770a_simply-brilliant-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/simply-brilliant/
+  alt: Simply Brilliant book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/simply-brilliant/'
 f_author-plain-text: William Taylor
 f_author: cms/authors/william-taylor.md
 f_category-3: cms/summary-categories/leadership.md
@@ -110,7 +110,7 @@ f_big-idea: >-
   The businesses that allow members a seat at the table and a share of the pie
   are able to generate a deep sense of loyalty and engagement with their
   employees.
-f_quote-reference: \- Simply Brilliant, page 5
+f_quote-reference: '\- Simply Brilliant, page 5'
 f_insight-2: >-
   ### Kindness Matters
 
@@ -172,7 +172,7 @@ f_quote-2: >-
   “The problem with most organizations today is not that they are broken, it’s
   that they are boring. And boring organizations don’t lend themselves to
   runaway success.”
-f_amazon-url: https://www.amazon.com/dp/1591847753/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591847753/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

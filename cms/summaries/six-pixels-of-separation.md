@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:40.985Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804fbe467da9b240d567_six-pixels-sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/six-pixels-of-separation/
+  alt: Six Pixels of Separation book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/six-pixels-of-separation/'
 f_author-plain-text: Mitch Joel
 f_author: cms/authors/mitch-joel.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -134,7 +134,7 @@ f_conclusion: >-
   next. For the first time ever, public attention is “driven by time vested –
   and not by money invested.” (page 5) It’s an exciting era, one destined to be
   dominated by those who care.
-f_amazon-url: https://www.amazon.com/dp/0446548227/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0446548227/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

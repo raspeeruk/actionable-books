@@ -45,7 +45,7 @@ f_big-idea: >-
 
 
   Nice sentiment. But how do we **do** that?
-f_quote-reference: ''
+f_quote-reference: '- Let&apos;s Get Real or Let&apos;s Not Play, page 1'
 f_insight-2: >-
   ### Move Off the Solution
 
@@ -157,9 +157,12 @@ f_conclusion: >-
   And what do you fill the blank with? Well, that’s entirely up to you. Just
   make it about the client, make it relevant and remember your intention – To
   help the customer find the right solution to their problem.
-f_amazon-url: https://www.amazon.com/dp/1591842263/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591842263/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Sales skills are life skills. What makes us better at sales makes us better in
+  life. And vice versa.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/01/ActionableBooks-Audio-Lets-Get-Real-or-Lets-Not-Play.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/01/ActionableBooks-Audio-Lets-Get-Real-or-Lets-Not-Play.mp3)

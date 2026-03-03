@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:18.473Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780722ebc9b7d62b35085_9780988239500_p0_v1_s114x166.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/turning-rants-into-raves/
+  alt: Turning Rants Into Raves book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/turning-rants-into-raves/'
 f_author-plain-text: Carol Heady
 f_author: cms/authors/carol-heady.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -44,7 +44,7 @@ f_big-idea: >-
 
 
   How do you take action on the five principles?
-f_quote-reference: \- Turning Rants into Raves, dust jacket
+f_quote-reference: '\- Turning Rants into Raves, dust jacket'
 f_insight-2: >-
   ### Capture Your Customer's Heart
 
@@ -134,7 +134,7 @@ f_conclusion: ''
 f_quote-2: >-
   "No matter what industry, size, or type of organization you lead, delivering
   an experience that inspires your customers is what every business wants."
-f_amazon-url: https://www.amazon.com/dp/0988239507/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0988239507/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

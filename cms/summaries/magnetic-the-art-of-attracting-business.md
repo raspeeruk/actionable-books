@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:23.753Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807f493e1ac825f5478a_magnetic-94x144.jpeg
-  alt: null
+  alt: 'Magnetic: The Art of Attracting Business book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/magnetic-the-art-of-attracting-business/
 f_author-plain-text: Joe Calloway
@@ -51,7 +51,7 @@ f_big-idea: >-
   bumper crop of goodwill that will be shared with everyone in their network.
   Failure to cultivate the customer relationship may produce a single sale, but
   won’t yield a more bountiful harvest over time. You reap what you sow.
-f_quote-reference: \- Magnetic, page 13
+f_quote-reference: '\- Magnetic, page 13'
 f_insight-2: >-
   ### DNA – Do Not Apologize!
 
@@ -122,7 +122,7 @@ f_quote-2: >-
   "Your business will live or die, thrive or struggle, based on your ability to
   harness the power of your customers to drive new customers to grow your
   business."
-f_amazon-url: https://www.amazon.com/dp/1119147344/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1119147344/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

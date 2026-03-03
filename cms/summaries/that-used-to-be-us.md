@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:46.414Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d813d1e7c4be6eb6e2_that-used-to-be-us.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/that-used-to-be-us/
+  alt: That Used to Be Us book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/that-used-to-be-us/'
 f_author-plain-text: Michael Mandelbaum
 f_author: cms/authors/michael-mandelbaum.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -43,7 +43,7 @@ f_big-idea: >-
   past were so much more in-your-face than globalization, energy consumption,
   technology, growing budget deficits. It’s hard to look up from our smart
   phones to do something about these.
-f_quote-reference: \- That Used to Be Us, Preface
+f_quote-reference: '\- That Used to Be Us, Preface'
 f_insight-2: >-
   ### We are frustrated optimists
 
@@ -115,7 +115,7 @@ f_conclusion: >-
   environment changes and ours has. If we don’t adapt soon we run the risk of
   becoming dinosaurs (and you know what happened to them).
 f_quote-2: '"We have risen to challenges more formidable than these."'
-f_amazon-url: https://www.amazon.com/dp/B0050IET72/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B0050IET72/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

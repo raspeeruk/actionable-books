@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:14.421Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780351e4002fac4521d63_rsz_3wisdom_of_wooden-94x78.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-wisdom-of-wooden/
+  alt: The Wisdom of Wooden book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-wisdom-of-wooden/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/10/ActionableBooks-Audio-The-Wisdom-of-Wooden.mp3
 f_author-plain-text: John Wooden
@@ -41,7 +41,7 @@ f_big-idea: >-
   masterpiece.’ When you do that as the weeks and months and years (and, for me,
   century) unfold behind you, you’ll have the deepest self-satisfaction knowing
   your life has really meant something.”_
-f_quote-reference: \- The Wisdom of Wooden, page 1
+f_quote-reference: '\- The Wisdom of Wooden, page 1'
 f_insight-1: >-
   ### Redefine Success
 
@@ -114,9 +114,51 @@ f_quote-2: >-
   "At some point Sports Illustrated concluded: 'There has never been a finer
   coach in American sports. Nor a finer man.' It's the last part – ‘nor a finer
   man’ – that makes John Wooden JOHN WOODEN."
-f_amazon-url: https://www.amazon.com/dp/0071751165/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071751165/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_insight-2: >-
+  ### Follow the Pyramid of Success
+
+
+  > "The Pyramid of Success contains the fifteen qualities I chose as
+  prerequisites for success as I define it."
+
+  > 
+
+  > \- The Wisdom of Wooden, page 54
+
+
+  Coach didn’t stop with a new definition of success.
+
+
+  He felt he _“_owed it to \[his\] students to help them understand what they
+  must do to achieve success”, so he created the (now famous) Pyramid of
+  Success: a combination of 15 personal qualities he felt were prerequisites for
+  success.
+
+
+  Knowing that the strength of the pyramid lies in its foundation, Coach
+  intentionally chose Industriousness and Enthusiasm as its cornerstones, with
+  Competitive Greatness as its peak.
+
+
+  _“The very first blocks that I selected for the Pyramid of Success were
+  Industriousness and Enthusiasm. When your work is no more than a grind, you
+  cannot perform up to your highest level. A little fun is part of Enthusiasm.”_
+
+
+  ![](http://actionablebooks.com/wp-content/uploads/2011/10/wooden_pyramid.jpg)
+
+
+  As you move up the Pyramid of Success, you get a sense for not only the
+  wisdom, but the values Coach lived and passed on. You begin to understand why
+  his teachings have been at the heart of several success stories and why the
+  Pyramid of Success was not only turned into a children’s book, but also
+  followed by countless others.
+
+
+  And we’d be wise to follow it as well.
 ---
 
 

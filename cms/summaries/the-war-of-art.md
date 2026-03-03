@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:13.578Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780bdc32593873d999174_war_of_art-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-war-of-art/
+  alt: The War of Art book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-war-of-art/'
 f_author-plain-text: Steven Pressfield
 f_author: cms/authors/steven-pressfield.md
 f_category-3: cms/summary-categories/self-management.md
@@ -35,7 +35,7 @@ f_big-idea: >-
   The **Resistance** is the biggest barrier to our own success, according to
   author Steven Pressfield, and the following two Insights offer ways to combat
   it.
-f_quote-reference: \- The War of Art, Preface
+f_quote-reference: '\- The War of Art, Preface'
 f_insight-2: >-
   ### Retain Your Identity
 
@@ -124,7 +124,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Are you a writer who doesn’t write, a painter who doesn’t paint, an
   entrepreneur who never starts a venture? Then you know what Resistance is."
-f_amazon-url: https://www.amazon.com/dp/1936891026/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1936891026/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

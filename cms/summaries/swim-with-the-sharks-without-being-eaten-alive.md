@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:45.024Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802304ee7820ceb30d89_swim-with-the-sharks-94x144.jpeg
-  alt: null
+  alt: Swim with the Sharks Without Being Eaten Alive book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/swim-with-the-sharks-without-being-eaten-alive/
 f_author-plain-text: Harvey Mackay
@@ -46,7 +46,7 @@ f_big-idea: >-
   How do you know? If you are earnestly setting goals and not reaching them,
   Mackay’s formula for success says you need to increase your concentration and
   determination. To find out how read on to the Insights.
-f_quote-reference: \- Swim with the Sharks Without Being Eaten Alive, page 36
+f_quote-reference: '\- Swim with the Sharks Without Being Eaten Alive, page 36'
 f_insight-2: >-
   ### Fantasize
 
@@ -130,7 +130,7 @@ f_quote-2: >-
   managers, or entrepreneurs, is to make others see the advantage to themselves
   in responding to our proposal. Understanding our subjects’ personalities is
   vital. Let them shine. Our own personalities are subordinate."
-f_amazon-url: https://www.amazon.com/dp/006074281X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/006074281X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

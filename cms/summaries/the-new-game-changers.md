@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:03.717Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78072b3b818ca436c6297_new-game-changers-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-new-game-changers/
+  alt: The New Game Changers book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-new-game-changers/'
 f_author-plain-text: Butler Newman
 f_author: cms/authors/butler-newman.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -47,7 +47,7 @@ f_big-idea: >-
   outcome (winning the game) without really describing what specifically you
   need to do to produce that outcome (maximize time of possession and create
   opportunities to score points)?
-f_quote-reference: \- The New Game Changers, page vii
+f_quote-reference: '\- The New Game Changers, page vii'
 f_insight-2: >-
   ### Maximize Training by Focusing on What Matters
 
@@ -117,7 +117,7 @@ f_conclusion: >-
 f_quote-2: >-
   “The challenge, simply stated, is this: there is not enough top talent to go
   around, so how do we get good, solid people to produce great results?”
-f_amazon-url: https://www.amazon.com/dp/0986253103/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0986253103/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

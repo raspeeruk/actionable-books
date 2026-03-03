@@ -1,18 +1,18 @@
 ---
 title: Chris Bailey
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Chris-Bailey/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Chris-Bailey/'
 f_unique-id: '722'
 f_image:
   url: /assets/external/65d779cd7e3af15715d693e2_chris-bailey-180x220.jpeg
-  alt: null
+  alt: Chris Bailey
 slug: chris-bailey
 f_summaries:
   - cms/summaries/the-productivity-project.md
 updated-on: '2024-02-23T13:31:11.194Z'
 created-on: '2024-02-22T16:43:57.277Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/wigglechicken/
-f_website-2: http://alifeofproductivity.com/book
+f_twitter-2: 'http://twitter.com/wigglechicken/'
+f_website-2: 'http://alifeofproductivity.com/book'
 layout: '[authors].html'
 tags: authors
 ---

@@ -1,16 +1,16 @@
 ---
 title: Patrick Lencioni
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Patrick-Lencioni/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Patrick-Lencioni/'
 f_unique-id: '163'
 f_image:
   url: /assets/external/65d77a3acc5c48c59d14ae70_patrick-lencioni-180x220.jpeg
-  alt: null
+  alt: Patrick Lencioni
 slug: patrick-lencioni
 updated-on: '2024-02-23T13:31:24.662Z'
 created-on: '2024-02-22T16:45:46.534Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://www.facebook.com/pages/Patrick-Lencioni/133626265614
-f_twitter-2: http://twitter.com/patricklencioni/
+f_facebook-2: 'http://www.facebook.com/pages/Patrick-Lencioni/133626265614'
+f_twitter-2: 'http://twitter.com/patricklencioni/'
 layout: '[authors].html'
 tags: authors
 ---

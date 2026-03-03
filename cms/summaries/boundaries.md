@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:49.740Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c5759822d957045b8d_boundaries.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/boundaries/
+  alt: Boundaries book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/boundaries/'
 f_author-plain-text: Dr. Henry Cloud
 f_author: cms/authors/dr-henry-cloud.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -42,7 +42,7 @@ f_big-idea: >-
   you will not be available to help last minute so they will need to find
   someone else. Another boundary could be that nothing interrupts family dinner
   time or that you will leave the office every night by 5.
-f_quote-reference: \- Boundaries, page 33
+f_quote-reference: '\- Boundaries, page 33'
 f_insight-2: >-
   ### Give Yourself a Time
 
@@ -102,7 +102,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Boundaries are anything that helps to differentiate you from someone else, or
   shows where you begin and end."
-f_amazon-url: https://www.amazon.com/dp/B000FC2K9W/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B000FC2K9W/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,11 +1,11 @@
 ---
 title: Ralph Waldo Emerson
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Ralph-Waldo-Emerson/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Ralph-Waldo-Emerson/'
 f_unique-id: '510'
 slug: ralph-waldo-emerson
 f_image:
   url: /assets/external/65d77a410d646c836189febd_ralph-waldo-emerson.jpeg
-  alt: null
+  alt: Ralph Waldo Emerson
 f_summaries:
   - cms/summaries/self-reliance.md
 updated-on: '2024-02-23T13:31:12.576Z'

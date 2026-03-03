@@ -1,17 +1,17 @@
 ---
 title: Deirdre Maloney
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Deirdre-Maloney/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Deirdre-Maloney/'
 f_unique-id: '686'
 f_image:
   url: /assets/external/65d779e7f0f6c18138332dc0_maloney.jpeg
-  alt: null
+  alt: Deirdre Maloney
 slug: deirdre-maloney
 f_summaries:
   - cms/summaries/the-mission-myth.md
 updated-on: '2024-02-23T13:30:52.120Z'
 created-on: '2024-02-22T16:44:24.509Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://makemomentum.com/
+f_website-2: 'http://makemomentum.com/'
 layout: '[authors].html'
 tags: authors
 ---

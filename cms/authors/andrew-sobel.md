@@ -1,15 +1,15 @@
 ---
 title: Andrew Sobel
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Andrew-Sobel/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Andrew-Sobel/'
 f_unique-id: '131'
 slug: andrew-sobel
 f_image:
   url: /assets/external/65d779ae57779173a8b643f4_andrew-sobel.jpeg
-  alt: null
+  alt: Andrew Sobel
 updated-on: '2024-02-23T13:31:10.604Z'
 created-on: '2024-02-22T16:43:26.908Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://andrewsobel.com
+f_website-2: 'http://andrewsobel.com'
 layout: '[authors].html'
 tags: authors
 ---

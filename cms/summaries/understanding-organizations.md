@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780d21a3802ce7ed20871_understanding-organizations-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/understanding-organizations/
+  alt: Understanding Organizations book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/understanding-organizations/'
 f_author-plain-text: Charles Handy
 f_author: cms/authors/charles-handy.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -72,7 +72,7 @@ f_big-idea: >-
   we have in place, the relationships and networks, values, leadership styles,
   and even the information we collect, should all match and support our desired
   collaborative culture.
-f_quote-reference: \- Understanding Organizations, loc. 171
+f_quote-reference: '\- Understanding Organizations, loc. 171'
 f_insight-2: >-
   ### Illegitimate Use of Power
 
@@ -135,7 +135,7 @@ f_quote-2: >-
   experience. But experience, guided and enlightened by understanding, is likely
   to be a gentler experience for everyone and to lead to a shorter learning
   cycle."
-f_amazon-url: https://www.amazon.com/dp/B002TJLEZA/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B002TJLEZA/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

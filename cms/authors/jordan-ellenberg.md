@@ -1,18 +1,18 @@
 ---
 title: Jordan Ellenberg
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Jordan-Ellenberg/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Jordan-Ellenberg/'
 f_unique-id: '281'
 slug: jordan-ellenberg
 f_image:
   url: /assets/external/65d77a198e15a167be183d15_ellenberg-180x220.jpeg
-  alt: null
+  alt: Jordan Ellenberg
 f_summaries:
   - cms/summaries/how-not-to-be-wrong.md
 updated-on: '2024-02-23T13:30:54.378Z'
 created-on: '2024-02-22T16:45:13.355Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/JSEllenberg/
-f_website-2: http://jordanellenberg.com
+f_twitter-2: 'http://twitter.com/JSEllenberg/'
+f_website-2: 'http://jordanellenberg.com'
 layout: '[authors].html'
 tags: authors
 ---

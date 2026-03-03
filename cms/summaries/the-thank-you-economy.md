@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:12.688Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802ba8157b6a52467c9b_thank_you_economy-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-thank-you-economy/
+  alt: The Thank You Economy book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-thank-you-economy/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/04/ActionableBooks-Audio-The-Thank-You-Economy-2.mp3
 f_author-plain-text: Gary Vaynerchuk
@@ -50,7 +50,7 @@ f_big-idea: >-
 
 
   So, build relationships.
-f_quote-reference: \- The Thank You Economy, page 4
+f_quote-reference: '\- The Thank You Economy, page 4'
 f_insight-2: >-
   ### Both ends of the spectrum
 
@@ -112,7 +112,7 @@ f_quote-2: >-
   "When given the choice, people will always spend their time around people they
   like. When it's expedient and practical, they'd also rather do business with
   and buy stuff from people they like. And now, they can."
-f_amazon-url: https://www.amazon.com/dp/0061914185/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0061914185/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

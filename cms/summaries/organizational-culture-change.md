@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:30.163Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d35b97679fda5099782811_9789081982511_p0_v1_s114x166.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/organizational-culture-change/
+  alt: Organizational Culture Change book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/organizational-culture-change/'
 f_author-plain-text: Marcella Bremer
 f_author: cms/authors/marcella-bremer.md
 f_category-3: cms/summary-categories/leadership.md
@@ -42,7 +42,7 @@ f_big-idea: >-
   The author appropriately suggests we’re not going for the ultimate “best” plan
   but what gets accepted in your company. It’s not about “being right” but
   obtaining fans and followers these days!
-f_quote-reference: \- Organizational Culture Change, page 18
+f_quote-reference: '\- Organizational Culture Change, page 18'
 f_insight-2: >-
   ### The 7-Step Guide of Culture Change
 
@@ -124,7 +124,7 @@ f_quote-2: >-
   "This is the world of co-creation and emergent advantages in networks inside
   and outside of the organization… The coming of age of masses of well-educated
   workers who like to take ownership for their own lives and careers…"
-f_amazon-url: https://www.amazon.com/dp/9081982516/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/9081982516/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

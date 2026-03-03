@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:09.063Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c677c4a8c4e31b2019_responsible-company.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-responsible-company/
+  alt: The Responsible Company book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-responsible-company/'
 f_author-plain-text: Yvon Chouinard
 f_author: cms/authors/yvon-chouinard.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -46,7 +46,7 @@ f_big-idea: >-
   to another.” **Sharing what you learn solidifies thoughts and ideas for
   yourself as well as being the genesis for other ideas both for yourself and
   others.**
-f_quote-reference: \- The Responsible Company, Chapter 3
+f_quote-reference: '\- The Responsible Company, Chapter 3'
 f_insight-2: >-
   ### Start Small and Large
 
@@ -115,7 +115,7 @@ f_conclusion: >-
 f_quote-2: >-
   "We’re wasting our brains and our only world on the design, production, and
   consumption of things we don’t need and that aren’t good for us."
-f_amazon-url: https://www.amazon.com/dp/B00GCDYVMC/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00GCDYVMC/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:56.812Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780332a2994bbba9db81e_crucial_conversations-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/crucial-conversations/
+  alt: Crucial Conversations book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/crucial-conversations/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/10/Actionable-Books-Audio-Crucial-Conversations.mp3
 f_author-plain-text: Al Switzler
@@ -39,7 +39,7 @@ f_big-idea: >-
 
   Let’s look at a couple factors that can get in the way (and what to do about
   them).
-f_quote-reference: \- Crucial Conversations, page 9
+f_quote-reference: '\- Crucial Conversations, page 9'
 f_insight-2: >-
   ### Choose your own adventure (story)
 
@@ -171,7 +171,7 @@ f_quote-2: >-
   "Our research has shown that strong relationships, careers, organizations, and
   communities all draw from the same source of power - the ability to talk
   openly about high-stakes, emotional, controversial topics."
-f_amazon-url: https://www.amazon.com/dp/0071401946/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071401946/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

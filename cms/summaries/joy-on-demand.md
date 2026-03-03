@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:18.542Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803087289c3de6903035_joy-on-demand-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/joy-on-demand/
+  alt: Joy on Demand book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/joy-on-demand/'
 f_author-plain-text: Chade Meng Tan
 f_author: cms/authors/chade-meng-tan.md
 f_category-3: cms/summary-categories/self-management.md
@@ -59,7 +59,7 @@ f_big-idea: >-
   something you might regret helps if you also breathe out fully before you
   speak, because this helps to soften the shoulders so you are less likely to
   tense up for a fight.
-f_quote-reference: \- Joy on Demand, page 59
+f_quote-reference: '\- Joy on Demand, page 59'
 f_insight-2: >-
   ### Savoring slices of joy
 
@@ -135,7 +135,7 @@ f_quote-2: >-
   joy, at least during meditation. The most important thing about this is
   self-sustaining momentum. Once a person hits the Joy Point, the virtuous cycle
   of joy and skillfulness keeps him or her going."
-f_amazon-url: https://www.amazon.com/dp/0062378872/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062378872/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

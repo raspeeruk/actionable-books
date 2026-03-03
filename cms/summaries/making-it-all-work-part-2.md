@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:24.505Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803b126c8e2a4b91762d_making-it-all-work.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/making-it-all-work-part-2/
+  alt: Making it All Work book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/making-it-all-work-part-2/'
 f_author-plain-text: David Allen
 f_author: cms/authors/david-allen.md
 f_category-3: cms/summary-categories/self-management.md
@@ -137,7 +137,7 @@ f_conclusion: >-
   long will it take to do excellently? What extra could you do to make this
   event your masterpiece? The weekly review offers as much benefit looking
   forward as it does looking back.
-f_amazon-url: https://www.amazon.com/dp/0143116622/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0143116622/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

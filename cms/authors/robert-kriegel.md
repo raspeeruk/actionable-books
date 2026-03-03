@@ -1,17 +1,17 @@
 ---
 title: Robert Kriegel
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Robert-Kriegel/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Robert-Kriegel/'
 f_unique-id: '501'
 f_image:
   url: /assets/external/65d77a47db2fefd98815e29d_kriegel_robert-lg-180x220.jpeg
-  alt: null
+  alt: Robert Kriegel
 slug: robert-kriegel
 f_summaries:
   - cms/summaries/sacred-cows-make-the-best-burgers.md
 updated-on: '2024-02-23T13:30:33.620Z'
 created-on: '2024-02-22T16:45:59.114Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://www.kriegel.com/
+f_website-2: 'http://www.kriegel.com/'
 layout: '[authors].html'
 tags: authors
 ---

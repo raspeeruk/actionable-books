@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:13.400Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804c79d65a84c50a57e1_how-to-fly-a-horse-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/how-to-fly-a-horse/
+  alt: How to Fly a Horse book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/how-to-fly-a-horse/'
 f_author-plain-text: Kevin Ashton
 f_author: cms/authors/kevin-ashton.md
 f_category-3: cms/summary-categories/self-management.md
@@ -41,7 +41,7 @@ f_big-idea: >-
   to a fellow poet’s question about whether it’s possible to know if anything we
   write is any good: “You can’t. You die without knowing if anything you ever
   write is any good. If you have to know, don’t write.”
-f_quote-reference: \- How to Fly a Horse, page xv
+f_quote-reference: '\- How to Fly a Horse, page xv'
 f_insight-2: >-
   ### You sell your soul when you waste your time
 
@@ -125,7 +125,7 @@ f_quote-2: >-
   creating is more like magic than work. A rare few have what it takes, and for
   them it comes easy. Anybody else’s creative efforts are doomed. ‘How to Fly a
   Horse’ is about why the myth is wrong."
-f_amazon-url: https://www.amazon.com/dp/0385538596/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0385538596/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

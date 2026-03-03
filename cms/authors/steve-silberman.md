@@ -1,18 +1,18 @@
 ---
 title: Steve Silberman
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Steve-Silberman/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Steve-Silberman/'
 f_unique-id: '402'
 slug: steve-silberman
 f_image:
   url: /assets/external/65d77a55f15e79c73be4c7dd_steve-silberman-1-180x220.jpeg
-  alt: null
+  alt: Steve Silberman
 f_summaries:
   - cms/summaries/neurotribes.md
 updated-on: '2024-02-23T13:30:45.430Z'
 created-on: '2024-02-22T16:46:13.279Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/stevesilberman/
-f_website-2: http://stevesilberman.com
+f_twitter-2: 'http://twitter.com/stevesilberman/'
+f_website-2: 'http://stevesilberman.com'
 layout: '[authors].html'
 tags: authors
 ---

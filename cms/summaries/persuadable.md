@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:32.865Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802fa0ece9a8c835257b_persuadable-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/persuadable/
+  alt: Persuadable book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/persuadable/'
 f_author-plain-text: Al Pittampalli
 f_author: cms/authors/al-pittampalli.md
 f_category-3: cms/summary-categories/leadership.md
@@ -41,7 +41,7 @@ f_big-idea: >-
   evidence. We call it flip-flopping. If we change our belief because the
   pursuit of accuracy is more important than any other ideal, it is a display of
   integrity, and we should regard it as a strength rather than a weakness.
-f_quote-reference: \- Persuadable, page 9
+f_quote-reference: '\- Persuadable, page 9'
 f_insight-2: >-
   ### Remember to Consider Other Perspectives
 
@@ -117,7 +117,7 @@ f_quote-2: >-
   “In environments characterized by complexity, uncertainty, and dynamism, it’s
   impossible to have all the answers. If you want to succeed, you must be
   prepared to change your mind.”
-f_amazon-url: https://www.amazon.com/dp/0062333895/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062333895/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

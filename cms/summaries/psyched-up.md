@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:35.509Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780cf899573618576ea40_psyched-up-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/psyched-up/
+  alt: Psyched Up book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/psyched-up/'
 f_author-plain-text: Daniel Mcginn
 f_author: cms/authors/daniel-mcginn.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -34,7 +34,7 @@ f_big-idea: >-
   with endless rehearsal up to the last minute, consider using the latest
   research to flip their anxiety to excitement. Or take a break and create a new
   ritual, a battle cry, or a silly handshake, to ensure success.
-f_quote-reference: \- Psyched Up, page 11
+f_quote-reference: '\- Psyched Up, page 11'
 f_insight-2: >-
   ### Pump it Up to Get Psyched!
 
@@ -137,7 +137,7 @@ f_quote-2: >-
   on your performance during a couple of dozen crucial hours—at pitch meetings,
   sales calls, a key conversation with your boss, and so on—the tools in this
   book should help you do better."
-f_amazon-url: https://www.amazon.com/dp/B01M31FYIM/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B01M31FYIM/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

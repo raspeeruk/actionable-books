@@ -1,18 +1,18 @@
 ---
 title: Olivia Mcivor
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Olivia-McIvor/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Olivia-McIvor/'
 f_unique-id: '606'
 slug: olivia-mcivor
 f_image:
   url: /assets/external/65d75357abe2733f960093d5_olivia-mcivor-174x220.jpeg
-  alt: null
+  alt: Olivia Mcivor
 f_summaries:
   - cms/summaries/the-business-of-kindness.md
 updated-on: '2024-02-23T13:30:31.958Z'
 created-on: '2024-02-22T16:45:45.005Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://www.facebook.com/#!/olivia.mcivor
-f_website-2: http://www.oliviamcivor.com/
+f_facebook-2: 'http://www.facebook.com/#!/olivia.mcivor'
+f_website-2: 'http://www.oliviamcivor.com/'
 layout: '[authors].html'
 tags: authors
 ---

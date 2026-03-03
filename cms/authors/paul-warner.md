@@ -1,10 +1,10 @@
 ---
 title: Paul Warner
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Paul-Warner/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Paul-Warner/'
 f_unique-id: '366'
 f_image:
   url: /assets/external/65d77a3c82c1c60625b81d71_paul-warner.png
-  alt: null
+  alt: Paul Warner
 f_summaries:
   - cms/summaries/magic-five-keys-to-unlock-the-power-of-employee-engagement.md
 slug: paul-warner

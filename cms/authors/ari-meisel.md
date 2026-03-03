@@ -1,18 +1,18 @@
 ---
 title: Ari Meisel
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Ari-Meisel/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Ari-Meisel/'
 f_unique-id: '349'
 f_image:
   url: /assets/external/65d779b3d99cd61e7fc201a8_ari-meisel.jpeg
-  alt: null
+  alt: Ari Meisel
 slug: ari-meisel
 f_summaries:
   - cms/summaries/less-doing-more-living.md
 updated-on: '2024-02-23T13:30:27.571Z'
 created-on: '2024-02-22T16:43:31.411Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/arimeisel/
-f_website-2: https://getleverage.com/
+f_twitter-2: 'http://twitter.com/arimeisel/'
+f_website-2: 'https://getleverage.com/'
 layout: '[authors].html'
 tags: authors
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:02.202Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a92ea4a5ee78408db0_the-martha-rules-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-martha-rules/
+  alt: The Martha Rules book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-martha-rules/'
 f_author-plain-text: Martha Stewart
 f_author: cms/authors/martha-stewart.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -46,7 +46,7 @@ f_big-idea: >-
   with much relish. Without a focus on passion, your work (whatever it may be)
   will become something that must merely be completed. It won’t ever be realized
   to the full of your potential.
-f_quote-reference: \- The Martha Rules, page 70
+f_quote-reference: '\- The Martha Rules, page 70'
 f_insight-2: >-
   ### Necessity is the mother of re-invention
 
@@ -131,7 +131,7 @@ f_quote-2: >-
   "The advantage of starting a business in an area about which you are
   passionate is that when you really care about something… you can often serve
   your customers very well by thinking about what you need and want yourself."
-f_amazon-url: https://www.amazon.com/dp/1594864705/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1594864705/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

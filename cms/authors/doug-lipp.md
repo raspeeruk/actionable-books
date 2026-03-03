@@ -1,18 +1,18 @@
 ---
 title: Doug Lipp
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Doug-Lipp/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Doug-Lipp/'
 f_unique-id: '179'
 f_image:
   url: /assets/external/65d779ec78a8c676499388a0_lipp.jpeg
-  alt: null
+  alt: Doug Lipp
 slug: doug-lipp
 f_summaries:
   - cms/summaries/disney-u.md
 updated-on: '2024-02-23T13:31:23.800Z'
 created-on: '2024-02-22T16:44:28.538Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://www.facebook.com/pages/G-Douglas-Lipp-Associates/107476682400
-f_twitter-2: http://twitter.com/douglipp/
+f_facebook-2: 'http://www.facebook.com/pages/G-Douglas-Lipp-Associates/107476682400'
+f_twitter-2: 'http://twitter.com/douglipp/'
 layout: '[authors].html'
 tags: authors
 ---

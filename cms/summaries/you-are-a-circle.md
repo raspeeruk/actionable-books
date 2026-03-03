@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:25.164Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780932d3147c9543afcf8_you-are-a-circle-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/you-are-a-circle/
+  alt: You Are a Circle book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/you-are-a-circle/'
 f_author-plain-text: Guillaume Wolf
 f_author: cms/authors/guillaume-wolf.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -42,7 +42,7 @@ f_big-idea: >-
   this book, you experience it. It helps you to take action, to do something, to
   create. Life itself is an infinite movement of creation. When you are
   creating, you’re one with life—you’re truly alive.
-f_quote-reference: \- You Are a Circle, page 7
+f_quote-reference: '\- You Are a Circle, page 7'
 f_insight-2: >-
   ### Creativity Contains Transformation
 
@@ -111,7 +111,7 @@ f_quote-2: >-
   "This is not really a book. This is an experience, a visual meditation on
   creativity and life – just for you, my creative friend. This is a moment of
   peace, inspiration and introspection."
-f_amazon-url: https://www.amazon.com/dp/1480287725/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1480287725/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

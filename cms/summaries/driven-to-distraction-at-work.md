@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d78089b974b768d91c34fe_driven-to-distraction-at-work-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/driven-to-distraction-at-work/
+  alt: Driven to Distraction at Work book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/driven-to-distraction-at-work/'
 f_author-plain-text: Edward M. Hallowell
 f_author: cms/authors/edward-m-hallowell.md
 f_category-3: cms/summary-categories/self-management.md
@@ -65,7 +65,7 @@ f_big-idea: >-
 
   Now let’s look at two of the “common ways in which people surrender their
   attention at work”: screen sucking and multitasking.
-f_quote-reference: \- Driven to Distraction at Work, page 4
+f_quote-reference: '\- Driven to Distraction at Work, page 4'
 f_insight-2: >-
   ### Multitasking
 
@@ -160,7 +160,7 @@ f_quote-2: >-
   goals nor performing at their best, let alone equanimity, when in fact, most
   of the time they do not. Instead, most of these people have a severe case of
   modern life – what I came to call attention deficit traits, or ADT."
-f_amazon-url: https://www.amazon.com/dp/1422186415/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1422186415/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

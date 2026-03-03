@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:45.093Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78036029e815b3dc38f4c_accountability-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/accountability/
+  alt: Accountability book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/accountability/'
 f_author-plain-text: Greg Bustin
 f_author: cms/authors/greg-bustin.md
 f_category-3: cms/summary-categories/leadership.md
@@ -60,7 +60,7 @@ f_big-idea: >-
 
   You have a clear choice, to continue as you have done or to invest in learning
   to address change.
-f_quote-reference: \- Accountability, page 23
+f_quote-reference: '\- Accountability, page 23'
 f_insight-2: >-
   ### SWAT Analysis
 
@@ -146,7 +146,7 @@ f_quote-2: >-
   "People do their best work, when they know they’re going to be given credit
   for their contribution. So there has to be certain amount of autonomy in
   people's work so they can contribute without reservation."
-f_amazon-url: https://www.amazon.com/dp/0071831371/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071831371/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

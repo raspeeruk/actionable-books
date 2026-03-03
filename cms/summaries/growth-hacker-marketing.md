@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780c7f916ebdffffffc39_growth-hacker-marketing-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/growth-hacker-marketing/
+  alt: Growth Hacker Marketing book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/growth-hacker-marketing/'
 f_author-plain-text: Ryan Holiday
 f_author: cms/authors/ryan-holiday.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -35,7 +35,7 @@ f_big-idea: >-
   what the group will get excited about. The hard part is matching how to
   improve the product/service to further help their core audience. The easy part
   is “selling” it to them. For you Marketers out there, isn’t that a twist?
-f_quote-reference: \- Growth Hacker Marketing, page xxv
+f_quote-reference: '\- Growth Hacker Marketing, page xxv'
 f_insight-2: >-
   ### Retaining Customers = Higher ROI
 
@@ -151,7 +151,7 @@ f_conclusion: >-
 f_quote-2: >-
   "A growth hacker is someone who has thrown out the playbook of traditional
   marketing and replaced it with only what is testable, trackable, and scalable"
-f_amazon-url: https://www.amazon.com/dp/B00INIXL3O/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00INIXL3O/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:49.705Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78055c87cb42913ed4251_book-yourself-solid.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/book-yourself-solid/
+  alt: Book Yourself Solid book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/book-yourself-solid/'
 f_author-plain-text: Michael Port
 f_author: cms/authors/michael-port.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -97,7 +97,7 @@ f_insight-1: >-
   impact in a way that inspires and engages their community. Saying that
   definitely raises a few eyebrows and usually gets a few follow up questions.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0470643471/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470643471/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,14 +7,14 @@ created-on: '2024-02-22T16:07:23.641Z'
 published-on: '2024-04-29T07:17:13.402Z'
 f_image:
   url: /assets/external/65d7807f57e639fa01dbfd8d_winning-with-data-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/winning-with-data/
+  alt: Winning with Data book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/winning-with-data/'
 f_author-plain-text: Frank Bien
 f_author: cms/authors/frank-bien.md
 f_category-3: cms/summary-categories/innovative-thinking.md
 f_team-2: cms/team/anand-thaker.md
 f_big-idea: "### Data Democratization\n\n> \"When we say data-driven, we're talking about companies that operationalize data….We were talking about workers who wake up every morning and use data to tune their actions throughout the day.\"- Winning with Data, page 37 \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_\n\nThe internet has enabled so many more people to share, collaborate and innovate. \_Data democratization, a common theme throughout the book, realizes the same broad opportunities for insights, decision making and innovation. \_\n\nData democratization means breaking down various silos and having access to data when and where it is needed at any given moment by anyone. [Cyber security](https://www.jumpsec.com/), a valid concern in data access, does require someone dedicated to execute proper governance without stifling potential insights. The authors describe this as an operational necessity to invest in building an asset for any organization. Empowering more people increases the chance for more revenue opportunities."
-f_quote-reference: \- Stephen Hawking, Winning with Data, page 8
+f_quote-reference: '\- Stephen Hawking, Winning with Data, page 8'
 f_insight-2: >-
   ### Understand and Manage Data Bias
 
@@ -94,7 +94,7 @@ f_conclusion: >-
 f_quote-2: >-
   “The greatest enemy of business progress is not ignorance, it is the illusion
   of knowledge.”
-f_amazon-url: https://www.amazon.com/dp/1119257239/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1119257239/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

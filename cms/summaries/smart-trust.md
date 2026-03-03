@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:41.230Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808e04ee7820ceb33563_smart_trust.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/smart-trust/
+  alt: Smart Trust book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/smart-trust/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/10/ActionableBooks-Audio-Smart-Trust.mp3
 f_author-plain-text: Stephen M.R. Covey
@@ -46,7 +46,7 @@ f_big-idea: >-
 
   Trust is the difference between **happiness**, success, progress, and
   stagnation and **misery**.
-f_quote-reference: \- Smart Trust, page xxiii
+f_quote-reference: '\- Smart Trust, page xxiii'
 f_insight-2: >-
   ### Take the 5 Actions of Smart Trust
 
@@ -163,7 +163,7 @@ f_conclusion: >-
   shelter from life-threatening weather. We loaned things just because we were
   asked. We believed what we were told.
 f_quote-2: '"In today''s networked world, trust has become the new currency."'
-f_amazon-url: https://www.amazon.com/dp/1451651457/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1451651457/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

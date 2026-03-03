@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:25.547Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780785675061815c417a3_177536960.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/your-best-just-got-better/
+  alt: Your Best Just Got Better book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/your-best-just-got-better/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/06/ActionableBooks-Audio-Your-Best-Just-Got-Better.mp3
 f_author-plain-text: Jason W. Womack
@@ -133,7 +133,7 @@ f_conclusion: >-
   If you’re up for making improvements in your life and want a bunch of tips and
   tools that you can act on right away, then read Jason Womack’s _Your Best Just
   Got Better_ slowly and follow his instructions.
-f_amazon-url: https://www.amazon.com/dp/1118121988/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118121988/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

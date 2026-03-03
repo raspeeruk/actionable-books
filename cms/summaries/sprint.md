@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:42.260Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803ec9a8372615bb0797_sprint-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/sprint/
+  alt: Sprint book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/sprint/'
 f_author-plain-text: Braden Kowitz
 f_author: cms/authors/braden-kowitz.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -72,7 +72,7 @@ f_big-idea: >-
   sprint. Seven seems to be an ideal number. If you need to include any extra
   experts, bring them in on the first day of the sprint to collaborate and voice
   their expertise.
-f_quote-reference: \- Sprint, page 9
+f_quote-reference: '\- Sprint, page 9'
 f_insight-2: >-
   ### Skip the BS and the fluff
 
@@ -124,7 +124,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The sprint is GV’s unique five-day process for answering crucial questions
   through prototyping and testing ideas with customers."
-f_amazon-url: https://www.amazon.com/dp/150112174X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/150112174X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

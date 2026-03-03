@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:07:06.327Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780bb04ee7820ceb34830_pomodoro.jpeg
-  alt: null
+  alt: The Pomodoro Technique Illustrated book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-pomodoro-technique-illustrated/
 f_author-plain-text: Staffan N√∂Teberg
@@ -44,7 +44,7 @@ f_big-idea: >-
   decide whether to keep working on this task.** Before your next Pomodoro, you
   might check your email and phone messages to see whether anything more urgent
   or important has come up.
-f_quote-reference: \- The Pomodoro Technique, foreword
+f_quote-reference: '\- The Pomodoro Technique, foreword'
 f_insight-2: >-
   ### Prove Your Performance
 
@@ -150,7 +150,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Who doesn’t want to have a stress-free life? To have brilliant ideas? To
   improve? To enjoy free time? But how can we achieve these goals?"
-f_amazon-url: https://www.amazon.com/dp/1934356506/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1934356506/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780ccf6702f0b878cb45c_reclaiming-conversation-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/reclaiming-conversation/
+  alt: Reclaiming Conversation book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/reclaiming-conversation/'
 f_author-plain-text: Sherry Turkle
 f_author: cms/authors/sherry-turkle.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -58,7 +58,7 @@ f_big-idea: >-
   in the capacity for empathy among the generation that is being raised with
   smartphones. We are losing the ability to walk in another person’s shoes
   because we aren’t talking.
-f_quote-reference: \- Reclaiming Conversation, page 4
+f_quote-reference: '\- Reclaiming Conversation, page 4'
 f_insight-2: >-
   ### Be Intentional About Technology—and Conversation
 
@@ -119,7 +119,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The very sight of a phone on the landscape leaves us feeling less connected
   to each other, less invested in each other."
-f_amazon-url: https://www.amazon.com/dp/B00SI0B6PC/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00SI0B6PC/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:07:25.018Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780600fab8426e449516e_badass-94x144.jpeg
-  alt: null
+  alt: You Are a Badass at Making Money book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/you-are-a-badass-at-making-money/
 f_author-plain-text: Jen Sincero
@@ -147,7 +147,7 @@ f_conclusion: >-
   frequently mentioning the universe, you may even say it’s “woo-woo” or call
   her a tad eccentric. But her methods are also motivating, hilarious, and
   extremely relatable.
-f_amazon-url: https://www.amazon.com/dp/0735222975/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0735222975/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

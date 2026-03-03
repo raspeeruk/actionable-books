@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:55.607Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780395e2fee3da799ada9_end-of-the-performance-review.jpeg
-  alt: null
+  alt: The End of the Performance Review book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-end-of-the-performance-review/
 f_author-plain-text: Dr. Tim Baker
@@ -47,7 +47,7 @@ f_big-idea: >-
   **Everyone is trying to be everything.** If you are the only person (or the
   lead person) of a small venture, remember… it is your strengths that are the
   most valuable asset to your project. Play them up.
-f_quote-reference: \- The End of the Performance Review, page 11
+f_quote-reference: '\- The End of the Performance Review, page 11'
 f_insight-2: >-
   ### The importance of questions
 
@@ -116,7 +116,7 @@ f_conclusion: >-
 f_quote-2: >-
   “I think in many cases, the traditional approach of appraising performance is
   a waste of time and can even cause more harm than good.”
-f_amazon-url: https://www.amazon.com/dp/113734749X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/113734749X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

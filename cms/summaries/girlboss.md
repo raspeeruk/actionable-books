@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:43.021Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78025529024c0144a0725_girlboss.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/girlboss/
+  alt: '#GIRLBOSS book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/girlboss/'
 f_author-plain-text: Sophia Amoruso
 f_author: cms/authors/sophia-amoruso.md
 f_category-3: cms/summary-categories/self-management.md
@@ -115,7 +115,7 @@ f_quote-2: >-
   themselves into the looks I’ve sold through Nasty Gal, I want you to be able
   to use #GIRLBOSS to project yourself into an awesome life where you can do
   whatever you want."
-f_amazon-url: https://www.amazon.com/dp/039916927X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/039916927X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

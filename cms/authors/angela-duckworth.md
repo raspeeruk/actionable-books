@@ -1,18 +1,18 @@
 ---
 title: Angela Duckworth
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Angela-Duckworth/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Angela-Duckworth/'
 f_unique-id: '265'
 f_image:
   url: /assets/external/65d779b016003624da6c4d4c_angela-duckworth-180x220.jpeg
-  alt: null
+  alt: Angela Duckworth
 slug: angela-duckworth
 f_summaries:
   - cms/summaries/grit.md
 updated-on: '2024-02-23T13:31:10.375Z'
 created-on: '2024-02-22T16:43:28.496Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/angeladuckw/
-f_website-2: http://angeladuckworth.com
+f_twitter-2: 'http://twitter.com/angeladuckw/'
+f_website-2: 'http://angeladuckworth.com'
 layout: '[authors].html'
 tags: authors
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:54.883Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78039345fe67ffc98a814_content-inc-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/content-inc/
+  alt: Content Inc. book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/content-inc/'
 f_author-plain-text: Joe Pulizzi
 f_author: cms/authors/joe-pulizzi.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -76,7 +76,7 @@ f_big-idea: >-
   September 2015. The print and blog content are fully integrated and this is
   critical to the overall strategy. CMI runs several major events like Content
   Marketing World every year where it can meet its audience in person.
-f_quote-reference: \- Content Inc., page 281
+f_quote-reference: '\- Content Inc., page 281'
 f_insight-2: >-
   ### Be Patient
 
@@ -169,7 +169,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Content Inc. is an amazing opportunity for any entrepreneur striving to make
   a difference to the world."
-f_amazon-url: https://www.amazon.com/dp/125958965X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/125958965X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

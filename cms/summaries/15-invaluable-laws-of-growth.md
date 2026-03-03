@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:47.233Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780ab2ebc9b7d62b3662b_invaluable_laws.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/15-invaluable-laws-of-growth/
+  alt: The 15 Invaluable Laws of Growth book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/15-invaluable-laws-of-growth/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/01/ActionableBooks-Audio-The-15-Invaluable-Laws-of-Growth.mp3
 f_author-plain-text: John C. Maxwell
@@ -45,7 +45,7 @@ f_big-idea: >-
   Having a clear objective each day about WHY you want to live the life you do
   and HOW you will live that life will bring immense clarity to any situation
   you find yourself in.
-f_quote-reference: \- 20,000 Days and Counting, page XXI
+f_quote-reference: '\- 20,000 Days and Counting, page XXI'
 f_insight-2: >-
   ### You Only Have Two Choices...
 
@@ -151,7 +151,7 @@ f_quote-2: >-
   "This is not a book to be used for passing the time; it’s a book to be used
   for squeezing every last day, hour, minute, and second out of your life until
   your life is done and you’ve given, loved, and celebrated all you could."
-f_amazon-url: https://www.amazon.com/dp/1599953668/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1599953668/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

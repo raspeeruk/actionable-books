@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7805f327de59b957715ae_how-to-succeed-in-12-months-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/how-to-succeed-in-12-months/
+  alt: How to Succeed in 12 Months book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/how-to-succeed-in-12-months/'
 f_author-plain-text: Serena Star Leonard
 f_author: cms/authors/serena-star-leonard.md
 f_category-3: cms/summary-categories/self-management.md
@@ -60,7 +60,7 @@ f_big-idea: >-
   Adopting the freedom mindset requires you to become an Action Taker, “someone
   who thinks and then does, someone who has an idea and then starts the process
   of creation without worrying about all the reasons why you can’t do it.” (35)
-f_quote-reference: \- How to Succeed in 12 Months, page xv111
+f_quote-reference: '\- How to Succeed in 12 Months, page xv111'
 f_insight-2: >-
   ### Great Things Come from Small Things
 
@@ -143,7 +143,7 @@ f_quote-2: >-
   control of the direction of your life over the next 12 months. If you really
   go for it, what happens may completely change your experience of yourself,
   your life, and the world around you."
-f_amazon-url: https://www.amazon.com/dp/0730308669/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0730308669/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

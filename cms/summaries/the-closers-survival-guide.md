@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:52.581Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c968efe795c9dda45d_closers-survival-guide.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-closers-survival-guide/
+  alt: The Closer’s Survival Guide book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-closers-survival-guide/'
 f_author-plain-text: Grant Cardone
 f_author: cms/authors/grant-cardone.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -39,7 +39,7 @@ f_big-idea: >-
   rapid results in my life is when I’ve directed all of my energy into focusing
   on what I could do to make things happen, as opposed to things outside of my
   control.
-f_quote-reference: \- The Closer’s Survival Guide, page ix
+f_quote-reference: '\- The Closer’s Survival Guide, page ix'
 f_insight-2: >-
   ### Earn Professional Status
 
@@ -115,7 +115,7 @@ f_conclusion: >-
 f_quote-2: >-
   "It’s the ability to close that makes a difference more than any other skill
   you will learn in life"
-f_amazon-url: https://www.amazon.com/dp/B00LLO8JLG/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00LLO8JLG/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

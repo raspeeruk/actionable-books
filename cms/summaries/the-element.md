@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:55.504Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803c6d3d2478cfb3c8e5_the-element-cover-sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-element/
+  alt: The Element book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-element/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2010/12/ActionableBooks-Audio-The-Element.mp3
 f_author-plain-text: Sir Ken Robinson
@@ -130,7 +130,7 @@ f_insight-1: >-
   What aspects of what you were doing excite you? Taking inventory of these may
   give you a list of indicators as to what your Element might be.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0143116738/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0143116738/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

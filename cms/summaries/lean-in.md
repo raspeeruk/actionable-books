@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:20.783Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804b57e639fa01dbe34a_lean-in.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/lean-in/
+  alt: Lean In book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/lean-in/'
 f_author-plain-text: Sheryl Sandberg
 f_author: cms/authors/sheryl-sandberg.md
 f_category-3: cms/summary-categories/leadership.md
@@ -41,7 +41,7 @@ f_big-idea: >-
   capitalized on the debilitating effect fear can have on an individual. This
   made me wonder if the issues Sandberg discusses really are exclusive to women,
   or if there’s some universal truth to them.
-f_quote-reference: \- Lean In, page 49
+f_quote-reference: '\- Lean In, page 49'
 f_insight-2: >-
   ### Ask
 
@@ -100,7 +100,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Our culture needs to find a robust image of female success that is first, not
   male, and second, not a white woman on the phone, holding a crying baby."
-f_amazon-url: https://www.amazon.com/dp/0385349947/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0385349947/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

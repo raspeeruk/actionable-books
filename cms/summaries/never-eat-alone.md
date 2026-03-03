@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:28.609Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804bd4a4ec8cc91f1bea_never-eat-alone.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/never-eat-alone/
+  alt: Never Eat Alone book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/never-eat-alone/'
 f_author-plain-text: Keith Ferrazzi
 f_author: cms/authors/keith-ferrazzi.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -112,7 +112,7 @@ f_conclusion: >-
   as a successful connector of people. I love this book. It is truly a timeless
   classic, destined to be remembered alongside Carnegie’s _How to Win Friends
   and Influence People_, as one of the greats.
-f_amazon-url: https://www.amazon.com/dp/0385512058/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0385512058/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

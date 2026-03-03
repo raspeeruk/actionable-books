@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:16.569Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78026029e815b3dc382d5_in-praise-of-slowness.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/in-praise-of-slowness/
+  alt: In Praise of Slowness book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/in-praise-of-slowness/'
 f_author-plain-text: Carl Honore
 f_author: cms/authors/carl-honore.md
 f_category-3: cms/summary-categories/self-management.md
@@ -42,7 +42,7 @@ f_big-idea: >-
   able to buy a microwave dinner and save myself two hours of toiling in the
   kitchen. Fortunately, slowing down does not have to be a one size fits all
   approach.
-f_quote-reference: \- In Praise of Slowness, page 3
+f_quote-reference: '\- In Praise of Slowness, page 3'
 f_insight-2: >-
   ### Unstructured Time
 
@@ -120,7 +120,7 @@ f_quote-2: >-
   "My whole life has turned into an exercise in hurry, in packing more and more
   into every hour. I am Scrooge with a stopwatch, obsessed with saving every
   last scrap of time, a minute here, a few seconds there."
-f_amazon-url: https://www.amazon.com/dp/0060750510/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0060750510/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

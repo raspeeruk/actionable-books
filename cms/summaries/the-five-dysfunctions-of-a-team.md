@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d78065f91f45c22807030f_five-dysfunctions-of-a-team-sm.jpeg
-  alt: null
+  alt: The Five Dysfunctions of a Team book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-five-dysfunctions-of-a-team/
 f_podcast-url: >-
@@ -22,7 +22,7 @@ f_quote-reference: ''
 f_insight-2: ''
 f_insight-1: ''
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0787960756/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0787960756/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

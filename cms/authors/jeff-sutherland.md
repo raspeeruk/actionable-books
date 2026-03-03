@@ -1,18 +1,18 @@
 ---
 title: Jeff Sutherland
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Jeff-Sutherland/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Jeff-Sutherland/'
 f_unique-id: '506'
 slug: jeff-sutherland
 f_image:
   url: /assets/external/65d77a0a02f4de5f64d7721d_jeff-sutherland-180x220.jpeg
-  alt: null
+  alt: Jeff Sutherland
 f_summaries:
   - cms/summaries/scrum.md
 updated-on: '2024-02-23T13:30:26.712Z'
 created-on: '2024-02-22T16:44:59.067Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/jeffsutherland/
-f_website-2: https://www.scruminc.com/
+f_twitter-2: 'http://twitter.com/jeffsutherland/'
+f_website-2: 'https://www.scruminc.com/'
 layout: '[authors].html'
 tags: authors
 ---

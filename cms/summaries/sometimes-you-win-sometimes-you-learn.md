@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:41.954Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780abf232c4ec75c03288_sometimes-you-win.jpeg
-  alt: null
+  alt: Sometimes You Win—Sometimes You Learn book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/sometimes-you-win-sometimes-you-learn/
 f_author-plain-text: John C. Maxwell
@@ -44,7 +44,7 @@ f_big-idea: >-
   because of stupidity, meaning you “had the necessary information but misused
   it.” Once you understand the role mistakes play it is much easier to accept
   them and learn from them.
-f_quote-reference: \- Sometimes You Win, page 28
+f_quote-reference: '\- Sometimes You Win, page 28'
 f_insight-2: >-
   ### Make New Mistakes
 
@@ -103,7 +103,7 @@ f_insight-1: >-
   thought “I would do X differently in the future”, you are already on your way.
 f_conclusion: ''
 f_quote-2: '"Mistakes can often be our best teachers."'
-f_amazon-url: https://www.amazon.com/dp/1599953692/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1599953692/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

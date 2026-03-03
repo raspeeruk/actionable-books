@@ -1,16 +1,16 @@
 ---
 title: Debbie Ford
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Debbie-Ford/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Debbie-Ford/'
 f_unique-id: '147'
 f_image:
   url: /assets/external/65d779e722ad1490218f4b5d_ford.jpeg
-  alt: null
+  alt: Debbie Ford
 slug: debbie-ford
 updated-on: '2024-02-23T13:31:13.860Z'
 created-on: '2024-02-22T16:44:23.367Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://facebook.com/DebbieFordFanPage
-f_twitter-2: http://twitter.com/Debbie_Ford/
+f_facebook-2: 'http://facebook.com/DebbieFordFanPage'
+f_twitter-2: 'http://twitter.com/Debbie_Ford/'
 layout: '[authors].html'
 tags: authors
 ---

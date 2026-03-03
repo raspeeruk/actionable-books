@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:09.166Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78033476f5b2ebbd7419d_9780071417754_p0_v1_s114x166.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/get-more-referrals-now/
+  alt: Get More Referrals Now book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/get-more-referrals-now/'
 f_author-plain-text: Bill Cates
 f_author: cms/authors/bill-cates.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -50,7 +50,7 @@ f_big-idea: >-
 
   3.  Give your clients your business cards to carry as a benefit to them –
   write their account number on your card and it becomes an important document.
-f_quote-reference: \- Get More Referrals Now!, Introduction
+f_quote-reference: '\- Get More Referrals Now!, Introduction'
 f_insight-2: >-
   ### Correct Mistaken Assumptions
 
@@ -133,7 +133,7 @@ f_quote-2: >-
   referral comes in. When a prospecting client meets you through a referral, the
   evidence is already high. It’s as if the referral source has testified on your
   behalf."
-f_amazon-url: https://www.amazon.com/dp/0071417753/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071417753/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

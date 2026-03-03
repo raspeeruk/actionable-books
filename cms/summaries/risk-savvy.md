@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:37.858Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805b0271589378cb9e94_risky-savvy-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/risk-savvy/
+  alt: Risk Savvy book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/risk-savvy/'
 f_author-plain-text: Gerd Gigerenzer
 f_author: cms/authors/gerd-gigerenzer.md
 f_category-3: cms/summary-categories/self-management.md
@@ -43,7 +43,7 @@ f_big-idea: >-
 
   The author believes that with uncertainties, good rules of thumb are helpful
   in making better choices.
-f_quote-reference: \- Risk Savvy, page 21
+f_quote-reference: '\- Risk Savvy, page 21'
 f_insight-2: >-
   ### Trust your gut
 
@@ -121,7 +121,7 @@ f_quote-2: >-
   "The quest for certainty is the biggest obstacle to becoming risk savvy. While
   there are things we can know, we must also be able to recognize when we cannot
   know something."
-f_amazon-url: https://www.amazon.com/dp/0670025658/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0670025658/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:17.918Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807b237ef95a3c755c8c_invisible-influence-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/invisible-influence/
+  alt: Invisible Influence book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/invisible-influence/'
 f_author-plain-text: Kevin Hogan
 f_author: cms/authors/kevin-hogan.md
 f_category-3: cms/summary-categories/leadership.md
@@ -42,7 +42,7 @@ f_big-idea: >-
 
   If you chose a) you are correct. People are much more motivated by what they
   could lose. And this loss aversion is especially true when it comes to safety.
-f_quote-reference: \- Invisible Influence, page 65
+f_quote-reference: '\- Invisible Influence, page 65'
 f_insight-2: >-
   ### Make sure the tank is full!
 
@@ -145,7 +145,7 @@ f_quote-2: >-
   "Because people are constantly trying to find the right words to say to
   someone, they ignore something that is 100 times bigger than the exact words:
   they ignore the context."
-f_amazon-url: https://www.amazon.com/dp/1118602250/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118602250/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

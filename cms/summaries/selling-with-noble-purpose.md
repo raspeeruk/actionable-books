@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:39.505Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d6cec14bdda493f318_selling-with-noble-purpose.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/selling-with-noble-purpose/
+  alt: Selling with Noble Purpose book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/selling-with-noble-purpose/'
 f_author-plain-text: Lisa Earle Mcleod
 f_author: cms/authors/lisa-earle-mcleod.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
@@ -74,7 +74,7 @@ f_big-idea: >-
   Why_](mailto:https://www.actionablebooks.com/summaries/start-with-why/) book
   and [TED
   talk.](mailto:http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
-f_quote-reference: \- Selling with Noble Purpose, page xvii
+f_quote-reference: '\- Selling with Noble Purpose, page xvii'
 f_insight-2: >-
   ### Bring purpose to the people
 
@@ -154,7 +154,7 @@ f_conclusion: >-
 f_quote-2: >-
   "A noble sales purpose is the difference between a merely effective sales
   force and one that’s truly outstanding."
-f_amazon-url: https://www.amazon.com/dp/B008KPM424/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B008KPM424/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

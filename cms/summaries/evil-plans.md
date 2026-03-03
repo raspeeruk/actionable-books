@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:05.317Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809c4170345802181761_evil_plans.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/evil-plans/
+  alt: Evil Plans book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/evil-plans/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/04/ActionableBooks-Audio-Evil-Plans.mp3
 f_author-plain-text: Hugh Macleod
@@ -58,7 +58,7 @@ f_big-idea: >-
 
 
   **What are you really afraid of?**
-f_quote-reference: \- Evil Plans, Introduction
+f_quote-reference: '\- Evil Plans, Introduction'
 f_insight-2: >-
   ### Average Is So Yesterday
 
@@ -125,7 +125,7 @@ f_quote-2: >-
   matters. Everybody needs an Evil Plan that gets them the hell out of the rat
   race, away from lousy bosses, away from boring, dead-end jobs that they hate.
   Life is short."
-f_amazon-url: https://www.amazon.com/dp/1591843847/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591843847/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

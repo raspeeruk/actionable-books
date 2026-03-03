@@ -1,15 +1,15 @@
 ---
 title: Henry L. Roediger
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Henry-L.-Roediger/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Henry-L.-Roediger/'
 f_unique-id: '369'
 slug: henry-l-roediger
 f_image:
   url: /assets/external/65d779fd192430f52a09104a_henry_roediger.jpeg
-  alt: null
+  alt: Henry L. Roediger
 updated-on: '2024-02-23T13:30:48.092Z'
 created-on: '2024-02-22T16:44:45.693Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://psych.wustl.edu/memory/roediger.html
+f_website-2: 'http://psych.wustl.edu/memory/roediger.html'
 layout: '[authors].html'
 tags: authors
 ---

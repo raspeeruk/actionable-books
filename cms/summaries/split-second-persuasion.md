@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:42.248Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d8e88f5f3f6bcc039b_split-second-persuasion.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/split-second-persuasion/
+  alt: Split-Second Persuasion book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/split-second-persuasion/'
 f_author-plain-text: Kevin Dutton
 f_author: cms/authors/kevin-dutton.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -31,7 +31,7 @@ f_big-idea: >-
   talent along which each of us has our place. By learning about this mysterious
   strain of persuasion you can build upon your existing persuasive abilities and
   progress further along the spectrum.
-f_quote-reference: \- Split-Second Persuasion, page 12
+f_quote-reference: '\- Split-Second Persuasion, page 12'
 f_insight-2: >-
   ### Horizons of Influence
 
@@ -155,7 +155,7 @@ f_quote-2: >-
   anecdotal, allusive – which suggested the possibility that there really might
   be black belts of influence in our midst. And, what’s more, they might not all
   be good guys."
-f_amazon-url: https://www.amazon.com/dp/B0055X6UEW/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B0055X6UEW/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

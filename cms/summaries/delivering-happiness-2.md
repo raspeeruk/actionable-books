@@ -52,7 +52,7 @@ f_big-idea: >-
   wide – truly lived and breathed within the halls of the Zappos offices and
   call center – all staff knew where the priorities of the company lay. And that
   may be the key to Zappos’ success.
-f_quote-reference: ''
+f_quote-reference: '- Delivering Happiness, page 152'
 f_insight-2: >-
   ### A Hierarchy of Happiness
 
@@ -139,9 +139,12 @@ f_insight-1: >-
 
   What works for a company like Zappos can work in our own lives and work.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0446563048/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0446563048/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  At any presentation, the audience is investing a part of their lives in us.
+  Let’s give them a show.
 ---
 
 If you don’t know the name “Tony Hsieh”, get to know it. (It’s pronounced “Shay”) Tony is the CEO of the much lauded “Zappos”; an online shoe retailer that has been quietly revolutionizing what it means to be a successful business in the 21st century.

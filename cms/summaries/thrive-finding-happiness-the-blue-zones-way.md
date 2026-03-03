@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:07:15.693Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808abc56df19f3aee058_133689741-94x144.jpeg
-  alt: null
+  alt: 'Thrive: Finding Happiness the Blue Zones Way book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/thrive-finding-happiness-the-blue-zones-way/
 f_author-plain-text: Dan Buettner
@@ -34,7 +34,7 @@ f_big-idea: >-
   boost our long-term chances for happiness: workplace, social life, financial
   life, home, self. If you set up these thrive centres right, they will
   constantly nudge you to happiness.
-f_quote-reference: \- Thrive, page 13
+f_quote-reference: '\- Thrive, page 13'
 f_insight-2: >-
   ### Socialize and Volunteer
 
@@ -108,7 +108,7 @@ f_quote-2: >-
   "On average, 50 percent of individual differences in happiness is influenced
   by our genetic makeup, 10 percent is influenced by our life circumstances, and
   40 percent is influenced by how we think and act every day."
-f_amazon-url: https://www.amazon.com/dp/1426208189/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1426208189/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,19 +1,19 @@
 ---
 title: Steven Levitt
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Steven-Levitt/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Steven-Levitt/'
 f_unique-id: '874'
 slug: steven-levitt
 f_image:
   url: >-
     /assets/external/65d77a553ae99fc35f4c45d4_steven-levitt-and-stephen-dubner-lg-180x220.jpeg
-  alt: null
+  alt: Steven Levitt
 f_summaries:
   - cms/summaries/freakonomics.md
 updated-on: '2024-02-23T13:30:59.213Z'
 created-on: '2024-02-22T16:46:14.222Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/freakonomics/
-f_website-2: http://freakonomicsbook.com/
+f_twitter-2: 'http://twitter.com/freakonomics/'
+f_website-2: 'http://freakonomicsbook.com/'
 layout: '[authors].html'
 tags: authors
 ---

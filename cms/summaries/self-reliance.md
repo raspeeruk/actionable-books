@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:39.211Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d3f6702f0b878cb923_self-reliance1.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/self-reliance/
+  alt: Self-Reliance book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/self-reliance/'
 f_author-plain-text: Ralph Waldo Emerson
 f_author: cms/authors/ralph-waldo-emerson.md
 f_category-3: cms/summary-categories/self-management.md
@@ -57,7 +57,7 @@ f_big-idea: >-
   We must trust ourselves.  
 
   And in order to trust ourselves, we must Know Ourselves, and Be Ourselves.
-f_quote-reference: \- Self-Reliance, page 73
+f_quote-reference: '\- Self-Reliance, page 73'
 f_insight-2: >-
   ### Be Yourself
 
@@ -146,7 +146,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Nothing can bring you peace but yourself. Nothing can bring you peace but the
   triumph of principles."
-f_amazon-url: https://www.amazon.com/dp/B004X80U1E/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B004X80U1E/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780bf493e1ac825f564ce_the-future-of-happiness-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-future-of-happiness/
+  alt: The Future of Happiness book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-future-of-happiness/'
 f_author-plain-text: Amy Blankson
 f_author: cms/authors/amy-blankson.md
 f_category-3: cms/summary-categories/self-management.md
@@ -53,7 +53,7 @@ f_big-idea: >-
   happiness._
 
   *   _Fifth, they innovate consciously to enrich the world around them._
-f_quote-reference: \- The Future of Happiness, page 10
+f_quote-reference: '\- The Future of Happiness, page 10'
 f_insight-2: >-
   ### Track what you want to improve
 
@@ -123,7 +123,7 @@ f_quote-2: >-
   happiness levels, but that doesn’t always seem to be the case. In fact, the
   timing of the digital revolution coincides with record-setting levels of
   depression and overall life dissatisfaction."
-f_amazon-url: https://www.amazon.com/dp/1942952945/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1942952945/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

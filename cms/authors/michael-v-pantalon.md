@@ -1,18 +1,18 @@
 ---
 title: Michael V. Pantalon
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Michael-V.-Pantalon/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Michael-V.-Pantalon/'
 f_unique-id: '315'
 slug: michael-v-pantalon
 f_image:
   url: /assets/external/65d77a318ac6e23258e50ed5_pantalon.jpeg
-  alt: null
+  alt: Michael V. Pantalon
 f_summaries:
   - cms/summaries/instant-influence.md
 updated-on: '2024-02-23T13:31:29.669Z'
 created-on: '2024-02-22T16:45:37.591Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://www.facebook.com/pages/Michael-Pantalon-PhD/148622275196782
-f_twitter-2: http://twitter.com/michaelpantalon/
+f_facebook-2: 'http://www.facebook.com/pages/Michael-Pantalon-PhD/148622275196782'
+f_twitter-2: 'http://twitter.com/michaelpantalon/'
 layout: '[authors].html'
 tags: authors
 ---

@@ -7,14 +7,14 @@ created-on: '2024-02-22T16:06:55.648Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807978aa180633124325_engagement-equation-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-engagement-equation/
+  alt: The Engagement Equation book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-engagement-equation/'
 f_author-plain-text: Christopher Rice
 f_author: cms/authors/christopher-rice.md
 f_category-3: cms/summary-categories/team-optimization.md
 f_team-2: cms/team/jane-bushby.md
 f_big-idea: "### It's About Give and Take\L\n\n> \"Full employee engagement represents an alignment of maximum satisfaction for the individual with maximum contribution for the organization. EE = MSi+ MCo, where MSi represents individuals who have maximum satisfaction at work, and MCo represents employees who are willing and able to perform mission critical tasks successfully.\"- The Engagement Equation, page 4-5\n\nRice et al. identify that these two parameters feed off each other, the challenge being to manage this relationship to achieve employee engagement. It is vital to do so in a sustainable way. Building a culture of engagement does not happen instantly, but it is a key ingredient to becoming a high performing organization. The authors identify and discuss factors which can influence individuals to attain and maintain full engagement.\n\nSatisfaction:\n\n*   Compensation: is important for attraction and retention purposes. However, many studies show that compensation alone doesn’t have a significant impact on engagement.\n*   Career: the authors devote a chapter to this complex topic because there is no straightforward solution. Employees and employers should work together to identify new challenges or experiences, opportunities to acquire new skills and knowledge, and discuss future growth opportunities at the organization.\n*   Job Fit: is a combination of employees liking their work because it satisfies their values and interests, allows them to use their unique talents, is stimulating and provides opportunities to grow, and matters to other parts of the organization, customers, or the broader community. Job conditions are another important component and reflect the organization’s culture and the requirements of a particular role. Here the authors note that what is a terrible role for one person will be someone else’s idea of nirvana.\n*   Recognition and Rewards: help individuals feel valued and appreciated. Again this is personal and needs to be individualized, and the authors posit that recognition is most effective at the local level.\n\nContribution:\n\n*   Clarity of Priorities and Alignment with Overall Strategy: employees need to understand what is expected of them. A chapter of the book is devoted to this topic as there are many variables and considerations to create goal alignment and effective performance management.\n*   Resources and Tools: insufficient resources will erode satisfaction.\n*   Feedback and Development: this is critical for ensuring employees understand how they are doing, know their strengths and have opportunities to build the knowledge and skills required to stay up to date with future organizational requirements.\n\nOther factors:\n\n*   Immediate Manager: these individuals are in a pivotal role to influence engagement levels.\n*   Senior Executives: have a wide ranging responsibility to walk the talk and model the expectations they have for the rest of the workforce.\n*   Organizational Change: impacts employee satisfaction and contribution, for example by altering reporting lines and relationships, new technology or ways of working which may impact job requirements.\n*   The World Outside: changes in the organization’s external environment will have an impact on your employee engagement levels so must not be ignored."
-f_quote-reference: \- The Engagement Equation, page xi-xii
+f_quote-reference: '\- The Engagement Equation, page xi-xii'
 f_insight-2: >-
   ### You Can’t Build Engagement if you are Disengaged
 
@@ -97,7 +97,7 @@ f_quote-2: >-
   employee engaged might turn off the person in the next cubicle...To truly be
   engaged, people need to be satisfied with their immediate work and their
   career opportunities”
-f_amazon-url: https://www.amazon.com/dp/1118308352/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118308352/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

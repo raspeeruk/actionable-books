@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7803dd05b1686bfb9b916_thanks-for-the-feedback-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/thanks-for-the-feedback/
+  alt: Thanks for the Feedback book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/thanks-for-the-feedback/'
 f_author-plain-text: Douglas Stone
 f_author: cms/authors/douglas-stone.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -48,7 +48,7 @@ f_big-idea: >-
   long as we are operating from within the triggers, on the other hand, we can’t
   hear what we would benefit from hearing—and we may overreact to what is not
   valuable.
-f_quote-reference: \- Thanks for the Feedback, page 5
+f_quote-reference: '\- Thanks for the Feedback, page 5'
 f_insight-2: >-
   ### From “Wrongspotting” to “Difference Spotting”
 
@@ -130,7 +130,7 @@ f_quote-2: >-
   "It doesn’t matter how much authority or power a feedback giver has; the
   receivers are in control of what they do and don’t let in, how they make sense
   of what they’re hearing, and whether they choose to change."
-f_amazon-url: https://www.amazon.com/dp/0143127136/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0143127136/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

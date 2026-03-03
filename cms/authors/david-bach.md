@@ -1,18 +1,18 @@
 ---
 title: David Bach
-f_original-url: https://www.actionablebooks.com/en-ca/authors/David-Bach/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/David-Bach/'
 f_unique-id: '597'
 slug: david-bach
 f_image:
   url: /assets/external/65d779e1a60215c7bf600231_david_bach-lg-180x220.jpeg
-  alt: null
+  alt: David Bach
 f_summaries:
   - cms/summaries/the-automatic-millionaire.md
 updated-on: '2024-02-23T13:31:17.661Z'
 created-on: '2024-02-22T16:44:17.742Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://www.facebook.com/DavidBach
-f_twitter-2: http://twitter.com/AuthorDavidBach/
+f_facebook-2: 'http://www.facebook.com/DavidBach'
+f_twitter-2: 'http://twitter.com/AuthorDavidBach/'
 layout: '[authors].html'
 tags: authors
 ---

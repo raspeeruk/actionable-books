@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:52.604Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809f6c1a1ebc9b54bd7b_click-moment.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-click-moment/
+  alt: The Click Moment book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-click-moment/'
 f_author-plain-text: Frans Johansson
 f_author: cms/authors/frans-johansson.md
 f_category-3: cms/summary-categories/self-management.md
@@ -50,7 +50,7 @@ f_big-idea: >-
   the same moves until you achieve “mastery” is **not going to work**. But what
   does work? That’s what the rest of the book, and the following two Insights
   are about.
-f_quote-reference: \- The Click Moment, page 11
+f_quote-reference: '\- The Click Moment, page 11'
 f_insight-2: >-
   ### Indulge curiosity and enhance intersectional thinking
 
@@ -137,7 +137,7 @@ f_quote-2: >-
   "While on stage, he was asked what, exactly, he had done to create such a
   success. [He] hesitated for a bit before simply saying, 'If I knew that, I
   would do it again and again.'"
-f_amazon-url: https://www.amazon.com/dp/1591844932/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591844932/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

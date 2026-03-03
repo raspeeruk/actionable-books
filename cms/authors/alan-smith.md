@@ -1,17 +1,17 @@
 ---
 title: Alan Smith
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Alan-Smith/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Alan-Smith/'
 f_unique-id: '813'
 f_image:
   url: /assets/external/65d779a810a8ac8c54b7e358_alan-smith-1-180x220.jpeg
-  alt: null
+  alt: Alan Smith
 slug: alan-smith
 f_summaries:
   - cms/summaries/value-proposition-design.md
 updated-on: '2024-02-23T13:31:21.668Z'
 created-on: '2024-02-22T16:43:20.524Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/thinksmith/
+f_twitter-2: 'http://twitter.com/thinksmith/'
 layout: '[authors].html'
 tags: authors
 ---

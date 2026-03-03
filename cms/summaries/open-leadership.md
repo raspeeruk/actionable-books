@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:30.020Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805333ad93c5dc4169ad_open_leadership_sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/open-leadership/
+  alt: Open Leadership book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/open-leadership/'
 f_author-plain-text: Charlene Li
 f_author: cms/authors/charlene-li.md
 f_category-3: cms/summary-categories/leadership.md
@@ -143,7 +143,7 @@ f_conclusion: >-
   book and join the many of us who are working towards open leadership. Be a
   part of the open leadership revolution that needs to take place! Like Ghandi
   once said; ‘Be the change you wish to see in the world.”
-f_amazon-url: https://www.amazon.com/dp/0470597267/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470597267/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

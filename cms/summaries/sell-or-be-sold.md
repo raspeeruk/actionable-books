@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:39.209Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d5cf344b81908e042f_sell-or-be-sold.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/sell-or-be-sold/
+  alt: Sell or Be Sold book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/sell-or-be-sold/'
 f_author-plain-text: Grant Cardone
 f_author: cms/authors/grant-cardone.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -112,7 +112,7 @@ f_quote-2: >-
   "Selling is the last great truly free enterprise opportunity available today;
   in sales an individual can work for himself, be accountable to himself, and
   make his dreams come true."
-f_amazon-url: https://www.amazon.com/dp/B007FUDRB2/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B007FUDRB2/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:14.813Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802e44f497b3b374fb12_think-like-a-freak.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/think-like-a-freak/
+  alt: Think Like a Freak book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/think-like-a-freak/'
 f_author-plain-text: Stephen J. Dubner
 f_author: cms/authors/stephen-j-dubner.md
 f_category-3: cms/summary-categories/self-management.md
@@ -45,7 +45,7 @@ f_big-idea: >-
   cases, we don’t all get to live without rules, so to speak. Even so, we can
   all learn to redefine our problems and wipe away our barriers, even if it’s
   just for brainstorming purposes to get the problem solving juices flowing.
-f_quote-reference: \- Think Like a Freak, page 2
+f_quote-reference: '\- Think Like a Freak, page 2'
 f_insight-2: >-
   ### No one does something for nothing
 
@@ -116,7 +116,7 @@ f_quote-2: >-
   "Rather than trying and probably failing to answer most of the questions sent
   our way, we wondered if it might be better to write a book that can teach
   anyone to think like a Freak. What might that look like?"
-f_amazon-url: https://www.amazon.com/dp/0062218336/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062218336/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

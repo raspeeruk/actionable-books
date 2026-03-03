@@ -1,14 +1,14 @@
 ---
 f_unique-number: 572
-title: Ready, Fire, Aim
+title: 'Ready, Fire, Aim'
 slug: ready-fire-aim
 updated-on: '2024-02-27T20:30:40.381Z'
 created-on: '2024-02-22T16:06:36.531Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78052391413176f5756ef_ready_fire_aim.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/ready-fire-aim/
+  alt: 'Ready, Fire, Aim book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/ready-fire-aim/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/08/ActionableBooks-Audio-Ready-Fire-Aim.mp3
 f_author-plain-text: Michael Masterson
@@ -46,7 +46,7 @@ f_big-idea: >-
 
 
   So what are they?
-f_quote-reference: \- Ready, Fire, Aim, page 32
+f_quote-reference: '\- Ready, Fire, Aim, page 32'
 f_insight-2: >-
   ### Ready, Fire, Aim
 
@@ -187,7 +187,7 @@ f_conclusion: >-
 f_quote-2: >-
   "This book is about creating and growing multimillion-dollar businesses, but
   it’s also a book about becoming a business genius.”
-f_amazon-url: https://www.amazon.com/dp/0470182024/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470182024/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

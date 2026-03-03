@@ -1,11 +1,11 @@
 ---
 title: Barry Conchie
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Barry-Conchie/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Barry-Conchie/'
 f_unique-id: '542'
 slug: barry-conchie
 f_image:
   url: /assets/external/65d779b89f19c44713b98993_barry_conchier.jpeg
-  alt: null
+  alt: Barry Conchie
 f_summaries:
   - cms/summaries/strengths-based-leadership.md
 updated-on: '2024-02-23T13:31:17.186Z'

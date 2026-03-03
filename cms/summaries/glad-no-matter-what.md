@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:10.277Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78097529024c0144a41a5_glad-no-matter-what-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/glad-no-matter-what/
+  alt: Glad No Matter What book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/glad-no-matter-what/'
 f_author-plain-text: Sark
 f_author: cms/authors/sark.md
 f_category-3: cms/summary-categories/self-management.md
@@ -32,7 +32,7 @@ f_big-idea: >-
   feel the challenging aspects. The difference is that we won’t spend as much
   time and energy there as we practice the muscles of perspective-shifting,
   willingness, flexibility and truth-telling.
-f_quote-reference: \- Glad No Matter What, page 5
+f_quote-reference: '\- Glad No Matter What, page 5'
 f_insight-2: >-
   ### Telling and Living New Stories
 
@@ -123,7 +123,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Feeling glad more often and more consistently is available for everyone in
   any circumstance."
-f_amazon-url: https://www.amazon.com/dp/1577319354/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1577319354/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:11.929Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c268efe795c9dd9e08_the-tell.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-tell/
+  alt: The Tell book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-tell/'
 f_author-plain-text: Matthew Hertenstein
 f_author: cms/authors/matthew-hertenstein.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -43,7 +43,7 @@ f_big-idea: >-
   (like employment or a vendor relationship), I need by the next meeting or
   conversation to talk about the best ways to work with me/contact me so the
   person gets what they need from me.
-f_quote-reference: \- The Tell, page 9
+f_quote-reference: '\- The Tell, page 9'
 f_insight-2: >-
   ### The power of prediction: leading or misleading?
 
@@ -126,7 +126,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Scientists are increasingly coming to the conclusion that the mind is a
   prediction machine."
-f_amazon-url: https://www.amazon.com/dp/B00BKRW51E/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00BKRW51E/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

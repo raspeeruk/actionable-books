@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:38.523Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c5f40a70780ee9f64d_scaling-up-excellence.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/scaling-up-excellence/
+  alt: Scaling Up Excellence book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/scaling-up-excellence/'
 f_author-plain-text: Huggy Rao
 f_author: cms/authors/huggy-rao.md
 f_team-2: cms/team/rex-williams.md
@@ -57,7 +57,7 @@ f_big-idea: >-
   I fight the ground war every day. It’s called grassroots. I’ll continue to
   connect on an individual level and use my peer-to-peer influence to spread new
   mindsets throughout my corporation.
-f_quote-reference: \- Scaling Up Excellence, page xvii
+f_quote-reference: '\- Scaling Up Excellence, page xvii'
 f_insight-2: >-
   ### Cut cognitive load
 
@@ -165,7 +165,7 @@ f_conclusion: ''
 f_quote-2: >-
   "In smart organizations, people know that, although excellence might not be
   everywhere, it can start and spread from anywhere."
-f_amazon-url: https://www.amazon.com/dp/B00FIMWGDY/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00FIMWGDY/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

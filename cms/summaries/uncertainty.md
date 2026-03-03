@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:18.659Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780404295a22ea451298c_uncertainty-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/uncertainty/
+  alt: Uncertainty book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/uncertainty/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/12/ActionableBooks-Audio-Uncertainty.mp3
 f_author-plain-text: Jonathan Fields
@@ -61,7 +61,7 @@ f_big-idea: >-
   In other words, sometimes you need to step back to ensure you are working on
   the right things and gaining the right perspective on where you are in the
   creation process.
-f_quote-reference: \- Uncertainty, page 19
+f_quote-reference: '\- Uncertainty, page 19'
 f_insight-2: >-
   ### Exercise Your Brain
 
@@ -154,7 +154,7 @@ f_quote-2: >-
   "The more you’re able to tolerate ambiguity and lean into the unknown, the
   more likely you’ll be able to dance with it long enough to come up with better
   solutions, ideas, and creations."
-f_amazon-url: https://www.amazon.com/dp/159184424X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/159184424X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

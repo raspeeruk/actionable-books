@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:17.406Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78028e7814865e30fbbfc_51o8xwy47vl.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/tribal-leadership/
+  alt: Tribal Leadership book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/tribal-leadership/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/11/ActionableBooks-Audio-Tribal-Leadership.mp3
 f_author-plain-text: Dave Logan
@@ -68,7 +68,7 @@ f_big-idea: >-
   We need to elevate our companies to the rarified air of Stage Four if we want
   to stand a chance at competing. The following two Insights should help get you
   started.
-f_quote-reference: \- Tribal Leadership, page 37
+f_quote-reference: '\- Tribal Leadership, page 37'
 f_insight-2: >-
   ### Hallmarks at Stage Four
 
@@ -187,7 +187,7 @@ f_quote-2: >-
   "Remember that Tribal Leadership is not about changing ideas or gaining
   knowledge; it is about changing language and relationships. It’s not about
   intellectualizations; it’s about actions."
-f_amazon-url: https://www.amazon.com/dp/0061251321/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0061251321/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

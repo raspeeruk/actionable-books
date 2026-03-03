@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:20.150Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803f99395c41bc211357_visioneering-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/visioneering/
+  alt: Visioneering book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/visioneering/'
 f_author-plain-text: Andy Stanley
 f_author: cms/authors/andy-stanley.md
 f_category-3: cms/summary-categories/self-management.md
@@ -39,7 +39,7 @@ f_big-idea: >-
   areas of your life such as career, finances, relationships, spiritual
   development, etc.? Are the actions related to these things at the top of your
   to-do list?
-f_quote-reference: \- Visioneering, page 271
+f_quote-reference: '\- Visioneering, page 271'
 f_insight-2: >-
   ### What Will It Cost?
 
@@ -119,7 +119,7 @@ f_conclusion: >-
   planning, risk-taking and sacrifice. Are you ready to pay the price and
   embrace the vision you have been given and end up somewhere on purpose?
 f_quote-2: '"Everybody ends up somewhere in life. You can end up somewhere on purpose!"'
-f_amazon-url: https://www.amazon.com/dp/159052456X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/159052456X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

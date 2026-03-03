@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780984df109592f03e59d_millionaire-next-door-sm-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-millionaire-next-door/
+  alt: The Millionaire Next Door book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-millionaire-next-door/'
 f_author-plain-text: Thomas J. Stanley
 f_author: cms/authors/thomas-j-stanley.md
 f_category-3: cms/summary-categories/self-management.md
@@ -19,7 +19,7 @@ f_quote-reference: ''
 f_insight-2: ''
 f_insight-1: ''
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1589795474/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1589795474/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

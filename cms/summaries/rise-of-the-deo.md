@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:37.747Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780492a2994bbba9dc23a_rise-of-the-deo.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/rise-of-the-deo/
+  alt: Rise of the DEO book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/rise-of-the-deo/'
 f_author-plain-text: Christopher Ireland
 f_author: cms/authors/christopher-ireland.md
 f_category-3: cms/summary-categories/leadership.md
@@ -36,7 +36,7 @@ f_big-idea: >-
   days. Those who dismiss design as some passing fad – or who insist that it
   stays as another siloed “business” function – will simply doom their company
   to irrelevance.
-f_quote-reference: \- Rise of the DEO, page 14
+f_quote-reference: '\- Rise of the DEO, page 14'
 f_insight-2: >-
   ### Craft culture
 
@@ -156,7 +156,7 @@ f_quote-2: >-
   and interactions. Looking ahead it will change companies, industries, and
   countries. Perhaps it will eventually change the climate and our genetic
   code."
-f_amazon-url: https://www.amazon.com/dp/0321934393/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0321934393/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

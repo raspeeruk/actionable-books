@@ -1,14 +1,14 @@
 ---
 f_unique-number: 395
-title: Less Doing, More Living
+title: 'Less Doing, More Living'
 slug: less-doing-more-living
 updated-on: '2024-02-27T20:30:37.443Z'
 created-on: '2024-02-22T16:06:21.307Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804db0003bf0734db00b_less-doing-more-living.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/less-doing-more-living/
+  alt: 'Less Doing, More Living book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/less-doing-more-living/'
 f_author-plain-text: Ari Meisel
 f_author: cms/authors/ari-meisel.md
 f_category-3: cms/summary-categories/self-management.md
@@ -54,7 +54,7 @@ f_big-idea: >-
   has to do with taking care of your brain and treating it as a precious
   resource. By doing this, you build the foundation you need to be doing your
   best work.
-f_quote-reference: \- Less Doing, More Living, page 4
+f_quote-reference: '\- Less Doing, More Living, page 4'
 f_insight-2: >-
   ### Get organized: Set limits
 
@@ -150,7 +150,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The idea of Less Doing is to reclaim your time and – more important – your
   mind, so you can do the things you want to do."
-f_amazon-url: https://www.amazon.com/dp/0399168524/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0399168524/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:12.310Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808c9b92e746e8687d7a_hatching-twitter.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/hatching-twitter/
+  alt: Hatching Twitter book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/hatching-twitter/'
 f_author-plain-text: Nick Bilton
 f_author: cms/authors/nick-bilton.md
 f_category-3: cms/summary-categories/leadership.md
@@ -37,7 +37,7 @@ f_big-idea: >-
 
   What continued, though, were the people and their friendships, their strengths
   and weaknesses, their weekend parties, and their inescapable loneliness.
-f_quote-reference: \- Hatching Twitter, page 56
+f_quote-reference: '\- Hatching Twitter, page 56'
 f_insight-2: >-
   ### Don’t hire your friends
 
@@ -94,13 +94,13 @@ f_insight-1: >-
   Speaking of distance, the author ends the book with a story about Tweeting
   from the international space station. Commander Hadfield wrote:“Loneliness is
   not so much where you are, but instead is your state of mind.”
-f_conclusion: Having said that, I would love to end this summary some other way.
+f_conclusion: 'Having said that, I would love to end this summary some other way.'
 f_quote-2: >-
   "This status thing could help connect people to those who weren’t there. It
   wasn’t just about sharing what kind of music you were listening to or where
   you were at that moment; it was about connecting people and making them feel
   less alone."
-f_amazon-url: https://www.amazon.com/dp/1444767046/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1444767046/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

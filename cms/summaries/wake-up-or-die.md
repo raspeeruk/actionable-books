@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:20.492Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c6100a4d9bac397b09_wake-up-or-die.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/wake-up-or-die/
+  alt: Wake Up or Die book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/wake-up-or-die/'
 f_author-plain-text: Corrine Sandler
 f_author: cms/authors/corrine-sandler.md
 f_category-3: cms/summary-categories/leadership.md
@@ -44,7 +44,7 @@ f_big-idea: >-
 
   Once you have the data, it can allow you to make critical changes if you know
   how to use it.
-f_quote-reference: \- Wake Up or Die, page 131
+f_quote-reference: '\- Wake Up or Die, page 131'
 f_insight-2: >-
   ### Intelligence + Decision-Making = Advantage
 
@@ -113,7 +113,7 @@ f_conclusion: ''
 f_quote-2: >-
   "In the life and death quest for strategic change businesses have much to
   learn from war."
-f_amazon-url: https://www.amazon.com/dp/B00FKKAQOU/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00FKKAQOU/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

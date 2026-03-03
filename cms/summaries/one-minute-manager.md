@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:04.515Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805d5c251897810275ee_oneminutemanger-sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/one-minute-manager/
+  alt: The One Minute Manager book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/one-minute-manager/'
 f_author-plain-text: Ken Blanchard
 f_author: cms/authors/ken-blanchard.md
 f_category-3: cms/summary-categories/leadership.md
@@ -85,7 +85,7 @@ f_conclusion: >-
   life. Possibly the most important thought though, buried near the end of the
   book is this: _“As he looked back, he was glad he had not waited to use One
   Minute Management until he thought he could do it just right.”_
-f_amazon-url: https://www.amazon.com/dp/0688014291/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0688014291/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

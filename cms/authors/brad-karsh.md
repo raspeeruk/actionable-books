@@ -1,16 +1,16 @@
 ---
 title: Brad Karsh
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Brad-Karsh/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Brad-Karsh/'
 f_unique-id: '375'
 f_image:
   url: /assets/external/65d779c0422b7fec28ce484c_brad-karsh1-180x220.jpeg
-  alt: null
+  alt: Brad Karsh
 slug: brad-karsh
 updated-on: '2024-02-23T13:30:56.115Z'
 created-on: '2024-02-22T16:43:44.625Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/bradkarsh/
-f_website-2: http://jbtrainingsolutions.com
+f_twitter-2: 'http://twitter.com/bradkarsh/'
+f_website-2: 'http://jbtrainingsolutions.com'
 layout: '[authors].html'
 tags: authors
 ---

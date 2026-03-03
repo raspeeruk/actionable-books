@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:24.372Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780931de9c6d7938eba14_make_your_idea_matter.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/make-your-idea-matter/
+  alt: Make Your Idea Matter book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/make-your-idea-matter/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/11/ActionableBooks-Audio-Make-Your-Idea-Matter.mp3
 f_author-plain-text: Bernadette Jiwa
@@ -53,7 +53,7 @@ f_big-idea: >-
   **Tap into their psyche** and they’ll begin the journey the same place you do.
   **Tell your story with emotion,** and when you reach your destination they’ll
   be right beside you.
-f_quote-reference: \- Make Your Idea Matter, page 7
+f_quote-reference: '\- Make Your Idea Matter, page 7'
 f_insight-2: >-
   ### Branding is Shorthand, Not a Shortcut
 
@@ -137,7 +137,7 @@ f_insight-1: >-
   **Don’t fix the method, fix the message.**
 f_conclusion: ''
 f_quote-2: '"Ideas are formed in the mind but triumph in the heart."'
-f_amazon-url: https://www.amazon.com/dp/1478394846/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1478394846/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

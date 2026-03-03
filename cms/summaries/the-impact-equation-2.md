@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:59.199Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809fb4b3d748708adbca_7841482542_f503a2355b.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-impact-equation-2/
+  alt: The Impact Equation book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-impact-equation-2/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/01/ActionableBooks-Audio-The-Impact-Equation-2.mp3
 f_author-plain-text: Julien Smith and Chris Brogan
@@ -49,7 +49,7 @@ f_big-idea: >-
 
   Once you have your ideas carefully crafted and your platform established . . .
   now what? How do you expand your impact?
-f_quote-reference: \- The Impact Equation, page 7
+f_quote-reference: '\- The Impact Equation, page 7'
 f_insight-2: >-
   ### The Human Connection
 
@@ -97,7 +97,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Ideas can help people change the world, and now anyone can become powerful
   enough to be a catalyst for what matters to them."
-f_amazon-url: https://www.amazon.com/dp/1591844908/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591844908/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

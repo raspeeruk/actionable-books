@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:38.481Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78072db928dde1f0f251e_scaling-up-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/scaling-up/
+  alt: Scaling Up book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/scaling-up/'
 f_author-plain-text: Verne Harnish
 f_author: cms/authors/verne-harnish.md
 f_category-3: cms/summary-categories/leadership.md
@@ -135,7 +135,7 @@ f_quote-2: >-
   "If you want to teach people a new way of thinking, don’t bother trying to
   teach them. Instead give them a tool, the use of which will lead to new ways
   of thinking."
-f_amazon-url: https://www.amazon.com/dp/0986019526/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0986019526/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

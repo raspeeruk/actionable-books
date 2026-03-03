@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:17.905Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780922d3147c9543afca7_invisible-influence-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/invisible-influence-3/
+  alt: Invisible Influence book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/invisible-influence-3/'
 f_author-plain-text: Jonah Berger
 f_author: cms/authors/jonah-berger.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -57,7 +57,7 @@ f_big-idea: >-
   revised my drink and thought ‘yes, water is a healthier choice.’ Imagine the
   impact of your spouse’s health decisions on you! Again, choose the people
   around you carefully!
-f_quote-reference: \- Invisible Influence, page 231
+f_quote-reference: '\- Invisible Influence, page 231'
 f_insight-2: >-
   ### Monkey See, Monkey Do!
 
@@ -140,7 +140,7 @@ f_conclusion: >-
   you have that could benefit from analyzing how social influence can make an
   impact?
 f_quote-2: “Social influence is as silent as it is powerful.”
-f_amazon-url: https://www.amazon.com/dp/1476759693/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1476759693/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

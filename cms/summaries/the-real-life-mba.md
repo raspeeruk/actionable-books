@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:08.731Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780cbaed215aa0062fff9_real-life-mba-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-real-life-mba/
+  alt: The Real-Life MBA book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-real-life-mba/'
 f_author-plain-text: Jack Welch
 f_author: cms/authors/jack-welch.md
 f_category-3: cms/summary-categories/leadership.md
@@ -37,7 +37,7 @@ f_big-idea: >-
   the foundation on much of the leadership dialogue that takes place in the
   book. The discussion is always bringing it back to what’s the purpose of your
   organization, your team, and your people.
-f_quote-reference: \- The Real-Life MBA, page 2
+f_quote-reference: '\- The Real-Life MBA, page 2'
 f_insight-2: >-
   ### Hiring 101
 
@@ -102,7 +102,7 @@ f_conclusion: >-
   covers topics that are vital to winning in business, becoming a more effective
   leader and finding out what your true purpose and passions are in your career.
 f_quote-2: '"In sports and business alike, the players are in it to win"'
-f_amazon-url: https://www.amazon.com/dp/B00OP1FIU2/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00OP1FIU2/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:01.848Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809f42b337f9acb04072_loyalty_leap-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-loyalty-leap/
+  alt: The Loyalty Leap book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-loyalty-leap/'
 f_author-plain-text: Bryan Pearson
 f_author: cms/authors/bryan-pearson.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -59,7 +59,7 @@ f_big-idea: >-
 
 
   Let’s look at a couple ways to enhance your customer service…
-f_quote-reference: \- The Loyalty Leap, page 9
+f_quote-reference: '\- The Loyalty Leap, page 9'
 f_insight-2: >-
   ### Building Relevance
 
@@ -137,7 +137,7 @@ f_conclusion: >-
   meantime, remember who drives your business… and give them something they care
   about.
 f_quote-2: '"...abandon the conquest mentality, where acquisition is king."'
-f_amazon-url: https://www.amazon.com/dp/1591844916/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591844916/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

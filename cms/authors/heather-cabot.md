@@ -1,18 +1,18 @@
 ---
 title: Heather Cabot
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Heather-Cabot/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Heather-Cabot/'
 f_unique-id: '242'
 f_image:
   url: /assets/external/65d779fdc76de5d5962745c5_heather-cabot-180x220.jpeg
-  alt: null
+  alt: Heather Cabot
 slug: heather-cabot
 f_summaries:
   - cms/summaries/geek-girl-rising.md
 updated-on: '2024-02-23T13:30:58.659Z'
 created-on: '2024-02-22T16:44:45.164Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/cabotventures/
-f_website-2: http://geekgirlrising.com
+f_twitter-2: 'http://twitter.com/cabotventures/'
+f_website-2: 'http://geekgirlrising.com'
 layout: '[authors].html'
 tags: authors
 ---

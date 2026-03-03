@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:50.751Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804d44f497b3b3750a75_the-best-of-work-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-best-place-to-work/
+  alt: The Best Place to Work book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-best-place-to-work/'
 f_author-plain-text: Ron Friedman
 f_author: cms/authors/ron-friedman.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -40,7 +40,7 @@ f_big-idea: >-
   deeper traits. Giving employees a budget for celebrating their coworkers’
   birthdays, marriages, and other millstones gives them opportunities to
   celebrate their colleagues as they would outside the office.
-f_quote-reference: \- The Best Place to Work, page xviii
+f_quote-reference: '\- The Best Place to Work, page xviii'
 f_insight-2: >-
   ### Hiring Is Hard. And That’s OK…
 
@@ -109,7 +109,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The secret to happy workplaces isn’t spending more money. It’s about creating
   the conditions that allow employees to do their best work."
-f_amazon-url: https://www.amazon.com/dp/0399165592/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0399165592/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:40.189Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809598fda031132dbbcb_shoe-dog-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/shoe-dog/
+  alt: Shoe Dog book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/shoe-dog/'
 f_author-plain-text: Phil Knight
 f_author: cms/authors/phil-knight.md
 f_category-3: cms/summary-categories/self-management.md
@@ -36,7 +36,7 @@ f_big-idea: >-
 
   This message was strong and inspiring one throughout the book and really goes
   to show that passion and having a strong why, can propel you through anything!
-f_quote-reference: \- Shoe Dog, page 186
+f_quote-reference: '\- Shoe Dog, page 186'
 f_insight-2: >-
   ### Surround Yourself with the Right People
 
@@ -98,7 +98,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Shoe dogs were people who devoted themselves wholly to making, selling,
   buying, or designing of shoes."
-f_amazon-url: https://www.amazon.com/dp/1501135910/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1501135910/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

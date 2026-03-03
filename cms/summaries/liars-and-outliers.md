@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:21.806Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78078f91f45c228070aa9_liars_and_outliers.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/liars-and-outliers/
+  alt: Liars and Outliers book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/liars-and-outliers/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/06/ActionableBooks-Audio-Liars-and-Outliers.mp3
 f_author-plain-text: Bruce Schneier
@@ -155,7 +155,7 @@ f_conclusion: >-
   continue to create ways to circumvent the system. Some will defect for good.
   Others will defect for evil. The very judgement of which relies entirely on
   the society(s) to which **you** belong.
-f_amazon-url: https://www.amazon.com/dp/1118143302/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118143302/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

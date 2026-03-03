@@ -1,10 +1,10 @@
 ---
 title: James D. Murphy
-f_original-url: https://www.actionablebooks.com/en-ca/authors/James-D.-Murphy/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/James-D.-Murphy/'
 f_unique-id: '146'
 f_image:
   url: /assets/external/65d77a0395897b7a2707af10_james-d-murphy.jpeg
-  alt: null
+  alt: James D. Murphy
 slug: james-d-murphy
 f_summaries:
   - cms/summaries/courage-to-execute.md

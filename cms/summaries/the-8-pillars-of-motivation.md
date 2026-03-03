@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:46.880Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d3529024c0144a5aa5_8_pillars.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-8-pillars-of-motivation/
+  alt: The 8 Pillars of Motivation book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-8-pillars-of-motivation/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/ActionableBooks-Audio-20000-Days.mp3
 f_author-plain-text: Farnoosh Brock
@@ -81,7 +81,7 @@ f_big-idea: >-
 
   22.  **Resources** – without adequate funding, an idea won’t get off the
   ground.
-f_quote-reference: \- The 22 Immutable Laws of Marketing, page xi
+f_quote-reference: '\- The 22 Immutable Laws of Marketing, page xi'
 f_insight-2: >-
   ### The Law of Success
 
@@ -147,7 +147,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Once you open your mind to the possibility that there are laws of marketing,
   it’s easy to see what they are. In truth, they are obvious."
-f_amazon-url: https://www.amazon.com/dp/B005AQ40Y6/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B005AQ40Y6/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

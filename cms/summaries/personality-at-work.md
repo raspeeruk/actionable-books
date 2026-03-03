@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:32.539Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780cfe997a36d750920ed_personality-at-work-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/personality-at-work/
+  alt: Personality at Work book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/personality-at-work/'
 f_author-plain-text: Ron Warren
 f_author: cms/authors/ron-warren.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -76,7 +76,7 @@ f_big-idea: >-
   So, if you do want to fully embrace a formal leadership role, how do you work
   with high deference or high dominance traits? That’s what each of the Insights
   below will touch upon.
-f_quote-reference: \- Personality at Work, location 274
+f_quote-reference: '\- Personality at Work, location 274'
 f_insight-2: >-
   ### Too Domineering? Inquire More
 
@@ -150,7 +150,7 @@ f_quote-2: >-
   "Personality at Work lays out, in plain English with stories and hard data,
   the key personality traits that drive effectiveness and high performance and
   the common traits that derail and degrade effectiveness."
-f_amazon-url: https://www.amazon.com/dp/B01N7JXRQF/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B01N7JXRQF/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

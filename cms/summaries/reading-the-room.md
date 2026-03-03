@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:36.634Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805505ccf09631e9eafd_reading-the-room-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/reading-the-room/
+  alt: Reading the Room book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/reading-the-room/'
 f_author-plain-text: David Kantor
 f_author: cms/authors/david-kantor.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -55,7 +55,7 @@ f_big-idea: >-
   Finally, underlying these three levels is our own **childhood story** which
   informs how we came to be the people we are and how we respond in any given
   situation.
-f_quote-reference: \- Reading the Room, page 1
+f_quote-reference: '\- Reading the Room, page 1'
 f_insight-2: >-
   ### Why We Speak: The Domains of Communication
 
@@ -125,7 +125,7 @@ f_quote-2: >-
   read the room to understand what’s going on as people communicate in small
   groups…when the conversation is moving forward, when it may be just about to
   leave the rails, and possibly even how to guide it back on course."
-f_amazon-url: https://www.amazon.com/dp/0470903430/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470903430/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

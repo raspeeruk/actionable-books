@@ -1,18 +1,18 @@
 ---
 title: Dave Ramsey
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Dave-Ramsey/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Dave-Ramsey/'
 f_unique-id: '201'
 f_image:
   url: /assets/external/65d779e1617bb3014a3c32c4_dave-ramsey-180x220.jpeg
-  alt: null
+  alt: Dave Ramsey
 slug: dave-ramsey
 f_summaries:
   - cms/summaries/entreleadership.md
 updated-on: '2024-02-23T13:31:04.303Z'
 created-on: '2024-02-22T16:44:17.364Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/DaveRamsey/
-f_website-2: http://daveramsey.com
+f_twitter-2: 'http://twitter.com/DaveRamsey/'
+f_website-2: 'http://daveramsey.com'
 layout: '[authors].html'
 tags: authors
 ---

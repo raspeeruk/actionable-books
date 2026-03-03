@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:40.576Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780680271589378cba9a9_simple-habits-94x144.jpeg
-  alt: null
+  alt: Simple Habits for Complex Times book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/simple-habits-for-complex-times/
 f_author-plain-text: Jennifer Garvey Berger
@@ -55,7 +55,7 @@ f_big-idea: >-
 
   Learning to navigate complexity looks very different and requires different
   things of us than solving problems that are complicated.
-f_quote-reference: \- Simple Habits for Complex Times, page 12
+f_quote-reference: '\- Simple Habits for Complex Times, page 12'
 f_insight-2: >-
   ### Ask: How could I be wrong about this?
 
@@ -119,7 +119,7 @@ f_quote-2: >-
   "It’s totally possible that this task of leading in times as complex and
   volatile as today is a bigger stretch for us humans than anything we’ve ever
   had to do."
-f_amazon-url: https://www.amazon.com/dp/0804788472/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0804788472/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

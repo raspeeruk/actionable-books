@@ -1,18 +1,18 @@
 ---
 title: Peter Coughter
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Peter-Coughter/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Peter-Coughter/'
 f_unique-id: '592'
 f_image:
   url: /assets/external/65d77a3d4390006f85f942b7_coughter-180x220.png
-  alt: null
+  alt: Peter Coughter
 slug: peter-coughter
 f_summaries:
   - cms/summaries/the-art-of-the-pitch.md
 updated-on: '2024-02-23T13:30:44.364Z'
 created-on: '2024-02-22T16:45:49.363Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/coughter/
-f_website-2: http://theartofthepitch.info
+f_twitter-2: 'http://twitter.com/coughter/'
+f_website-2: 'http://theartofthepitch.info'
 layout: '[authors].html'
 tags: authors
 ---

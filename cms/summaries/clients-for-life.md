@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:53.560Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805d09562db31847dc74_clients_for_life.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/clients-for-life/
+  alt: Clients for Life book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/clients-for-life/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-Clients-for-Life.mp3
 f_author-plain-text: Andrew Sobel
@@ -91,7 +91,7 @@ f_conclusion: >-
   creating long lasting relationships with clients. The ultimate arbiter of
   these relationships will be the client themselves. _Clients for Life_ is a
   solid roadmap for this journey.
-f_amazon-url: https://www.amazon.com/dp/0684870304/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0684870304/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

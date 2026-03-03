@@ -1,18 +1,18 @@
 ---
 title: Andy Stanley
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Andy-Stanley/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Andy-Stanley/'
 f_unique-id: '815'
 f_image:
   url: /assets/external/65d779aff26fc2ba2dfae21e_andy-stanley-180x220.jpeg
-  alt: null
+  alt: Andy Stanley
 slug: andy-stanley
 f_summaries:
   - cms/summaries/visioneering.md
 updated-on: '2024-02-23T13:31:10.391Z'
 created-on: '2024-02-22T16:43:27.812Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/AndyStanley/
-f_website-2: http://andystanley.com/
+f_twitter-2: 'http://twitter.com/AndyStanley/'
+f_website-2: 'http://andystanley.com/'
 layout: '[authors].html'
 tags: authors
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:52.094Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809dee157554c65be3a5_built_to_sell.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/built-to-sell/
+  alt: Built to Sell book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/built-to-sell/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/07/ActionableBooks-Audio-Built-to-Sell.mp3
 f_author-plain-text: John Warrillow
@@ -54,7 +54,7 @@ f_big-idea: >-
   designing logos. It really doesn’t matter what it is you choose to specialize
   in, so long as there’s a demand for it and you can work towards doing it with
   excellence, consistently. Which leads us to our first GEM…
-f_quote-reference: \- Bo Burlingham, forward from Built to Sell, page viii
+f_quote-reference: '\- Bo Burlingham, forward from Built to Sell, page viii'
 f_insight-2: >-
   ### Stay specialized
 
@@ -118,7 +118,7 @@ f_quote-2: >-
   "...the best businesses are sellable, and smart businesspeople believe that
   you should build a company to be sold even if you have no intention of cashing
   out or stepping back anytime soon."
-f_amazon-url: https://www.amazon.com/dp/1591843979/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591843979/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

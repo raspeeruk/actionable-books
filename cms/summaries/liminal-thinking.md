@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:22.488Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780bbe7814865e31003ff_liminal-thinking-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/liminal-thinking/
+  alt: Liminal Thinking book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/liminal-thinking/'
 f_author-plain-text: Dave Gray
 f_author: cms/authors/dave-gray.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -41,7 +41,7 @@ f_big-idea: >-
   Liminal Thinking is a type of “psychological agility” that allows you see and
   pursue opportunities, particularly where others might not. But first, we need
   to understand the beliefs shaping the boundaries that can hold us back.
-f_quote-reference: \- Liminal Thinking, page 36
+f_quote-reference: '\- Liminal Thinking, page 36'
 f_insight-2: >-
   ### Changing Your Beliefs Takes Practice
 
@@ -107,7 +107,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Liminal Thinking is the art of creating change by understanding, shaping, and
   reframing beliefs.”
-f_amazon-url: https://www.amazon.com/dp/1933820462/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1933820462/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

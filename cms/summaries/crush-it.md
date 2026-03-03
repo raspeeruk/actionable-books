@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:57.288Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802bf916ebdfffffb1d4_crush-it.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/crush-it/
+  alt: Crush It book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/crush-it/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/04/ActionableBooks-Audio-Crush-It.mp3
 f_author-plain-text: Gary Vaynerchuk
@@ -110,7 +110,7 @@ f_conclusion: >-
   That’s how you get to be number one. And in this glorious online world of
   ours, number one (or #2-7 for that matter) is a highly profitable place to be.
   Personal brand is everything. But it’s nothing if people don’t know about you.
-f_amazon-url: https://www.amazon.com/dp/0061914177/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0061914177/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

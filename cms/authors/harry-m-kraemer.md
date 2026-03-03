@@ -1,18 +1,18 @@
 ---
 title: Harry M. Kraemer
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Harry-M.-Kraemer/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Harry-M.-Kraemer/'
 f_unique-id: '78'
 f_image:
   url: /assets/external/65d779fc23efe50392cedc6a_harry-kraemer-180x220.jpeg
-  alt: null
+  alt: Harry M. Kraemer
 f_summaries:
   - cms/summaries/becoming-the-best.md
 slug: harry-m-kraemer
 updated-on: '2024-02-23T13:30:27.618Z'
 created-on: '2024-02-22T16:44:44.244Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/harrykraemerjr/
-f_website-2: https://harrykraemer.org/
+f_twitter-2: 'http://twitter.com/harrykraemerjr/'
+f_website-2: 'https://harrykraemer.org/'
 layout: '[authors].html'
 tags: authors
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:01.507Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780cb4563120af4292067_do-less-better-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/do-less-better/
+  alt: Do Less Better book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/do-less-better/'
 f_author-plain-text: John R. Bell
 f_author: cms/authors/john-r-bell.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -49,7 +49,7 @@ f_big-idea: >-
   And while going through the above exercises, remember that once you know what
   your core business is you also have to figure out the how: how are you going
   to deliver on this and become the best at it.
-f_quote-reference: \- Do Less Better, page 4
+f_quote-reference: '\- Do Less Better, page 4'
 f_insight-2: >-
   ### Differentiation Requires Less
 
@@ -131,7 +131,7 @@ f_quote-2: >-
   "Strange as it may sound, sacrifice in the right places is often the answer
   and the springboard for the long-term prosperity for you and your company. I
   will put it this way—the sacrifice you make determines your fate."
-f_amazon-url: https://www.amazon.com/dp/B00S9WG7OO/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00S9WG7OO/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

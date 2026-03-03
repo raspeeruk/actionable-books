@@ -1,10 +1,10 @@
 ---
 title: James T. Hamilton
-f_original-url: https://www.actionablebooks.com/en-ca/authors/James-T.-Hamilton/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/James-T.-Hamilton/'
 f_unique-id: '862'
 f_image:
   url: /assets/external/65d77a034538df72c01c2801_james-t-hamilton.jpeg
-  alt: null
+  alt: James T. Hamilton
 slug: james-t-hamilton
 f_summaries:
   - cms/summaries/you-are-what-you-choose.md

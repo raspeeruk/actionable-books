@@ -1,12 +1,12 @@
 ---
 title: Anastasia Cole Plakias
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Anastasia-Cole-Plakias/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Anastasia-Cole-Plakias/'
 f_unique-id: '641'
 slug: anastasia-cole-plakias
 f_image:
   url: >-
     /assets/external/65d779ada859109b87e3a122_anastasia-cole-plakias-180x220.jpeg
-  alt: null
+  alt: Anastasia Cole Plakias
 f_summaries:
   - cms/summaries/the-farm-on-the-roof.md
 updated-on: '2024-02-23T13:31:24.855Z'

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:59.272Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809fb4b3d748708adbca_7841482542_f503a2355b.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-impact-equation/
+  alt: The Impact Equation book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-impact-equation/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/12/ActionableBooks-Audio-The-Impact-Equation.mp3
 f_author-plain-text: Julien Smith and Chris Brogan
@@ -136,7 +136,7 @@ f_insight-1: >-
   I’ll be using this framework and designing my ideas with ‘sticky’ qualities as
   part of my actions.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1591844908/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591844908/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

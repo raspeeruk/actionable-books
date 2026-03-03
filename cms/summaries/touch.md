@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:16.814Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c8ba0ab2be8afa67fa_touch.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/touch/
+  alt: TOUCH book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/touch/'
 f_author-plain-text: Mark Blevis
 f_author: cms/authors/mark-blevis.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -35,7 +35,7 @@ f_big-idea: >-
   perspective. Before reacting, ask yourself, is it possible for both of us to
   retain something positive out of this experience. Explore what this could look
   like before you rationalize the validity of your own defense.
-f_quote-reference: \- TOUCH, page 11
+f_quote-reference: '\- TOUCH, page 11'
 f_insight-2: >-
   ### Erin’s YODA moment
 
@@ -100,7 +100,7 @@ f_quote-2: >-
   "In an effort to use high tech to connect with people more effectively, we are
   losing the human “touch” – that critical person-to-person connection which is
   still the engine of commerce."
-f_amazon-url: https://www.amazon.com/dp/B00IISHOFK/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00IISHOFK/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

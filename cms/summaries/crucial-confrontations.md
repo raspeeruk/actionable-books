@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:57.904Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d5589ec7f59357d4a8_crucial-confrontations.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/crucial-confrontations/
+  alt: Crucial Confrontations book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/crucial-confrontations/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/11/ActionableBooks-Audio-Crucial-Confrontations.mp3
 f_author-plain-text: Al Switzler
@@ -39,7 +39,7 @@ f_big-idea: >-
   **Pattern** of what has been happening over time. Finally, if all else fails,
   talk about **Relationship**, or what’s happening between you and the other
   person. Using this model, you will have a guide to deciding what to confront.
-f_quote-reference: \- Crucial Confrontations, Back Cover
+f_quote-reference: '\- Crucial Confrontations, Back Cover'
 f_insight-2: >-
   ### When Things Go Right
 
@@ -118,7 +118,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Never walk away from another touchy, controversial, or complex issue, - at
   work or at home!"
-f_amazon-url: https://www.amazon.com/dp/B006GA4WL6/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B006GA4WL6/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

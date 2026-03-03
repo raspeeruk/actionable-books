@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:10.114Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805b0408dd3494674247_give_and_take.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/give-and-take/
+  alt: Give and Take book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/give-and-take/'
 f_author-plain-text: Adam Grant
 f_author: cms/authors/adam-grant.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -73,7 +73,7 @@ f_big-idea: >-
   negotiators. He believed that the way to do that was to adopt a ‘giver’ style.
   But they simply didn’t believe him. So he decided to prove them wrong. This
   book is that proof.
-f_quote-reference: \- Give and Take, page 256
+f_quote-reference: '\- Give and Take, page 256'
 f_insight-2: >-
   ### Why some givers burn out while others are on fire
 
@@ -178,7 +178,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Focus attention and energy on making a difference in the lives of others, and
   success might follow as a by-product."
-f_amazon-url: https://www.amazon.com/dp/0670026557/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0670026557/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

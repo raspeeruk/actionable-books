@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:45.251Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780980dc598fbeb2037b2_action.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/action/
+  alt: Action! book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/action/'
 f_author-plain-text: Robert Ringer
 f_author: cms/authors/robert-ringer.md
 f_category-3: cms/summary-categories/self-management.md
@@ -53,7 +53,7 @@ f_big-idea: >-
   Most of us have it the other way around. Here’s the equation: it is the
   combination of action, genius, magic and power that produces motivation, which
   in turn leads to even more action.
-f_quote-reference: \- Action!, page 9
+f_quote-reference: '\- Action!, page 9'
 f_insight-2: >-
   ### Take Personal Responsibility
 
@@ -119,7 +119,7 @@ f_quote-2: >-
   "I have become increasingly and consciously are of a remarkable tool that is
   not only at my disposal, but is available to every member of the human
   species... (it is) action."
-f_amazon-url: https://www.amazon.com/dp/1590770587/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1590770587/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

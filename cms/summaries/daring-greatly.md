@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:57.989Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a6a1ca3470eb5a9f1e_daring_greatly.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/daring-greatly/
+  alt: Daring Greatly book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/daring-greatly/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/01/ActionableBooks-Audio-Daring-Greatly.mp3
 f_author-plain-text: Bren√© Brown
@@ -37,7 +37,7 @@ f_big-idea: >-
   strategies for building shame-resilient organizations, and each strategy
   relies on leaders willing to dare greatly by being honest, constructive, and
   engaged.
-f_quote-reference: \- Daring Greatly, page 12
+f_quote-reference: '\- Daring Greatly, page 12'
 f_insight-2: >-
   ### Gremlin Ninja Warrior Training
 
@@ -121,7 +121,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Vulnerability is the core, the heart, the center, of meaningful human
   experiences."
-f_amazon-url: https://www.amazon.com/dp/1592407331/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1592407331/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

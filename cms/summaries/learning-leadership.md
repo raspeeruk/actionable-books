@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:21.367Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807e68efe795c9dd7ef1_learning-leadership-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/learning-leadership/
+  alt: Learning Leadership book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/learning-leadership/'
 f_author-plain-text: Barry Z. Posner
 f_author: cms/authors/barry-z-posner.md
 f_category-3: cms/summary-categories/leadership.md
@@ -148,7 +148,7 @@ f_conclusion: >-
   the self-coaching exercises, start a leadership journal, aspire to improve
   every day, challenge yourself, engage support and commit to being the best and
   make it a successful one.
-f_amazon-url: https://www.amazon.com/dp/1119144280/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1119144280/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

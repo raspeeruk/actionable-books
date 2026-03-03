@@ -1,11 +1,11 @@
 ---
 title: Doug Hall
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Doug-Hall/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Doug-Hall/'
 f_unique-id: '329'
 slug: doug-hall
 f_image:
   url: /assets/external/65d779ec600f96a54c6b31fc_doug-hall-180x220.jpeg
-  alt: null
+  alt: Doug Hall
 f_summaries:
   - cms/summaries/jump-start-your-business-brain.md
 updated-on: '2024-02-23T13:31:24.130Z'

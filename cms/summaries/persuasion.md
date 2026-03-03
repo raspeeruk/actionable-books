@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:33.005Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d444f497b3b3754a14_41yr6xyevel._SL135_.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/persuasion/
+  alt: Persuasion book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/persuasion/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/02/ActionableBooks-Audio-Persuasion.mp3
 f_author-plain-text: Arlene Dickinson
@@ -44,7 +44,7 @@ f_big-idea: >-
   Perhaps it’s time to stop telling and start engaging. Find out what is
   important to them and what they want. Make persuasion an interaction, a
   dialogue not a monologue.
-f_quote-reference: \- Persuasion, page 1
+f_quote-reference: '\- Persuasion, page 1'
 f_insight-2: >-
   ### Failure
 
@@ -121,7 +121,7 @@ f_conclusion: ''
 f_quote-2: >-
   "How do you convince someone to do what you want, in a way that leaves both of
   you feeling good about it?"
-f_amazon-url: https://www.amazon.com/dp/B005M1O7EM/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B005M1O7EM/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:27.684Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c271f7aab80c316019_mission-in-a-bottle.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/mission-in-a-bottle/
+  alt: Mission in a Bottle book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/mission-in-a-bottle/'
 f_author-plain-text: Barry Nalebuff
 f_author: cms/authors/barry-nalebuff.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -94,7 +94,7 @@ f_conclusion: >-
   decided to reach out to Honest Tea through Twitter. I have been assured that
   soon, very soon, I will be able to purchase a bottle. Can’t wait to try this
   iced tea that is just a “tad sweet.”
-f_amazon-url: https://www.amazon.com/dp/B00BRUQ3WG/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00BRUQ3WG/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:03.500Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78073b881391585a58f8a_edgy-conversations.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/edgy-conversations/
+  alt: EDGY Conversations book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/edgy-conversations/'
 f_author-plain-text: Dan Waldschmidt
 f_author: cms/authors/dan-waldschmidt.md
 f_category-3: cms/summary-categories/self-management.md
@@ -46,7 +46,7 @@ f_big-idea: >-
   Once you have a clear idea of who you are, you will be in a better position to
   consider who (and where) you want to be in one year, five years, ten years and
   beyond.
-f_quote-reference: \- EDGY Conversations, page 47
+f_quote-reference: '\- EDGY Conversations, page 47'
 f_insight-2: >-
   ### It’s Always Darkest before the Dawn
 
@@ -142,7 +142,7 @@ f_quote-2: >-
   "What stands in your way of greatness isn’t challenges or obstacles or your
   perceived limitations. What stands in your way is the misguided belief that
   what you want to do is impossible."
-f_amazon-url: https://www.amazon.com/dp/0989533107/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0989533107/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

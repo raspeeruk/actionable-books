@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:07.755Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78054bc56df19f3aec82e_flawless-consulting.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/flawless-consulting/
+  alt: Flawless Consulting book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/flawless-consulting/'
 f_author-plain-text: Peter Block
 f_author: cms/authors/peter-block.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
@@ -34,7 +34,7 @@ f_big-idea: >-
   prevent making mistakes. Block is not saying there may not be struggles,
   rather by applying these concepts it will help the consultant keep their
   integrity as well as provide the best application of their consultant efforts.
-f_quote-reference: \- Flawless Consulting, page 1-2
+f_quote-reference: '\- Flawless Consulting, page 1-2'
 f_insight-2: >-
   ### Knowing the right steps at the right time
 
@@ -98,7 +98,7 @@ f_conclusion: >-
 f_quote-2: >-
   "When you don’t have direct control over people and yet want them to listen to
   you and heed your advice, you are face-to-face with the consultant’s dilemma."
-f_amazon-url: https://www.amazon.com/dp/0470620749/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470620749/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

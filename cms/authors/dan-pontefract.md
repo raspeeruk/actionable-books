@@ -1,16 +1,16 @@
 ---
 title: Dan Pontefract
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Dan-Pontefract/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Dan-Pontefract/'
 f_unique-id: '229'
 f_image:
   url: /assets/external/65d779d7600f96a54c6b2816_dan_pontefract.png
-  alt: null
+  alt: Dan Pontefract
 slug: dan-pontefract
 updated-on: '2024-02-23T13:30:37.293Z'
 created-on: '2024-02-22T16:44:07.594Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/dpontefract/
-f_website-2: http://www.danpontefract.com/
+f_twitter-2: 'http://twitter.com/dpontefract/'
+f_website-2: 'http://www.danpontefract.com/'
 layout: '[authors].html'
 tags: authors
 ---

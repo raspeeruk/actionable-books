@@ -1,10 +1,10 @@
 ---
 title: John J. Murphy
-f_original-url: https://www.actionablebooks.com/en-ca/authors/John-J.-Murphy/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/John-J.-Murphy/'
 f_unique-id: '870'
 f_image:
   url: /assets/external/65d77a142544613a36abe6a2_zentrepreneur.jpeg
-  alt: null
+  alt: John J. Murphy
 slug: john-j-murphy
 f_summaries:
   - cms/summaries/zentrepreneur.md

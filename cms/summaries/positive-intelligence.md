@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:34.134Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780ad1c68aa62113b5b00_positive-intelligence.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/positive-intelligence/
+  alt: Positive Intelligence book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/positive-intelligence/'
 f_author-plain-text: Shirzad Chamine
 f_author: cms/authors/shirzad-chamine.md
 f_category-3: cms/summary-categories/self-management.md
@@ -51,7 +51,7 @@ f_big-idea: >-
   Truly “getting” that our saboteurs don’t serve us is hard. They’ve been around
   since we were kids and they have definitely been a big part of shaping who we
   are.
-f_quote-reference: \- Positive Intelligence, page 6
+f_quote-reference: '\- Positive Intelligence, page 6'
 f_insight-2: >-
   ### Build Your PQ (Positive Quotient) Muscle
 
@@ -109,7 +109,7 @@ f_quote-2: >-
   Intelligence is the relative strength of these two modes of your mind.
   Positive Intelligence is therefore an indication of the control you have over
   your own mind and how well your mind acts in your best interest."
-f_amazon-url: https://www.amazon.com/dp/1608322785/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1608322785/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

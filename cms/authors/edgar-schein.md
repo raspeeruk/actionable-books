@@ -1,10 +1,10 @@
 ---
 title: Edgar Schein
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Edgar-Schein/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Edgar-Schein/'
 f_unique-id: '300'
 f_image:
   url: /assets/external/65d779efab79046a980b143e_edgar-schein.jpeg
-  alt: null
+  alt: Edgar Schein
 f_summaries:
   - cms/summaries/humble-inquiry.md
 slug: edgar-schein

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:05.986Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b7c182e2f2aa98a27c_fast-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/fast/
+  alt: FAST book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/fast/'
 f_author-plain-text: Gordon Tredgold
 f_author: cms/authors/gordon-tredgold.md
 f_category-3: cms/summary-categories/leadership.md
@@ -74,7 +74,7 @@ f_big-idea: >-
 
 
   As Leonardo da Vinci said, “Simplicity is the ultimate sophistication.”
-f_quote-reference: \- Alexander the Great, quoted in FAST, page 139
+f_quote-reference: '\- Alexander the Great, quoted in FAST, page 139'
 f_insight-2: >-
   ### Interconnect
 
@@ -170,7 +170,7 @@ f_conclusion: >-
 f_quote-2: >-
   "I am not afraid of an army led by a sheep, but I am afraid of an army of
   sheep led by a lion."
-f_amazon-url: https://www.amazon.com/dp/1681020572/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1681020572/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

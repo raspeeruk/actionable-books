@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:17.137Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808f2ea4a5ee78405532_train-your-brain.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/train-your-brain/
+  alt: Train Your Brain book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/train-your-brain/'
 f_author-plain-text: Dana Wilde
 f_author: cms/authors/dana-wilde.md
 f_category-3: cms/summary-categories/self-management.md
@@ -130,7 +130,7 @@ f_insight-1: >-
   that I didn’t have to believe that – I chose to believe it. Now, I am working
   on re-training my brain in order to have a better marriage!
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1452571589/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1452571589/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

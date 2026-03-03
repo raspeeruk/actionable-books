@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:26.165Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780da0c0a32898af4053a_zen-to-done.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/zen-to-done/
+  alt: Zen to Done book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/zen-to-done/'
 f_author-plain-text: Leo Babauta
 f_author: cms/authors/leo-babauta.md
 f_category-3: cms/summary-categories/self-management.md
@@ -38,7 +38,7 @@ f_big-idea: >-
   for a week to take a baseline measurement. I did this as an exercise and was
   very surprised to find that the amount of time I spent taking action was well
   below what I expected.
-f_quote-reference: \- Martin Luther, quoted in Zen to Done, page 77
+f_quote-reference: '\- Martin Luther, quoted in Zen to Done, page 77'
 f_insight-2: >-
   ### Do the MITs first
 
@@ -117,7 +117,7 @@ f_insight-1: >-
   all only stick with the ones the best serve you and your work.
 f_conclusion: ''
 f_quote-2: '"How soon ''not now'' becomes ''never.''"'
-f_amazon-url: https://www.amazon.com/dp/B001970HQU/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B001970HQU/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

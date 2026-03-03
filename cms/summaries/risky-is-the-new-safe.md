@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:37.953Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803887289c3de69034bf_risky-is-the-new-safe.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/risky-is-the-new-safe/
+  alt: Risky is the New Safe book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/risky-is-the-new-safe/'
 f_author-plain-text: Randy Gage
 f_author: cms/authors/randy-gage.md
 f_category-3: cms/summary-categories/self-management.md
@@ -42,7 +42,7 @@ f_big-idea: >-
   to be done that day and not allow himself/herself to be distracted until these
   tasks have been completed. This is how success is achieved. One step at a
   time. And yes, the only place success comes before work is in the dictionary.
-f_quote-reference: \- Risky is the New Safe, page 9
+f_quote-reference: '\- Risky is the New Safe, page 9'
 f_insight-2: >-
   ### Get Support
 
@@ -121,7 +121,7 @@ f_quote-2: >-
   do. The people who create prosperity in the new economy will be in front of
   the trends, anticipating them instead of naively reacting to what happened
   yesterday."
-f_amazon-url: https://www.amazon.com/dp/111848147X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/111848147X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

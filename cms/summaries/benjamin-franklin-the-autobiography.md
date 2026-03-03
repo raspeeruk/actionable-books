@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:05:48.954Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780bcf232c4ec75c039bc_ben-franklin.jpeg
-  alt: null
+  alt: 'Benjamin Franklin: The Autobiography book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/benjamin-franklin-the-autobiography/
 f_author-plain-text: Benjamin Franklin
@@ -104,7 +104,7 @@ f_conclusion: >-
   on this long, in the popularity it has, is a testament to the public’s respect
   for Franklin’s character and the timelessness of his message. _Benjamin
   Franklin: The Autobiography_ is a classic in every sense of the word.
-f_amazon-url: https://www.amazon.com/dp/1936594099/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1936594099/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

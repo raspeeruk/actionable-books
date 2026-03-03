@@ -1,17 +1,17 @@
 ---
 title: Todd Rose
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Todd-Rose/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Todd-Rose/'
 f_unique-id: '635'
 slug: todd-rose
 f_image:
   url: /assets/external/65d77a5d4390006f85f9544c_todd-rose-180x220.jpeg
-  alt: null
+  alt: Todd Rose
 f_summaries:
   - cms/summaries/the-end-of-average.md
 updated-on: '2024-02-23T13:30:28.627Z'
 created-on: '2024-02-22T16:46:21.964Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://www.toddrose.com
+f_website-2: 'http://www.toddrose.com'
 layout: '[authors].html'
 tags: authors
 ---

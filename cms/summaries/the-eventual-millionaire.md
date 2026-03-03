@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:55.935Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807b4b8c885f258ce10e_eventual-millionaire.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-eventual-millionaire/
+  alt: The Eventual Millionaire book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-eventual-millionaire/'
 f_author-plain-text: Jaime Tardy
 f_author: cms/authors/jaime-tardy.md
 f_category-3: cms/summary-categories/self-management.md
@@ -40,7 +40,7 @@ f_big-idea: >-
   **Numero uno:** **If you want a million bucks, don’t be an ass donkey.** And
   don’t be afraid to ask for help. Patience, vulnerability, and accountability
   are vital to gaining your bootay.
-f_quote-reference: \- The Eventual Millionaire, page 18
+f_quote-reference: '\- The Eventual Millionaire, page 18'
 f_insight-2: >-
   ### Start a Mastermind Group
 
@@ -172,7 +172,7 @@ f_quote-2: >-
   "I needed to be the hero of my own story. If I didn’t lead a life that
   mattered, it was by my own choice, not because of circumstances I couldn’t
   control."
-f_amazon-url: https://www.amazon.com/dp/1118674707/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118674707/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

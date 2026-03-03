@@ -1,10 +1,10 @@
 ---
 title: Mahan Khalsa
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Mahan-Khalsa/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Mahan-Khalsa/'
 f_unique-id: '350'
 f_image:
   url: /assets/external/65d77a26f0f6c18138334c04_khalsa-180x146.jpeg
-  alt: null
+  alt: Mahan Khalsa
 slug: mahan-khalsa
 updated-on: '2024-02-23T13:31:33.066Z'
 created-on: '2024-02-22T16:45:27.079Z'

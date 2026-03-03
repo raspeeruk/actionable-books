@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:23.772Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78081c687d3e7e90f6c88_love-warrior-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/love-warrior/
+  alt: Love Warrior book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/love-warrior/'
 f_author-plain-text: Glennon Doyle Melton
 f_author: cms/authors/glennon-doyle-melton.md
 f_category-3: cms/summary-categories/self-management.md
@@ -35,7 +35,7 @@ f_big-idea: >-
   story or in an attempt to shield the more innocent from pain that is to come,
   but a Warrior would wear the pain, manage the narrative and embrace their
   ever-changing story of life long fulfillment.
-f_quote-reference: \- Love Warrior, page 11
+f_quote-reference: '\- Love Warrior, page 11'
 f_insight-2: >-
   ### Beauty
 
@@ -116,7 +116,7 @@ f_quote-2: >-
   "We know what the world wants from us. We know we must decide whether to stay
   small, quiet and uncomplicated or allow ourselves to grow as big, loud and
   complex as we were made to be."
-f_amazon-url: https://www.amazon.com/dp/1250075734/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1250075734/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

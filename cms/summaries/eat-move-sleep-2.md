@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:03.327Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780bee7814865e3100eb4_e.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/eat-move-sleep-2/
+  alt: Eat Move Sleep book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/eat-move-sleep-2/'
 f_author-plain-text: Tom Rath
 f_author: cms/authors/tom-rath.md
 f_category-3: cms/summary-categories/self-management.md
@@ -68,7 +68,7 @@ f_big-idea: >-
   number may be we must implement behaviors that allow for that consistency in
   reaching that need daily, as even an hour can have a negative impact on our
   overall contribution.
-f_quote-reference: \- Eat Move Sleep, page 7
+f_quote-reference: '\- Eat Move Sleep, page 7'
 f_insight-2: >-
   ### Accountability is key
 
@@ -172,7 +172,7 @@ f_quote-2: >-
   "Researchers have estimated that 90 percent of us could live to age 90 with
   some simple lifestyle choices…. The sum of your habits determine your
   lifespan."
-f_amazon-url: https://www.amazon.com/dp/1939714001/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1939714001/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:49.811Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808efeb4fd439cd75f6c_as_if_principle.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-as-if-principle/
+  alt: The As If Principle book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-as-if-principle/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/04/ActionableBooks-Audio-The-As-If-Principle.mp3
 f_author-plain-text: Dr Richard Wiseman
@@ -50,7 +50,7 @@ f_big-idea: >-
 
   This is **not psychological trickery,** faking it ’til you make it. Acting as
   if we feel an emotion produces physiological changes.
-f_quote-reference: \- The As If Principle, page 11
+f_quote-reference: '\- The As If Principle, page 11'
 f_insight-2: >-
   ### Influencing Others: Start With Their Actions Instead of Their Thinking
 
@@ -137,7 +137,7 @@ f_quote-2: >-
   smile. You feel afraid — You run away. The As If theory suggests that the
   opposite is also true: You smile — You feel happy. You run away — You feel
   afraid."
-f_amazon-url: https://www.amazon.com/dp/1451675054/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1451675054/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

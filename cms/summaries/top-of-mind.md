@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:16.896Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78082d4a4ec8cc91f41c5_top-of-mind-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/top-of-mind/
+  alt: Top of Mind book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/top-of-mind/'
 f_author-plain-text: John Hall
 f_author: cms/authors/john-hall.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -40,7 +40,7 @@ f_big-idea: >-
   resources they could use. The ongoing result of this outreach has been a
   tremendous increase in top of mind opportunities for their company and an army
   of people who are loyal advocates for them.
-f_quote-reference: \- Top of Mind, page 23
+f_quote-reference: '\- Top of Mind, page 23'
 f_insight-2: >-
   ### Create a writing ritual
 
@@ -104,7 +104,7 @@ f_conclusion: >-
 f_quote-2: >-
   "When helping others becomes the framework through which you interact with the
   world, you’ll find yourself at the top of many minds."
-f_amazon-url: https://www.amazon.com/dp/1260011925/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1260011925/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:49.686Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802ec687d3e7e90f4a55_art-of-thinking-clearly.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-art-of-thinking-clearly/
+  alt: The Art of Thinking Clearly book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-art-of-thinking-clearly/'
 f_author-plain-text: Rolf Dobelli
 f_author: cms/authors/rolf-dobelli.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -46,7 +46,7 @@ f_big-idea: >-
   corner office in a Fortune 100 company one day. But realistically, the company
   will hover in the middle of the pack and the graduate will end up in middle
   management. **When you hear hoof beats behind you, don’t expect a Zebra.**
-f_quote-reference: \- The Art of Thinking Clearly, Introduction
+f_quote-reference: '\- The Art of Thinking Clearly, Introduction'
 f_insight-2: >-
   ### Twaddle Tendency
 
@@ -131,7 +131,7 @@ f_quote-2: >-
   our private lives, at work, or in government – we might experience a leap in
   prosperity. We need no extra cunning, no new ideas, no unnecessary gadgets, no
   frantic hyperactivity – all we need is less irrationality."
-f_amazon-url: https://www.amazon.com/dp/0062219685/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062219685/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

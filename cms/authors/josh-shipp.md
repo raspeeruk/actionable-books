@@ -1,11 +1,11 @@
 ---
 title: Josh Shipp
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Josh-Shipp/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Josh-Shipp/'
 f_unique-id: '328'
 slug: josh-shipp
 f_image:
   url: /assets/external/65d77a1ab5306fca6adc2b96_josh-shipp-180x220.jpeg
-  alt: null
+  alt: Josh Shipp
 f_summaries:
   - cms/summaries/jump-ship.md
 updated-on: '2024-02-23T13:31:26.574Z'

@@ -1,18 +1,18 @@
 ---
 title: Richard P. Feynman
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Richard-P.-Feynman/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Richard-P.-Feynman/'
 f_unique-id: '554'
 f_image:
   url: /assets/external/65d77a43a64fc6cf837ff917_feynman.jpeg
-  alt: null
+  alt: Richard P. Feynman
 slug: richard-p-feynman
 f_summaries:
   - cms/summaries/surely-youre-joking-mr-feynman.md
 updated-on: '2024-02-23T13:31:04.840Z'
 created-on: '2024-02-22T16:45:55.862Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/RichardFeynman/
-f_website-2: http://feynman.com
+f_twitter-2: 'http://twitter.com/RichardFeynman/'
+f_website-2: 'http://feynman.com'
 layout: '[authors].html'
 tags: authors
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:58.565Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802fcc81e56affcce144_the-happiness-track-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-happiness-track/
+  alt: The Happiness Track book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-happiness-track/'
 f_author-plain-text: Emma Sepp√§L√§
 f_author: cms/authors/emma-seppsslss.md
 f_category-3: cms/summary-categories/self-management.md
@@ -41,7 +41,7 @@ f_big-idea: >-
 
 
   Does it sound good? Now let’s figure out _how_ to achieve happiness.
-f_quote-reference: \- The Happiness Track, page 4
+f_quote-reference: '\- The Happiness Track, page 4'
 f_insight-2: >-
   ### Six keys to happiness and success
 
@@ -153,7 +153,7 @@ f_conclusion: >-
 f_quote-2: >-
   "…the way we are taught to seek success – and what is culturally supported and
   encouraged – is plain wrong."
-f_amazon-url: https://www.amazon.com/dp/0062344005/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062344005/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d78052c35d7f017ded7863_design-of-every-day-things-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-design-of-everyday-things/
+  alt: The Design of Everyday Things book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-design-of-everyday-things/'
 f_author-plain-text: Don Norman
 f_author: cms/authors/don-norman.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -119,7 +119,7 @@ f_big-idea: >-
   your product simple and under a constraint (often adhering to convention, i.e.
   a door handle for a public restroom as opposed to a knob) will lead to a
   simple solution to allow the consumer to accomplish his or her goal.
-f_quote-reference: \- The Design of Everyday Things, page 3
+f_quote-reference: '\- The Design of Everyday Things, page 3'
 f_insight-2: >-
   ### Eliminate the Potential for Human Error
 
@@ -170,7 +170,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Two of the most important characteristics of good design are discoverability
   and understanding.”
-f_amazon-url: https://www.amazon.com/dp/0465050654/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0465050654/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

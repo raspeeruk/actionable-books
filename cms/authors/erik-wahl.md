@@ -1,16 +1,16 @@
 ---
 title: Erik Wahl
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Erik-Wahl/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Erik-Wahl/'
 f_unique-id: '749'
 slug: erik-wahl
 f_image:
   url: /assets/external/65d779f2c095b71ae59e5f4d_wahl.jpeg
-  alt: null
+  alt: Erik Wahl
 updated-on: '2024-02-23T13:30:44.299Z'
 created-on: '2024-02-22T16:44:34.597Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/ErikWahl/
-f_website-2: http://theartofvision.com/unthink
+f_twitter-2: 'http://twitter.com/ErikWahl/'
+f_website-2: 'http://theartofvision.com/unthink'
 layout: '[authors].html'
 tags: authors
 ---

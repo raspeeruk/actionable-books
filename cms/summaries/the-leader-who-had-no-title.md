@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7808b52fced3f2a0b0c78_the_leader_who_had_no_title_sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-leader-who-had-no-title/
+  alt: The Leader Who Had No Title book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-leader-who-had-no-title/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/03/ActionableBooks-Audio-The-Leader-Who-Had-No-Title.mp3
 f_author-plain-text: Robin Sharma
@@ -106,7 +106,7 @@ f_conclusion: >-
   taking intangible concepts and cementing them in an easily digestible
   narrative. _The Leader Who Had No Title_ is no exception, showcasing what
   could be some of Sharma’s most important teachings to date.
-f_amazon-url: https://www.amazon.com/dp/1439109125/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1439109125/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,10 +1,10 @@
 ---
 title: Pat Flynn
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Pat-Flynn/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Pat-Flynn/'
 f_unique-id: '841'
 f_image:
   url: /assets/external/65d77a3911dff5449b6df53c_pat-flynn-180x191.jpeg
-  alt: null
+  alt: Pat Flynn
 slug: pat-flynn
 f_summaries:
   - cms/summaries/will-it-fly.md

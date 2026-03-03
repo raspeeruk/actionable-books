@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:14.568Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a911e0ad2b62bf29c3_16544648.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/human-sigma/
+  alt: Human Sigma book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/human-sigma/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/05/ActionableBooks-Audio-Human-Sigma.mp3
 f_author-plain-text: Jim Asplund
@@ -38,7 +38,7 @@ f_big-idea: >-
   ranked low on both levels. Furthermore, business units that had high customer
   engagement and low employee engagement (or vice versa) were only 1.7 more
   effective than those that ranked low on both levels.
-f_quote-reference: \- Human Sigma, page 16
+f_quote-reference: '\- Human Sigma, page 16'
 f_insight-2: >-
   ### Think Globally, Measure and Act Locally
 
@@ -99,7 +99,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The interaction between an employee and a customer – what we call the
   employee-customer encounter – is the new factory floor."
-f_amazon-url: https://www.amazon.com/dp/1595620168/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1595620168/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:26.188Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c5be467da9b241257b_zentrepreneur1.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/zentrepreneur/
+  alt: Zentrepreneur book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/zentrepreneur/'
 f_author-plain-text: John J. Murphy
 f_author: cms/authors/john-j-murphy.md
 f_category-3: cms/summary-categories/self-management.md
@@ -45,7 +45,7 @@ f_big-idea: >-
   is holding you back and why? Do you know what ‘mental boxes’ you routinely
   play in? Do you try to ‘shake up’ your thinking periodically? If not, perhaps
   you need to start asking different questions.
-f_quote-reference: \- Zentrepreneur, page 77
+f_quote-reference: '\- Zentrepreneur, page 77'
 f_insight-2: >-
   ### Empty Your Bowl
 
@@ -146,7 +146,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Protecting the status quo does not foster creativity, fearlessness,
   innovation and advancement."
-f_amazon-url: https://www.amazon.com/dp/B00FBEOX8K/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00FBEOX8K/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

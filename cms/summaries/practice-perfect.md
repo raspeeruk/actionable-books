@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:34.501Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78038540dd98b67c36df1_practice_perfect.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/practice-perfect/
+  alt: Practice Perfect book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/practice-perfect/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/ActionableBooks-Audio-Practice-Perfect.mp3
 f_author-plain-text: Doug Lemov
@@ -57,7 +57,7 @@ f_big-idea: >-
   necessary components. **Practice doesn’t have to involve a stopwatch and a
   whistle.** That is the appeal of a broader definition of practice: it can be
   molded to help you improve in a specific area.
-f_quote-reference: \- Practice Perfect, forward
+f_quote-reference: '\- Practice Perfect, forward'
 f_insight-2: >-
   ### Make practice fun
 
@@ -131,7 +131,7 @@ f_quote-2: >-
   "In life, we’ll face [a] choice again and again... will we be content to
   cruise along on autopilot or will we scramble and suffer to get better? Will
   we plod or will we practice?"
-f_amazon-url: https://www.amazon.com/dp/111821658X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/111821658X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

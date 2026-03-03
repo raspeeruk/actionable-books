@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d78078d1a6d45f96b02f11_be-obsessed-or-be-average-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/be-obsessed-or-be-average/
+  alt: Be Obsessed or Be Average book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/be-obsessed-or-be-average/'
 f_author-plain-text: Grant Cardone
 f_author: cms/authors/grant-cardone.md
 f_category-3: cms/summary-categories/self-management.md
@@ -36,7 +36,7 @@ f_big-idea: >-
   we’re not going to achieve our full potential. Cardone says something that
   continues to stick with me and that is, “for me success is defined as the
   attainment of my potential.” That seems like a great thing to strive towards!
-f_quote-reference: \- Be Obsessed or Be Average, page 20
+f_quote-reference: '\- Be Obsessed or Be Average, page 20'
 f_insight-2: >-
   ### Learn to Love Fear
 
@@ -123,7 +123,7 @@ f_conclusion: >-
 f_quote-2: >-
   "To have what you want in life, you must give yourself permission to throw
   yourself all in on your dreams."
-f_amazon-url: https://www.amazon.com/dp/1101981059/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1101981059/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

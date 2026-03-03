@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:38.670Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780250882405b4cf0e8d9_scrum-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/scrum/
+  alt: Scrum book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/scrum/'
 f_author-plain-text: Jeff Sutherland
 f_author: cms/authors/jeff-sutherland.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -80,7 +80,7 @@ f_big-idea: >-
 
   8\. Immediately start the next sprint cycle, taking into account the lessons
   learned.
-f_quote-reference: \- Scrum, page 119
+f_quote-reference: '\- Scrum, page 119'
 f_insight-2: >-
   ### Opportunities and Challenges
 
@@ -227,7 +227,7 @@ f_conclusion: >-
 f_quote-2: >-
   “The key is to refine the plan throughout the project rather than to do it all
   up front.”
-f_amazon-url: https://www.amazon.com/dp/038534645X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/038534645X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

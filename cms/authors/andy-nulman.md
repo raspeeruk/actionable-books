@@ -1,19 +1,19 @@
 ---
 title: Andy Nulman
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Andy-Nulman/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Andy-Nulman/'
 f_unique-id: '458'
 slug: andy-nulman
 f_image:
   url: >-
     /assets/external/65d779af12ad6ca218b87753_andy_nulman_headshot-lg-180x220.jpeg
-  alt: null
+  alt: Andy Nulman
 f_summaries:
   - cms/summaries/pow-profiting-from-the-power-of-surprise.md
 updated-on: '2024-02-23T13:30:48.242Z'
 created-on: '2024-02-22T16:43:27.434Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/andynulman/
-f_website-2: http://powrightbetweentheeyes.typepad.com
+f_twitter-2: 'http://twitter.com/andynulman/'
+f_website-2: 'http://powrightbetweentheeyes.typepad.com'
 layout: '[authors].html'
 tags: authors
 ---

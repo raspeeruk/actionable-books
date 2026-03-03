@@ -1,10 +1,10 @@
 ---
 title: Henry Petroski
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Henry-Petroski/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Henry-Petroski/'
 f_unique-id: '794'
 f_image:
   url: /assets/external/65d779fe2609744d4632166a_henry-petroski-180x220.jpeg
-  alt: null
+  alt: Henry Petroski
 slug: henry-petroski
 f_summaries:
   - cms/summaries/to-engineer-is-human.md

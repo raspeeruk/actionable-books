@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:19.318Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78069f72bdcc46c19a38d_just-listen.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/just-listen/
+  alt: Just Listen book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/just-listen/'
 f_author-plain-text: Mark Goulston
 f_author: cms/authors/mark-goulston.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -36,7 +36,7 @@ f_big-idea: >-
   proactive and strategic approach to communication because you need to move
   them through “The Persuasion Cycle.” This means going from listening to
   considering to willing to do to doing to glad they did it.
-f_quote-reference: \- Just Listen, page 4
+f_quote-reference: '\- Just Listen, page 4'
 f_insight-2: >-
   ### 9 core rules of getting through to anyone
 
@@ -122,7 +122,7 @@ f_quote-2: >-
   "Most people upshift when they want to get through to other people. They
   persuade. They encourage. They argue. They push. And in the process, they
   create resistance."
-f_amazon-url: https://www.amazon.com/dp/0814414036/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0814414036/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

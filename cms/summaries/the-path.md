@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:05.721Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809238e9272e48f4e9ac_thepath_mini-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-path/
+  alt: The Path book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-path/'
 f_author-plain-text: Christine Gross Loh
 f_author: cms/authors/christine-gross-loh.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -34,7 +34,7 @@ f_big-idea: >-
   Do we have free will? What is morality? But here one of the greatest Chinese
   philosophers asks this deceptively fundamental question: How are you living
   your life on a daily basis?
-f_quote-reference: \- The Path, page xiii
+f_quote-reference: '\- The Path, page xiii'
 f_insight-2: >-
   ### Cultivate your Heart-Mind
 
@@ -143,7 +143,7 @@ f_conclusion: >-
   The challenge this book presents is: _Think what your life and business would
   be like if you assumed none of your beliefs were true?_
 f_quote-2: '"You can open yourself to possibilities you never imagined were even possible”'
-f_amazon-url: https://www.amazon.com/dp/1476777845/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1476777845/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

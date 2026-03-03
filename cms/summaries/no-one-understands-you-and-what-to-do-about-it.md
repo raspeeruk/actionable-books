@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:28.790Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b1759822d957045354_no-one-understands-you-94x144.jpeg
-  alt: null
+  alt: No One Understands You and What to Do About It book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/no-one-understands-you-and-what-to-do-about-it/
 f_author-plain-text: Heidi Grant Halvorson
@@ -51,7 +51,7 @@ f_big-idea: >-
   communications and not assuming that others see us the way we wish to be seen.
   And, perhaps the most powerful tool we have for managing bias is understanding
   it.
-f_quote-reference: \- No One Understands You and What to Do About It, page 4
+f_quote-reference: '\- No One Understands You and What to Do About It, page 4'
 f_insight-2: >-
   ### The Trust Lens
 
@@ -140,7 +140,7 @@ f_quote-2: >-
   Human beings have a strong tendency to distort other people’s feedback to fit
   their own views. We know this intellectually, and yet we rarely seem to
   recognize it as it’s happening."
-f_amazon-url: https://www.amazon.com/dp/1625274122/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1625274122/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

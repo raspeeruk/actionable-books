@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:15.201Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806fa6abc3e76db26e29_think-or-sink.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/think-or-sink/
+  alt: Think or Sink book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/think-or-sink/'
 f_author-plain-text: Gina Mollicone Long
 f_author: cms/authors/gina-mollicone-long.md
 f_category-3: cms/summary-categories/self-management.md
@@ -123,7 +123,7 @@ f_conclusion: >-
   who’s read or watched _The Secret_ should make this required reading. For me,
   it cements and grounds the ideas from the hugely successful franchise and
   teaches us how we can actually apply the concepts to our lives.
-f_amazon-url: https://www.amazon.com/dp/0982139217/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0982139217/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

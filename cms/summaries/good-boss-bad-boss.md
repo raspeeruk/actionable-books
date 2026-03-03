@@ -1,14 +1,14 @@
 ---
 f_unique-number: 274
-title: Good Boss, Bad Boss
+title: 'Good Boss, Bad Boss'
 slug: good-boss-bad-boss
 updated-on: '2024-02-27T20:30:38.981Z'
 created-on: '2024-02-22T16:06:10.510Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804f417034580217f4a0_good_boss.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/good-boss-bad-boss/
+  alt: 'Good Boss, Bad Boss book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/good-boss-bad-boss/'
 f_author-plain-text: Robert I. Sutton
 f_author: cms/authors/robert-i-sutton.md
 f_category-3: cms/summary-categories/leadership.md
@@ -49,7 +49,7 @@ f_big-idea: >-
   incompetent people suffer the most inflated assessments of their own abilities
   and performance.” Rather, the most effective and insightful evaluation is the
   judgment of our Performance (by outsiders) and our Humanity (by insiders.)
-f_quote-reference: \- Good Boss, Bad Boss, page 9
+f_quote-reference: '\- Good Boss, Bad Boss, page 9'
 f_insight-2: >-
   ### Squelch Your Inner Bosshole
 
@@ -160,7 +160,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Devoting relentless attention to doing one good thing after another – however
   small – is the only path I know to becoming and remaining a good boss."
-f_amazon-url: https://www.amazon.com/dp/0446556076/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0446556076/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

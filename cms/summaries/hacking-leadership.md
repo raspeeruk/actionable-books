@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:11.865Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807c81456d11fb067dd2_hacking-leadership.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/hacking-leadership/
+  alt: Hacking Leadership book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/hacking-leadership/'
 f_author-plain-text: Mike Myatt
 f_author: cms/authors/mike-myatt.md
 f_category-3: cms/summary-categories/leadership.md
@@ -133,7 +133,7 @@ f_conclusion: >-
   and your leadership style to do better work instead of putting up with stuff,
   punching the clock, getting by or dialing it in. Pick your favorite phrase for
   not doing your best.
-f_amazon-url: https://www.amazon.com/dp/1118817419/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118817419/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

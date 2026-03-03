@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:23.683Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78082c9a8372615bb2291_made-to-stick-book-cover-sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/made-to-stick/
+  alt: Made to Stick book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/made-to-stick/'
 f_author-plain-text: Chip And Dan Heath
 f_author: cms/authors/chip-and-dan-heath.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -138,7 +138,7 @@ f_conclusion: >-
   contemporary examples and tangible applications, _Made to Stick_ contains the
   resources and tools to transform even the most potentially bland idea into one
   that makes an impact.
-f_amazon-url: https://www.amazon.com/dp/1400064287/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1400064287/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

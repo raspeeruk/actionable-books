@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:14.324Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808d2a7f9d2c04d6f521_122668799.jpeg
-  alt: null
+  alt: How to Win Friends and Influence People in the Digital Age book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/how-to-win-friends-and-influence-people-in-the-digital-age/
 f_podcast-url: >-
@@ -136,7 +136,7 @@ f_quote-2: >-
   Dealing with people is probably the biggest problem you face.' This is the
   foundation of How to Win Friends & Influence People and it is still true
   today.
-f_amazon-url: https://www.amazon.com/dp/1451612575/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1451612575/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

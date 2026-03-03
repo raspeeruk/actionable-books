@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:02.129Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78048e88f5f3f6bcbc0a7_marshmallow-test-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-marshmallow-test/
+  alt: The Marshmallow Test book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-marshmallow-test/'
 f_author-plain-text: Walter Mischel
 f_author: cms/authors/walter-mischel.md
 f_category-3: cms/summary-categories/self-management.md
@@ -51,7 +51,7 @@ f_big-idea: >-
   resistance, seemingly doomed by a fate of overindulgence—there is hope. “We do
   not come into this world with a bundle of fixed, stable traits that determine
   who we become.”
-f_quote-reference: \- The Marshmallow Test, page 28
+f_quote-reference: '\- The Marshmallow Test, page 28'
 f_insight-2: >-
   ### Hot and cold
 
@@ -136,7 +136,7 @@ f_quote-2: >-
   "If the conditions that facilitate self-control, and those that undermine it,
   could be identified, perhaps they could be harnessed to teach people who have
   trouble waiting to be better at it."
-f_amazon-url: https://www.amazon.com/dp/0316230863/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0316230863/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

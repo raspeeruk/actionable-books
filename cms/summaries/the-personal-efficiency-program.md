@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d78052e4a0b87bccdf574c_personal-efficiency-program-94x144.jpeg
-  alt: null
+  alt: The Personal Efficiency Program book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-personal-efficiency-program/
 f_author-plain-text: Kerry Gleeson
@@ -50,7 +50,7 @@ f_big-idea: >-
   self-esteem – who knew?\]
 
   9.  Develop decisiveness in decision making.
-f_quote-reference: \- The Personal Efficiency Program, page xvii
+f_quote-reference: '\- The Personal Efficiency Program, page xvii'
 f_insight-2: >-
   ### Help Me – I'm Drowning in Paper!
 
@@ -126,7 +126,7 @@ f_quote-2: >-
   has nothing to do with the amount of information you process or the demands
   placed on you, or even the amount of time you have. Your challenge will be
   overcoming your own tendency to put things off that you don't like to do."
-f_amazon-url: https://www.amazon.com/dp/0470371315/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470371315/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

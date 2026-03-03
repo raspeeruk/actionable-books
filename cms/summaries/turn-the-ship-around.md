@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:18.292Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a4e7814865e30ff950_turn-the-ship-around-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/turn-the-ship-around/
+  alt: Turn the Ship Around! book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/turn-the-ship-around/'
 f_author-plain-text: David Marquet
 f_author: cms/authors/david-marquet.md
 f_category-3: cms/summary-categories/leadership.md
@@ -152,7 +152,7 @@ f_quote-2: >-
   “I imagine a world where we all find satisfaction in our work. It is a world
   where every human being is intellectually engaged, motivated and
   self-inspired.”
-f_amazon-url: https://www.amazon.com/dp/1591846404/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591846404/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,17 +1,17 @@
 ---
 title: Sir Ken Robinson
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Sir-Ken-Robinson/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Sir-Ken-Robinson/'
 f_unique-id: '223'
 slug: sir-ken-robinson
 f_image:
   url: >-
     /assets/external/65d77a50338348c30bd7397d_ken_robinson_headshot-lg1-180x220.jpeg
-  alt: null
+  alt: Sir Ken Robinson
 updated-on: '2024-02-23T13:31:18.729Z'
 created-on: '2024-02-22T16:46:08.704Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://www.facebook.com/pages/Sir-Ken-Robinson/178286785531177
-f_twitter-2: http://twitter.com/sirkenrobinson/
+f_facebook-2: 'http://www.facebook.com/pages/Sir-Ken-Robinson/178286785531177'
+f_twitter-2: 'http://twitter.com/sirkenrobinson/'
 layout: '[authors].html'
 tags: authors
 ---

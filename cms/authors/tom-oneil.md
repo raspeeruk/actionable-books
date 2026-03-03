@@ -1,17 +1,17 @@
 ---
 title: Tom O'Neil
-f_original-url: https://www.actionablebooks.com/en-ca/authors/tom-oneil/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/tom-oneil/'
 f_unique-id: '873'
 slug: tom-oneil
 f_image:
   url: /assets/external/65d77a5e9686175e352a3b23_tom-oneil-180x192.jpeg
-  alt: null
+  alt: Tom O'Neil
 f_summaries:
   - cms/summaries/the-1-principle.md
 updated-on: '2024-02-23T13:31:11.935Z'
 created-on: '2024-02-22T16:46:23.192Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://AchievementExpert.com
+f_website-2: 'http://AchievementExpert.com'
 layout: '[authors].html'
 tags: authors
 ---

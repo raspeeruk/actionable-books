@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:41.401Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780993cf2f7d756cf2c6c_small_giants.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/small-giants/
+  alt: Small Giants book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/small-giants/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/10/ActionableBooks-Audio-Small-Giants.mp3
 f_author-plain-text: Bo Burlingham
@@ -63,7 +63,7 @@ f_big-idea: >-
   genuinely care about the success of the business. The good news is, we can all
   create such environments. It’s not easy, but it is possible. Here are a couple
   tips to get you started.
-f_quote-reference: \- Small Giants, page 96
+f_quote-reference: '\- Small Giants, page 96'
 f_insight-2: >-
   ### What's the Focus?
 
@@ -116,7 +116,7 @@ f_quote-2: >-
   tapes on how to create a motivated workforce, but if you want to see examples
   of businesses that have cracked the code, so to speak, you need look no
   further than the small giants."
-f_amazon-url: https://www.amazon.com/dp/1591841496/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591841496/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

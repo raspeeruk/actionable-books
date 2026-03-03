@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:16.086Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a7a0ece9a8c835638d_to-sell-is-human.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/to-sell-is-human/
+  alt: To Sell Is Human book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/to-sell-is-human/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/12/ActionableBooks-Audio-To-Sell-Is-Human.mp3
 f_author-plain-text: Daniel Pink
@@ -61,7 +61,7 @@ f_big-idea: >-
 
 
   We do that with **the new ABCs of selling**.
-f_quote-reference: \- To Sell is Human, page 232
+f_quote-reference: '\- To Sell is Human, page 232'
 f_insight-2: >-
   ### 6 Successors to the Elevator Pitch
 
@@ -192,7 +192,7 @@ f_quote-2: >-
   2. When your interaction is over, will the world be a better place than when
   you began? If the answer to either of these questions is no, you're doing
   something wrong."
-f_amazon-url: https://www.amazon.com/dp/1594487154/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1594487154/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

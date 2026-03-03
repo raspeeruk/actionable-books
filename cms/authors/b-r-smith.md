@@ -1,18 +1,18 @@
 ---
 title: B.R. Smith
-f_original-url: https://www.actionablebooks.com/en-ca/authors/B.R.-Smith/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/B.R.-Smith/'
 f_unique-id: '137'
 f_image:
   url: /assets/external/65d779b611dff5449b6db172_smith-180x220.jpeg
-  alt: null
+  alt: B.R. Smith
 slug: b-r-smith
 f_summaries:
   - cms/summaries/confessions-of-a-reformed-control-freak.md
 updated-on: '2024-02-23T13:31:28.728Z'
 created-on: '2024-02-22T16:43:34.482Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: https://www.facebook.com/reformedcontrolfreak/
-f_twitter-2: http://twitter.com/briansmithpld/
+f_facebook-2: 'https://www.facebook.com/reformedcontrolfreak/'
+f_twitter-2: 'http://twitter.com/briansmithpld/'
 layout: '[authors].html'
 tags: authors
 ---

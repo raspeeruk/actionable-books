@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:05.789Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78088f0b248a4671a4b4b_the-opposable-mind.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-opposable-mind/
+  alt: The Opposable Mind book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-opposable-mind/'
 f_author-plain-text: Roger Martin
 f_author: cms/authors/roger-martin.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -144,7 +144,7 @@ f_conclusion: >-
   find yourself with an either-or decision to make, take a step back, take a
   breath, and see if you can’t find an “and” that surpasses both. Life’s a
   puzzle. Focus on the big picture.
-f_amazon-url: https://www.amazon.com/dp/1422139778/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1422139778/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:10.082Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780cbc87cb42913ed7ff2_getting-to-yes-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/getting-to-yes-with-yourself/
+  alt: Getting to Yes with Yourself book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/getting-to-yes-with-yourself/'
 f_author-plain-text: Jill Donahue
 f_author: cms/authors/william-ury.md
 f_category-3: cms/summary-categories/self-management.md
@@ -79,7 +79,7 @@ f_big-idea: >-
 
 
   Let’s explore just two of the steps further.
-f_quote-reference: \- Getting to Yes with Yourself, page 169
+f_quote-reference: '\- Getting to Yes with Yourself, page 169'
 f_insight-2: >-
   ### Give and Receive
 
@@ -152,7 +152,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The better we are able to get to yes with ourselves, the better we will be
   able to get to yes with others."
-f_amazon-url: https://www.amazon.com/dp/B00OP1FIUM/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00OP1FIUM/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

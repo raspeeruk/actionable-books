@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:24.519Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803ff5fb999468482bdc_making_ideas_happy-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/making-ideas-happen/
+  alt: Making Ideas Happen book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/making-ideas-happen/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/04/ActionableBooks-Audio-Making-Ideas-Happen.mp3
 f_author-plain-text: Scott Belsky
@@ -62,7 +62,7 @@ f_big-idea: >-
 
   So how does it work? The following two Insights encompass the foundation of
   The Action Method.
-f_quote-reference: \- Making Ideas Happen, Inside Flap
+f_quote-reference: '\- Making Ideas Happen, Inside Flap'
 f_insight-2: >-
   ### Action Steps, References and Backburner Items
 
@@ -198,7 +198,7 @@ f_insight-1: >-
   the available time and energy we have available to work on other projects.
 f_conclusion: ''
 f_quote-2: '"Ideas are worthless if you can’t make them happen."'
-f_amazon-url: https://www.amazon.com/dp/159184312X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/159184312X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

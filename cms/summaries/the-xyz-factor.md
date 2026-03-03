@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:14.477Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780be1ee6bba16c5276eb_xyz_factor-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-xyz-factor/
+  alt: The XYZ Factor book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-xyz-factor/'
 f_author-plain-text: Alyssa Ruderman
 f_author: cms/authors/alyssa-ruderman.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
@@ -64,7 +64,7 @@ f_big-idea: >-
   better or worse. Overlap that with technology, and you’ll see the important
   role of transparency in the office. Open calendars, Google Docs and so on
   represent the new way of office collaboration.
-f_quote-reference: \- The XYZ Factor, page xi
+f_quote-reference: '\- The XYZ Factor, page xi'
 f_insight-2: >-
   ### Data is absolutely necessary
 
@@ -123,7 +123,7 @@ f_quote-2: >-
   "XYZ isn’t a place or company or an age. It’s a mind-set - a new kind of
   culture where innovation, accessibility, and transparency are the norm. It’s
   an environment created by behaviors and values."
-f_amazon-url: https://www.amazon.com/dp/1941631630/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1941631630/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

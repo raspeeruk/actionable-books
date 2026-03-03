@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:57.426Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780661a3802ce7ed1d844_the-fringe-hours-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-fringe-hours/
+  alt: The Fringe Hours book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-fringe-hours/'
 f_author-plain-text: Jessica N. Turner
 f_author: cms/authors/jessica-n-turner.md
 f_category-3: cms/summary-categories/self-management.md
@@ -55,7 +55,7 @@ f_big-idea: >-
   see where it’s going. You also look for small pockets of time that might be
   going unused. Like time waiting for your kids at sports practice, time when
   you’re commuting, or before or after bed.
-f_quote-reference: \- The Fringe Hours, page 14
+f_quote-reference: '\- The Fringe Hours, page 14'
 f_insight-2: >-
   ### Prioritize What Really Matters
 
@@ -121,7 +121,7 @@ f_conclusion: ''
 f_quote-2: >-
   "I’m here to tell you that you not only can but must make time to do things
   that matter to you, no matter how busy life gets."
-f_amazon-url: https://www.amazon.com/dp/0800723481/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0800723481/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

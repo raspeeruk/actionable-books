@@ -1,10 +1,10 @@
 ---
 title: Dr. David Schwartz
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Dr.-David-Schwartz/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Dr.-David-Schwartz/'
 f_unique-id: '677'
 f_image:
   url: /assets/external/65d779ed10a8ac8c54b808df_david-schwartz-180x198.jpeg
-  alt: null
+  alt: Dr. David Schwartz
 slug: dr-david-schwartz
 f_summaries:
   - cms/summaries/the-magic-of-thinking-big.md

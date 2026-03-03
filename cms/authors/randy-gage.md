@@ -1,16 +1,16 @@
 ---
 title: Randy Gage
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Randy-Gage/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Randy-Gage/'
 f_unique-id: '365'
 f_image:
   url: /assets/external/65d77a416f9979aa941f70f4_randy-gage.jpeg
-  alt: null
+  alt: Randy Gage
 slug: randy-gage
 updated-on: '2024-02-23T13:30:31.291Z'
 created-on: '2024-02-22T16:45:53.698Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/randy_gage/
-f_website-2: http://www.randygage.com/
+f_twitter-2: 'http://twitter.com/randy_gage/'
+f_website-2: 'http://www.randygage.com/'
 layout: '[authors].html'
 tags: authors
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:57.306Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802bf916ebdfffffb1d4_crush-it.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/crush-it-2/
+  alt: Crush It book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/crush-it-2/'
 f_author-plain-text: Gary Vaynerchuk
 f_author: cms/authors/gary-vaynerchuk.md
 f_category-3: cms/summary-categories/self-management.md
@@ -45,7 +45,7 @@ f_big-idea: >-
 
   Passion and productivity are just the starting point. Vaynerchuk’s recipe for
   success has additional elements as well.
-f_quote-reference: \- Crush It!, page 2
+f_quote-reference: '\- Crush It!, page 2'
 f_insight-2: >-
   ### Meaningful relationships will become your legacy
 
@@ -105,7 +105,7 @@ f_conclusion: >-
 f_quote-2: >-
   “My secret is that I live by three pretty simple rules: Love your family. Work
   super hard. Live your passion.”
-f_amazon-url: https://www.amazon.com/dp/0061914177/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0061914177/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

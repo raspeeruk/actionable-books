@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:31.319Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780724df109592f03d15e_patients-come-second-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/patients-come-second/
+  alt: Patients Come Second book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/patients-come-second/'
 f_author-plain-text: Britt Berrett
 f_author: cms/authors/britt-berrett.md
 f_category-3: cms/summary-categories/leadership.md
@@ -52,7 +52,7 @@ f_big-idea: >-
   proverb speaks to choosing a mentor, “Whoever walks with the wise becomes
   wise.” There is something to be treasured with wisdom and experience.
   Unfortunately these items sometimes are undervalued.
-f_quote-reference: \- Patients Come Second, page 185
+f_quote-reference: '\- Patients Come Second, page 185'
 f_insight-2: >-
   ### Collaboration is Essential
 
@@ -105,7 +105,7 @@ f_quote-2: >-
   “You choose the [healthcare] field only if helping people fits into your
   personal purpose, if you feel that giving back shapes your legacy and what you
   leave behind.”
-f_amazon-url: https://www.amazon.com/dp/0988842807/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0988842807/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

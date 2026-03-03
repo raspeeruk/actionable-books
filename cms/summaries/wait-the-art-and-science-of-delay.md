@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:07:20.485Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c2e79b884267bd48b6_9781610392471_p0_v2_s260x420.jpeg
-  alt: null
+  alt: 'Wait: The Art and Science of Delay book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/wait-the-art-and-science-of-delay/
 f_author-plain-text: Frank Partnoy
@@ -40,7 +40,7 @@ f_big-idea: >-
   Every decision expands our mastery, but we’ll never completely master
   everything, even within our own domain. Beware of intuiting answers **like a
   master in situations which render you a novice.**
-f_quote-reference: \- Wait, page xi
+f_quote-reference: '\- Wait, page xi'
 f_insight-2: >-
   ### Live and Work on Event Time, Not Clock Time
 
@@ -129,7 +129,7 @@ f_conclusion: ''
 f_quote-2: >-
   "The essence of my case is this: given the fast pace of our modern life, most
   of us tend to react too quickly."
-f_amazon-url: https://www.amazon.com/dp/B00B9ZBSPQ/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00B9ZBSPQ/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

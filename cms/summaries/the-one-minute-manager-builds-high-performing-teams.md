@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7802ad05b1686bfb9abd2_one-minute-manager-builds-high-performing-teams-94x144.jpeg
-  alt: null
+  alt: The One Minute Manager Builds High Performing Teams book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-one-minute-manager-builds-high-performing-teams/
 f_author-plain-text: Donald Carew
@@ -187,7 +187,7 @@ f_insight-1: >-
   the authors. ‘A high performing team is more creative and better at problem
   solving than any individual functioning alone.’
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0061741205/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0061741205/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

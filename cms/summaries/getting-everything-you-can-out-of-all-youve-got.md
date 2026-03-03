@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:09.614Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78047be467da9b240d17d_195978861.jpeg
-  alt: null
+  alt: Getting Everything You Can Out Of All You’ve Got book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/getting-everything-you-can-out-of-all-youve-got/
 f_podcast-url: >-
@@ -58,7 +58,7 @@ f_big-idea: >-
   purchasers and probable purchasers view you as a commodity or protector?
   Marketing is really about communicating the message that you serve **clients**
   and not **customers**. Think of your clients as dear, valued friends.
-f_quote-reference: \- Getting Everything You Can Out of All You’ve Got, page 4
+f_quote-reference: '\- Getting Everything You Can Out of All You’ve Got, page 4'
 f_insight-2: >-
   ### Multiply Your Maxim
 
@@ -145,7 +145,7 @@ f_quote-2: >-
   "Much of this book is focused on how you can improve your business life and
   career. But the strategies also work in virtually any aspect of life where you
   need to persuade others to accept your position or ideas."
-f_amazon-url: https://www.amazon.com/dp/0312284543/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0312284543/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

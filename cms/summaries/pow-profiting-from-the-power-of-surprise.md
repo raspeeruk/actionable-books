@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:34.405Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805396d29f515b362410_pow-book-cover-sm.jpeg
-  alt: null
+  alt: POW! Profiting from the Power of Surprise book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/pow-profiting-from-the-power-of-surprise/
 f_podcast-url: >-
@@ -115,7 +115,7 @@ f_conclusion: >-
   pop-culture examples as well as examples from his own experience, he takes us
   step-by-step through Surprise and using its elements to its most effective
   implementation.
-f_amazon-url: https://www.amazon.com/dp/0470405503/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470405503/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

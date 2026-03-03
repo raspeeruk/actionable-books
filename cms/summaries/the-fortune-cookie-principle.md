@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:56.863Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78093345fe67ffc98d0b3_fortune_cookie.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-fortune-cookie-principle/
+  alt: The Fortune Cookie Principle book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-fortune-cookie-principle/'
 f_author-plain-text: Bernadette Jiwa
 f_author: cms/authors/bernadette-jiwa.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -37,7 +37,7 @@ f_big-idea: >-
 
   The same way we do not buy fortune cookies because they taste better than
   other cookies, but because of the delight they deliver at the end of a meal.
-f_quote-reference: \- Fortune Cookie Principle, page 5
+f_quote-reference: '\- Fortune Cookie Principle, page 5'
 f_insight-2: >-
   ### The 20 key brand building framework
 
@@ -179,7 +179,7 @@ f_quote-2: >-
   value. Then there’s the fortune, the magical, intangible part of the product
   or service, which is where the real value lies in the heart and minds of the
   customer."
-f_amazon-url: https://www.amazon.com/dp/1489583947/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1489583947/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

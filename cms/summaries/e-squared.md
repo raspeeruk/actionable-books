@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:03.070Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78085f232c4ec75c02123_e2.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/e-squared/
+  alt: E-Squared book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/e-squared/'
 f_author-plain-text: Pam Grout
 f_author: cms/authors/pam-grout.md
 f_category-3: cms/summary-categories/self-management.md
@@ -122,7 +122,7 @@ f_conclusion: >-
 f_quote-2: >-
   "If we worked on the assumption that what is accepted as true really is true,
   then there would be little hope for advance."
-f_amazon-url: https://www.amazon.com/dp/1401938906/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1401938906/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:12.400Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78068ee157554c65bc0a6_the-tools.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-tools/
+  alt: The Tools book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-tools/'
 f_author-plain-text: Barry Michels
 f_author: cms/authors/barry-michels.md
 f_category-3: cms/summary-categories/self-management.md
@@ -62,7 +62,7 @@ f_big-idea: >-
   Where consumerism is often about quick, convenient, and being in control,
   being a creator is about intentionality, thoughtfulness, and being open to
   what comes.
-f_quote-reference: \- The Tools, page 235
+f_quote-reference: '\- The Tools, page 235'
 f_insight-2: >-
   ### The Price of Negativity: The Black Cloud
 
@@ -159,7 +159,7 @@ f_quote-2: >-
   What if every bad thing that’s ever happened to you–including every problem
   you’ve ever had–was there, in your life, to get you in touch with abilities
   you never knew you had?
-f_amazon-url: https://www.amazon.com/dp/0812983041/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0812983041/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

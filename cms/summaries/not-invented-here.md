@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:28.857Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c0cc2cced2a36e9910_not-invented-here-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/not-invented-here/
+  alt: Not Invented Here book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/not-invented-here/'
 f_author-plain-text: Marc Heleven
 f_author: cms/authors/marc-heleven.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -65,7 +65,7 @@ f_big-idea: >-
   results, remember that Owen Maclaren—a retired aeronautical engineer and test
   pilot who worked on the Spitfire—developed the first foldable lightweight baby
   buggy using the concept of an airplane’s retractable landing gear.
-f_quote-reference: \- Not Invented Here, page 12
+f_quote-reference: '\- Not Invented Here, page 12'
 f_insight-2: >-
   ### The Art of Questioning
 
@@ -164,7 +164,7 @@ f_quote-2: >-
   "What can a hospital learn from a hotel? What can a car manufacturer learn
   from the video game industry? What can a chemical company learn from a
   festival organizer?"
-f_amazon-url: https://www.amazon.com/dp/9063693796/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/9063693796/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

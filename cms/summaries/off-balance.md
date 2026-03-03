@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:29.189Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d8cc81e56affcd3d45_1188922481-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/off-balance/
+  alt: Off Balance book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/off-balance/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/01/ActionableBooks-Audio-Off-Balance.mp3
 f_author-plain-text: Matthew Kelly
@@ -43,7 +43,7 @@ f_big-idea: >-
   the things we **do** want. And filling our life with the things that we do
   want can only bring more personal and professional satisfaction in to our
   lives.
-f_quote-reference: \- Off Balance, Introduction
+f_quote-reference: '\- Off Balance, Introduction'
 f_insight-2: >-
   ### What's Bothering You?
 
@@ -120,7 +120,7 @@ f_conclusion: >-
 f_quote-2: >-
   "People want to live deeply satisfying lives both professionally and
   personally."
-f_amazon-url: https://www.amazon.com/dp/B0052RDIXW/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B0052RDIXW/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

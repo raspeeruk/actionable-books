@@ -1,18 +1,18 @@
 ---
 title: Shannon M. Tobin
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Shannon-M.-Tobin/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Shannon-M.-Tobin/'
 f_unique-id: '803'
 slug: shannon-m-tobin
 f_image:
   url: /assets/external/65d77a4fe303a77ff77bc0e1_shannon-tobin-180x220.jpeg
-  alt: null
+  alt: Shannon M. Tobin
 f_summaries:
   - cms/summaries/transformation.md
 updated-on: '2024-02-23T13:30:46.536Z'
 created-on: '2024-02-22T16:46:07.330Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/shannonmtobin/
-f_website-2: http://shannonmtobin.com/
+f_twitter-2: 'http://twitter.com/shannonmtobin/'
+f_website-2: 'http://shannonmtobin.com/'
 layout: '[authors].html'
 tags: authors
 ---

@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7804165dcec8f6914c5f6_the-leadership-playbook-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-leadership-playbook/
+  alt: The Leadership Playbook book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-leadership-playbook/'
 f_author-plain-text: Nathan Jamail
 f_author: cms/authors/nathan-jamail.md
 f_category-3: cms/summary-categories/leadership.md
@@ -60,7 +60,7 @@ f_big-idea: >-
   performers. This coaching technique requires special leadership and people
   skills. Anyone can learn to combat a team’s ineffectiveness, it only takes
   diligent study and experience in the essential principles of coaching.
-f_quote-reference: \- The Leadership Playbook, page 6
+f_quote-reference: '\- The Leadership Playbook, page 6'
 f_insight-2: >-
   ### If you ain’t first, you’re last
 
@@ -138,7 +138,7 @@ f_conclusion: >-
 f_quote-2: >-
   "I use sports analogies because I run my businesses like wining sports teams
   in which skill development and effective coaching makes the team better."
-f_amazon-url: https://www.amazon.com/dp/159240866/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/159240866/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

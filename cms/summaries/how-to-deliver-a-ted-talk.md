@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:13.173Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c5759822d957045b41_how-to-deliver-a-ted-talk.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/how-to-deliver-a-ted-talk/
+  alt: How to Deliver a TED Talk book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/how-to-deliver-a-ted-talk/'
 f_author-plain-text: Jeremey Donovan
 f_author: cms/authors/jeremey-donovan.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -85,7 +85,7 @@ f_conclusion: >-
   Directors or for that upcoming wedding you’ve been asked to emcee. Whether
   aspiring to be the next TED Talk viral sensation or not, this book should be a
   tucked away in the office of anyone who does any speaking in public.
-f_amazon-url: https://www.amazon.com/dp/B00EHIELXS/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00EHIELXS/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

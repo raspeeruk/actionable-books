@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:05.642Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802da8157b6a52467d35_extreme_productivity.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/extreme-productivity/
+  alt: Extreme Productivity book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/extreme-productivity/'
 f_author-plain-text: Robert Pozen
 f_author: cms/authors/robert-pozen.md
 f_category-3: cms/summary-categories/self-management.md
@@ -36,7 +36,7 @@ f_big-idea: >-
   3\. Don’t sweat the small stuff. In other words, spend your time on what is
   most important to you and find ways to simplify and spend as little time as
   possible on lower-priority items.
-f_quote-reference: \- Extreme Productivity, page XII
+f_quote-reference: '\- Extreme Productivity, page XII'
 f_insight-2: >-
   ### The Magic of Routine
 
@@ -162,7 +162,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Success depends a large part on a proper mind-set: focusing on the results
   you plan to achieve, rather than the number of hours you work."
-f_amazon-url: https://www.amazon.com/dp/0062188534/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062188534/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

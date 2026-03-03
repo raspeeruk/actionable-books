@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:32.835Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803fa1ca3470eb5a6731_personality-poker.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/personality-poker/
+  alt: Personality Poker book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/personality-poker/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2010/11/Personality-Poker.mp3
 f_author-plain-text: Stephen M. Shapiro
@@ -49,7 +49,7 @@ f_big-idea: >-
   Poker_ teaches you how to do just that, using the card game as a great jumping
   off point for conversation and innovation thinking. The following Insights are
   a couple points from the book to get you thinking.
-f_quote-reference: \- Personality Poker, page 182
+f_quote-reference: '\- Personality Poker, page 182'
 f_insight-2: >-
   ### What’s the environment?
 
@@ -149,7 +149,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Innovations typically fail, not because of technical challenges, but rather
   due to resistance within and outside of the organization."
-f_amazon-url: https://www.amazon.com/dp/159184360X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/159184360X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

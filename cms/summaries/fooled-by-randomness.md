@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:08.568Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78068fdcd722e457fee32_fooled-by-randomness-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/fooled-by-randomness/
+  alt: Fooled by Randomness book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/fooled-by-randomness/'
 f_author-plain-text: Nassim Nicholas Taleb
 f_author: cms/authors/nassim-nicholas-taleb.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -49,7 +49,7 @@ f_big-idea: >-
   It is important to check facts and conclusions when we analyze data as there
   are many ways to get it wrong. How do we become more aware of relevant
   probability? Read on to the Insights.
-f_quote-reference: \- Fooled by Randomness, page 262
+f_quote-reference: '\- Fooled by Randomness, page 262'
 f_insight-2: >-
   ### Ignore the Noise
 
@@ -126,7 +126,7 @@ f_quote-2: >-
   "We favor the visible, the embedded, the personal, the narrated, and the
   tangible; we scorn the abstract. Everything good (aesthetics, ethics) and
   wrong (Fooled by Randomness) seems to flow from it."
-f_amazon-url: https://www.amazon.com/dp/0812975219/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0812975219/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

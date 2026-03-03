@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:18.252Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78050cc2cced2a36e5b6b_jack-straight-from-the-gut-sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/jack-straight-from-the-gut/
+  alt: 'Jack: Straight from the Gut book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/jack-straight-from-the-gut/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/05/ActionableBooks-Audio-Jack-Straight-from-the-Gut.mp3
 f_author-plain-text: Jack Welch
@@ -96,7 +96,7 @@ f_conclusion: >-
   “CEO material” on paper, but then again he may have redefined what “CEO
   Material” is. More than anything, he’s comfortable being himself. We should
   all take a page from Jack’s book. Life’s too short to live it any other way.
-f_amazon-url: https://www.amazon.com/dp/0446690686/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0446690686/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

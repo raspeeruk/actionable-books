@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7806a237ef95a3c755794_perpetual-motivation-book-cover-sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/perpetual-motivation/
+  alt: Perpetual Motivation book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/perpetual-motivation/'
 f_author-plain-text: Dave Durand
 f_author: cms/authors/dave-durand.md
 f_category-3: cms/summary-categories/leadership.md
@@ -19,7 +19,7 @@ f_quote-reference: ''
 f_insight-2: ''
 f_insight-1: ''
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0824525922/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0824525922/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

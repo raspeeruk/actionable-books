@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:35.262Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780681d0bd5de4091eacf_priceless.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/priceless/
+  alt: Priceless book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/priceless/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/09/ActionableBooks-Audio-Priceless.mp3
 f_author-plain-text: William Poundstone
@@ -54,7 +54,7 @@ f_big-idea: >-
   Fortunately, our ability to compare can help us significantly, if we **know
   what to compare.** Let’s take two examples: anchoring, and marketing in
   thirds.
-f_quote-reference: \- Priceless, page 7
+f_quote-reference: '\- Priceless, page 7'
 f_insight-2: >-
   ### Marketing In Thirds
 
@@ -167,7 +167,7 @@ f_conclusion: ''
 f_quote-2: >-
   "The same psychological tricks apply whether you're setting a price for text
   messages or toilet paper or airline tickets."
-f_amazon-url: https://www.amazon.com/dp/0809078813/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0809078813/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

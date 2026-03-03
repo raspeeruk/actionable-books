@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:07.762Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780745e2fee3da799cb91_fix-94x144.jpeg
-  alt: null
+  alt: 'Fix: Break the Addiction that’s Killing Brands book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/fix-break-the-addiction-thats-killing-brands/
 f_author-plain-text: Chris Kneeland
@@ -44,7 +44,7 @@ f_big-idea: >-
   They should listen, celebrate their fans, and give their fans ownership of the
   brand. And brands should be **pervasive**. They should be everywhere consumers
   want them and do more than their competitors.
-f_quote-reference: \- Fix, page 127
+f_quote-reference: '\- Fix, page 127'
 f_insight-2: >-
   ### Inspire from the inside out
 
@@ -129,7 +129,7 @@ f_quote-2: >-
   "Cult brand leaders…refuse to settle for good enough and, more importantly,
   their biggest professional desire isn’t to get people to buy, but to buy into
   their cause."
-f_amazon-url: https://www.amazon.com/dp/0994043104/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0994043104/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

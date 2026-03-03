@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:31.943Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78081b3b818ca436c689d_penguins-cant-fly-94x118.jpeg
-  alt: null
+  alt: 'Penguins Can’t Fly: +39 Other Rules that Don’t Exist book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/penguins-cant-fly-39-other-rules-that-dont-exist/
 f_author-plain-text: Jason Kotecki
@@ -49,7 +49,7 @@ f_big-idea: >-
   when I thought it should be zero fun, all structure.) I’ll be exploring these
   and other questions, with a focus on curious and childlike answers, in the
   coming months.
-f_quote-reference: \- Penguins Can’t Fly, page 200
+f_quote-reference: '\- Penguins Can’t Fly, page 200'
 f_insight-2: >-
   ### Nothing to fear but fear itself
 
@@ -126,7 +126,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The purpose of this book isn’t to tell you how to live your life. It’s to
   make you more mindful of the choices you make and the story you’re living."
-f_amazon-url: https://www.amazon.com/dp/1250067103/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1250067103/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

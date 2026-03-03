@@ -1,17 +1,17 @@
 ---
 title: Don Norman
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Don-Norman/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Don-Norman/'
 f_unique-id: '629'
 slug: don-norman
 f_image:
   url: /assets/external/65d779eab5b23a5b38f8f47f_don_norman-180x220.jpeg
-  alt: null
+  alt: Don Norman
 f_summaries:
   - cms/summaries/the-design-of-everyday-things.md
 updated-on: '2024-02-23T13:30:34.440Z'
 created-on: '2024-02-22T16:44:26.513Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://www.jnd.org/
+f_website-2: 'http://www.jnd.org/'
 layout: '[authors].html'
 tags: authors
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:15.524Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804033ad93c5dc4160ff_i-know-how-she-does-it-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/i-know-how-she-does-it/
+  alt: I Know How She Does It book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/i-know-how-she-does-it/'
 f_author-plain-text: Laura Vanderkam
 f_author: cms/authors/laura-vanderkam.md
 f_category-3: cms/summary-categories/self-management.md
@@ -36,7 +36,7 @@ f_big-idea: >-
   matter how much time you actually have, you can make more empowered decisions
   about how to use your time. I would also add that this knowledge can help you
   change your personal narrative about your time.
-f_quote-reference: \- I Know How She Does It, page 2
+f_quote-reference: '\- I Know How She Does It, page 2'
 f_insight-2: >-
   ### Self-Care is the Secret Ingredient
 
@@ -102,7 +102,7 @@ f_quote-2: >-
   I mean investing as much as you wish in everything that matters: work, family,
   community, leisure. It is about celebrating abundance rather than lamenting
   choices or claiming that no one can have it all."
-f_amazon-url: https://www.amazon.com/dp/159184732X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/159184732X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

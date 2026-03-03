@@ -1,18 +1,18 @@
 ---
 title: Bob Sullivan
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Bob-Sullivan/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Bob-Sullivan/'
 f_unique-id: '709'
 f_image:
   url: /assets/external/65d779bf0c4923752829db02_bob-sullivan.jpeg
-  alt: null
+  alt: Bob Sullivan
 slug: bob-sullivan
 f_summaries:
   - cms/summaries/the-plateau-effect.md
 updated-on: '2024-02-23T13:31:08.662Z'
 created-on: '2024-02-22T16:43:43.804Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/RedTapeChron/
-f_website-2: http://bobsullivan.net/
+f_twitter-2: 'http://twitter.com/RedTapeChron/'
+f_website-2: 'http://bobsullivan.net/'
 layout: '[authors].html'
 tags: authors
 ---

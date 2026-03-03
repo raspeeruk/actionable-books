@@ -1,18 +1,18 @@
 ---
 title: Lisa Gansky
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Lisa-Gansky/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Lisa-Gansky/'
 f_unique-id: '682'
 slug: lisa-gansky
 f_image:
   url: /assets/external/65d77a25f784f4859409cff7_lisa_gansky.jpeg
-  alt: null
+  alt: Lisa Gansky
 f_summaries:
   - cms/summaries/the-mesh.md
 updated-on: '2024-02-23T13:31:16.827Z'
 created-on: '2024-02-22T16:45:25.919Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://www.facebook.com/pages/The-Mesh-Directory/139581839396226
-f_twitter-2: http://twitter.com/instigating/
+f_facebook-2: 'http://www.facebook.com/pages/The-Mesh-Directory/139581839396226'
+f_twitter-2: 'http://twitter.com/instigating/'
 layout: '[authors].html'
 tags: authors
 ---

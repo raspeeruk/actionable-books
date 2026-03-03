@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:12.021Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c4e7814865e3101280_hannibal-and-me.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/hannibal-and-me/
+  alt: Hannibal and Me book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/hannibal-and-me/'
 f_author-plain-text: Andreas Kluth
 f_author: cms/authors/andreas-kluth.md
 f_category-3: cms/summary-categories/leadership.md
@@ -46,7 +46,7 @@ f_big-idea: >-
   our transportation systems on Roman ideas. The author explains that victories
   should be employed as tools rather than as goals in order to avoid having your
   successes become impostors.
-f_quote-reference: \- Hannibal and Me, page 17
+f_quote-reference: '\- Hannibal and Me, page 17'
 f_insight-2: >-
   ### Don't be a victim of your own success
 
@@ -136,7 +136,7 @@ f_insight-1: >-
   about show, it is about acting in a way that moves you towards your goal.
 f_conclusion: ''
 f_quote-2: '"The greater a man''s successes, the less it must be trusted to endure."'
-f_amazon-url: https://www.amazon.com/dp/B00CVE14SA/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00CVE14SA/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:58.349Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780caf0b248a4671a6763_the-happiness-of-pursuit.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-happiness-of-pursuit/
+  alt: The Happiness of Pursuit book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-happiness-of-pursuit/'
 f_author-plain-text: Chris Guillebeau
 f_author: cms/authors/chris-guillebeau.md
 f_category-3: cms/summary-categories/self-management.md
@@ -38,7 +38,7 @@ f_big-idea: >-
   appreciated most about his observations about them and other questers is this
   – “Effort can be its own reward if you let it.” In our overly stimulated, over
   complicated lives, it’s comforting to think that just effort can be enough.
-f_quote-reference: \- Bob Dylan, as quoted in The Happiness of Pursuit, page 47
+f_quote-reference: '\- Bob Dylan, as quoted in The Happiness of Pursuit, page 47'
 f_insight-2: >-
   ### When It’s Over, There’s Still More
 
@@ -102,7 +102,7 @@ f_conclusion: ''
 f_quote-2: >-
   "There is a lot of distraction for people, so you might not ever find the real
   you."
-f_amazon-url: https://www.amazon.com/dp/B00J1IQW6I/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00J1IQW6I/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

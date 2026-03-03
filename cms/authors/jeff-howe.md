@@ -1,10 +1,10 @@
 ---
 title: Jeff Howe
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Jeff-Howe/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Jeff-Howe/'
 f_unique-id: '834'
 f_image:
   url: /assets/external/65d77a0a806eaeecba7c3108_jeff-howe-180x166.jpeg
-  alt: null
+  alt: Jeff Howe
 slug: jeff-howe
 f_summaries:
   - cms/summaries/whiplash.md

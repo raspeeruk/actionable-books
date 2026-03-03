@@ -1,10 +1,10 @@
 ---
 title: Eldar Shafir
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Eldar-Shafir/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Eldar-Shafir/'
 f_unique-id: '505'
 f_image:
   url: /assets/external/65d779f0177fb5ac60883aba_eldar-shafir.jpeg
-  alt: null
+  alt: Eldar Shafir
 slug: eldar-shafir
 f_summaries:
   - cms/summaries/scarcity.md

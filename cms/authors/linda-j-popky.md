@@ -1,18 +1,18 @@
 ---
 title: Linda J. Popky
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Linda-J.-Popky/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Linda-J.-Popky/'
 f_unique-id: '379'
 slug: linda-j-popky
 f_image:
   url: /assets/external/65d779a49c49c73f41478f48_author-large.png
-  alt: null
+  alt: Linda J. Popky
 f_summaries:
   - cms/summaries/marketing-above-the-noise.md
 updated-on: '2024-02-23T13:30:52.643Z'
 created-on: '2024-02-22T16:45:24.742Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/popky/
-f_website-2: http://Leverage2Market.com
+f_twitter-2: 'http://twitter.com/popky/'
+f_website-2: 'http://Leverage2Market.com'
 layout: '[authors].html'
 tags: authors
 ---

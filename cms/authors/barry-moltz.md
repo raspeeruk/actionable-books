@@ -1,18 +1,18 @@
 ---
 title: Barry Moltz
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Barry-Moltz/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Barry-Moltz/'
 f_unique-id: '67'
 slug: barry-moltz
 f_image:
   url: /assets/external/65d779b88a94f91b2985846d_barry-moltz-lg-180x187.jpeg
-  alt: null
+  alt: Barry Moltz
 f_summaries:
   - cms/summaries/b-a-m.md
 updated-on: '2024-02-23T13:31:30.594Z'
 created-on: '2024-02-22T16:43:36.869Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://www.facebook.com/barrymoltz
-f_twitter-2: http://twitter.com/barrymoltz/
+f_facebook-2: 'http://www.facebook.com/barrymoltz'
+f_twitter-2: 'http://twitter.com/barrymoltz/'
 layout: '[authors].html'
 tags: authors
 ---

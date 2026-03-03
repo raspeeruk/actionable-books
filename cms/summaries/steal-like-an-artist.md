@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:42.984Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78063ac76a184445c77ba_steal-like-an-artist.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/steal-like-an-artist/
+  alt: Steal Like An Artist book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/steal-like-an-artist/'
 f_author-plain-text: Austin Kleon
 f_author: cms/authors/austin-kleon.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -100,7 +100,7 @@ f_conclusion: >-
   immediately associate the word with an illegal, deviant form of behavior. But,
   I think Mr. Kleon is on to something. So, I for one, will embrace this kind of
   thievery and will share the results of my loot with whomever is interested.
-f_amazon-url: https://www.amazon.com/dp/0761169253/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0761169253/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

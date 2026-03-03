@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:22.903Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a4e997a36d75090cf5_louder-than-words-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/louder-than-words/
+  alt: Louder than Words book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/louder-than-words/'
 f_author-plain-text: Todd Henry
 f_author: cms/authors/todd-henry.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -57,7 +57,7 @@ f_big-idea: >-
   *   If the work feels important but we’re not achieving the results we want
   it’s likely a lack of mastery. We don’t have the skills needed to achieve the
   vision yet, which results in an “aspiration gap.”
-f_quote-reference: \- Louder than Words, page 2
+f_quote-reference: '\- Louder than Words, page 2'
 f_insight-2: >-
   ### Define Your Intended Audience
 
@@ -138,7 +138,7 @@ f_quote-2: >-
   Over time, they become more of a reflection of everyone around them – or a
   faded photocopy of a photocopy – than an original source of ideas, energy and
   life."
-f_amazon-url: https://www.amazon.com/dp/1591847524/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591847524/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

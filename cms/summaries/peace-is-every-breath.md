@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:31.518Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802b493e1ac825f5215c_peace_is_every_breath.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/peace-is-every-breath/
+  alt: Peace Is Every Breath book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/peace-is-every-breath/'
 f_author-plain-text: Thich Nhat Hanh
 f_author: cms/authors/thich-nhat-hanh.md
 f_category-3: cms/summary-categories/self-management.md
@@ -40,7 +40,7 @@ f_big-idea: >-
   release your stress, fear, anger and pain.** You become aware of your tension
   and pain while breathing in and release them from your body when breathing
   out.
-f_quote-reference: \- Peace Is Every Breath, page 5
+f_quote-reference: '\- Peace Is Every Breath, page 5'
 f_insight-2: >-
   ### Let got of mental clutter and unimportant things
 
@@ -160,7 +160,7 @@ f_conclusion: ''
 f_quote-2: >-
   "All of us need to have a spiritual dimension in our lives. The really good
   news is that spiritual practice can be done at any time of the day."
-f_amazon-url: https://www.amazon.com/dp/0062005820/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062005820/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

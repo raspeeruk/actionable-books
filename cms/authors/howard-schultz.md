@@ -1,15 +1,15 @@
 ---
 title: Howard Schultz
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Howard-Schultz/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Howard-Schultz/'
 f_unique-id: '421'
 slug: howard-schultz
 f_image:
   url: /assets/external/65d779ff05a16b0c5a64967e_schultz.jpeg
-  alt: null
+  alt: Howard Schultz
 updated-on: '2024-02-23T13:30:29.860Z'
 created-on: '2024-02-22T16:44:47.158Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://www.starbucks.com/onward
+f_website-2: 'http://www.starbucks.com/onward'
 layout: '[authors].html'
 tags: authors
 ---

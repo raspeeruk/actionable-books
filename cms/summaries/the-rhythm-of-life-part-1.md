@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:08.954Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78061f0b248a4671a3310_rhythm-of-life-sm-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-rhythm-of-life-part-1/
+  alt: The Rhythm of Life – Part 1 book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-rhythm-of-life-part-1/'
 f_author-plain-text: Matthew Kelly
 f_author: cms/authors/matthew-kelly.md
 f_category-3: cms/summary-categories/self-management.md
@@ -39,7 +39,7 @@ f_big-idea: >-
   As is true with external communities, so is the case with our own bodies and
   minds. The following are two timeless truths for improving your mental and
   spiritual state.
-f_quote-reference: \- The Rhythm of Life, page 76
+f_quote-reference: '\- The Rhythm of Life, page 76'
 f_insight-2: >-
   ### Recharge. Unplugged.
 
@@ -93,7 +93,7 @@ f_quote-2: >-
   "Do you ever feel you just need a little time to yourself? Do you find
   yourself questioning the way you are living your life? Do you have questions
   about what is best for you now? Do you feel overloaded or overwhelmed?"
-f_amazon-url: https://www.amazon.com/dp/0743265254/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0743265254/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

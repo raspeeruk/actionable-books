@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:15.223Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780aef232c4ec75c033e6_humble-inquiry.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/humble-inquiry/
+  alt: Humble Inquiry book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/humble-inquiry/'
 f_author-plain-text: Edgar Schein
 f_author: cms/authors/edgar-schein.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -46,7 +46,7 @@ f_big-idea: >-
   pursuing a specific outcome. Over time, we cultivated a strong working
   relationship and I valued the input she offered because I knew she had my best
   interests at heart.
-f_quote-reference: \- Humble Inquiry, page 7
+f_quote-reference: '\- Humble Inquiry, page 7'
 f_insight-2: >-
   ### Tea for Two
 
@@ -120,7 +120,7 @@ f_quote-2: >-
   us things that would improve matters or avoid pitfalls, when discussions turn
   into arguments that end in stalemates and hurt feelings – what went wrong and
   what could have been done to get better outcomes?"
-f_amazon-url: https://www.amazon.com/dp/1609949811/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1609949811/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

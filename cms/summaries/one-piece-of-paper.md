@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:29.570Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780762b2bb9366f808aa4_125169620-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/one-piece-of-paper/
+  alt: One Piece of Paper book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/one-piece-of-paper/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/01/ActionableBooks-Audio-One-Piece-of-Paper.mp3
 f_author-plain-text: Mike Figliuolo
@@ -49,7 +49,7 @@ f_big-idea: >-
   because you have some accountability. A maxim works the same way. Not only
   will your team know what you expect of them, but what they can come to expect
   of you.
-f_quote-reference: \- One Piece of Paper, page 14
+f_quote-reference: '\- One Piece of Paper, page 14'
 f_insight-2: >-
   ### Buzzkill
 
@@ -141,7 +141,7 @@ f_quote-2: >-
   "…I invite you to embark on that journey of understanding who you are as a
   leader, who you want to be, and how you would like to get there. You are going
   to define your entire leadership philosophy—on one piece of paper."
-f_amazon-url: https://www.amazon.com/dp/1118049594/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118049594/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

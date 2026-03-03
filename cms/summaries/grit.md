@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:11.280Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809472efaa845898b7fd_grit-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/grit/
+  alt: Grit book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/grit/'
 f_author-plain-text: Angela Duckworth
 f_author: cms/authors/angela-duckworth.md
 f_category-3: cms/summary-categories/self-management.md
@@ -32,7 +32,7 @@ f_big-idea: >-
   revisited the company, by which time 55 percent of the people were gone. Grit
   not only predicted who stayed and who left, it was the **_only_** personality
   trait that was correlated with remaining in the job.
-f_quote-reference: \- Grit, page 8
+f_quote-reference: '\- Grit, page 8'
 f_insight-2: >-
   ### Growing grit in others
 
@@ -130,7 +130,7 @@ f_conclusion: >-
 f_quote-2: >-
   "It was this combination of passion and perseverance that made high achievers
   special. In a word, they had grit."
-f_amazon-url: https://www.amazon.com/dp/1501111108/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1501111108/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

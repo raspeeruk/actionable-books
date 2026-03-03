@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:11.121Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804548fff91cd3182950_strategy.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/good-strategy-bad-strategy/
+  alt: Good Strategy Bad Strategy book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/good-strategy-bad-strategy/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/08/ActionableBooks-Audio-Good-Strategy-Bad-Strategy.mp3
 f_author-plain-text: Richard P. Rumelt
@@ -56,7 +56,7 @@ f_big-idea: >-
 
 
   This is what makes a strategy crisp and real. This is what makes it good.
-f_quote-reference: \- Good Strategy Bad Strategy, page 66
+f_quote-reference: '\- Good Strategy Bad Strategy, page 66'
 f_insight-2: >-
   ### Give Up Self-Judgment
 
@@ -144,7 +144,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Strategy is the craft of figuring out which purposes are both worth pursuing
   and capable of being accomplished."
-f_amazon-url: https://www.amazon.com/dp/0307886239/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0307886239/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

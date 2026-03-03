@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:07.089Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78085fa2506f22b866387_power-of-no.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-power-of-no/
+  alt: The Power of No book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-power-of-no/'
 f_author-plain-text: Claudia Azula Altucher
 f_author: cms/authors/claudia-azula-altucher.md
 f_category-3: cms/summary-categories/self-management.md
@@ -27,7 +27,7 @@ f_big-idea: >-
   certain chapters. I was less concerned with the content of the exercises, but
   more about the fact that each exercise encouraged me to operate just a little
   outside my comfort zone. Read on for two of them.
-f_quote-reference: \- The Power of No, page 15
+f_quote-reference: '\- The Power of No, page 15'
 f_insight-2: >-
   ### Giving gratitude a workout
 
@@ -85,7 +85,7 @@ f_conclusion: >-
   Once I finished the book, I found it helpful to return to the beginning and
   refresh my memory of the introductory guidelines:
 f_quote-2: '"It’s one thing to say no. It’s another thing to have the Power of No."'
-f_amazon-url: https://www.amazon.com/dp/1401945872/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1401945872/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

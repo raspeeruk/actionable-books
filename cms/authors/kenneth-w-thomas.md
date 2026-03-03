@@ -1,17 +1,17 @@
 ---
 title: Kenneth W. Thomas
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Kenneth-W.-Thomas/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Kenneth-W.-Thomas/'
 f_unique-id: '317'
 f_image:
   url: /assets/external/65d77a1f5519c9dcd5b2824b_kenneth-thomas.jpeg
-  alt: null
+  alt: Kenneth W. Thomas
 f_summaries:
   - cms/summaries/intrinsic-motivation-at-work.md
 slug: kenneth-w-thomas
 updated-on: '2024-02-23T13:30:53.684Z'
 created-on: '2024-02-22T16:45:19.414Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://kennethwthomas.net/
+f_website-2: 'http://kennethwthomas.net/'
 layout: '[authors].html'
 tags: authors
 ---

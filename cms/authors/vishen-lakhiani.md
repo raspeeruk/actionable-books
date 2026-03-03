@@ -1,18 +1,18 @@
 ---
 title: Vishen Lakhiani
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Vishen-Lakhiani/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Vishen-Lakhiani/'
 f_unique-id: '612'
 slug: vishen-lakhiani
 f_image:
   url: /assets/external/65d77a625e1f87c361a25b4c_vishen-lakhiani-1-180x220.jpeg
-  alt: null
+  alt: Vishen Lakhiani
 f_summaries:
   - cms/summaries/the-code-of-the-extraordinary-mind.md
 updated-on: '2024-02-23T13:30:50.304Z'
 created-on: '2024-02-22T16:46:26.396Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/Vishen/
-f_website-2: http://mindvalley.com
+f_twitter-2: 'http://twitter.com/Vishen/'
+f_website-2: 'http://mindvalley.com'
 layout: '[authors].html'
 tags: authors
 ---

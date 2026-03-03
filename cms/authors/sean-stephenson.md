@@ -1,18 +1,18 @@
 ---
 title: Sean Stephenson
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Sean-Stephenson/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Sean-Stephenson/'
 f_unique-id: '244'
 slug: sean-stephenson
 f_image:
   url: /assets/external/65d77a4e57779173a8b6aaa6_sean-stephenson-180x167.jpeg
-  alt: null
+  alt: Sean Stephenson
 f_summaries:
   - cms/summaries/get-off-your-but.md
 updated-on: '2024-02-23T13:30:46.862Z'
 created-on: '2024-02-22T16:46:06.301Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/theseantourage/
-f_website-2: http://SeanStephenson.com
+f_twitter-2: 'http://twitter.com/theseantourage/'
+f_website-2: 'http://SeanStephenson.com'
 layout: '[authors].html'
 tags: authors
 ---

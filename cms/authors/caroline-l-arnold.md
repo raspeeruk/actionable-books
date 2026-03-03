@@ -1,18 +1,18 @@
 ---
 title: Caroline L. Arnold
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Caroline-Arnold/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Caroline-Arnold/'
 f_unique-id: '883'
 f_image:
   url: /assets/external/65d779ca916323b57a5f4a25_caroline-arnold.png
-  alt: null
+  alt: Caroline L. Arnold
 slug: caroline-l-arnold
 f_summaries:
   - cms/summaries/small-move-big-change.md
 updated-on: '2024-02-23T13:30:38.239Z'
 created-on: '2024-02-22T16:43:54.884Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/CarolineLArnold/
-f_website-2: http://www.carolinelarnold.com/
+f_twitter-2: 'http://twitter.com/CarolineLArnold/'
+f_website-2: 'http://www.carolinelarnold.com/'
 layout: '[authors].html'
 tags: authors
 ---

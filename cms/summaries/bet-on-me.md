@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:48.948Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803efde0fad249b0b9fa_bet-on-me-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/bet-on-me/
+  alt: Bet on Me book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/bet-on-me/'
 f_author-plain-text: Annette Verschuren
 f_author: cms/authors/annette-verschuren.md
 f_category-3: cms/summary-categories/leadership.md
@@ -36,7 +36,7 @@ f_big-idea: >-
   the easy one. She did this successfully because she didn’t waiver or back down
   from her values and the type of leader she proudly wanted to be (and quite
   frankly is).
-f_quote-reference: \- Bet on Me, page 27
+f_quote-reference: '\- Bet on Me, page 27'
 f_insight-2: >-
   ### Don’t Get in the Way of Yourself
 
@@ -101,7 +101,7 @@ f_quote-2: >-
   focus first on being better. Focusing on being better is the first step in
   effective tangible positive change. And getting results is what ultimately
   gives a leader her power.”
-f_amazon-url: https://www.amazon.com/dp/144343759X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/144343759X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

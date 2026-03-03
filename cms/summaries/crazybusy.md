@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:56.002Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78049a6abc3e76db25206_crazybusy.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/crazybusy/
+  alt: CrazyBusy book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/crazybusy/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-Crazy-Busy.mp3
 f_author-plain-text: Edward M. Hallowell
@@ -96,7 +96,7 @@ f_big-idea: >-
   something doesn’t add up. It doesn’t seem worthwhile to be distracted and
   pulled away from what matters most, just because being busy is easy or looks
   normal.
-f_quote-reference: \- CrazyBusy, page 5
+f_quote-reference: '\- CrazyBusy, page 5'
 f_insight-2: >-
   ### So long, (screen) suckers!
 
@@ -189,7 +189,7 @@ f_quote-2: >-
   "Being too busy, which can seem necessary and unavoidable, can become a habit
   so entrenched that it leads you to postpone or cut short what really matters
   to you, making you a slave to a lifestyle you don’t like but can’t escape."
-f_amazon-url: https://www.amazon.com/dp/0345482441/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0345482441/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

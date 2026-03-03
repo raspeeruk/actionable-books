@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d78062aed215aa0062d4b8_5_lessons_a_millionaire_taught_me_sm.jpeg
-  alt: null
+  alt: The 5 Lessons a Millionaire Taught Me book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-5-lessons-a-millionaire-taught-me/
 f_author-plain-text: Richard Paul Evans
@@ -98,7 +98,7 @@ f_big-idea: >-
   appreciate the individual characteristics of each generation and find a way to
   successfully communicate with different employees will be having a positive
   impact on future employer-employee relationships.
-f_quote-reference: \- The 2020 Workplace, page 233
+f_quote-reference: '\- The 2020 Workplace, page 233'
 f_insight-2: >-
   ### Be socially responsible
 
@@ -208,7 +208,7 @@ f_quote-2: >-
   "The 2020 workplace will be fluid, diverse in age and ethnicity, flexible,
   collaborative, mobile, global, and above all, hyperconnected. Get ready to
   live it."
-f_amazon-url: https://www.amazon.com/dp/0743287002/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0743287002/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

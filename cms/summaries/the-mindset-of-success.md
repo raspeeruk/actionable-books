@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:02.653Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78062b3b818ca436c5c42_mindset-of-success-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-mindset-of-success/
+  alt: The Mindset of Success book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-mindset-of-success/'
 f_author-plain-text: Jo Owen
 f_author: cms/authors/jo-owen.md
 f_category-3: cms/summary-categories/self-management.md
@@ -45,7 +45,7 @@ f_big-idea: >-
   When you aspire to be great, you will constantly be looking for that
   opportunity to show the world your potential and ability but it all starts
   with that initial desire and ambition.
-f_quote-reference: \- The Mindset of Success, page 15
+f_quote-reference: '\- The Mindset of Success, page 15'
 f_insight-2: >-
   ### Create the Right Context
 
@@ -121,7 +121,7 @@ f_conclusion: >-
   self-aware and capitalize on their natural strengths and talents to be a
   successful person and leader.
 f_quote-2: '"There is a key to success, and that key is in your head."'
-f_amazon-url: https://www.amazon.com/dp/0749473118/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0749473118/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

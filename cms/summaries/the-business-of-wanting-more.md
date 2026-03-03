@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:51.807Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780710271589378cbae12_business_of_wanting_more.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-business-of-wanting-more/
+  alt: The Business of Wanting More book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-business-of-wanting-more/'
 f_author-plain-text: Brian Gast
 f_author: cms/authors/brian-gast.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
@@ -36,7 +36,7 @@ f_big-idea: >-
   to be tripped up by a limiting belief. Changing beliefs is hard, takes time
   and is virtually impossible to do alone, but recognition is the critical first
   step.
-f_quote-reference: \- The Business of Wanting More, page 20
+f_quote-reference: '\- The Business of Wanting More, page 20'
 f_insight-2: >-
   ### Build Your Court of Support
 
@@ -112,7 +112,7 @@ f_conclusion: >-
 f_quote-2: >-
   "…realize who you are beyond the stories you tell yourself and others – and
   thus experience your true nature."
-f_amazon-url: https://www.amazon.com/dp/0984941908/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0984941908/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

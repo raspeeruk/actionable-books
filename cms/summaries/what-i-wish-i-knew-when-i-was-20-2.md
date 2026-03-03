@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:07:20.912Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780291c0a370a82cc3cef_wiwikwiwt-tiny-94x143.jpeg
-  alt: null
+  alt: What I Wish I Knew When I Was 20 book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/what-i-wish-i-knew-when-i-was-20-2/
 f_podcast-url: >-
@@ -34,7 +34,7 @@ f_big-idea: >-
   perspective on anything. _What I Wish I Knew When I Was 20_ outlines specific
   tools and thinking skills that anyone can use to see their life in a new way
   and make changes for the better.
-f_quote-reference: \- What I Wish I Knew When I Was 20, page 53
+f_quote-reference: '\- What I Wish I Knew When I Was 20, page 53'
 f_insight-2: >-
   ### Question the rules
 
@@ -101,7 +101,7 @@ f_quote-2: >-
   footsteps of those before you. But there are boundless additional options to
   explore if you are willing to identify and challenge assumptions, and break
   free of the expectations that you and others project onto you."
-f_amazon-url: https://www.amazon.com/dp/0061735191/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0061735191/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

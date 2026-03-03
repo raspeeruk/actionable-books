@@ -1,10 +1,10 @@
 ---
 title: Gordon Bell
-f_original-url: https://www.actionablebooks.com/en-ca/authors/gordon-bell/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/gordon-bell/'
 f_unique-id: '875'
 f_image:
   url: /assets/external/65d779f875f406183f33448f_gordon_bell.jpeg
-  alt: null
+  alt: Gordon Bell
 slug: gordon-bell
 f_summaries:
   - cms/summaries/a-special-calling.md

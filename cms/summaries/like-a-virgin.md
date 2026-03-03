@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:22.023Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a11c68aa62113b5691_like_a_virgin.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/like-a-virgin/
+  alt: Like a Virgin book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/like-a-virgin/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-Like-a-Virgin.mp3
 f_author-plain-text: Richard Branson
@@ -37,7 +37,7 @@ f_big-idea: >-
   **Leaders should provide direction and exemplify their desired service levels
   through their own behavior**, while allowing employees to decide how to best
   live up to the service ideal.
-f_quote-reference: \- Like a Virgin, page 18
+f_quote-reference: '\- Like a Virgin, page 18'
 f_insight-2: >-
   ### Always Protect the Downside
 
@@ -99,7 +99,7 @@ f_conclusion: >-
   the course of four decades in business, and it might just help you last that
   long too.
 f_quote-2: '"Nice guys can finish first."'
-f_amazon-url: https://www.amazon.com/dp/1591845688/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591845688/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

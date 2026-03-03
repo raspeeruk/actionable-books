@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:37.372Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805448a50b1aa4e42459_resonate.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/resonate/
+  alt: Resonate book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/resonate/'
 f_author-plain-text: Nancy Duarte
 f_author: cms/authors/nancy-duarte.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -36,7 +36,7 @@ f_big-idea: >-
   communicate. Showing the audience what both of these things are will garner
   their buy-in. Duarte suggests that showing the audience _what could be_ is the
   most powerful story to capture their attention.
-f_quote-reference: \- Resonate, page xix
+f_quote-reference: '\- Resonate, page xix'
 f_insight-2: >-
   ### Define Your Audience’s Journey
 
@@ -74,7 +74,7 @@ f_quote-2: >-
   a place you’ll go; it’s a place you will invent. Your ability to shape your
   future depends on how well you communicate where you want to be when you get
   there."
-f_amazon-url: https://www.amazon.com/dp/0470632011/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470632011/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

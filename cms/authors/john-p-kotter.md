@@ -1,16 +1,16 @@
 ---
 title: John P. Kotter
-f_original-url: https://www.actionablebooks.com/en-ca/authors/John-P.-Kotter/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/John-P.-Kotter/'
 f_unique-id: '43'
 slug: john-p-kotter
 f_image:
   url: /assets/external/65d77a155519c9dcd5b27de1_john-p-kotter.jpeg
-  alt: null
+  alt: John P. Kotter
 updated-on: '2024-02-23T13:30:53.634Z'
 created-on: '2024-02-22T16:45:09.202Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/KotterIntl/
-f_website-2: http://kotterinternational.com
+f_twitter-2: 'http://twitter.com/KotterIntl/'
+f_website-2: 'http://kotterinternational.com'
 layout: '[authors].html'
 tags: authors
 ---

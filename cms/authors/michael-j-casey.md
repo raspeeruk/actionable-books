@@ -1,18 +1,18 @@
 ---
 title: Michael J. Casey
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Michael-J.-Casey/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Michael-J.-Casey/'
 f_unique-id: '747'
 slug: michael-j-casey
 f_image:
   url: /assets/external/65d77a30479d84b9f25f85ea_michael-j-casey-1-180x220.jpeg
-  alt: null
+  alt: Michael J. Casey
 f_summaries:
   - cms/summaries/the-social-organism.md
 updated-on: '2024-02-23T13:30:51.602Z'
 created-on: '2024-02-22T16:45:36.201Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/mikejcasey/
-f_website-2: http://michaeljcasey.com
+f_twitter-2: 'http://twitter.com/mikejcasey/'
+f_website-2: 'http://michaeljcasey.com'
 layout: '[authors].html'
 tags: authors
 ---

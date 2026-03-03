@@ -1,18 +1,18 @@
 ---
 title: David Kantor
-f_original-url: https://www.actionablebooks.com/en-ca/authors/David-Kantor/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/David-Kantor/'
 f_unique-id: '482'
 f_image:
   url: /assets/external/65d779e3466118417dcf89a0_david-kantor-180x220.jpeg
-  alt: null
+  alt: David Kantor
 slug: david-kantor
 f_summaries:
   - cms/summaries/reading-the-room.md
 updated-on: '2024-02-23T13:30:34.074Z'
 created-on: '2024-02-22T16:44:19.863Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/davidkantor/
-f_website-2: http://www.kantorinstitute.com/
+f_twitter-2: 'http://twitter.com/davidkantor/'
+f_website-2: 'http://www.kantorinstitute.com/'
 layout: '[authors].html'
 tags: authors
 ---

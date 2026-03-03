@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780d74b8c885f258d0e6e_doing-the-right-things-right-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/doing-the-right-things-right/
+  alt: Doing the Right Things Right book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/doing-the-right-things-right/'
 f_author-plain-text: Laura Stack
 f_author: cms/authors/laura-stack.md
 f_category-3: cms/summary-categories/leadership.md
@@ -41,7 +41,7 @@ f_big-idea: >-
   development of others. The more we can influence the engagement of those we
   work with, the more effective they will become. That in turn increases
   organizational productivity and effectiveness.
-f_quote-reference: \- Doing the Right Things Right, page 143
+f_quote-reference: '\- Doing the Right Things Right, page 143'
 f_insight-2: >-
   ### Boost innovation and flexibility
 
@@ -113,7 +113,7 @@ f_quote-2: >-
   "Truly successful executives are those who can thoroughly mine the
   intersection of efficiency and effectiveness to maximize their value and that
   of their team’s."
-f_amazon-url: https://www.amazon.com/dp/B013J8GTMM/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B013J8GTMM/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

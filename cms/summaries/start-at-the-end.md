@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:42.686Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807973685ce4f9a1181c_start-at-the-end-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/start-at-the-end/
+  alt: Start at the End book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/start-at-the-end/'
 f_author-plain-text: Dave Lavinsky
 f_author: cms/authors/dave-lavinsky.md
 f_category-3: cms/summary-categories/leadership.md
@@ -80,7 +80,7 @@ f_big-idea: >-
   The implementation and generation of a strategic plan was relatively easy for
   my own business using the downloadable templates. Potential investors were
   very impressed—a good enough reason to purchase the book alone.
-f_quote-reference: \- Yogi Berra, Start at the End, page 1
+f_quote-reference: '\- Yogi Berra, Start at the End, page 1'
 f_insight-2: >-
   ### Delegation
 
@@ -162,8 +162,8 @@ f_conclusion: >-
   next level, and the tools available make it an invaluable asset to any
   business. Planning your business with your end goals in mind will help you
   stay on track, and avoid getting bogged down in day to day details.
-f_quote-2: “If you don't know where you’re going, you probably won't get there.”
-f_amazon-url: https://www.amazon.com/dp/1118376765/?tag=actionableb08-20
+f_quote-2: '“If you don''t know where you’re going, you probably won''t get there.”'
+f_amazon-url: 'https://www.amazon.com/dp/1118376765/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

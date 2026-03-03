@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:07:20.603Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802865dcec8f6914b911_what-every-body-is-saying.jpeg
-  alt: null
+  alt: What Every BODY is Saying book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/what-every-body-is-saying-joe-navarro/
 f_author-plain-text: Joe Navarro
@@ -40,7 +40,7 @@ f_big-idea: >-
   behaviors. They may not mean much because they represent the way that person
   normally is. But, deviations from baseline behaviors are clear indicators that
   you should pay attention to what the person is feeling.
-f_quote-reference: \- What Every BODY is Saying, page 4
+f_quote-reference: '\- What Every BODY is Saying, page 4'
 f_insight-2: >-
   ### Look under The Table
 
@@ -101,7 +101,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Nonverbal behaviors comprise approximately 60 to 65 percent of all
   interpersonal communication."
-f_amazon-url: https://www.amazon.com/dp/0061438294/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0061438294/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

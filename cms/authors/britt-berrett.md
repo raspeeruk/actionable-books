@@ -1,10 +1,10 @@
 ---
 title: Britt Berrett
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Britt-Berrett/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Britt-Berrett/'
 f_unique-id: '433'
 f_image:
   url: /assets/external/65d779c4d80964078c3dec87_britt-berrett-180x220.jpeg
-  alt: null
+  alt: Britt Berrett
 slug: britt-berrett
 f_summaries:
   - cms/summaries/patients-come-second.md

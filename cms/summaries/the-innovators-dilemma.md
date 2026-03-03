@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:59.667Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802bc687d3e7e90f4957_innovators-dilemma1.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-innovators-dilemma/
+  alt: The Innovator’s Dilemma book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-innovators-dilemma/'
 f_author-plain-text: Clayton M. Christensen
 f_author: cms/authors/clayton-m-christensen.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -63,7 +63,7 @@ f_big-idea: >-
 
 
   _Courtesy of Wikipedia_
-f_quote-reference: \- The Innovator’s Dilemma, page 236
+f_quote-reference: '\- The Innovator’s Dilemma, page 236'
 f_insight-2: >-
   ### Have a plan for learning, not execution
 
@@ -127,7 +127,7 @@ f_quote-2: >-
   markets are the same practices that cause them to miss the opportunities
   offered by disruptive technologies. In other words, well-managed companies
   fail because they are well managed."
-f_amazon-url: https://www.amazon.com/dp/0062060244/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062060244/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

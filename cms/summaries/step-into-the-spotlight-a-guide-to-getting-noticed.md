@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:43.069Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806dcc2cced2a36e66df_book_cover.jpeg
-  alt: null
+  alt: Step Into The Spotlight! A Guide To Getting Noticed book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/step-into-the-spotlight-a-guide-to-getting-noticed/
 f_author-plain-text: Tsufit
@@ -19,7 +19,7 @@ f_quote-reference: ''
 f_insight-2: ''
 f_insight-1: ''
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0978191307/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0978191307/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

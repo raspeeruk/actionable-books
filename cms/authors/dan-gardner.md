@@ -1,10 +1,10 @@
 ---
 title: Dan Gardner
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Dan-Gardner/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Dan-Gardner/'
 f_unique-id: '553'
 f_image:
   url: /assets/external/65d779d5b7fac8a7f4cf8bbf_dan-gardner-180x220.png
-  alt: null
+  alt: Dan Gardner
 slug: dan-gardner
 f_summaries:
   - cms/summaries/superforecasting.md

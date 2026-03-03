@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:08.145Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d5391413176f57a57c_flying-solo-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/flying-solo/
+  alt: Flying Solo book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/flying-solo/'
 f_author-plain-text: Peter Crocker
 f_author: cms/authors/peter-crocker.md
 f_category-3: cms/summary-categories/leadership.md
@@ -78,7 +78,7 @@ f_big-idea: >-
 
   Prompts like “Twelve months from now, I see the following appointment and
   commitments in my diary” help to craft a mental picture of a clear vision.
-f_quote-reference: \- Flying Solo, page 13
+f_quote-reference: '\- Flying Solo, page 13'
 f_insight-2: >-
   ### Create an operations manual
 
@@ -220,7 +220,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The happiest soloists succeed because they have the knack for putting work in
   its proper place alongside the rest of their lives."
-f_amazon-url: https://www.amazon.com/dp/B007BICC5A/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B007BICC5A/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

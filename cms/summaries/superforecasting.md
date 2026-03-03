@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:44.924Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806719f004f795e147c3_superforecasting-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/superforecasting/
+  alt: Superforecasting book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/superforecasting/'
 f_author-plain-text: Dan Gardner
 f_author: cms/authors/dan-gardner.md
 f_category-3: cms/summary-categories/self-management.md
@@ -44,7 +44,7 @@ f_big-idea: >-
   who change the world because they can validate and integrate opposing views.
   They see the world differently, and those opposing views once accepted become
   the new normal.
-f_quote-reference: \- Superforecasting, Page 79
+f_quote-reference: '\- Superforecasting, Page 79'
 f_insight-2: >-
   ### Recognizing and correcting mistakes is a strength
 
@@ -119,7 +119,7 @@ f_quote-2: >-
   a struggle. But foxes are likelier to give it a try. Whether by virtue of
   temperament or habit or conscious effort, they tend to engage in the hard work
   of consulting other perspectives."
-f_amazon-url: https://www.amazon.com/dp/0804136696/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0804136696/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

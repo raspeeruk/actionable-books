@@ -1,18 +1,18 @@
 ---
 title: Mona Patel
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Mona-Patel/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Mona-Patel/'
 f_unique-id: '487'
 f_image:
   url: /assets/external/65d77a3478a8c6764993af3f_mona-patel-180x220.jpeg
-  alt: null
+  alt: Mona Patel
 slug: mona-patel
 f_summaries:
   - cms/summaries/reframe.md
 updated-on: '2024-02-23T13:30:49.947Z'
 created-on: '2024-02-22T16:45:40.336Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/monapatel/
-f_website-2: http://motivatedesign.com
+f_twitter-2: 'http://twitter.com/monapatel/'
+f_website-2: 'http://motivatedesign.com'
 layout: '[authors].html'
 tags: authors
 ---

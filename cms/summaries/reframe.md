@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:36.963Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780ce345fe67ffc990e7a_reframe-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/reframe/
+  alt: Reframe book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/reframe/'
 f_author-plain-text: Mona Patel
 f_author: cms/authors/mona-patel.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -82,7 +82,7 @@ f_big-idea: >-
   all fears and blocks. However, they all represent nothing more than a pile of
   excuses, all of which can be overcome simply by recognizing them, deciding to
   take a stand, and coming up with ways to get around them.
-f_quote-reference: \- Reframe, page 27
+f_quote-reference: '\- Reframe, page 27'
 f_insight-2: >-
   ### Just do it
 
@@ -220,7 +220,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The real problem is that you have been seeing problems as problems, not as
   creative opportunities."
-f_amazon-url: https://www.amazon.com/dp/B00VTZX9XK/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00VTZX9XK/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

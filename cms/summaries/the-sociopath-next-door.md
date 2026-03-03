@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:10.560Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78063e88f5f3f6bcbcc57_sociopath_next_door.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-sociopath-next-door/
+  alt: The Sociopath Next Door book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-sociopath-next-door/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-The-Sociopath-Next-Door.mp3
 f_author-plain-text: Martha Stout
@@ -145,7 +145,7 @@ f_conclusion: >-
   and do not care about anyone except themselves.** Their lives usually follow a
   downward spiral where they end up alone and without status, power, and
   authority – all the things they worked so hard to rob from others.
-f_amazon-url: https://www.amazon.com/dp/0767915828/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0767915828/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

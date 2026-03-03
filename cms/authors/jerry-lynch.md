@@ -1,17 +1,17 @@
 ---
 title: Jerry Lynch
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Jerry-Lynch/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Jerry-Lynch/'
 f_unique-id: '770'
 f_image:
   url: /assets/external/65d77a0d444f9b38d76775a4_lynch.jpeg
-  alt: null
+  alt: Jerry Lynch
 f_summaries:
   - cms/summaries/the-way-of-the-champion.md
 slug: jerry-lynch
 updated-on: '2024-02-23T13:30:40.934Z'
 created-on: '2024-02-22T16:45:01.845Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://wayofchampions.com
+f_website-2: 'http://wayofchampions.com'
 layout: '[authors].html'
 tags: authors
 ---

@@ -49,7 +49,7 @@ f_big-idea: >-
   the equivalent, which Cuddy calls the iHunch. If you want to feel more
   powerful and connected, put away your phone, straighten yourself out and
   expand your stance, at least every hour.
-f_quote-reference: \- Presence, page 24
+f_quote-reference: '\- Presence, page 24'
 f_insight-2: >-
   ### Owning your story
 
@@ -144,12 +144,18 @@ f_insight-1: >-
 
   Self-nudges work because pleasure builds on pleasure, power upon power and
   presence upon presence.
-f_conclusion: ''
+f_conclusion: >-
+  Amy Cuddy’s work with how to establish individual Presence is brilliant! There
+  is just no other word for it. There are so many tips and strategies through
+  the book to help us be aware and potentially change our body language,
+  behaviour and mindset in those nerve-wracking situations. Cuddy presents all
+  of her work with such passion to help those of us who are anxiety-ridden over
+  job interviews, presentations or other situations of dread!
 f_quote-2: >-
   "Presence, as I mean it, is the state of being attuned to and being able to
   comfortably express our true thoughts, feelings, value and potential. That’s
   it. It is not a permanent, transcendent mode of being. It comes and goes."
-f_amazon-url: https://www.amazon.com/dp/B00U6DNZK8/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00U6DNZK8/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

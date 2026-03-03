@@ -1,17 +1,17 @@
 ---
 title: Richard A. Swenson
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Richard-A.-Swenson/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Richard-A.-Swenson/'
 f_unique-id: '377'
 slug: richard-a-swenson
 f_image:
   url: /assets/external/65d77a428898971b3f7d63b5_richard_swenson.jpeg
-  alt: null
+  alt: Richard A. Swenson
 f_summaries:
   - cms/summaries/margin.md
 updated-on: '2024-02-23T13:30:31.111Z'
 created-on: '2024-02-22T16:45:54.720Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://www.richardswenson.org/
+f_website-2: 'http://www.richardswenson.org/'
 layout: '[authors].html'
 tags: authors
 ---

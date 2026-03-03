@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:40.503Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78096c32593873d997d4d_side-hustle-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/side-hustle/
+  alt: Side Hustle book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/side-hustle/'
 f_author-plain-text: Chris Guillebeau
 f_author: cms/authors/chris-guillebeau.md
 f_category-3: cms/summary-categories/self-management.md
@@ -44,7 +44,7 @@ f_big-idea: >-
   fundamentally different from me in one important characteristic – they lack
   confidence – which makes it easy for me to serve them because I am a great
   encourager.
-f_quote-reference: \- Side Hustle, Page 3
+f_quote-reference: '\- Side Hustle, Page 3'
 f_insight-2: >-
   ### Focus area #1: How you can change your customer’s life
 
@@ -126,7 +126,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Everyone should have a side hustle. Even if you love your job., having more
   than one source of income will give you more freedom and more options."
-f_amazon-url: https://www.amazon.com/dp/1524758841/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1524758841/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:08.965Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d35b992a6ac025b6b58862_143880903.jpeg
-  alt: null
+  alt: Freedom Is Blogging In Your Underwear book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/freedom-is-blogging-in-your-underwear/
 f_podcast-url: >-
@@ -42,7 +42,7 @@ f_big-idea: >-
   know that it’s an extension of your professional life. When harnessed properly
   the two will work in concert with one another, and many new and exciting
   opportunities will reveal themselves.
-f_quote-reference: \- Freedom Is Blogging In Your Underwear, location 68
+f_quote-reference: '\- Freedom Is Blogging In Your Underwear, location 68'
 f_insight-2: >-
   ### Put In the Time
 
@@ -119,7 +119,7 @@ f_conclusion: >-
 f_quote-2: >-
   "[Blogging] gave me the freedom I spent most of my adult life searching for,
   the same freedom I believe we’re ALL searching for, in one way or another."
-f_amazon-url: https://www.amazon.com/dp/1591844851/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591844851/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780bb97d45cdc3efa921b_the-four-purposes-of-life-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-four-purposes-of-life/
+  alt: The Four Purposes of Life book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-four-purposes-of-life/'
 f_author-plain-text: Dan Millman
 f_author: cms/authors/dan-millman.md
 f_category-3: cms/summary-categories/self-management.md
@@ -60,7 +60,7 @@ f_big-idea: >-
   At the core of understanding this is self-awareness and self-knowledge.
   Millman illustrates that the better we can understand ourselves, the better we
   can steer ourselves in the direction we are meant to head in our lives.
-f_quote-reference: \- The Four Purposes of Life, page 115
+f_quote-reference: '\- The Four Purposes of Life, page 115'
 f_insight-2: >-
   ### Leadership is a personal set of qualities
 
@@ -124,7 +124,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Never make the mistake of thinking that your birth number defines you as a
   person or limits your choices in the world."
-f_amazon-url: https://www.amazon.com/dp/1932073736/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1932073736/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

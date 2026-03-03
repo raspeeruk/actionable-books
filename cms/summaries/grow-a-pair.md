@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:11.700Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c3c35d7f017dedee74_grow-a-pair.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/grow-a-pair/
+  alt: Grow a Pair book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/grow-a-pair/'
 f_author-plain-text: Larry Winget
 f_author: cms/authors/larry-winget.md
 f_category-3: cms/summary-categories/self-management.md
@@ -124,7 +124,7 @@ f_conclusion: >-
   will. He hopes that those who get their feathers ruffled wake up to their
   problems and start acting on the suggestions contained within these 150+ short
   pages.
-f_amazon-url: https://www.amazon.com/dp/B00CB1CM52/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00CB1CM52/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:45.266Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a20535ac2cb61ef7c3_taking-people-with-you1.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/taking-people-with-you/
+  alt: Taking People With You book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/taking-people-with-you/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/ActionableBooks-Audio-Taking-People-With-You.mp3
 f_author-plain-text: David Novak
@@ -53,7 +53,7 @@ f_big-idea: >-
   And the celebration needs to be at the basic level of showing appreciation. He
   says that to truly motivate people, you need a positive work environment where
   all members know they count and feel appreciated and respected.
-f_quote-reference: \- Taking People With You, page 4
+f_quote-reference: '\- Taking People With You, page 4'
 f_insight-2: >-
   ### Believe in People
 
@@ -151,7 +151,7 @@ f_quote-2: >-
   "This is a book that will help you become not just a better leader, but also a
   better person, by making you more self-aware and showing you how to build up
   the people around you."
-f_amazon-url: https://www.amazon.com/dp/1591845912/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591845912/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

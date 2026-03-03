@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:36.452Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c2c87cb42913ed7c1a_real-blog-money.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/real-blog-money/
+  alt: Real Blog Money book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/real-blog-money/'
 f_author-plain-text: Ian Stables
 f_author: cms/authors/ian-stables.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -37,7 +37,7 @@ f_big-idea: >-
   than one that only had facts. I will go back and make the content in those
   posts a lot stronger, a lot more valuable to my readers by adding a
   description of how I implemented the idea or what I thought about the idea.
-f_quote-reference: \- Real Blog Money, Introduction
+f_quote-reference: '\- Real Blog Money, Introduction'
 f_insight-2: >-
   ### A way better way to get visitors
 
@@ -99,7 +99,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Don’t worry you won’t need to sell any products or services. Other people
   will be doing that for you."
-f_amazon-url: https://www.amazon.com/dp/B00AXOTNJM/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00AXOTNJM/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

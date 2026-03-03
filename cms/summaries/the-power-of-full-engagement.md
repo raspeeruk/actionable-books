@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:06.731Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78060a1ca3470eb5a74f3_13741572.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-power-of-full-engagement/
+  alt: The Power of Full Engagement book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-power-of-full-engagement/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/06/ActionableBooks-Audio-The-Power-of-Full-Engagement.mp3
 f_author-plain-text: Jim Loehr
@@ -73,7 +73,7 @@ f_big-idea: >-
 
   Okay, so you get the point: Rest is important. How do we ensure that we are
   functioning at full mental capacity?
-f_quote-reference: \- The Power of Full Engagement, page 4
+f_quote-reference: '\- The Power of Full Engagement, page 4'
 f_insight-2: >-
   ### 20-35 minutes of exercise, 3-5 times per week
 
@@ -142,7 +142,7 @@ f_insight-1: >-
   make sure you are getting the renewal that you need.
 f_conclusion: ''
 f_quote-2: '"Energy, not time, is the fundamental currency of high performance."'
-f_amazon-url: https://www.amazon.com/dp/0743226755/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0743226755/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

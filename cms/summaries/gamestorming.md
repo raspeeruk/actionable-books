@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:08.939Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78059cf344b81908dc551_gamestorming-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/gamestorming/
+  alt: Gamestorming book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/gamestorming/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/01/ActionableBooks-Audio-Gamestorming.mp3
 f_author-plain-text: Dave Gray
@@ -55,7 +55,7 @@ f_big-idea: >-
 
   In the following two Insights, we look at two tools that Gray, Brown and
   Macanufo suggest for getting people engaged.
-f_quote-reference: \- Gamestorming, page xv
+f_quote-reference: '\- Gamestorming, page xv'
 f_insight-2: >-
   ### Defy labels (at least initially)
 
@@ -139,7 +139,7 @@ f_quote-2: >-
   "Knowledge work is fundamentally different: workers are expected not so much
   to perform standard roles but to generate creative, innovative results that
   surprise and delight customers and colleagues."
-f_amazon-url: https://www.amazon.com/dp/0596804172/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0596804172/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

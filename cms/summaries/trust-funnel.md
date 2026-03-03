@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:19.424Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780ca23d637575984a471_trust-funnel-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/trust-funnel/
+  alt: Trust Funnel book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/trust-funnel/'
 f_author-plain-text: Brian G. Johnson
 f_author: cms/authors/brian-g-johnson.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -51,7 +51,7 @@ f_big-idea: >-
   recommends this. 1) YouTube is the third most popular website on the plant,
   and the second largest search engine. 2) Making yourself visible to your
   audience in multimedia form helps them get to know you better.
-f_quote-reference: \- Trust Funnel, page 2
+f_quote-reference: '\- Trust Funnel, page 2'
 f_insight-2: >-
   ### Stay Audience and Customer Focused
 
@@ -113,7 +113,7 @@ f_quote-2: >-
   hurt). Rather, success is about assessing opportunity, creating a plan of
   action to achieve a desired outcome, and prioritizing daily efforts to meet
   that goal."
-f_amazon-url: https://www.amazon.com/dp/B00MWAG5PU/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00MWAG5PU/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

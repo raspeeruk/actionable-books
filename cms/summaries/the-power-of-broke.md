@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:06.404Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78075d33c7df02ee163a6_power-of-broke-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-power-of-broke/
+  alt: The Power of Broke book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-power-of-broke/'
 f_author-plain-text: Daniel Paisner
 f_author: cms/authors/daniel-paisner.md
 f_category-3: cms/summary-categories/self-management.md
@@ -35,7 +35,7 @@ f_big-idea: >-
   repertoire. Skills are certainly necessary to success, but what I love about
   the book is that the author always brings us back to this mindset of the power
   of broke. Everything starts and is built upward from there.
-f_quote-reference: \- The Power of Broke, page 5
+f_quote-reference: '\- The Power of Broke, page 5'
 f_insight-2: >-
   ### The Power of Humility
 
@@ -92,7 +92,7 @@ f_conclusion: >-
   _“Well, the bottom-line message beneath each mega-success story is that broke
   only breaks you if you let it.”_
 f_quote-2: “The choice of whether to succeed – or not – is all mine.”
-f_amazon-url: https://www.amazon.com/dp/1101903597/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1101903597/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

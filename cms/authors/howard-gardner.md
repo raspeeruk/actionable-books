@@ -1,17 +1,17 @@
 ---
 title: Howard Gardner
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Howard-Gardner/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Howard-Gardner/'
 f_unique-id: '24'
 f_image:
   url: /assets/external/65d779ffba10a59f86315f8f_howard-gardner.jpeg
-  alt: null
+  alt: Howard Gardner
 slug: howard-gardner
 f_summaries:
   - cms/summaries/5-minds-for-the-future.md
 updated-on: '2024-02-23T13:30:57.403Z'
 created-on: '2024-02-22T16:44:47.333Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://howardgardner.com/
+f_website-2: 'http://howardgardner.com/'
 layout: '[authors].html'
 tags: authors
 ---

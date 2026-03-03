@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:12.829Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c6c35d7f017dedef78_how-the-world-sees-you.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/how-the-world-sees-you/
+  alt: How the World Sees You book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/how-the-world-sees-you/'
 f_author-plain-text: Sally Hogshead
 f_author: cms/authors/sally-hogshead.md
 f_category-3: cms/summary-categories/self-management.md
@@ -62,7 +62,7 @@ f_big-idea: >-
   Sure, it makes sense, but now I know why I’m energized about some things and
   struggle to do others. My goal is to seek out opportunities to be more of a
   Catalyst.
-f_quote-reference: \- How the World Sees You, page 78
+f_quote-reference: '\- How the World Sees You, page 78'
 f_insight-2: >-
   ### Sing your anthem
 
@@ -143,7 +143,7 @@ f_insight-1: >-
   help or assistance in the areas that aren’t my strongest.
 f_conclusion: ''
 f_quote-2: '"The greatest value you can add is to become more of yourself."'
-f_amazon-url: https://www.amazon.com/dp/B00FJ34XWY/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00FJ34XWY/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

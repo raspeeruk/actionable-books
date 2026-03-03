@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:17.763Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780671b56e0975faaee76_triggers-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/triggers/
+  alt: Triggers book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/triggers/'
 f_author-plain-text: Marshall Goldsmith
 f_author: cms/authors/marshall-goldsmith.md
 f_category-3: cms/summary-categories/self-management.md
@@ -43,7 +43,7 @@ f_big-idea: >-
   from a colleague) but what really matters is our reaction to them. Once we
   understand the power the environment has over us, we can then begin to make
   the necessary adjustments to overcome the negative triggers.
-f_quote-reference: \- Triggers, page xv
+f_quote-reference: '\- Triggers, page xv'
 f_insight-2: >-
   ### AIWATT
 
@@ -140,7 +140,7 @@ f_quote-2: >-
   "This is a book about adult behavior change. Why are we so bad at it? How do
   we get better at it? … To answer these questions, I’ll be focusing on the
   triggers on our environment. Their impact is profound."
-f_amazon-url: https://www.amazon.com/dp/0804141231/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0804141231/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

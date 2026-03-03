@@ -1,18 +1,18 @@
 ---
 title: Kristi Hedges
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Kristi-Hedges/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Kristi-Hedges/'
 f_unique-id: '716'
 f_image:
   url: /assets/external/65d77a203c55e1cc53b2021d_kristi-hedges-180x220.jpeg
-  alt: null
+  alt: Kristi Hedges
 slug: kristi-hedges
 f_summaries:
   - cms/summaries/the-power-of-presence.md
 updated-on: '2024-02-23T13:30:53.281Z'
 created-on: '2024-02-22T16:45:21.000Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/kristihedges/
-f_website-2: http://kristihedges.com
+f_twitter-2: 'http://twitter.com/kristihedges/'
+f_website-2: 'http://kristihedges.com'
 layout: '[authors].html'
 tags: authors
 ---

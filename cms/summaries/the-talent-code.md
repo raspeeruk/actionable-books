@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:11.663Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780265675061815c3f9bb_talent_code.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-talent-code/
+  alt: The Talent Code book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-talent-code/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-The-Talent-Code.mp3
 f_author-plain-text: Daniel Coyle
@@ -53,7 +53,7 @@ f_big-idea: >-
 
   However, for your deep practice to be the most effective it must contain one
   specific element.
-f_quote-reference: \- The Talent Code, page 6
+f_quote-reference: '\- The Talent Code, page 6'
 f_insight-2: >-
   ### Do Something Today, Tomorrow, and the Day After That...
 
@@ -131,7 +131,7 @@ f_conclusion: >-
 f_quote-2: >-
   "All skills, all language, all music, all movements, are made of living
   circuits, and all circuits grow according to certain rules."
-f_amazon-url: https://www.amazon.com/dp/055380684X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/055380684X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

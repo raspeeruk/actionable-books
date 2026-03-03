@@ -1,16 +1,16 @@
 ---
 title: Daniel Coyle
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Daniel-Coyle/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Daniel-Coyle/'
 f_unique-id: '622'
 f_image:
   url: /assets/external/65d779d87ae3a8760854f61d_daniel_coyle.jpeg
-  alt: null
+  alt: Daniel Coyle
 slug: daniel-coyle
 updated-on: '2024-02-23T13:31:30.739Z'
 created-on: '2024-02-22T16:44:09.014Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: https://www.facebook.com/thetalentcode
-f_twitter-2: http://twitter.com/danielcoyle/
+f_facebook-2: 'https://www.facebook.com/thetalentcode'
+f_twitter-2: 'http://twitter.com/danielcoyle/'
 layout: '[authors].html'
 tags: authors
 ---

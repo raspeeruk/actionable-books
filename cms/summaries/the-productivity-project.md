@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:07.776Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78076813424c8d3a5cd83_productivity-project-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-productivity-project/
+  alt: The Productivity Project book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-productivity-project/'
 f_author-plain-text: Chris Bailey
 f_author: cms/authors/chris-bailey.md
 f_category-3: cms/summary-categories/self-management.md
@@ -40,7 +40,7 @@ f_big-idea: >-
   spend more time considering being productive than actually being productive.
   So let me challenge you to commit to and complete a 25 minute productive task,
   post reading the summary, where you are creating a result. You got this.
-f_quote-reference: \- The Productivity Project, page 64
+f_quote-reference: '\- The Productivity Project, page 64'
 f_insight-2: >-
   ### Take back control
 
@@ -114,7 +114,7 @@ f_quote-2: >-
   saying is that a task isn't as important or attractive as whatever else they
   have on their plate. Every person gets twenty-four hours of time every day and
   gets to spend those twenty-four hours however he or she chooses."
-f_amazon-url: https://www.amazon.com/dp/1101904038/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1101904038/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

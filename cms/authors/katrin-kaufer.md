@@ -1,11 +1,11 @@
 ---
 title: Katrin Kaufer
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Katrin-Kaufer/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Katrin-Kaufer/'
 f_unique-id: '340'
 slug: katrin-kaufer
 f_image:
   url: /assets/external/65d77a1dbddc0b719a0ba902_katrin-kaufer-180x220.jpeg
-  alt: null
+  alt: Katrin Kaufer
 f_summaries:
   - cms/summaries/leading-from-the-emerging-future.md
 updated-on: '2024-02-23T13:31:31.847Z'

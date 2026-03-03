@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:48.657Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807ead5b1f46c9a6aa56_becoming-the-best-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/becoming-the-best/
+  alt: Becoming the Best book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/becoming-the-best/'
 f_author-plain-text: Harry M. Kraemer
 f_author: cms/authors/harry-m-kraemer.md
 f_category-3: cms/summary-categories/leadership.md
@@ -48,7 +48,7 @@ f_big-idea: >-
 
   5.  **Best citizen –** everyone is focused on making a difference in the
   world.
-f_quote-reference: \- Becoming the Best, page 5
+f_quote-reference: '\- Becoming the Best, page 5'
 f_insight-2: >-
   ### The Best Team – Foundation of Success
 
@@ -129,7 +129,7 @@ f_quote-2: >-
   …these principles become the basis of intentional actions and deep commitments
   that enable each person at every level of an organization to bring his or her
   best self to work.
-f_amazon-url: https://www.amazon.com/dp/1118999428/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118999428/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

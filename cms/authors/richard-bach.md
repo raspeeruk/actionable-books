@@ -1,17 +1,17 @@
 ---
 title: Richard Bach
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Richard-Bach/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Richard-Bach/'
 f_unique-id: '323'
 f_image:
   url: /assets/external/65d77a4346b4157301606756_richard-bach.jpeg
-  alt: null
+  alt: Richard Bach
 f_summaries:
   - cms/summaries/jonathan-livingston-seagull.md
 slug: richard-bach
 updated-on: '2024-02-23T13:30:30.945Z'
 created-on: '2024-02-22T16:45:55.261Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://www.richardbach.com
+f_website-2: 'http://www.richardbach.com'
 layout: '[authors].html'
 tags: authors
 ---

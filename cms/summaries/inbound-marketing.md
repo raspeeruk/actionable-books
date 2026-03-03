@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:16.714Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807dfeb4fd439cd757e4_inbound-marketing-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/inbound-marketing/
+  alt: Inbound Marketing book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/inbound-marketing/'
 f_author-plain-text: Brian Halligan
 f_author: cms/authors/brian-halligan.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -45,7 +45,7 @@ f_big-idea: >-
   to checking my email several times a day, I swing by Facebook, LinkedIn, and
   Twitter to see what’s new. Is your online life that different from mine?
   Probably not.
-f_quote-reference: \- Inbound Marketing, page xii
+f_quote-reference: '\- Inbound Marketing, page xii'
 f_insight-2: >-
   ### Convert, Convert, Convert
 
@@ -110,7 +110,7 @@ f_quote-2: >-
   "Inbound marketing is about getting found online, through search engines and
   on social networking sites that billions of people use to find answers each
   day."
-f_amazon-url: https://www.amazon.com/dp/1118896653/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118896653/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

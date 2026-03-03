@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:43.967Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806673685ce4f9a10f65_still-writing.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/still-writing/
+  alt: Still Writing book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/still-writing/'
 f_category-3: cms/summary-categories/self-management.md
 f_team-2: cms/team/kira-hug.md
 f_big-idea: >-
@@ -39,7 +39,7 @@ f_big-idea: >-
   When it comes to our creativity, I think experimenting with your own habits is
   integral to the process. So let’s view this as a lil’ game and see what
   happens, eh?
-f_quote-reference: \- Still Writing, page 1
+f_quote-reference: '\- Still Writing, page 1'
 f_insight-2: >-
   ### Make a mess
 
@@ -139,7 +139,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Everything you need to know about life can be learned from a genuine and
   ongoing attempt to write."
-f_amazon-url: https://www.amazon.com/dp/0802121403/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0802121403/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

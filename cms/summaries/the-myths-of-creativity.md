@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:03.614Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807bb881391585a592dd_mythsbook.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-myths-of-creativity/
+  alt: The Myths of Creativity book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-myths-of-creativity/'
 f_author-plain-text: David Burkus
 f_author: cms/authors/david-burkus.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -230,7 +230,7 @@ f_insight-1: >-
   o Reality: Most **people have a hard time seeing how the novel can be
   useful.** Innovative ideas are rejected all the time.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1118611144/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118611144/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

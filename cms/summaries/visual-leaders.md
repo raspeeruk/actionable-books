@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:20.024Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c29cdbb081a579805f_visual-leaders.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/visual-leaders/
+  alt: Visual Leaders book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/visual-leaders/'
 f_author-plain-text: David Sibbet
 f_author: cms/authors/david-sibbet.md
 f_category-3: cms/summary-categories/leadership.md
@@ -48,7 +48,7 @@ f_big-idea: >-
   acknowledge the different perspectives that participants bring to the
   discussion. Try it at your next meeting and see for yourself how the
   conversation changes.
-f_quote-reference: \- Visual Leaders, page 212
+f_quote-reference: '\- Visual Leaders, page 212'
 f_insight-2: >-
   ### Seeing is Believing
 
@@ -122,7 +122,7 @@ f_conclusion: >-
 f_quote-2: >-
   "It’s visualizing that can provide us a sense of the whole, while still
   honoring and even celebrating the details out of which the whole arises."
-f_amazon-url: https://www.amazon.com/dp/B00AQLCVLE/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00AQLCVLE/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7804e759822d9570422a0_the-spark-and-the-grind-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-spark-and-the-grind/
+  alt: The Spark and the Grind book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-spark-and-the-grind/'
 f_author-plain-text: Erik Wahl
 f_author: cms/authors/erik-wahl.md
 f_category-3: cms/summary-categories/self-management.md
@@ -35,7 +35,7 @@ f_big-idea: >-
   We all have a need to reach for our potential, and creativity is our greatest
   opportunity. We need to become attached to our work to develop mastery, and
   exercise passion and purpose each day to maintain this attachment.
-f_quote-reference: \- The Spark and the Grind, page 18
+f_quote-reference: '\- The Spark and the Grind, page 18'
 f_insight-2: >-
   ### Grinders: Defamiliarize the ordinary
 
@@ -106,7 +106,7 @@ f_quote-2: >-
   "…Your ideas, efforts, and creations rarely fall short because you aren’t
   intrinsically creative enough. They fall short because you either fail to
   grind your sparks or you fail to spark your grind."
-f_amazon-url: https://www.amazon.com/dp/0399564209/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0399564209/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

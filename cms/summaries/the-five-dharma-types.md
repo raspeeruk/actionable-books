@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:56.525Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b0445c05ffe59938c9_five-dharma-types-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-five-dharma-types/
+  alt: The Five Dharma Types book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-five-dharma-types/'
 f_author-plain-text: Simon Chokoisky
 f_author: cms/authors/simon-chokoisky.md
 f_category-3: cms/summary-categories/self-management.md
@@ -44,7 +44,7 @@ f_big-idea: >-
 
   5.  Capable of great service and self-sacrifice; powerful work ethic; deep
   sense of belonging; loyalty; strong likes and dislikes.
-f_quote-reference: \- The 5 Dharma Types, page 105
+f_quote-reference: '\- The 5 Dharma Types, page 105'
 f_insight-2: >-
   ### The Path to Devolution
 
@@ -134,7 +134,7 @@ f_conclusion: ''
 f_quote-2: >-
   "It is hard enough to do what you were born to do; why complicate it by trying
   to be someone else?"
-f_amazon-url: https://www.amazon.com/dp/1620552833/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1620552833/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

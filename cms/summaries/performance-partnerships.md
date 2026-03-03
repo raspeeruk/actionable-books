@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780b0759822d957045325_performance-partnerships-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/performance-partnerships/
+  alt: Performance Partnerships book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/performance-partnerships/'
 f_author-plain-text: Robert Glazer
 f_author: cms/authors/robert-glazer.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -66,7 +66,7 @@ f_big-idea: >-
   difficult) conversations will signal to everyone the expectations of
   transparency, but also set the stage to double down on good to great
   relationships.
-f_quote-reference: \- Performance Partnerships, location 532-534
+f_quote-reference: '\- Performance Partnerships, location 532-534'
 f_insight-2: >-
   ### Learn from Peers and Other Marketplaces
 
@@ -136,7 +136,7 @@ f_quote-2: >-
   "The future of affiliate marketing requires people to work together in a more
   transparent and partnership-oriented fashion, not opaquely and against one
   another’s interests."
-f_amazon-url: https://www.amazon.com/dp/1619615819/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1619615819/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

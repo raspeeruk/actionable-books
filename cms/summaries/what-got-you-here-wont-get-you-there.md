@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:07:20.730Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b72ea4a5ee78409542_what-got-you-here.jpeg
-  alt: null
+  alt: What Got You Here Won’t Get You There book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/what-got-you-here-wont-get-you-there/
 f_author-plain-text: Marshall Goldsmith
@@ -46,7 +46,7 @@ f_big-idea: >-
   habit we want to change. When you hold yourself accountable or ask for a
   colleague or a loved one to hold you accountable you will make leaps and
   bounds into improving upon the behaviour you wish to change.
-f_quote-reference: \- What Got You Here Won’t Get You There, page 198
+f_quote-reference: '\- What Got You Here Won’t Get You There, page 198'
 f_insight-2: >-
   ### Make a conscious effort to give recognition where it is due
 
@@ -102,7 +102,7 @@ f_quote-2: >-
   If you want to change anything about yourself, the best time to start is now.
   Ask yourself, ‘What am I willing to change now?’ Just do that. That’s more
   than enough."
-f_amazon-url: https://www.amazon.com/dp/1781250200/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1781250200/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

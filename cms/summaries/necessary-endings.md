@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:28.284Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802a99395c41bc21041b_87758447-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/necessary-endings/
+  alt: Necessary Endings book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/necessary-endings/'
 f_author-plain-text: Dr. Henry Cloud
 f_author: cms/authors/dr-henry-cloud.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -62,7 +62,7 @@ f_big-idea: >-
   This concept can apply at all levels in your life, from trimming unnecessary
   agenda items of a meeting, to helping a spouse overcome an addiction.
   Understanding how and what to prune will allow new growth to flourish.
-f_quote-reference: \- Necessary Endings, page 8
+f_quote-reference: '\- Necessary Endings, page 8'
 f_insight-2: >-
   ### The 3 Kinds of People: Wise, Foolish, and Evil
 
@@ -184,7 +184,7 @@ f_quote-2: >-
   "Being alive requires that we sometimes kill off things in which we were once
   invested, uproot what we previously nurtured, and tear down what we built for
   an earlier time."
-f_amazon-url: https://www.amazon.com/dp/0061777129/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0061777129/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

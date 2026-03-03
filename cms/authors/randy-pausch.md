@@ -1,17 +1,17 @@
 ---
 title: Randy Pausch
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Randy-Pausch/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Randy-Pausch/'
 f_unique-id: '665'
 slug: randy-pausch
 f_image:
   url: /assets/external/65d77a4118cded8270bc63a2_randypausch-lg-180x220.jpeg
-  alt: null
+  alt: Randy Pausch
 f_summaries:
   - cms/summaries/the-last-lecture.md
 updated-on: '2024-02-23T13:30:29.040Z'
 created-on: '2024-02-22T16:45:53.952Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://www.thelastlecture.com/
+f_website-2: 'http://www.thelastlecture.com/'
 layout: '[authors].html'
 tags: authors
 ---

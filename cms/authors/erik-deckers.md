@@ -1,18 +1,18 @@
 ---
 title: Erik Deckers
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Erik-Deckers/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Erik-Deckers/'
 f_unique-id: '105'
 f_image:
   url: /assets/external/65d779f2efb2acaa19ec7aab_erik_deckers.jpeg
-  alt: null
+  alt: Erik Deckers
 slug: erik-deckers
 f_summaries:
   - cms/summaries/branding-yourself.md
 updated-on: '2024-02-23T13:31:05.063Z'
 created-on: '2024-02-22T16:44:34.161Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/edeckers/
-f_website-2: http://erikdeckers.com/
+f_twitter-2: 'http://twitter.com/edeckers/'
+f_website-2: 'http://erikdeckers.com/'
 layout: '[authors].html'
 tags: authors
 ---

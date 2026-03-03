@@ -1,18 +1,18 @@
 ---
 title: Robert Biswas Diener
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Robert-Biswas-Diener/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Robert-Biswas-Diener/'
 f_unique-id: '768'
 f_image:
   url: /assets/external/65d77a4514858c8ad257a395_robert-biswas-diener-180x220.jpeg
-  alt: null
+  alt: Robert Biswas Diener
 slug: robert-biswas-diener
 f_summaries:
   - cms/summaries/the-upside-of-your-dark-side.md
 updated-on: '2024-02-23T13:30:48.377Z'
 created-on: '2024-02-22T16:45:57.877Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/biswasdiener/
-f_website-2: http://positiveacorn.com
+f_twitter-2: 'http://twitter.com/biswasdiener/'
+f_website-2: 'http://positiveacorn.com'
 layout: '[authors].html'
 tags: authors
 ---

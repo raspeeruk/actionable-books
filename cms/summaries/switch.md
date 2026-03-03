@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:45.199Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804cc35d7f017ded7690_switch_sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/switch/
+  alt: Switch book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/switch/'
 f_author-plain-text: Chip And Dan Heath
 f_author: cms/authors/chip-and-dan-heath.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -90,7 +90,7 @@ f_conclusion: >-
   also a second solid step in what (I hope) will be a long and illustrious
   career for both these gentlemen. Entertaining and actionable, _Switch_ and
   Made to Stick are about as good as it gets.
-f_amazon-url: https://www.amazon.com/dp/0385528752/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0385528752/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

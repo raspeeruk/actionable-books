@@ -1,18 +1,18 @@
 ---
 title: Daniel J. Levitin
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Daniel-J.-Levitin/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Daniel-J.-Levitin/'
 f_unique-id: '700'
 f_image:
   url: /assets/external/65d779da2544613a36abbd4b_daniel-levitin-180x220.jpeg
-  alt: null
+  alt: Daniel J. Levitin
 slug: daniel-j-levitin
 f_summaries:
   - cms/summaries/the-organized-mind.md
 updated-on: '2024-02-23T13:31:04.754Z'
 created-on: '2024-02-22T16:44:11.566Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/danlevitin/
-f_website-2: http://DanielLevitin.org
+f_twitter-2: 'http://twitter.com/danlevitin/'
+f_website-2: 'http://DanielLevitin.org'
 layout: '[authors].html'
 tags: authors
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:28.531Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78049e88f5f3f6bcbc0f6_new_passages.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/new-passages/
+  alt: New Passages book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/new-passages/'
 f_author-plain-text: Gail Sheehy
 f_author: cms/authors/gail-sheehy.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
@@ -36,7 +36,7 @@ f_big-idea: >-
   like now. It was comforting to read many others expressing that same
   sentiment. So I am renewed in my quest to discover what the definition of
   success is for me, for who I am now becoming.
-f_quote-reference: \- New Passages, page xi
+f_quote-reference: '\- New Passages, page xi'
 f_insight-2: >-
   ### Who is the real me now?
 
@@ -110,7 +110,7 @@ f_conclusion: >-
   transition, I’ll be prepared for that identity struggle and know what to do
   about it. Thank you Gail Sheehy!
 f_quote-2: '"On the other side we will be something else but we have no idea what."'
-f_amazon-url: https://www.amazon.com/dp/0345404459/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0345404459/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

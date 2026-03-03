@@ -1,10 +1,10 @@
 ---
 title: Jason Haber
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Jason-Haber/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Jason-Haber/'
 f_unique-id: '605'
 f_image:
   url: /assets/external/65d77a0642d7a6c66a2277c4_jason-haber-180x167.jpeg
-  alt: null
+  alt: Jason Haber
 f_summaries:
   - cms/summaries/the-business-of-good.md
 slug: jason-haber

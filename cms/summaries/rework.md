@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:37.635Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780442d3147c9543ad901_rework-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/rework/
+  alt: Rework book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/rework/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/12/ActionableBooks-Audio-ReWork.mp3
 f_author-plain-text: David Heinemeier Hansson
@@ -50,7 +50,7 @@ f_big-idea: >-
   forgone long-term planning and estimates. They’ve preferred to out-teach
   competitors, rather than outsell or outspend. They’ve lived by their own
   anti-real world advice and still remain profitable today.
-f_quote-reference: \- Rework, page 28
+f_quote-reference: '\- Rework, page 28'
 f_insight-2: >-
   ### How NOT to Grow Your Business
 
@@ -184,7 +184,7 @@ f_quote-2: >-
   "You don't need an MBA, a certificate, a fancy suit, a briefcase, or an
   above-average tolerance for risk. You just need an idea, a touch of
   confidence, and a push to get started."
-f_amazon-url: https://www.amazon.com/dp/0307463745/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0307463745/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

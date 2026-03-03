@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:17.113Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803ead5b1f46c9a64746_inside_apple.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/inside-apple/
+  alt: Inside Apple book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/inside-apple/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/01/ActionableBooks-Audio-Inside-Apple.mp3
 f_author-plain-text: Adam Lashinsky
@@ -142,7 +142,7 @@ f_insight-1: >-
   build the speed and creativity of a start-up, while retaining the stability of
   a corporation, into your own life as well as the one of your company’s?**
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/145551215X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/145551215X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

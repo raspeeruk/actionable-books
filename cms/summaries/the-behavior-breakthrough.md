@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:50.462Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c4124d447bdbf70db2_behavior-breakthrough.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-behavior-breakthrough/
+  alt: The Behavior Breakthrough book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-behavior-breakthrough/'
 f_author-plain-text: Steve Jacobs
 f_author: cms/authors/steve-jacobs.md
 f_category-3: cms/summary-categories/self-management.md
@@ -49,7 +49,7 @@ f_big-idea: >-
   success you could achieve if you identified your highest priorities and
   focused your energies on the one or two key behaviors that, if executed and
   rewarded consistently, would guarantee positive results! BRAVO! BRAVO!
-f_quote-reference: \- The Behavior Breakthrough, page 4
+f_quote-reference: '\- The Behavior Breakthrough, page 4'
 f_insight-2: >-
   ### Define Your IMPACT
 
@@ -168,7 +168,7 @@ f_quote-2: >-
   behavior, and significant results – those that confer a broad and significant
   competitive advantage – require the right new behaviors and the right few
   behaviors that endure over time."
-f_amazon-url: https://www.amazon.com/dp/B00D23GN9Y/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00D23GN9Y/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

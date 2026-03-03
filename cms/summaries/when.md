@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:21.885Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78060391413176f575d07_when-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/when/
+  alt: When book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/when/'
 f_author-plain-text: Daniel Pink
 f_author: cms/authors/daniel-pink.md
 f_category-3: cms/summary-categories/self-management.md
@@ -62,7 +62,7 @@ f_big-idea: >-
   endeavors may be better suited here. But you don’t always have a choice. We’ll
   talk more about what to do to protect yourself from the dangers of the trough
   in Gem #2.
-f_quote-reference: \- When, page 218
+f_quote-reference: '\- When, page 218'
 f_insight-2: >-
   ### Afternoons and Coffeespoons
 
@@ -167,7 +167,7 @@ f_conclusion: >-
 f_quote-2: >-
   “I used to believe that timing was everything. Now I believe that everything
   is timing.”
-f_amazon-url: https://www.amazon.com/dp/0735210624/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0735210624/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

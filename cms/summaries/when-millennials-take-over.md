@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780cda26ae26393f24e64_when-millennials-take-over-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/when-millennials-take-over/
+  alt: When Millennials Take Over book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/when-millennials-take-over/'
 f_category-3: cms/summary-categories/leadership.md
 f_team-2: cms/team/alyssa-burkus.md
 f_big-idea: >-
@@ -127,7 +127,7 @@ f_quote-2: >-
   "Millennials may not be the first generation to be frustrated with bureaucracy
   and hierarchy, but they are the first generation to have been given the tools,
   on a huge scale, to get around them."
-f_amazon-url: https://www.amazon.com/dp/B00TG1D4IE/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00TG1D4IE/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

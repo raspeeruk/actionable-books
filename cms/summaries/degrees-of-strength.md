@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:59.598Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d35b99037988915566ccc3_9780979376825_p0_v1_s114x166.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/degrees-of-strength/
+  alt: Degrees of Strength book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/degrees-of-strength/'
 f_author-plain-text: Craig Ross
 f_author: cms/authors/craig-ross.md
 f_category-3: cms/summary-categories/self-management.md
@@ -47,7 +47,7 @@ f_big-idea: >-
   problems or what’s working? Are you telling them what ‘not’ to do (don’t lose
   the sale) or what the real goal is (satisfy our customers and win their
   business)? Are you starting to see the mind shift you need to make?
-f_quote-reference: \- Degrees of Strength, page ix
+f_quote-reference: '\- Degrees of Strength, page ix'
 f_insight-2: >-
   ### Forward Focused Questions
 
@@ -145,7 +145,7 @@ f_quote-2: >-
   – or your family – had no weaknesses? Seriously – no joke: How would you lead
   if every strength and quality you needed for those around you to perform at
   higher levels already existed within them?"
-f_amazon-url: https://www.amazon.com/dp/0979376823/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0979376823/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

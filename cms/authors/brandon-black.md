@@ -1,11 +1,11 @@
 ---
 title: Brandon Black
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Brandon-Black/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Brandon-Black/'
 f_unique-id: '193'
 slug: brandon-black
 f_image:
   url: /assets/external/65d779c1177fb5ac608825a1_brandon-black-180x220.jpeg
-  alt: null
+  alt: Brandon Black
 f_summaries:
   - cms/summaries/ego-free-leadership.md
 updated-on: '2024-02-23T13:31:12.597Z'

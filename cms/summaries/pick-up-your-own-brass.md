@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:33.167Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780aa1ee6bba16c526d6b_106290525-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/pick-up-your-own-brass/
+  alt: Pick Up Your Own Brass book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/pick-up-your-own-brass/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/03/ActionableBooks-Audio-Pick-Up-Your-Own-Brass.mp3
 f_author-plain-text: Kathleen Mcchesney
@@ -154,7 +154,7 @@ f_insight-1: >-
   a meeting or just send a text, consider thoughtfully who will be listening, it
   just might change your message.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1597976830/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1597976830/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

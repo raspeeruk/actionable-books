@@ -1,10 +1,10 @@
 ---
 title: Riane Tennenhaus Eisler
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Riane-Tennenhaus-Eisler/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Riane-Tennenhaus-Eisler/'
 f_unique-id: '732'
 f_image:
   url: /assets/external/65d77a427ae3a87608551d18_raine.jpeg
-  alt: null
+  alt: Riane Tennenhaus Eisler
 slug: riane-tennenhaus-eisler
 f_summaries:
   - cms/summaries/the-real-wealth-of-nations.md

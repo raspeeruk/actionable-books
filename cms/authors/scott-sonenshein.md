@@ -1,18 +1,18 @@
 ---
 title: Scott Sonenshein
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Scott-Sonenshein/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Scott-Sonenshein/'
 f_unique-id: '544'
 f_image:
   url: /assets/external/65d77a4d9aefcd9e7575c1a1_scott-sonenshein-180x200.jpeg
-  alt: null
+  alt: Scott Sonenshein
 slug: scott-sonenshein
 f_summaries:
   - cms/summaries/stretch.md
 updated-on: '2024-02-23T13:31:33.583Z'
 created-on: '2024-02-22T16:46:05.568Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: https://www.facebook.com/ScottSonenshein/
-f_twitter-2: https://twitter.com/ScottSonenshein/
+f_facebook-2: 'https://www.facebook.com/ScottSonenshein/'
+f_twitter-2: 'https://twitter.com/ScottSonenshein/'
 layout: '[authors].html'
 tags: authors
 ---

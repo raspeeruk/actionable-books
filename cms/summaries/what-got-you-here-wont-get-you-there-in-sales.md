@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:07:21.255Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78035cc2cced2a36e52bd_what_got_you_here.jpeg
-  alt: null
+  alt: What Got You Here Won’t Get You There in Sales book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/what-got-you-here-wont-get-you-there-in-sales/
 f_podcast-url: >-
@@ -75,7 +75,7 @@ f_big-idea: >-
   _What Got You Here Won’t Get You There in Sales!_ dissects these habits and
   how they affect our ability to sell. We then learn how to identify one habit
   and break it – by stopping the behavior and engaging in follow-up coaching.
-f_quote-reference: \- What Got You Here, page 23
+f_quote-reference: '\- What Got You Here, page 23'
 f_insight-2: >-
   ### Getting Help, Getting Ideas, Getting There
 
@@ -148,7 +148,7 @@ f_quote-2: >-
   "The dynamics of buying and selling in the second decade of the new millennium
   demand a new paradigm, a new frame of reference, and a new way to understand
   and maintain readiness to buy."
-f_amazon-url: https://www.amazon.com/dp/0071773940/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071773940/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

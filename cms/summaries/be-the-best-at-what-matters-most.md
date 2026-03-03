@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7807b05ccf09631ea0266_be-the-best-at-what-matters-most.jpeg
-  alt: null
+  alt: Be The Best At What Matters Most book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/be-the-best-at-what-matters-most/
 f_author-plain-text: Joe Calloway
@@ -67,7 +67,7 @@ f_big-idea: >-
   that, if nothing else, this book will give you permission to let go of any
   ‘rules’ that you think you have to follow even if you know they aren’t a good
   fit for you… You are the expert. Do it your way.”
-f_quote-reference: \- Be The Best At What Matters Most, page 9
+f_quote-reference: '\- Be The Best At What Matters Most, page 9'
 f_insight-2: >-
   ### Simplify to Create a Force Multiplier
 
@@ -136,7 +136,7 @@ f_conclusion: >-
 f_quote-2: >-
   "If you do an extraordinary job at three or four things that matter most, not
   only will you succeed, you will likely succeed far beyond your expectations."
-f_amazon-url: https://www.amazon.com/dp/1118569873/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118569873/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

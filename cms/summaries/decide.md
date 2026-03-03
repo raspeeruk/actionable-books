@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:59.425Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807beadf9e5ad1507147_decide-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/decide/
+  alt: Decide book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/decide/'
 f_author-plain-text: Steve Mcclatchy
 f_author: cms/authors/steve-mcclatchy.md
 f_category-3: cms/summary-categories/self-management.md
@@ -42,7 +42,7 @@ f_big-idea: >-
   there is not really a mind-body connection, they are both part of the same
   system. If we disconnected them, neither one would work. Personal goals and
   work goals need to harmonize.
-f_quote-reference: \- Decide, page 20
+f_quote-reference: '\- Decide, page 20'
 f_insight-2: >-
   ### Create habits to support your goals
 
@@ -126,7 +126,7 @@ f_quote-2: >-
   everyone else. Personal leadership is doing what we don’t have to do to lead
   ourselves forward and grow each day. This is where we get our self-identity,
   and what differentiates us from others."
-f_amazon-url: https://www.amazon.com/dp/1118554388/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118554388/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

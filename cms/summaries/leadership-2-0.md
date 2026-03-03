@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:20.019Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c15e2fee3da799eca9_leadership_2.0.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/leadership-2-0/
+  alt: Leadership 2.0 book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/leadership-2-0/'
 f_author-plain-text: Jean Greaves
 f_author: cms/authors/jean-greaves.md
 f_category-3: cms/summary-categories/leadership.md
@@ -40,7 +40,7 @@ f_big-idea: >-
   finding or creating new and innovative ways to expand the boundaries of your
   leadership effectiveness. It’s about lifelong learning and development of
   ourselves and of those we lead.
-f_quote-reference: \- Leadership 2.0, page 11
+f_quote-reference: '\- Leadership 2.0, page 11'
 f_insight-2: >-
   ### Improve Your Self-Awareness
 
@@ -123,7 +123,7 @@ f_quote-2: >-
   "The moment leaders think they have nothing more to learn and have no
   obligation to help develop those they lead is the moment they ensure they’ll
   never know their true potential."
-f_amazon-url: https://www.amazon.com/dp/B00AG8FNFS/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00AG8FNFS/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

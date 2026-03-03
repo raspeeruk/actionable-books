@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:07:12.910Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78038f0b248a4671a1f8b_ultimate-blueprint-94x144.jpeg
-  alt: null
+  alt: The Ultimate Blueprint for an Insanely Successful Business book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-ultimate-blueprint-for-an-insanely-successful-business/
 f_author-plain-text: Keith J. Cunningham
@@ -37,7 +37,7 @@ f_big-idea: >-
   strategies taught in this book the business owner can become more competitive,
   add value, make better decisions, be more efficient, and ultimately make more
   money.
-f_quote-reference: \- The Ultimate Blueprint, page 2
+f_quote-reference: '\- The Ultimate Blueprint, page 2'
 f_insight-2: >-
   ### Revenues and Profits
 
@@ -115,7 +115,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The goal of owning a business isn’t just to be successful, it’s to be
   successful and stay that way."
-f_amazon-url: https://www.amazon.com/dp/098465920X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/098465920X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,10 +1,10 @@
 ---
 title: Frederic Laloux
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Frederic-Laloux/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Frederic-Laloux/'
 f_unique-id: '488'
 f_image:
   url: /assets/external/65d779f5bbdfd41533911eef_frederic-laloux-180x220.jpeg
-  alt: null
+  alt: Frederic Laloux
 f_summaries:
   - cms/summaries/reinventing-organizations.md
 slug: frederic-laloux

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:49.391Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a52a7f9d2c04d700ca_black-box-thinking-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/black-box-thinking/
+  alt: Black Box Thinking book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/black-box-thinking/'
 f_author-plain-text: Matthew Syed
 f_author: cms/authors/matthew-syed.md
 f_category-3: cms/summary-categories/self-management.md
@@ -41,7 +41,7 @@ f_big-idea: >-
   Cultivating a Growth Mindset ensures we reap the benefits of our mistakes.
   Rather than casting blame and punishing errors, we should openly accept
   mistakes, view them as a challenge and a key to progress.
-f_quote-reference: \- Black Box Thinking, page 31
+f_quote-reference: '\- Black Box Thinking, page 31'
 f_insight-2: >-
   ### Blaming increases mistakes and impedes learning and progress
 
@@ -122,7 +122,7 @@ f_quote-2: >-
   when we fail, but which we rarely exploit. It is about creating systems and
   cultures that enable organizations to learn from errors, rather than being
   threatened by them."
-f_amazon-url: https://www.amazon.com/dp/1591848229/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591848229/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

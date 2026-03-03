@@ -1,10 +1,10 @@
 ---
 title: Joel Raphaelson
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Joel-Raphaelson/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Joel-Raphaelson/'
 f_unique-id: '856'
 f_image:
   url: /assets/external/65d779a49c49c73f41478f48_author-large.png
-  alt: null
+  alt: Joel Raphaelson
 slug: joel-raphaelson
 f_summaries:
   - cms/summaries/writing-that-works.md

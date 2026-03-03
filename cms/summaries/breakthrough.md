@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:50.976Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780affde0fad249b0f167_breakthrough.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/breakthrough/
+  alt: Breakthrough! book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/breakthrough/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/11/ActionableBooks-Audio-Breakthrough.mp3
 f_author-plain-text: Alex Cornell
@@ -51,7 +51,7 @@ f_big-idea: >-
   and what I find works well is to read the documents, make some notes and then
   go for a walk. _Taking a walk is not my break – it’s part of my working
   process._
-f_quote-reference: \- Breakthrough!, book jacket
+f_quote-reference: '\- Breakthrough!, book jacket'
 f_insight-2: >-
   ### Fight It!
 
@@ -119,7 +119,7 @@ f_quote-2: >-
   striking at the worst moment, it can leave you feeling paralyzed and inept.
   Take solace in knowing that you are not alone: it happens to everyone and is
   an unavoidable part of the creative process."
-f_amazon-url: https://www.amazon.com/dp/1616890398/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1616890398/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

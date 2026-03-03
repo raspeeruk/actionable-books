@@ -1,17 +1,17 @@
 ---
 title: Joe Calloway
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Joe-Calloway/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Joe-Calloway/'
 f_unique-id: '75'
 slug: joe-calloway
 f_image:
   url: >-
     /assets/external/65d77a11f26fc2ba2dfb07a6_9adcda1baec16a5d26677cdfa25a08d9.png
-  alt: null
+  alt: Joe Calloway
 updated-on: '2024-02-23T13:30:55.127Z'
 created-on: '2024-02-22T16:45:05.940Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/joecalloway/
-f_website-2: http://joecalloway.com
+f_twitter-2: 'http://twitter.com/joecalloway/'
+f_website-2: 'http://joecalloway.com'
 layout: '[authors].html'
 tags: authors
 ---

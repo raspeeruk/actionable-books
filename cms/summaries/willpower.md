@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:23.490Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803d2a7f9d2c04d6ccba_willpower.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/willpower/
+  alt: Willpower book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/willpower/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/09/ActionableBooks-Audio-Willpower.mp3
 f_author-plain-text: John Tierney
@@ -136,7 +136,7 @@ f_conclusion: >-
   times we’re unable to help ourselves. If you’re interested in how to make
   discipline work naturally in your life, you need to check out Roy Baumeister
   and John Tierney’s _Willpower_.
-f_amazon-url: https://www.amazon.com/dp/0143122231/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0143122231/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:52.127Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809e04ee7820ceb33bab_challenger.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-challenger-sale/
+  alt: The Challenger Sale book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-challenger-sale/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/09/ActionableBooks-Audio-The-Challenger-Sale-2.mp3
 f_author-plain-text: Brent Adamson
@@ -87,7 +87,7 @@ f_big-idea: >-
   title of the book gave it away but yes, the Challenger. Shock of all shock, it
   was not the relationship builder that we had put our bets on for so long. They
   were the loser category!
-f_quote-reference: \- The Challenger Sale, page 15
+f_quote-reference: '\- The Challenger Sale, page 15'
 f_insight-2: >-
   ### What makes the rock stars rock?
 
@@ -171,7 +171,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Imagine a world where all your reps- or at least many more of them –
   performed like stars. What would that be worth to you?"
-f_amazon-url: https://www.amazon.com/dp/1591844355/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591844355/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

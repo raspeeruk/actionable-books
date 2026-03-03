@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:53.956Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b3bf6c5df855b673c3_the-daily-edge-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-daily-edge/
+  alt: The Daily Edge book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-daily-edge/'
 f_author-plain-text: David Horsager
 f_author: cms/authors/david-horsager.md
 f_category-3: cms/summary-categories/self-management.md
@@ -46,7 +46,7 @@ f_big-idea: >-
 
   4.  **Get feedback:** if you can’t determine when to stop, ask for an outside
   perspective.
-f_quote-reference: \- The Daily Edge, page 1
+f_quote-reference: '\- The Daily Edge, page 1'
 f_insight-2: >-
   ### Plan Tomorrow Today
 
@@ -112,7 +112,7 @@ f_quote-2: >-
   presentations and seminars have asked me to expand on this topic of
   productivity. Perhaps one of the reasons why my message is appealing is the
   simplicity of my approach."
-f_amazon-url: https://www.amazon.com/dp/1626565953/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1626565953/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

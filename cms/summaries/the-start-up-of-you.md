@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:11.024Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78045fdcd722e457fd403_startup-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-start-up-of-you/
+  alt: The Start-up of You book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-start-up-of-you/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/04/ActionableBooks-Audio-The-Start-Up-of-You.mp3
 f_author-plain-text: Ben Casnocha
@@ -63,7 +63,7 @@ f_big-idea: >-
   matter where it may take you. The two following Insights will make it easier
   for you to shift your thinking now, in order adapt your career later. Because
   chances are you will have to.
-f_quote-reference: \- The Start-up of You, front-cover flap
+f_quote-reference: '\- The Start-up of You, front-cover flap'
 f_insight-2: >-
   ### Learn Something New—On Your Own
 
@@ -158,7 +158,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The key is to manage your career as if it were a start-up business: a living,
   breathing, growing start-up of you."
-f_amazon-url: https://www.amazon.com/dp/0307888908/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0307888908/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

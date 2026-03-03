@@ -1,11 +1,11 @@
 ---
 title: Howard Aster
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Howard-Aster/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Howard-Aster/'
 f_unique-id: '50'
 slug: howard-aster
 f_image:
   url: /assets/external/65d779fefa40147c413b2c0e_howard_aster.jpeg
-  alt: null
+  alt: Howard Aster
 f_summaries:
   - cms/summaries/affinity-beyond-branding.md
 updated-on: '2024-02-23T13:31:18.559Z'

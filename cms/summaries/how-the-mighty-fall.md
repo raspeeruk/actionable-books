@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:12.852Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806cb881391585a58b3b_how_the_mighty_fall.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/how-the-mighty-fall/
+  alt: How the Mighty Fall book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/how-the-mighty-fall/'
 f_author-plain-text: Jim Collins
 f_author: cms/authors/jim-collins.md
 f_category-3: cms/summary-categories/leadership.md
@@ -117,7 +117,7 @@ f_conclusion: >-
   downs. Each goal we strive for, and then achieve, is but a resting place on
   the path to further greatness. By staying humble, focused and inquisitive, we
   have the power to reach and maintain great things. Enjoy the trip.
-f_amazon-url: https://www.amazon.com/dp/0977326411/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0977326411/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

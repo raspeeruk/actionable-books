@@ -1,16 +1,16 @@
 ---
 title: Donald Miller
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Donald-Miller/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Donald-Miller/'
 f_unique-id: '38'
 slug: donald-miller
 f_image:
   url: /assets/external/65d779ea11dff5449b6dc7ef_donald-miller-180x220.jpeg
-  alt: null
+  alt: Donald Miller
 updated-on: '2024-02-23T13:30:45.410Z'
 created-on: '2024-02-22T16:44:26.524Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/donaldmiller/
-f_website-2: http://storylineblog.com/
+f_twitter-2: 'http://twitter.com/donaldmiller/'
+f_website-2: 'http://storylineblog.com/'
 layout: '[authors].html'
 tags: authors
 ---

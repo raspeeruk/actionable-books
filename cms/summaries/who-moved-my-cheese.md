@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:22.250Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804c8f07fe5dc44caaba_who-moved-cheese-sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/who-moved-my-cheese/
+  alt: Who Moved My Cheese book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/who-moved-my-cheese/'
 f_author-plain-text: Spencer Johnson
 f_author: cms/authors/spencer-johnson.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -18,7 +18,7 @@ f_quote-reference: ''
 f_insight-2: ''
 f_insight-1: ''
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0399144463/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0399144463/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

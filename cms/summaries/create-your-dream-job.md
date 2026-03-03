@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:55.560Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780751d0bd5de4091f0b7_create-your-dream-job-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/create-your-dream-job/
+  alt: Create Your Dream Job book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/create-your-dream-job/'
 f_author-plain-text: Susan Katz
 f_author: cms/authors/susan-katz.md
 f_category-3: cms/summary-categories/self-management.md
@@ -71,7 +71,7 @@ f_big-idea: >-
   it’s important to be interesting in a job search, focusing too much on
   presenting yourself in this light can end up closing you off to new
   opportunities.
-f_quote-reference: \- Create Your Dream Job, page 83
+f_quote-reference: '\- Create Your Dream Job, page 83'
 f_insight-2: >-
   ### Start. And Don’t Stop.
 
@@ -138,7 +138,7 @@ f_conclusion: >-
 f_quote-2: >-
   “I am committed to the belief that everyone should have fulfilling work,
   because fulfilling work leads to fulfilled lives.”
-f_amazon-url: https://www.amazon.com/dp/0996675353/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0996675353/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

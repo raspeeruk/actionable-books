@@ -1,16 +1,16 @@
 ---
 title: Ryan Holiday
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Ryan-Holiday/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Ryan-Holiday/'
 f_unique-id: '194'
 f_image:
   url: /assets/external/65d77a4b479d84b9f25f8ee5_ryan-holiday-180x220.jpeg
-  alt: null
+  alt: Ryan Holiday
 slug: ryan-holiday
 updated-on: '2024-02-23T13:30:47.006Z'
 created-on: '2024-02-22T16:46:03.624Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/RyanHoliday/
-f_website-2: http://ryanholiday.net
+f_twitter-2: 'http://twitter.com/RyanHoliday/'
+f_website-2: 'http://ryanholiday.net'
 layout: '[authors].html'
 tags: authors
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:22.969Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b2c182e2f2aa98a11d_why-make-eagles-swim-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/why-make-eagles-swim/
+  alt: Why Make Eagles Swim? book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/why-make-eagles-swim/'
 f_author-plain-text: Bill Munn
 f_author: cms/authors/bill-munn.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -134,7 +134,7 @@ f_conclusion: >-
 f_quote-2: >-
   “We need a perspective on growth and development that’s focused on where we as
   well as others are naturally gifted.”
-f_amazon-url: https://www.amazon.com/dp/1626343365/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1626343365/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780c0f91f45c228072b00_reinventing-organizations-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/reinventing-organizations/
+  alt: Reinventing Organizations book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/reinventing-organizations/'
 f_author-plain-text: Frederic Laloux
 f_author: cms/authors/frederic-laloux.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -54,7 +54,7 @@ f_big-idea: >-
   organizations experimenting with and building organizations based on Teal are
   so important. This book really is an invitation—to consider the possibility of
   Teal and begin to think about how it might emerge—even in small ways.
-f_quote-reference: \- Reinventing Organizations, page 10
+f_quote-reference: '\- Reinventing Organizations, page 10'
 f_insight-2: >-
   ### Bringing All of You to Work
 
@@ -135,7 +135,7 @@ f_quote-2: >-
   to what’s possible. A book that shares how some companies have found ways to
   be truly powerful, soulful, and purposeful…and that invites you to imagine a
   new future for your organization."
-f_amazon-url: https://www.amazon.com/dp/2960133552/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/2960133552/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

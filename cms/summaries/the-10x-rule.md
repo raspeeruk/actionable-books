@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:47.134Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780540fab8426e4494839_10x_rule.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-10x-rule/
+  alt: The 10X Rule book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-10x-rule/'
 f_author-plain-text: Grant Cardone
 f_author: cms/authors/grant-cardone.md
 f_category-3: cms/summary-categories/self-management.md
@@ -45,7 +45,7 @@ f_big-idea: >-
   entrenched in and demand more. In order to live the life we want, rather than
   what is prescribed, we need to set limitations, work towards independence and
   utilize the ultimate currency of time and mobility.
-f_quote-reference: \- The 4-Hour Workweek, page 51
+f_quote-reference: '\- The 4-Hour Workweek, page 51'
 f_insight-2: >-
   ### Free Yourself Up
 
@@ -141,7 +141,7 @@ f_quote-2: >-
   "The fishing is best where the fewest go, and the collective insecurity of the
   world makes it easy for people to hit home runs while everyone else is aiming
   for base hits. There is just less competition for bigger goals"
-f_amazon-url: https://www.amazon.com/dp/0470627603/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470627603/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

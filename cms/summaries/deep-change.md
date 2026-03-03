@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:59.203Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78065c687d3e7e90f6327_deep-change.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/deep-change/
+  alt: Deep Change book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/deep-change/'
 f_author-plain-text: Robert E. Quinn
 f_author: cms/authors/robert-e-quinn.md
 f_category-3: cms/summary-categories/leadership.md
@@ -41,7 +41,7 @@ f_big-idea: >-
 
 
   The personal demand on the leader is the essence of deep change.
-f_quote-reference: \- Deep Change, page 165
+f_quote-reference: '\- Deep Change, page 165'
 f_insight-2: >-
   ### Competence can close down change
 
@@ -127,7 +127,7 @@ f_quote-2: >-
   "The land of excellence is safely guarded from unworthy intruders. At the
   gates stand two fearsome sentries – risk and learning. The keys to entrance
   are faith and courage."
-f_amazon-url: https://www.amazon.com/dp/0787902446/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0787902446/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

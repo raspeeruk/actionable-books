@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:06.281Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780964f1f96a38b49ab53_fearless-hr-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/fearless-hr/
+  alt: Fearless HR book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/fearless-hr/'
 f_author-plain-text: David Forman
 f_author: cms/authors/david-forman.md
 f_category-3: cms/summary-categories/leadership.md
@@ -39,7 +39,7 @@ f_big-idea: >-
   very large and it is malleable, controllable and can be improved” (19). The
   data is significant, and it shows that people are in fact an organization’s
   most important asset. They should be treated as such!
-f_quote-reference: \- Fearless HR, page 3
+f_quote-reference: '\- Fearless HR, page 3'
 f_insight-2: >-
   ### Explicit Knowledge and Tacit Knowledge
 
@@ -109,8 +109,8 @@ f_conclusion: >-
   thought leaders, it contains an amazing array of tools which one can come back
   to over and over again. If you are not yet a fearless, strategic, HR leader
   for your business, _Fearless HR_ can help you get there!
-f_quote-2: “This is a business book about HR, not an HR book about business.”
-f_amazon-url: https://www.amazon.com/dp/1514238004/?tag=actionableb08-20
+f_quote-2: '“This is a business book about HR, not an HR book about business.”'
+f_amazon-url: 'https://www.amazon.com/dp/1514238004/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

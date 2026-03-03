@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780c209562db3184806b6_secrets-of-closing-the-sale-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/secrets-of-closing-the-sale/
+  alt: Secrets of Closing the Sale book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/secrets-of-closing-the-sale/'
 f_author-plain-text: Zig Ziglar
 f_author: cms/authors/zig-ziglar.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -61,7 +61,7 @@ f_big-idea: >-
   that we know the words, we can learn to use them in a sale effectively. The
   key is mastering voice inflection and knowing how to use imagination. Find out
   how by reading the Insights.
-f_quote-reference: \- Secrets of Closing the Sale, page 26 and 42
+f_quote-reference: '\- Secrets of Closing the Sale, page 26 and 42'
 f_insight-2: >-
   ### Use Imagination to Evoke Expectations
 
@@ -159,7 +159,7 @@ f_conclusion: >-
 f_quote-2: >-
   "You can have everything in life you want if you will just help enough other
   people get what they want."
-f_amazon-url: https://www.amazon.com/dp/B00B856D16/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00B856D16/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

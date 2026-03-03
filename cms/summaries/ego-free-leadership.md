@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:03.484Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b5327de59b95779464_ego-free-leadership-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/ego-free-leadership/
+  alt: Ego Free Leadership book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/ego-free-leadership/'
 f_author-plain-text: Brandon Black
 f_author: cms/authors/brandon-black.md
 f_category-3: cms/summary-categories/leadership.md
@@ -40,7 +40,7 @@ f_big-idea: >-
   see their potential negative influence or impact on an organization based on
   their own ego and unconscious needs. Through open and honest reflection, they
   can identify and begin to work towards changing these habits.
-f_quote-reference: \- Ego Free Leadership, page xxii
+f_quote-reference: '\- Ego Free Leadership, page xxii'
 f_insight-2: >-
   ### The power of personal bias and self-fulfilling prophesies
 
@@ -143,7 +143,7 @@ f_quote-2: >-
   "Like most smart, self-aware, and highly successful executives, Brandon
   underestimated how his own ego-driven dysfunctions created a team and
   organizational culture that virtually guaranteed broader dysfunction."
-f_amazon-url: https://www.amazon.com/dp/1626343799/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1626343799/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

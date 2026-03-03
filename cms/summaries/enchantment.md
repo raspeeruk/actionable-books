@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:04.500Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809c445c05ffe5992708_enchantment-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/enchantment/
+  alt: Enchantment book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/enchantment/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/04/ActionableBooks-Audio-Enchantment.mp3
 f_author-plain-text: Guy Kawasaki
@@ -64,7 +64,7 @@ f_big-idea: >-
   You may believe deeply in your idea, but what about those on the receiving
   end? What are their current circumstances? What does it really take for them
   to shift from one entrenched habit to something radical and different?
-f_quote-reference: \- Enchantment, page xx
+f_quote-reference: '\- Enchantment, page xx'
 f_insight-2: >-
   ### Making Enchantment Endure
 
@@ -203,7 +203,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The greater your goals, the more you'll need to change people's hearts,
   minds, and actions."
-f_amazon-url: https://www.amazon.com/dp/1591843790/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591843790/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

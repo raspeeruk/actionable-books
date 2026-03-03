@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:47.599Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809dbf6c5df855b66794_accidental_creative.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-accidental-creative/
+  alt: The Accidental Creative book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-accidental-creative/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/12/ActionableBooks-Audio-The-Accidental-Creative.mp3
 f_author-plain-text: Todd Henry
@@ -53,7 +53,7 @@ f_big-idea: >-
   the Insights will help you to make the most of your time for maximum
   creativity. The latter group (aka, most of us) will be able to unleash the
   creative potential you didn’t realize was lurking inside you.
-f_quote-reference: \- The Accidental Creative, page 11
+f_quote-reference: '\- The Accidental Creative, page 11'
 f_insight-2: >-
   ### Study the Supertexts
 
@@ -138,7 +138,7 @@ f_quote-2: >-
   ideas is like trying to control the weather by staring at the clouds. Rather,
   you need to incorporate practices that instill a sense of structure, rhythm,
   and purpose into your life."
-f_amazon-url: https://www.amazon.com/dp/1591844010/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591844010/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

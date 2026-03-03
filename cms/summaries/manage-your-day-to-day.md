@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:25.132Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780926fb09c7aedcd617d_manage-your-day-to-day.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/manage-your-day-to-day/
+  alt: Manage Your Day-To-Day book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/manage-your-day-to-day/'
 f_author-plain-text: Jocelyn K. Glei
 f_author: cms/authors/jocelyn-k-glei.md
 f_category-3: cms/summary-categories/self-management.md
@@ -43,7 +43,7 @@ f_big-idea: >-
   be ideal to proactively schedule your time for writing in advance so that it
   is just inherently built into your schedule. This might at the same time every
   day or certain times each week.
-f_quote-reference: \- Manage Your Day-To-Day, page ii
+f_quote-reference: '\- Manage Your Day-To-Day, page ii'
 f_insight-2: >-
   ### Technology could be the common enemy
 
@@ -125,7 +125,7 @@ f_quote-2: >-
   "The right solution for you will always be personal – an idiosyncratic
   combination of strategies based on your own work demands, habits and
   preferences."
-f_amazon-url: https://www.amazon.com/dp/1477800670/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1477800670/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

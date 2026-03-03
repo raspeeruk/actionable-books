@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:19.399Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78040ae01b6ab310b8324_jony-ive.jpeg
-  alt: null
+  alt: 'Jony Ive: The Genius Behind Apple’s Greatest Products book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/jony-ive-the-genius-behind-apples-greatest-products/
 f_author-plain-text: Leander Kahney
@@ -42,7 +42,7 @@ f_big-idea: >-
   advertising strategy. This book confirms for me that we are headed in the
   right direction of thinking differently about our audience and ultimately
   adding an audience.
-f_quote-reference: \- Jony Ive, page 28
+f_quote-reference: '\- Jony Ive, page 28'
 f_insight-2: >-
   ### The art is in the simplicity
 
@@ -98,7 +98,7 @@ f_quote-2: >-
   struck [Jony Ive]; he felt an immediate connection to the machine and, more
   important, to the soul of the enterprise. It was the first time he felt the
   humanity of a product."
-f_amazon-url: https://www.amazon.com/dp/159184617X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/159184617X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

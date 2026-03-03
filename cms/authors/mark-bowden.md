@@ -1,18 +1,18 @@
 ---
 title: Mark Bowden
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Mark-Bowden/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Mark-Bowden/'
 f_unique-id: '843'
 f_image:
   url: /assets/external/65d77a29143e6badf58b4b70_markbowden.png
-  alt: null
+  alt: Mark Bowden
 slug: mark-bowden
 f_summaries:
   - cms/summaries/winning-body-language.md
 updated-on: '2024-02-23T13:30:41.851Z'
 created-on: '2024-02-22T16:45:29.319Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/truthplane/
-f_website-2: http://truthplane.com/home/people/mark-bowden/
+f_twitter-2: 'http://twitter.com/truthplane/'
+f_website-2: 'http://truthplane.com/home/people/mark-bowden/'
 layout: '[authors].html'
 tags: authors
 ---

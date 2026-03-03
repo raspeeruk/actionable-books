@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:24.152Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805ce5c7d0393961b618_make-it-stick-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/make-it-stick-2/
+  alt: Make it Stick book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/make-it-stick-2/'
 f_author-plain-text: Henry L. Roediger
 f_author: cms/authors/henry-l-roediger.md
 f_category-3: cms/summary-categories/self-management.md
@@ -54,7 +54,7 @@ f_big-idea: >-
   In summary, the harder it is to recall information you’ve learned the better!
   By doing so, it becomes more likely that we engrain that information into our
   brains for retrieval purposes and for longer periods of time.
-f_quote-reference: \- Make it Stick, page ix
+f_quote-reference: '\- Make it Stick, page ix'
 f_insight-2: >-
   ### Avoid illusions of knowing
 
@@ -121,7 +121,7 @@ f_conclusion: >-
   can be put to use right now everywhere learners, teachers, and trainers are at
   work,” advise the authors.
 f_quote-2: '"People generally are going about learning in the wrong ways."'
-f_amazon-url: https://www.amazon.com/dp/0674729013/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0674729013/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

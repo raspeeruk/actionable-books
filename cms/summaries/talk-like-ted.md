@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:45.599Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78080fa2506f22b866197_talk-like-ted.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/talk-like-ted/
+  alt: Talk Like TED book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/talk-like-ted/'
 f_author-plain-text: Carmine Gallo
 f_author: cms/authors/carmine-gallo.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -42,7 +42,7 @@ f_big-idea: >-
   chapter is about\] the speech would not have been so memorable or effective.”
   He makes a good case. Ultimately, the presentation serves the content. Have
   something to say and say it well.
-f_quote-reference: \- Talk Like TED, page 4
+f_quote-reference: '\- Talk Like TED, page 4'
 f_insight-2: >-
   ### Make it Multi-Sensory
 
@@ -111,7 +111,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The world was and still is clearly hungry for great ideas presented in an
   engaging way."
-f_amazon-url: https://www.amazon.com/dp/1250041120/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1250041120/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

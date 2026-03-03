@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:05.505Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805a09562db31847dbbc_execution.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/execution/
+  alt: Execution book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/execution/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/07/ActionableBooks-Audio-Execution.mp3
 f_author-plain-text: Larry Bossidy
@@ -52,7 +52,7 @@ f_big-idea: >-
   initial stages of setting up your new venture. A willingness to shoulder
   undesirable work and lead by example is a quality that is often over-promoted
   by many leaders but rarely exhibited in public.
-f_quote-reference: \- Execution, page 1
+f_quote-reference: '\- Execution, page 1'
 f_insight-2: >-
   ### Seeing It In Action
 
@@ -160,7 +160,7 @@ f_conclusion: >-
 f_quote-2: >-
   "My job at Honeywell International these days is to restore the discipline of
   execution to a company that had lost it."
-f_amazon-url: https://www.amazon.com/dp/0609610570/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0609610570/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

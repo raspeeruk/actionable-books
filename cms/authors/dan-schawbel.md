@@ -1,18 +1,18 @@
 ---
 title: Dan Schawbel
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Dan-Schawbel/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Dan-Schawbel/'
 f_unique-id: '474'
 f_image:
   url: /assets/external/65d779d7ece107615fe2a118_danschawbel.jpeg
-  alt: null
+  alt: Dan Schawbel
 slug: dan-schawbel
 f_summaries:
   - cms/summaries/promote-yourself.md
 updated-on: '2024-02-23T13:31:04.633Z'
 created-on: '2024-02-22T16:44:07.217Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/danschawbel/
-f_website-2: http://danschawbel.com/
+f_twitter-2: 'http://twitter.com/danschawbel/'
+f_website-2: 'http://danschawbel.com/'
 layout: '[authors].html'
 tags: authors
 ---

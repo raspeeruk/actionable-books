@@ -1,18 +1,18 @@
 ---
 title: Ed Wallace
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Ed-Wallace/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Ed-Wallace/'
 f_unique-id: '733'
 f_image:
   url: /assets/external/65d779eee1933dfafaa5e1a5_ed-wallace-180x220.jpeg
-  alt: null
+  alt: Ed Wallace
 slug: ed-wallace
 f_summaries:
   - cms/summaries/the-relationship-engine.md
 updated-on: '2024-02-23T13:30:47.699Z'
 created-on: '2024-02-22T16:44:30.878Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/relcapgroup/
-f_website-2: http://relationalcapitalgroup.com
+f_twitter-2: 'http://twitter.com/relcapgroup/'
+f_website-2: 'http://relationalcapitalgroup.com'
 layout: '[authors].html'
 tags: authors
 ---

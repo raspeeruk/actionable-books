@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:15.950Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805348a50b1aa4e423fa_thou_shall_prosper.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/thou-shall-prosper/
+  alt: Thou Shall Prosper book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/thou-shall-prosper/'
 f_author-plain-text: Rabbi Daniel Lapin
 f_author: cms/authors/rabbi-daniel-lapin.md
 f_category-3: cms/summary-categories/self-management.md
@@ -43,7 +43,7 @@ f_big-idea: >-
   noble** before you can hope to achieve success. Once you have this buy in, you
   begin to push yourself into new areas that before had mentally been
   unavailable to you.
-f_quote-reference: \- Thou Shall Prosper, page 19
+f_quote-reference: '\- Thou Shall Prosper, page 19'
 f_insight-2: >-
   ### Sabbath: Stop the pouring
 
@@ -121,7 +121,7 @@ f_quote-2: >-
   "Step one in the process of increasing your income is to begin wrapping
   yourself around these two related notions: 1) You are in business and 2) the
   occupation of business is moral, noble, and worthy."
-f_amazon-url: https://www.amazon.com/dp/0470485884/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470485884/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,18 +1,18 @@
 ---
 title: David Van Rooy
-f_original-url: https://www.actionablebooks.com/en-ca/authors/David-Van-Rooy/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/David-Van-Rooy/'
 f_unique-id: '802'
 slug: david-van-rooy
 f_image:
   url: /assets/external/65d779e6148bd60c93d7938d_david-van-rooy-180x220.jpeg
-  alt: null
+  alt: David Van Rooy
 f_summaries:
   - cms/summaries/trajectory.md
 updated-on: '2024-02-23T13:30:52.366Z'
 created-on: '2024-02-22T16:44:22.852Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/dlvanrooy/
-f_website-2: http://liveyourtrajectory.com/
+f_twitter-2: 'http://twitter.com/dlvanrooy/'
+f_website-2: 'http://liveyourtrajectory.com/'
 layout: '[authors].html'
 tags: authors
 ---

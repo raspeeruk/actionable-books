@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:41.899Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805523d6375759843bda_socialnomics-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/socialnomics/
+  alt: Socialnomics book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/socialnomics/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/08/AB-Letterhead-Socialnomics.pdf
 f_author-plain-text: Erik Qualman
@@ -84,7 +84,7 @@ f_big-idea: >-
   This is an intimate, personal way to connect with your customers – on their
   terms, and on topics they are genuinely interested in. It’s a radical shift in
   thinking, and requires a totally new mindset to be harnessed effectively.
-f_quote-reference: \- Socialnomics, page 219
+f_quote-reference: '\- Socialnomics, page 219'
 f_insight-2: >-
   ### Define It
 
@@ -174,7 +174,7 @@ f_conclusion: >-
   something. As Trip Advisor CEO Steve Kaufer states “The quickest death in this
   new world is deliberation rather than doing.” (_Socialnomics,_ page 204)
 f_quote-2: '"Build something from the user''s viewpoint, not the company''s viewpoint."'
-f_amazon-url: https://www.amazon.com/dp/0470638842/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470638842/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

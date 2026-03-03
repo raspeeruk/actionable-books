@@ -1,18 +1,18 @@
 ---
 title: Shirzad Chamine
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Shirzad-Chamine/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Shirzad-Chamine/'
 f_unique-id: '457'
 slug: shirzad-chamine
 f_image:
   url: /assets/external/65d77a50617bb3014a3c6c8e_shirzad-chamine.jpeg
-  alt: null
+  alt: Shirzad Chamine
 f_summaries:
   - cms/summaries/positive-intelligence.md
 updated-on: '2024-02-23T13:30:31.823Z'
 created-on: '2024-02-22T16:46:08.679Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/ShirzadPQ/
-f_website-2: http://www.PositiveIntelligence.com
+f_twitter-2: 'http://twitter.com/ShirzadPQ/'
+f_website-2: 'http://www.PositiveIntelligence.com'
 layout: '[authors].html'
 tags: authors
 ---

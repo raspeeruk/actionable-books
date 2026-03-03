@@ -1,18 +1,18 @@
 ---
 title: Alan Weiss
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Alan-Weiss/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Alan-Weiss/'
 f_unique-id: '385'
 f_image:
   url: /assets/external/65d779a94df57c64241a5631_alan-weiss1.jpeg
-  alt: null
+  alt: Alan Weiss
 slug: alan-weiss
 f_summaries:
   - cms/summaries/million-dollar-coaching.md
 updated-on: '2024-02-23T13:31:07.223Z'
 created-on: '2024-02-22T16:43:21.564Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/BentleyGTCSpeed/
-f_website-2: http://contrarianconsulting.com
+f_twitter-2: 'http://twitter.com/BentleyGTCSpeed/'
+f_website-2: 'http://contrarianconsulting.com'
 layout: '[authors].html'
 tags: authors
 ---

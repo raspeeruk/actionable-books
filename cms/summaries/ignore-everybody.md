@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:16.241Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c00408dd349467a464_ignore-everybody.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/ignore-everybody/
+  alt: Ignore Everybody book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/ignore-everybody/'
 f_author-plain-text: Hugh Macleod
 f_author: cms/authors/hugh-macleod.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -45,7 +45,7 @@ f_big-idea: >-
   point, having heard my graphic designer daughter frequently complain that
   “it’s hard to do ugly,” but if someone is paying you, you have less control of
   the end product.
-f_quote-reference: \- Ignore Everybody, page 35
+f_quote-reference: '\- Ignore Everybody, page 35'
 f_insight-2: >-
   ### When you are ready, it will happen
 
@@ -128,7 +128,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Companies that squelch creativity can no longer compete with companies that
   champion creativity."
-f_amazon-url: https://www.amazon.com/dp/9781591842/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/9781591842/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

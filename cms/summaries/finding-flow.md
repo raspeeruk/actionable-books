@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:06.747Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78051f916ebdfffffc19e_finding_flow-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/finding-flow/
+  alt: Finding Flow book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/finding-flow/'
 f_author-plain-text: Mihaly Csikszentmihalyi
 f_author: cms/authors/mihaly-csikszentmihalyi.md
 f_category-3: cms/summary-categories/self-management.md
@@ -51,7 +51,7 @@ f_big-idea: >-
 
   The following two Insights look at ways to increase the frequency of flow
   experiences in your life.
-f_quote-reference: \- Finding Flow, page 101
+f_quote-reference: '\- Finding Flow, page 101'
 f_insight-2: >-
   ### The First Half-Hour
 
@@ -138,7 +138,7 @@ f_quote-2: >-
   that this activity be as enjoyable and rewarding as possible. Yet many people
   feel that as long as they get decent pay and some security, it does not matter
   how boring or alienating their job is."
-f_amazon-url: https://www.amazon.com/dp/0465024114/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0465024114/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

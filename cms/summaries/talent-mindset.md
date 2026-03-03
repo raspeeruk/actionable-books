@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:45.524Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807367d3671dc03674ab_talent-mindset-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/talent-mindset/
+  alt: Talent Mindset book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/talent-mindset/'
 f_author-plain-text: Stacy Feiner
 f_author: cms/authors/stacy-feiner.md
 f_category-3: cms/summary-categories/leadership.md
@@ -129,7 +129,7 @@ f_conclusion: >-
   employee perks and traditional HR buzzwords and labels? Why do we continue to
   settle with simply meeting expectations in this area where it is clearly
   possible to exceed? Perhaps it is true that old habits die hard.
-f_amazon-url: https://www.amazon.com/dp/0990866408/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0990866408/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

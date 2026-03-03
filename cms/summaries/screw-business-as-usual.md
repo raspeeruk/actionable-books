@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:38.633Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809de71bbdd1f523469f_121202237-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/screw-business-as-usual/
+  alt: Screw Business As Usual book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/screw-business-as-usual/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/02/ActionableBooks-Audio-Screw-Business-as-Usual.mp3
 f_author-plain-text: Richard Branson
@@ -52,7 +52,7 @@ f_big-idea: >-
   through story – story after story after story. Their shoes aren’t the
   cheapest, and they’re not the most well made. But they come with an important
   story – one that’s easy to share, and easy to feel good about.
-f_quote-reference: \- Screw Business As Usual, page 147
+f_quote-reference: '\- Screw Business As Usual, page 147'
 f_insight-2: >-
   ### Stop Hiding
 
@@ -142,7 +142,7 @@ f_quote-2: >-
   "Camila and I have both been shaped by dyslexia. I've never regarded it as a
   disability, but as something that has forced me to engage with the world in a
   special way."
-f_amazon-url: https://www.amazon.com/dp/1591844347/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591844347/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

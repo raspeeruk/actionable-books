@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:59.328Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780ad529024c0144a4c0e_the-impulse-society-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-impulse-society/
+  alt: The Impulse Society book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-impulse-society/'
 f_author-plain-text: Paul Roberts
 f_author: cms/authors/paul-roberts.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -52,7 +52,7 @@ f_big-idea: >-
   individualized to particular groups of people. There is no one-size–fits-all
   post. I’ll have to divide my audience into groups of audiences and personalize
   my way into their worlds.
-f_quote-reference: \- The Impulse Society, page 231
+f_quote-reference: '\- The Impulse Society, page 231'
 f_insight-2: >-
   ### How Instant Gratification has Shaped Health Care
 
@@ -125,7 +125,7 @@ f_conclusion: >-
 f_quote-2: >-
   "We’ve gone from being members of a ‘whole society’ to being competitors in a
   race for individual gratification."
-f_amazon-url: https://www.amazon.com/dp/1608198146/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1608198146/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,18 +1,18 @@
 ---
 title: Peter Sims
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Peter-Sims/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Peter-Sims/'
 f_unique-id: '358'
 f_image:
   url: /assets/external/65d77a3ea64fc6cf837ff70d_peter_sims.jpeg
-  alt: null
+  alt: Peter Sims
 slug: peter-sims
 f_summaries:
   - cms/summaries/little-bets.md
 updated-on: '2024-02-23T13:30:48.762Z'
 created-on: '2024-02-22T16:45:50.840Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/petersims/
-f_website-2: http://petersims.com
+f_twitter-2: 'http://twitter.com/petersims/'
+f_website-2: 'http://petersims.com'
 layout: '[authors].html'
 tags: authors
 ---

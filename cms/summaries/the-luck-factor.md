@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:01.968Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780848f9ca28be98a9c5f_40121621-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-luck-factor/
+  alt: The Luck Factor book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-luck-factor/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/03/ActionableBooks-Audio-The-Luck-Factor.mp3
 f_author-plain-text: Dr Richard Wiseman
@@ -55,7 +55,7 @@ f_big-idea: >-
   Wiseman set out to prove it, conclusively. After years of research through
   thousands of case studies, he verified **4 principles which are fundamental
   indicators of luck.**
-f_quote-reference: \- The Luck Factor, page 165
+f_quote-reference: '\- The Luck Factor, page 165'
 f_insight-2: >-
   ### Luck School: Start with a Journal
 
@@ -177,7 +177,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Luck is not a magical ability or a gift from the gods. Instead, it is a state
   of mind―a way of thinking and behaving."
-f_amazon-url: https://www.amazon.com/dp/1401359418/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1401359418/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

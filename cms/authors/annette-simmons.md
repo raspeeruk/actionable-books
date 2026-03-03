@@ -1,16 +1,16 @@
 ---
 title: Annette Simmons
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Annette-Simmons/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Annette-Simmons/'
 f_unique-id: '752'
 f_image:
   url: /assets/external/65d779b21143440d0430e8c0_annette-simmons.jpeg
-  alt: null
+  alt: Annette Simmons
 slug: annette-simmons
 updated-on: '2024-02-23T13:31:12.265Z'
 created-on: '2024-02-22T16:43:30.787Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/TheStoryFactor/
-f_website-2: http://about.me/annettesimmons
+f_twitter-2: 'http://twitter.com/TheStoryFactor/'
+f_website-2: 'http://about.me/annettesimmons'
 layout: '[authors].html'
 tags: authors
 ---

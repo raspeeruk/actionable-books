@@ -1,18 +1,18 @@
 ---
 title: John Hope Bryant
-f_original-url: https://www.actionablebooks.com/en-ca/authors/John-Hope-Bryant/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/John-Hope-Bryant/'
 f_unique-id: '363'
 slug: john-hope-bryant
 f_image:
   url: /assets/external/65d77a139686175e352a1815_john-hope-bryant-lg-180x220.jpeg
-  alt: null
+  alt: John Hope Bryant
 f_summaries:
   - cms/summaries/love-leadership.md
 updated-on: '2024-02-23T13:31:23.669Z'
 created-on: '2024-02-22T16:45:08.196Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://www.facebook.com/johnhopebryant
-f_twitter-2: http://twitter.com/johnhopebryant/
+f_facebook-2: 'http://www.facebook.com/johnhopebryant'
+f_twitter-2: 'http://twitter.com/johnhopebryant/'
 layout: '[authors].html'
 tags: authors
 ---

@@ -1,17 +1,17 @@
 ---
 title: Arianna Huffington
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Arianna-Huffington/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Arianna-Huffington/'
 f_unique-id: '791'
 f_image:
   url: /assets/external/65d779b3409e26373a4cd8b4_arianna-huffington.png
-  alt: null
+  alt: Arianna Huffington
 slug: arianna-huffington
 f_summaries:
   - cms/summaries/thrive.md
 updated-on: '2024-02-23T13:30:26.214Z'
 created-on: '2024-02-22T16:43:31.748Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/ariannahuff/
+f_twitter-2: 'http://twitter.com/ariannahuff/'
 f_website-2: www.huffingtonpost.com
 layout: '[authors].html'
 tags: authors

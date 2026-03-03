@@ -1,18 +1,18 @@
 ---
 title: Donald Sull
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Donald-Sull/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Donald-Sull/'
 f_unique-id: '523'
 slug: donald-sull
 f_image:
   url: /assets/external/65d779ea806eaeecba7c24ee_donald-sull-180x220.jpeg
-  alt: null
+  alt: Donald Sull
 f_summaries:
   - cms/summaries/simple-rules.md
 updated-on: '2024-02-23T13:31:08.411Z'
 created-on: '2024-02-22T16:44:27.132Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/simple_rules/
-f_website-2: http://businessexperiments.org
+f_twitter-2: 'http://twitter.com/simple_rules/'
+f_website-2: 'http://businessexperiments.org'
 layout: '[authors].html'
 tags: authors
 ---

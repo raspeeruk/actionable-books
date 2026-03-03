@@ -1,11 +1,11 @@
 ---
 title: Curt Coffman
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Curt-Coffman/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Curt-Coffman/'
 f_unique-id: '226'
 slug: curt-coffman
 f_image:
   url: /assets/external/65d779d3466d4b466918cad9_curt-coffman-180x220.jpeg
-  alt: null
+  alt: Curt Coffman
 f_summaries:
   - cms/summaries/first-break-all-the-rules.md
 updated-on: '2024-02-23T13:31:27.580Z'

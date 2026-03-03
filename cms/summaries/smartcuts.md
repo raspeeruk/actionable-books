@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:41.359Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c738e9272e48f51169_smartcuts.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/smartcuts/
+  alt: Smartcuts book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/smartcuts/'
 f_author-plain-text: Shane Snow
 f_author: cms/authors/shane-snow.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -55,7 +55,7 @@ f_big-idea: >-
   targeted.
 
   9.  **10X thinking:** Have a noble big vision.
-f_quote-reference: \- Smartcuts, page 6
+f_quote-reference: '\- Smartcuts, page 6'
 f_insight-2: >-
   ### Superconnectors – you just might be the catalyst to something big!
 
@@ -128,7 +128,7 @@ f_conclusion: >-
   need to alter? What smartcuts do you need to add? To have the breakthrough
   change you desire, maybe you need to break some of the rules.
 f_quote-2: '"…the fastest route to success is never traditional…"'
-f_amazon-url: https://www.amazon.com/dp/B00IHZUTGA/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00IHZUTGA/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

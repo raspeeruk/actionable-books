@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:33.382Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780411a3802ce7ed1bc88_platform-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/platform/
+  alt: Platform book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/platform/'
 f_author-plain-text: Michael Hyatt
 f_author: cms/authors/michael-hyatt.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -41,7 +41,7 @@ f_big-idea: >-
   Apple’s success is in part thanks to these two factors: they have great
   products that exceeded everyone’s expectations and every time Steve Jobs
   spoke, his passion for their products was evident and therefore more “viral.”
-f_quote-reference: \- Platform, page xv
+f_quote-reference: '\- Platform, page xv'
 f_insight-2: >-
   ### Assemble a “Pit Crew”
 
@@ -147,7 +147,7 @@ f_quote-2: >-
   to say—through a blog, a seminar, a book, a song, a screenplay, a sermon, or a
   stage play—you are on stage. If you have something to sell—whether one-on-one,
   before a huge crowd, or on the Internet—you are also on a stage. "
-f_amazon-url: https://www.amazon.com/dp/159555503X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/159555503X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

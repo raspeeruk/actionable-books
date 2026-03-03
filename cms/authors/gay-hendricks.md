@@ -1,11 +1,11 @@
 ---
 title: Gay Hendricks
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Gay-Hendricks/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Gay-Hendricks/'
 f_unique-id: '600'
 slug: gay-hendricks
 f_image:
   url: /assets/external/65d779f65e1f87c361a22883_gay-hendricks.jpeg
-  alt: null
+  alt: Gay Hendricks
 f_summaries:
   - cms/summaries/the-big-leap.md
 updated-on: '2024-02-23T13:31:30.194Z'

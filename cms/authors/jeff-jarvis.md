@@ -1,18 +1,18 @@
 ---
 title: Jeff Jarvis
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Jeff-Jarvis/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Jeff-Jarvis/'
 f_unique-id: '477'
 f_image:
   url: /assets/external/65d77a0a7a1f0c5fa13c3c1f_jeff-jarvis-180x220.jpeg
-  alt: null
+  alt: Jeff Jarvis
 slug: jeff-jarvis
 f_summaries:
   - cms/summaries/public-parts.md
 updated-on: '2024-02-23T13:31:08.442Z'
 created-on: '2024-02-22T16:44:58.793Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/jeffjarvis/
-f_website-2: http://buzzmachine.com
+f_twitter-2: 'http://twitter.com/jeffjarvis/'
+f_website-2: 'http://buzzmachine.com'
 layout: '[authors].html'
 tags: authors
 ---

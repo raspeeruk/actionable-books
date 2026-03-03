@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:19.155Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780bd9b92e746e8688e99_turning_pro.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/turning-pro/
+  alt: Turning Pro book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/turning-pro/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/08/ActionableBooks-Audio-Turning-Pro.mp3
 f_author-plain-text: Steven Pressfield
@@ -50,7 +50,7 @@ f_big-idea: >-
 
   A pro’s life isn’t easier than an amateur’s. It’s not harder, either. But it
   is, most definitely, different.
-f_quote-reference: \- Turning Pro, page 5
+f_quote-reference: '\- Turning Pro, page 5'
 f_insight-2: >-
   ### Turning Pro is Simply a Change of Mind
 
@@ -152,7 +152,7 @@ f_quote-2: >-
   "Turning pro is not for everyone. We have to be a little crazy to do it, or
   even to want to. In many ways the passage chooses us; we don't choose it. We
   simply have no alternative."
-f_amazon-url: https://www.amazon.com/dp/1936891034/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1936891034/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

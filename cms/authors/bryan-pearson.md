@@ -1,18 +1,18 @@
 ---
 title: Bryan Pearson
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Bryan-Pearson/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Bryan-Pearson/'
 f_unique-id: '676'
 slug: bryan-pearson
 f_image:
   url: /assets/external/65d779c47e7e5a4951363cda_bryan-pearson1-180x142.jpeg
-  alt: null
+  alt: Bryan Pearson
 f_summaries:
   - cms/summaries/the-loyalty-leap.md
 updated-on: '2024-02-23T13:30:52.282Z'
 created-on: '2024-02-22T16:43:49.132Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/Pearson4Loyalty/
-f_website-2: http://loyalty.com
+f_twitter-2: 'http://twitter.com/Pearson4Loyalty/'
+f_website-2: 'http://loyalty.com'
 layout: '[authors].html'
 tags: authors
 ---

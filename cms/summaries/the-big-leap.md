@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:50.663Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780292f4b2fce280680b9_big-leap.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-big-leap/
+  alt: The Big Leap book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-big-leap/'
 f_author-plain-text: Gay Hendricks
 f_author: cms/authors/gay-hendricks.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
@@ -138,7 +138,7 @@ f_insight-1: >-
   I let myself feel it deeply for as long as I can (to increase tolerance for
   feeling good).
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0061735361/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0061735361/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

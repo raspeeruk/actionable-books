@@ -1,10 +1,10 @@
 ---
 title: Ashlee Vance
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Ashlee-Vance/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Ashlee-Vance/'
 f_unique-id: '195'
 f_image:
   url: /assets/external/65d779b4c76de5d596272053_ashlee-vance-180x220.jpeg
-  alt: null
+  alt: Ashlee Vance
 slug: ashlee-vance
 f_summaries:
   - cms/summaries/elon-musk.md

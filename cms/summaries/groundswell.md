@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:11.515Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78088f916ebdfffffe1b3_78380173-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/groundswell/
+  alt: Groundswell book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/groundswell/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/12/ActionableBooks-Audio-Groundswell.mp3
 f_author-plain-text: Charlene Li
@@ -42,7 +42,7 @@ f_big-idea: >-
   producers of the show. There are hundreds of these stories being created and
   distributed, and they cannot be ignored. To do so would be at your
   organization’s peril.
-f_quote-reference: \- Groundswell, page 9
+f_quote-reference: '\- Groundswell, page 9'
 f_insight-2: >-
   ### P.O.S.T.
 
@@ -124,7 +124,7 @@ f_quote-2: >-
   "The groundswell is a social trend in which people use technologies to get the
   things they need from each other, rather than from traditional institutions
   like corporations."
-f_amazon-url: https://www.amazon.com/dp/1422161986/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1422161986/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

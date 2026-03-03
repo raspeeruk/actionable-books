@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:52.282Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803b6dbd28b39d942a90_brain_that_chages_itself.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-brain-that-changes-itself/
+  alt: The Brain That Changes Itself book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-brain-that-changes-itself/'
 f_author-plain-text: Norman Doidge
 f_author: cms/authors/norman-doidge.md
 f_category-3: cms/summary-categories/self-management.md
@@ -68,7 +68,7 @@ f_big-idea: >-
 
   And there were two key factors that supported the rewiring of his brain. In
   fact, these two factors are essential for brain development.
-f_quote-reference: \- The Brain That Changes Itself, page 47
+f_quote-reference: '\- The Brain That Changes Itself, page 47'
 f_insight-2: >-
   ### As You Think, You Are
 
@@ -159,7 +159,7 @@ f_quote-2: >-
   "The brain Merzenich describes is not an inanimate vessel that we fill; rather
   it is more like a living creature with an appetite, one that can grow and
   change itself with proper nourishment and exercise."
-f_amazon-url: https://www.amazon.com/dp/0143113100/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0143113100/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

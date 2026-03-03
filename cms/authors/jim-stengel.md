@@ -1,18 +1,18 @@
 ---
 title: Jim Stengel
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Jim-Stengel/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Jim-Stengel/'
 f_unique-id: '267'
 f_image:
   url: /assets/external/65d77a12b26d4ee0b829acf3_jim-stengel.jpeg
-  alt: null
+  alt: Jim Stengel
 slug: jim-stengel
 f_summaries:
   - cms/summaries/grow.md
 updated-on: '2024-02-23T13:31:28.074Z'
 created-on: '2024-02-22T16:45:07.602Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: https://www.facebook.com/jimstengelideals
-f_twitter-2: http://twitter.com/jimstengel/
+f_facebook-2: 'https://www.facebook.com/jimstengelideals'
+f_twitter-2: 'http://twitter.com/jimstengel/'
 layout: '[authors].html'
 tags: authors
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:46.077Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d49b76cdf5e3a29eb7_all_in.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/all-in/
+  alt: All In book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/all-in/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/12/ActionableBooks-Audio-All-In.mp3
 f_author-plain-text: Adrian Gostick
@@ -45,7 +45,7 @@ f_big-idea: >-
 
   But first, they provide **3 questions to identify who believes** what in the
   first place.
-f_quote-reference: \- All In, page 4
+f_quote-reference: '\- All In, page 4'
 f_insight-2: >-
   ### 7 Steps to Create a Culture of Belief
 
@@ -130,7 +130,7 @@ f_quote-2: >-
   "'Do you believe I can cross the falls [Niagara] with this wheelbarrow?' he
   called out. 'Yes!' they yelled as one. 'Wonderful,' he said. 'Then who will
   get in?'"
-f_amazon-url: https://www.amazon.com/dp/B005UDIC70/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B005UDIC70/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

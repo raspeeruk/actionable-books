@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d78073029e815b3dc3b459_15-commitments-of-conscious-leadership-94x144.jpeg
-  alt: null
+  alt: The 15 Commitments of Conscious Leadership book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-15-commitments-of-conscious-leadership/
 f_author-plain-text: Diana Chapman
@@ -38,7 +38,7 @@ f_big-idea: >-
   the price you pay.” Words are like currency: the shorter the supply the
   greater the value. They can be used lavishly and foolishly, or with careful
   parsimony, but once used we cannot revoke them.
-f_quote-reference: \- The 48 Laws of Power, page xix
+f_quote-reference: '\- The 48 Laws of Power, page xix'
 f_insight-2: >-
   ### Get to Know People
 
@@ -102,7 +102,7 @@ f_quote-2: >-
   powerless, and powerlessness will make you miserable. Instead of struggling
   against the inevitable, instead of arguing and whining and feeling guilty, it
   is far better to excel at power.”
-f_amazon-url: https://www.amazon.com/dp/0990976904/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0990976904/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:10.115Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803c529024c0144a1a68_getting-to-yes-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/getting-to-yes/
+  alt: Getting to Yes book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/getting-to-yes/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/08/ActionableBooks-Audio-Getting-to-Yes.mp3
 f_author-plain-text: Roger Fisher And William Ury
@@ -42,7 +42,7 @@ f_big-idea: >-
   to identify a problem, their comment may come across a personal attack,
   leaving the other party feeling angry. In our two Insights below, we identify
   two valuable techniques to use in negotiation.
-f_quote-reference: \- Getting to Yes, page xvii
+f_quote-reference: '\- Getting to Yes, page xvii'
 f_insight-2: >-
   ### Develop your BATNA – Best Alternative To a Negotiated Agreement
 
@@ -170,7 +170,7 @@ f_insight-1: >-
   people involved in the negotiation.
 f_conclusion: ''
 f_quote-2: '"Like it or not, you are a negotiator. Negotiation is a fact of life."'
-f_amazon-url: https://www.amazon.com/dp/0143118757/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0143118757/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

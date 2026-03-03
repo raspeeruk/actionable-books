@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:21.988Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78028ad5b1f46c9a63d80_when-the-heart-waits.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/when-the-heart-waits/
+  alt: When the Heart Waits book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/when-the-heart-waits/'
 f_author-plain-text: Sue Monk Kidd
 f_author: cms/authors/sue-monk-kidd.md
 f_category-3: cms/summary-categories/self-management.md
@@ -47,7 +47,7 @@ f_big-idea: >-
   “Your joy is your sorrow unmasked”, wrote poet Gibran. As Monk Kidd puts it:
   “When the heart weeps for what it has lost, the spirit laughs for what it has
   found.”
-f_quote-reference: \- Rainer Maria Rilke, quoted in When the Heart Waits, page 3
+f_quote-reference: '\- Rainer Maria Rilke, quoted in When the Heart Waits, page 3'
 f_insight-2: >-
   ### Unfurling New Wings
 
@@ -132,7 +132,7 @@ f_insight-1: >-
   then?
 f_conclusion: ''
 f_quote-2: '"Patience is everything."'
-f_amazon-url: https://www.amazon.com/dp/0061144894/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0061144894/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

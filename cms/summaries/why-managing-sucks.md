@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:22.987Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807aef59090b11f8a5bd_managing_sucks.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/why-managing-sucks/
+  alt: Why Managing Sucks and How to Fix It book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/why-managing-sucks/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/ActionableBooks-Audio-Why-Managing-Sucks.mp3
 f_author-plain-text: Cali Ressler
@@ -36,7 +36,7 @@ f_big-idea: >-
 
 
   Still not convinced? Here’s how it can work.
-f_quote-reference: \- Why Managing Sucks, page 26
+f_quote-reference: '\- Why Managing Sucks, page 26'
 f_insight-2: >-
   ### No Results, No Job
 
@@ -110,7 +110,7 @@ f_conclusion: >-
   ROWE for your organization. Studies show ROWEs have significantly higher
   productivity and employee engagement, and can be a marketplace differentiator.
 f_quote-2: '"...work is something we do, not a place we go."'
-f_amazon-url: https://www.amazon.com/dp/1118426363/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118426363/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

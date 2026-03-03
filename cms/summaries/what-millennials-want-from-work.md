@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780365675061815c3ffd2_what-millennials-want-from-work-94x144.jpeg
-  alt: null
+  alt: What Millennials Want from Work book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/what-millennials-want-from-work/
 f_author-plain-text: Alec Levenson
@@ -52,7 +52,7 @@ f_big-idea: >-
 
   If building trust is the first step in attracting and retaining Millennials,
   how do you make that happen? Below are a few actionable strategies.
-f_quote-reference: \- What Millennials Want from Work, page 9
+f_quote-reference: '\- What Millennials Want from Work, page 9'
 f_insight-2: >-
   ### Provide opportunities for mentorship
 
@@ -148,7 +148,7 @@ f_quote-2: >-
   work with people they like and trust, have access to development and the
   opportunity to advance, are shown appreciation on a regular basis, and don’t
   have to leave."
-f_amazon-url: https://www.amazon.com/dp/0071842675/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071842675/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:04.103Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780511e0dea9899f8d96f_9780446698207_p0_v2_s114x166.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-no-asshole-rule/
+  alt: The No Asshole Rule book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-no-asshole-rule/'
 f_author-plain-text: Robert I. Sutton
 f_author: cms/authors/robert-i-sutton.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -49,7 +49,7 @@ f_big-idea: >-
   **Finally, employees that work for an asshole boss often take revenge against
   the company through less scrupulous means.** They get back by stealing from
   the company.
-f_quote-reference: \- The No Asshole Rule, page 24
+f_quote-reference: '\- The No Asshole Rule, page 24'
 f_insight-2: >-
   ### Containing Your Inner Asshole
 
@@ -123,7 +123,7 @@ f_insight-1: >-
   in the process of doing your job.
 f_conclusion: ''
 f_quote-2: '"The evidence is ironclad: there are a lot of assholes out there."'
-f_amazon-url: https://www.amazon.com/dp/0446698202/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0446698202/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

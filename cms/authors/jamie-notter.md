@@ -1,18 +1,18 @@
 ---
 title: Jamie Notter
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Jamie-Notter/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Jamie-Notter/'
 f_unique-id: '298'
 slug: jamie-notter
 f_summaries:
   - cms/summaries/humanize.md
 f_image:
   url: /assets/external/65d77a0378a8c67649939442_jamie_notter.jpeg
-  alt: null
+  alt: Jamie Notter
 updated-on: '2024-02-23T13:30:35.601Z'
 created-on: '2024-02-22T16:44:52.048Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/jamienotter/
-f_website-2: http://www.getmejamienotter.com
+f_twitter-2: 'http://twitter.com/jamienotter/'
+f_website-2: 'http://www.getmejamienotter.com'
 layout: '[authors].html'
 tags: authors
 ---

@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d78044029e815b3dc394b1_life-is-what-you-make-it-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/life-is-what-you-make-it/
+  alt: Life Is What You Make It book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/life-is-what-you-make-it/'
 f_author-plain-text: Peter Buffett
 f_author: cms/authors/peter-buffett.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -43,7 +43,7 @@ f_big-idea: >-
   acquire strength, patience, resilience, and self-knowledge. This
   self-actualization leads to a life of happiness and fulfillment independent of
   the random nature of the outside world.
-f_quote-reference: \- Life Is What You Make It, page 197-198
+f_quote-reference: '\- Life Is What You Make It, page 197-198'
 f_insight-2: >-
   ### Boldly Reconnect to the World
 
@@ -117,7 +117,7 @@ f_quote-2: >-
   made of? It’s made of our own unique mix of talents, inclinations, and
   passions. The treasure that can be unlocked by that key, and by that key only,
   is the version of success we define for ourselves.”
-f_amazon-url: https://www.amazon.com/dp/0307464725/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0307464725/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

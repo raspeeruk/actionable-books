@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780847434e224b36c147f_personal_development_for_smart_people.jpeg
-  alt: null
+  alt: Personal Development for Smart People book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/personal-development-for-smart-people-2/
 f_author-plain-text: Steve Pavlina
@@ -71,7 +71,7 @@ f_big-idea: >-
 
   Once we understand and embrace these three most basic principles, we can
   derive the other principles from them.
-f_quote-reference: \- Personal Development for Smart People, page xvii
+f_quote-reference: '\- Personal Development for Smart People, page xvii'
 f_insight-2: >-
   ### Intelligence is the Sum of the Other Six Building Blocks
 
@@ -144,7 +144,7 @@ f_quote-2: >-
   "Finding the hidden order behind all conscious human development is extremely
   difficult because the solutions have to be fairly general and abstract, but it
   must also have abundant practical applications."
-f_amazon-url: https://www.amazon.com/dp/1401922767/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1401922767/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:27.954Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780cbab601995e06fe89b_moving-the-needle-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/moving-the-needle/
+  alt: Moving the Needle book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/moving-the-needle/'
 f_author-plain-text: Joe Sweeney
 f_author: cms/authors/joe-sweeney.md
 f_category-3: cms/summary-categories/self-management.md
@@ -56,7 +56,7 @@ f_big-idea: >-
   So when you’ve achieved clarity and figured out what is truly important to
   you, then you are ready to take action by freeing yourself from whatever
   obstacles stand in your way.
-f_quote-reference: \- Moving the Needle, page 19
+f_quote-reference: '\- Moving the Needle, page 19'
 f_insight-2: >-
   ### Differentiate yourself
 
@@ -119,7 +119,7 @@ f_quote-2: >-
   "Fostering a creative awareness or mindfulness, about where you are, what you
   are doing, and where you are going is an important step in getting clear and
   having an organized and productive life."
-f_amazon-url: https://www.amazon.com/dp/B00P0YKQ7I/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00P0YKQ7I/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780770882405b4cf10a47_outthink-the-competition-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/outthink-the-competition/
+  alt: Outthink the Competition book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/outthink-the-competition/'
 f_author-plain-text: Kaihan Krippendorff
 f_author: cms/authors/kaihan-krippendorff.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -93,7 +93,7 @@ f_big-idea: >-
   copy within 4 years, 2 – competition will take five years or longer to copy).
   Any organization can leverage multiple options in each of these 8 dimensions
   to create a competitive advantage and set themselves up for success.
-f_quote-reference: \- Outthink the Competition, page 7
+f_quote-reference: '\- Outthink the Competition, page 7'
 f_insight-2: >-
   ### Act differently: make it happen
 
@@ -209,7 +209,7 @@ f_quote-2: >-
   outthinkers. Outthinkers step outside of the accepted paradigms in which
   thinkers operate. They act differently because they see the world
   differently."
-f_amazon-url: https://www.amazon.com/dp/1118105087/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118105087/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

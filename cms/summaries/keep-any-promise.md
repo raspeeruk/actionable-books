@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:19.338Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78059db928dde1f0f1cce_keep-any-promise.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/keep-any-promise/
+  alt: Keep ANY Promise book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/keep-any-promise/'
 f_author-plain-text: Karim H. Ismail
 f_author: cms/authors/karim-h-ismail.md
 f_category-3: cms/summary-categories/self-management.md
@@ -127,7 +127,7 @@ f_conclusion: >-
   success. The message of _Keep Any Promise_ highlights that we all face
   struggles and we are all individually capable which is really the common
   ground uniting all humanity and perhaps even the universe.
-f_amazon-url: https://www.amazon.com/dp/0595467059/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0595467059/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

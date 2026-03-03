@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:06.426Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780317434e224b36bed62_feminist-fight-club-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/feminist-fight-club/
+  alt: Feminist Fight Club book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/feminist-fight-club/'
 f_author-plain-text: Jessica Bennett
 f_author: cms/authors/jessica-bennett.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -46,7 +46,7 @@ f_big-idea: >-
   to change those behaviors. Sexism and bias in the workplace can be subtle and
   insidious. By simply becoming more aware of the way it can manifest in the
   workplace, you can start to contribute to a solution.
-f_quote-reference: \- Feminist Fight Club, page xvi
+f_quote-reference: '\- Feminist Fight Club, page xvi'
 f_insight-2: >-
   ### Pay Me!
 
@@ -139,7 +139,7 @@ f_quote-2: >-
   land mines at seemingly every turn—and often ones we didn’t even know existed.
   It was like trying to dodge the stench that lurks on a New York City street on
   a hot summer night: there you were, minding your own business, and BAM.”
-f_amazon-url: https://www.amazon.com/dp/0062439782/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062439782/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

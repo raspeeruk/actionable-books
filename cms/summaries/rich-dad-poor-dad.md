@@ -1,6 +1,6 @@
 ---
 f_unique-number: 590
-title: Rich Dad, Poor Dad
+title: 'Rich Dad, Poor Dad'
 slug: rich-dad-poor-dad
 updated-on: '2024-02-27T20:30:04.285Z'
 created-on: '2024-02-22T16:06:37.678Z'
@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780262ebc9b7d62b31811_rich-dad-poor-dad-cover-sm-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/rich-dad-poor-dad/
+  alt: 'Rich Dad, Poor Dad book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/rich-dad-poor-dad/'
 f_author-plain-text: Robert T. Kiyosaki
 f_author: cms/authors/robert-t-kiyosaki.md
 f_category-3: cms/summary-categories/self-management.md
@@ -19,7 +19,7 @@ f_quote-reference: ''
 f_insight-2: ''
 f_insight-1: ''
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/044656740X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/044656740X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

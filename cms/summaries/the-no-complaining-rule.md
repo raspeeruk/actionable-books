@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:04.154Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d62ebc9b7d62b379eb_the-no-complaining-rule.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-no-complaining-rule/
+  alt: The No Complaining Rule book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-no-complaining-rule/'
 f_author-plain-text: Jon Gordon
 f_author: cms/authors/jon-gordon.md
 f_category-3: cms/summary-categories/self-management.md
@@ -46,7 +46,7 @@ f_big-idea: >-
   helplessness can stem from a lack of communication or understanding. The habit
   occurs after seeing how everyone else joins in once someone starts
   complaining. Misery does love company. How then can you break the habit?
-f_quote-reference: \- The No Complaining Rule, page 41
+f_quote-reference: '\- The No Complaining Rule, page 41'
 f_insight-2: >-
   ### Turn complaints into solutions
 
@@ -108,7 +108,7 @@ f_quote-2: >-
   success and the negative road will lead to misery, anger, and failure. Since
   your bus can’t be on two roads at the same time, you must decide which road
   you want to be on. And when you complain, you travel down the negative road."
-f_amazon-url: https://www.amazon.com/dp/B008L01BVI/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B008L01BVI/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

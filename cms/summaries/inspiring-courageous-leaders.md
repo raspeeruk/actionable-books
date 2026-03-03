@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780cdd33c7df02ee18322_inspiring-courageous-leaders-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/inspiring-courageous-leaders/
+  alt: Inspiring Courageous Leaders book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/inspiring-courageous-leaders/'
 f_author-plain-text: Mandy Holloway
 f_author: cms/authors/mandy-holloway.md
 f_category-3: cms/summary-categories/leadership.md
@@ -40,7 +40,7 @@ f_big-idea: >-
   action and producing outcomes that are in line with our sense of purpose. To
   develop this self-awareness we must also be courageous in seeking feedback
   from those around us to create our own personal learning agenda.
-f_quote-reference: \- Inspiring Courageous Leaders, page 9
+f_quote-reference: '\- Inspiring Courageous Leaders, page 9'
 f_insight-2: >-
   ### There is always room for improvement
 
@@ -143,7 +143,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The world needs leaders to stand up for what they believe in, stay true to
   their values and have the courage to say no when something is not right."
-f_amazon-url: https://www.amazon.com/dp/B00TJUMZGO/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00TJUMZGO/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

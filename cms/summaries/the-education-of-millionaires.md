@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:55.131Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d939068c80d9174dfc_the-education-of-millionaires.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-education-of-millionaires/
+  alt: The Education of Millionaires book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-education-of-millionaires/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/12/ActionableBooks-Audio-The-Education-of-Millionaires.mp3
 f_author-plain-text: Michael Ellsberg
@@ -59,7 +59,7 @@ f_big-idea: >-
 
 
   Was university-based education failing to prepare us for the real-world?
-f_quote-reference: \- The Education of Entrepreneurs, page 7
+f_quote-reference: '\- The Education of Entrepreneurs, page 7'
 f_insight-2: >-
   ### Refocusing our Lenses
 
@@ -175,7 +175,7 @@ f_quote-2: >-
   the skills in this book well is a necessary addition to a college education,
   if you want to achieve more success in your work and life. This book shows you
   the way."
-f_amazon-url: https://www.amazon.com/dp/B0085RZKVE/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B0085RZKVE/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

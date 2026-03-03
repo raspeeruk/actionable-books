@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7809b759822d9570448e9_i-love-you-more-than-my-dog-tiny-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/i-love-you-more-than-my-dog/
+  alt: I Love You More Than My Dog book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/i-love-you-more-than-my-dog/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2010/11/Actionable-Books-Audio-ILYMTMD.mp3
 f_author-plain-text: Jeanne Bliss
@@ -44,7 +44,7 @@ f_big-idea: >-
   If we want to stand out from our competitors, we need to allow our people –
   the face(s) of our company – to flourish and be real. People go to Starbucks
   for the experience, not for the coffee.
-f_quote-reference: \- I Love You More Than My Dog, page 8
+f_quote-reference: '\- I Love You More Than My Dog, page 8'
 f_insight-2: >-
   ### How long does the warm feeling last?
 
@@ -152,7 +152,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Customers admire the beloved companies for how they are treated, not for how
   they are handled."
-f_amazon-url: https://www.amazon.com/dp/1591842956/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591842956/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

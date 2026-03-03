@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:48.009Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780913b62b64863dc0670_the-art-of-asking.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-art-of-asking/
+  alt: The Art of Asking book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-art-of-asking/'
 f_author-plain-text: Amanda Palmer
 f_author: cms/authors/amanda-palmer.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -30,7 +30,7 @@ f_big-idea: >-
   stakes are lower because we trust that the people we are asking will respond
   compassionately. Asking is an act of exchange, reciprocity, comfort, love and
   vulnerability. When we truly ask, we experience human connection.
-f_quote-reference: \- The Art of Asking, page 252
+f_quote-reference: '\- The Art of Asking, page 252'
 f_insight-2: >-
   ### Minimal DIY versus Maximal DIY
 
@@ -86,7 +86,7 @@ f_conclusion: >-
   look at community, gratitude and help. Palmer is doing her part to make it
   okay for all of us to ask for anything.
 f_quote-2: '"You can fix almost anything by authentically communicating."'
-f_amazon-url: https://www.amazon.com/dp/1455581089/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1455581089/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

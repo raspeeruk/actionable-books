@@ -1,16 +1,16 @@
 ---
 title: Frans Johansson
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Frans-Johansson/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Frans-Johansson/'
 f_unique-id: '611'
 f_image:
   url: /assets/external/65d779f45ac6651f3f176e80_frans.jpeg
-  alt: null
+  alt: Frans Johansson
 slug: frans-johansson
 updated-on: '2024-02-23T13:31:26.540Z'
 created-on: '2024-02-22T16:44:36.888Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: https://www.facebook.com/frans.johansson.author
-f_twitter-2: http://twitter.com/Frans_Johansson/
+f_facebook-2: 'https://www.facebook.com/frans.johansson.author'
+f_twitter-2: 'http://twitter.com/Frans_Johansson/'
 layout: '[authors].html'
 tags: authors
 ---

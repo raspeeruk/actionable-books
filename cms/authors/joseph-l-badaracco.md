@@ -1,10 +1,10 @@
 ---
 title: Joseph L. Badaracco
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Joseph-L.-Badaracco/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Joseph-L.-Badaracco/'
 f_unique-id: '653'
 f_image:
   url: /assets/external/65d77a19a4f705134a2c6bf1_joseph-badaracco.jpeg
-  alt: null
+  alt: Joseph L. Badaracco
 slug: joseph-l-badaracco
 f_summaries:
   - cms/summaries/the-good-struggle.md

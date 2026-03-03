@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:43.102Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78057a26ae26393f21927_steal-the-show-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/steal-the-show/
+  alt: Steal the Show book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/steal-the-show/'
 f_author-plain-text: Michael Port
 f_author: cms/authors/michael-port.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -52,7 +52,7 @@ f_big-idea: >-
   all the answers or solutions. Admitting you don’t know something can increase
   your credibility with the audience. A great place to start boosting your
   credibility is through improvisation.
-f_quote-reference: \- Steal the Show, page 36
+f_quote-reference: '\- Steal the Show, page 36'
 f_insight-2: >-
   ### Be in the Moment
 
@@ -112,7 +112,7 @@ f_quote-2: >-
   “Always focus on the outcome you want to achieve in a meeting, interview, or
   negotiation rather than how you think you’re doing and what you think people
   will think of you.”
-f_amazon-url: https://www.amazon.com/dp/0544800842/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0544800842/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

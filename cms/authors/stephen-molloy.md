@@ -1,11 +1,11 @@
 ---
 title: Stephen Molloy
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Stephen-Molloy/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Stephen-Molloy/'
 f_unique-id: '64'
 slug: stephen-molloy
 f_image:
   url: /assets/external/65d77a53f26fc2ba2dfb3180_stephen-molloy-180x220.jpeg
-  alt: null
+  alt: Stephen Molloy
 f_summaries:
   - cms/summaries/appvertising.md
 updated-on: '2024-02-23T13:31:19.207Z'

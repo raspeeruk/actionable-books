@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:56.761Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780bef6702f0b878cab75_five-levels-of-attachment.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-five-levels-of-attachment/
+  alt: The Five Levels of Attachment book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-five-levels-of-attachment/'
 f_author-plain-text: Carol-Ann Hamilton
 f_author: cms/authors/don-miguel-ruiz-jr.md
 f_category-3: cms/summary-categories/self-management.md
@@ -57,7 +57,7 @@ f_big-idea: >-
   imagine the effects of believing any extreme idea in the realms of religion,
   politics, money, power or otherwise upon our collective consciousness (which
   he calls The Dream of The Planet).
-f_quote-reference: \- The Five Levels of Attachment, page 67
+f_quote-reference: '\- The Five Levels of Attachment, page 67'
 f_insight-2: >-
   ### Discovering the Foundation of Your Beliefs
 
@@ -125,7 +125,7 @@ f_insight-1: >-
   belief no longer serves us.
 f_conclusion: ''
 f_quote-2: '"Is knowledge controlling you, or are you controlling knowledge?"'
-f_amazon-url: https://www.amazon.com/dp/1938289080/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1938289080/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

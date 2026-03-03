@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:58.457Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78048b881391585a57225_david-and-goliath.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/david-and-goliath/
+  alt: David and Goliath book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/david-and-goliath/'
 f_author-plain-text: Malcolm Gladwell
 f_author: cms/authors/malcolm-gladwell.md
 f_category-3: cms/summary-categories/self-management.md
@@ -57,7 +57,7 @@ f_big-idea: >-
 
 
   And when they succeed, it’s a success we couldn’t conceive.
-f_quote-reference: \- David and Goliath, page 22
+f_quote-reference: '\- David and Goliath, page 22'
 f_insight-2: >-
   ### Better to Be a Big Fish in a Small Pond
 
@@ -156,7 +156,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Why do we automatically assume that someone who is smaller or poorer or less
   skilled is necessarily at a disadvantage?"
-f_amazon-url: https://www.amazon.com/dp/0316204366/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0316204366/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

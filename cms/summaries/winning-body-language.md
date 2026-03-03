@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:23.638Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803497d45cdc3efa4b13_9780071700573_p0_v1_s114x166.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/winning-body-language/
+  alt: Winning Body Language book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/winning-body-language/'
 f_author-plain-text: Mark Bowden
 f_author: cms/authors/mark-bowden.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -47,7 +47,7 @@ f_big-idea: >-
   “truth”, below the waist is “grotesque” (from the word cave or meaning hidden
   and thus untrustworthy). So, keep these planes in mind when you move your
   hands. What are you trying to communicate?
-f_quote-reference: \- Winning Body Language, page 7
+f_quote-reference: '\- Winning Body Language, page 7'
 f_insight-2: >-
   ### Do you really mean it?
 
@@ -141,7 +141,7 @@ f_conclusion: >-
 f_quote-2: >-
   "It is not what you say that matters but the manner in which you say it; there
   lies the secret of the ages."
-f_amazon-url: https://www.amazon.com/dp/0071700579/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071700579/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

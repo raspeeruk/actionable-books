@@ -1,18 +1,18 @@
 ---
 title: Dr. Tim Baker
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Dr.-Tim-Baker/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Dr.-Tim-Baker/'
 f_unique-id: '636'
 slug: dr-tim-baker
 f_image:
   url: /assets/external/65d779ef11fc1cf0a0006596_tim-baker.jpeg
-  alt: null
+  alt: Dr. Tim Baker
 f_summaries:
   - cms/summaries/the-end-of-the-performance-review.md
 updated-on: '2024-02-23T13:30:39.914Z'
 created-on: '2024-02-22T16:44:31.742Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/winnersatwork/
-f_website-2: http://winnersatwork.com.au
+f_twitter-2: 'http://twitter.com/winnersatwork/'
+f_website-2: 'http://winnersatwork.com.au'
 layout: '[authors].html'
 tags: authors
 ---

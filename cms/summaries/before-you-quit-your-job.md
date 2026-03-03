@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:48.448Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780514df109592f03c073_before-you-quit-your-job.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/before-you-quit-your-job/
+  alt: Before You Quit Your Job book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/before-you-quit-your-job/'
 f_author-plain-text: Robert T. Kiyosaki
 f_author: cms/authors/robert-t-kiyosaki.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -125,7 +125,7 @@ f_conclusion: >-
   Quit Your Job_ is a Robert Kiyosaki’s personal story of overcoming those
   doubts through careful planning and the right mindset. Definitely worth a
   read.
-f_amazon-url: https://www.amazon.com/dp/0446696374/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0446696374/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

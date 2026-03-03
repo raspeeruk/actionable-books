@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:45.680Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d066cf927e76acd657_taming-your-gremlin.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/taming-your-gremlin/
+  alt: Taming Your Gremlin book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/taming-your-gremlin/'
 f_author-plain-text: Rick Carson
 f_author: cms/authors/rick-carson.md
 f_category-3: cms/summary-categories/self-management.md
@@ -35,7 +35,7 @@ f_big-idea: >-
   are different sides of the same coin. As individuals we decide whether or not
   to take the adventurous route on this day or that day with no judgement about
   should or ought to.
-f_quote-reference: \- Taming Your Gremlin, page 129
+f_quote-reference: '\- Taming Your Gremlin, page 129'
 f_insight-2: >-
   ### Learning to love the dark
 
@@ -110,7 +110,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Like it or not you are, indeed, in charge. And if that realization has not
   left you shaking in your boots, then you have not fully had it."
-f_amazon-url: https://www.amazon.com/dp/B001ODEPM6/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B001ODEPM6/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

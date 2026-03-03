@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:55.862Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78025b974b768d91bfdd4_creative-confidence.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/creative-confidence/
+  alt: Creative Confidence book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/creative-confidence/'
 f_author-plain-text: David Kelley
 f_author: cms/authors/david-kelley.md
 f_category-3: cms/summary-categories/self-management.md
@@ -57,7 +57,7 @@ f_big-idea: >-
 
   **Maybe we ought to look at life more like a video game and try to master the
   highest level quickly, blasting through the failures as fast as we can.**
-f_quote-reference: \- Creative Confidence, page 32
+f_quote-reference: '\- Creative Confidence, page 32'
 f_insight-2: >-
   ### Stop Planning and Start Acting
 
@@ -157,7 +157,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Everything in modern society is the result of a collection of decisions made
   by someone. Why shouldn’t that someone be you?"
-f_amazon-url: https://www.amazon.com/dp/038534936X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/038534936X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

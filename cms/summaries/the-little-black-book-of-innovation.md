@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7808996875e3ddbe2fc4b_little_black_book_of_innovation.jpeg
-  alt: null
+  alt: The Little Black Book of Innovation book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-little-black-book-of-innovation/
 f_author-plain-text: Scott D. Anthony
@@ -43,7 +43,7 @@ f_big-idea: >-
   Pledge: “We hold these truths to be self-evident, that all have the ability to
   innovate, that they are endowed with certain unalienable capabilities, that
   among these are curiosity, creativity and the pursuit of growth.”
-f_quote-reference: \- Little Black Book of Innovation, page 15
+f_quote-reference: '\- Little Black Book of Innovation, page 15'
 f_insight-2: >-
   ### The 28-Day Challenge
 
@@ -142,7 +142,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Innovation – something different that has impact – is both more important and
   more accessible than ever before."
-f_amazon-url: https://www.amazon.com/dp/1422171728/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1422171728/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

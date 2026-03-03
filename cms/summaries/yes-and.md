@@ -1,14 +1,14 @@
 ---
 f_unique-number: 1135
-title: Yes, And
+title: 'Yes, And'
 slug: yes-and
 updated-on: '2024-02-27T20:30:10.275Z'
 created-on: '2024-02-22T16:07:24.725Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802e42b337f9acb00e0f_yes-and-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/yes-and/
+  alt: 'Yes, And book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/yes-and/'
 f_author-plain-text: Kelly Leonard
 f_author: cms/authors/kelly-leonard.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -31,7 +31,7 @@ f_big-idea: >-
   Improvisational listeners arrive prepared, but they quickly let go of ideas
   that don’t work and move in sync with ensemble members, clients and the
   environment.
-f_quote-reference: \- Yes, And, page 7
+f_quote-reference: '\- Yes, And, page 7'
 f_insight-2: >-
   ### Become fluent in speaking without words
 
@@ -104,7 +104,7 @@ f_conclusion: >-
 f_quote-2: >-
   "…despite all the planning, processes, controls, and governance, business is
   one big act of improvisation."
-f_amazon-url: https://www.amazon.com/dp/0062248545/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062248545/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:05.691Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b3e4a0b87bccdf7e0f_the-outward-mindset-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-outward-mindset/
+  alt: The Outward Mindset book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-outward-mindset/'
 f_author-plain-text: The Arbinger Institute
 f_author: cms/authors/the-arbinger-institute.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -69,7 +69,7 @@ f_big-idea: >-
   especially under stress—and can course correct when we do. As we adopt an
   outward mindset, we discover that we and our organizations are more alive and
   individuals are more engaged.
-f_quote-reference: \- The Outward Mindset, page 132
+f_quote-reference: '\- The Outward Mindset, page 132'
 f_insight-2: >-
   ### Make the First Move
 
@@ -141,7 +141,7 @@ f_quote-2: >-
   the biggest lever for change is not a change in self-belief but a fundamental
   change in the way one sees and regards one’s connections with and obligations
   to others."
-f_amazon-url: https://www.amazon.com/dp/1626567158/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1626567158/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

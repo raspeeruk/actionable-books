@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:59.926Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78043ba0ab2be8afa1e0a_invisible_gorilla.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-invisible-gorilla/
+  alt: The Invisible Gorilla book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-invisible-gorilla/'
 f_category-3: cms/summary-categories/effective-communication.md
 f_team-2: cms/team/joel-d-canfield.md
 f_big-idea: >-
@@ -52,7 +52,7 @@ f_big-idea: >-
 
   While it would be great to proactively combat inattentional blindness, there’s
   a reason we can’t: we’d **lose our ability to focus.**
-f_quote-reference: \- The Invisible Gorilla, page 7
+f_quote-reference: '\- The Invisible Gorilla, page 7'
 f_insight-2: >-
   ### Cause
 
@@ -151,7 +151,7 @@ f_conclusion: >-
   inattentional blindness, by a faulty memory, by too much trust in the
   confidence of others, or by leaping to conclusions about cause and effect.
 f_quote-2: '"We experience far less of our visual world than we think we do."'
-f_amazon-url: https://www.amazon.com/dp/0307459667/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0307459667/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

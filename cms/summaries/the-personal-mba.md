@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:06.068Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809ccc2cced2a36e7c93_102984375-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-personal-mba/
+  alt: The Personal MBA book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-personal-mba/'
 f_author-plain-text: Josh Kaufman
 f_author: cms/authors/josh-kaufman.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -53,7 +53,7 @@ f_big-idea: >-
   that factor into all business. The models also help us to better frame our
   thinking around the soft-side disciplines as well. This way of distilling
   complex principles into a usable format will be helpful to most.
-f_quote-reference: \- The Personal MBA, page 3
+f_quote-reference: '\- The Personal MBA, page 3'
 f_insight-2: >-
   ### Working With Yourself
 
@@ -184,7 +184,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Don’t worry if you’re a complete beginner. Unlike many other business books,
   this book does not require any prior business knowledge or experience."
-f_amazon-url: https://www.amazon.com/dp/1591843529/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591843529/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

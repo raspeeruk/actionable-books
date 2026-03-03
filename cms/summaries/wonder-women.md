@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:24.002Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804a39068c80d9170cf7_wonder-women.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/wonder-women/
+  alt: Wonder Women book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/wonder-women/'
 f_author-plain-text: Debora L. Spar
 f_author: cms/authors/debora-l-spar.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
@@ -35,7 +35,7 @@ f_big-idea: >-
   ourselves and our expectations of what one person can do. It’s time to “stop
   trying to be so damn perfect;” time to accept that real joy comes from letting
   some things go.
-f_quote-reference: \- Wonder Women, page 29
+f_quote-reference: '\- Wonder Women, page 29'
 f_insight-2: >-
   ### Know the Rules
 
@@ -86,7 +86,7 @@ f_quote-2: >-
   "We really thought we could have it all, and when reality proved otherwise we
   blamed – not the media, as it turned out, and not our mothers. We blamed
   ourselves."
-f_amazon-url: https://www.amazon.com/dp/0374298750/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0374298750/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

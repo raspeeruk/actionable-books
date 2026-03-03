@@ -1,18 +1,18 @@
 ---
 title: Roger Connors
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Roger-Connors/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Roger-Connors/'
 f_unique-id: '125'
 f_image:
   url: /assets/external/65d77a491a2f737b196affcc_roger-connors-180x220.jpeg
-  alt: null
+  alt: Roger Connors
 f_summaries:
   - cms/summaries/change-the-culture-change-the-game.md
 slug: roger-connors
 updated-on: '2024-02-23T13:30:49.186Z'
 created-on: '2024-02-22T16:46:01.228Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/roger_connors/
-f_website-2: http://ozprinciple.com
+f_twitter-2: 'http://twitter.com/roger_connors/'
+f_website-2: 'http://ozprinciple.com'
 layout: '[authors].html'
 tags: authors
 ---

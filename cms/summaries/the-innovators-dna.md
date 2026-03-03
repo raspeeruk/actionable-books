@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:59.609Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780878f07fe5dc44cdca3_innovators_dna.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-innovators-dna/
+  alt: The Innovator’s DNA book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-innovators-dna/'
 f_author-plain-text: Clayton M. Christensen
 f_author: cms/authors/clayton-m-christensen.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -54,7 +54,7 @@ f_big-idea: >-
   networking and experimenting, lead to innovation_. This alignment of skills,
   which can be learned and practiced, is what the researchers call the
   **innovator’s DNA.**
-f_quote-reference: \- The Innovator’s DNA, page 3
+f_quote-reference: '\- The Innovator’s DNA, page 3'
 f_insight-2: >-
   ### Associating: Connect the unconnected
 
@@ -130,7 +130,7 @@ f_conclusion: >-
 f_quote-2: >-
   "…one’s ability to generate innovative ideas is not merely a function of the
   mind, but also a function of behaviors."
-f_amazon-url: https://www.amazon.com/dp/1422134814/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1422134814/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

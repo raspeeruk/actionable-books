@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:46.022Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a4b4b3d748708add8c_team-of-teams-94x144.jpeg
-  alt: null
+  alt: 'Team of Teams: New Rules of Engagement for a Complex World book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/team-of-teams-new-rules-of-engagement-for-a-complex-world/
 f_author-plain-text: Chris Fussell
@@ -48,7 +48,7 @@ f_big-idea: >-
   served by someone who has adopted a gardener mindset. These organizations need
   to be tended, not controlled. McChrystal goes on to show us how he did it—and
   how we can.
-f_quote-reference: \- Team of Teams, page 20
+f_quote-reference: '\- Team of Teams, page 20'
 f_insight-2: >-
   ### Eyes On, Hands Off
 
@@ -128,7 +128,7 @@ f_quote-2: >-
   familiar organizational structures and rebuild them along completely different
   lines, swapping our sturdy architecture for organic fluidity, because it was
   the only way to confront a rising tide of complex threats."
-f_amazon-url: https://www.amazon.com/dp/1591847486/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591847486/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

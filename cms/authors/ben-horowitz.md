@@ -1,17 +1,17 @@
 ---
 title: Ben Horowitz
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Ben-Horowitz/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Ben-Horowitz/'
 f_unique-id: '658'
 f_image:
   url: /assets/external/65d779ba3c55e1cc53b1c77a_ben-horowitz-180x167.jpeg
-  alt: null
+  alt: Ben Horowitz
 slug: ben-horowitz
 f_summaries:
   - cms/summaries/the-hard-thing-about-hard-things.md
 updated-on: '2024-02-23T13:30:26.678Z'
 created-on: '2024-02-22T16:43:38.413Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/bhorowitz/
+f_twitter-2: 'http://twitter.com/bhorowitz/'
 f_website-2: www.bhorowitz.com
 layout: '[authors].html'
 tags: authors

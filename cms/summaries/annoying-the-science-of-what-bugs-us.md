@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:05:46.485Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780559cdbb081a5793f98_96767096-94x144.jpeg
-  alt: null
+  alt: 'Annoying: The Science of What Bugs Us book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/annoying-the-science-of-what-bugs-us/
 f_podcast-url: >-
@@ -40,7 +40,7 @@ f_big-idea: >-
   effects of, annoyance takes patience and focus – intentional and conscious
   attention to what is annoying us and altering the situation to the best of our
   ability.
-f_quote-reference: \- Paul Garrity, as quoted in Annoying, page 237
+f_quote-reference: '\- Paul Garrity, as quoted in Annoying, page 237'
 f_insight-2: >-
   ### Control what we can control and the rest will take care of itself
 
@@ -122,7 +122,7 @@ f_conclusion: >-
   seems to help. Just remember – you **do** have control over your focus and
   your actions. Make use of those accordingly.
 f_quote-2: '"I often wonder why we have the kinds of responses we have."'
-f_amazon-url: https://www.amazon.com/dp/0470638699/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470638699/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

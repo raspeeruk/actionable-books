@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:23.329Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780751c0a370a82cc5a6d_will-it-fly-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/will-it-fly/
+  alt: Will it Fly? book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/will-it-fly/'
 f_author-plain-text: Pat Flynn
 f_author: cms/authors/pat-flynn.md
 f_category-3: cms/summary-categories/self-management.md
@@ -172,7 +172,7 @@ f_conclusion: >-
 f_quote-2: >-
   "…what I try to teach is that you don’t have to go big in the world to
   experience success. You just have to be big in somebody’s world."
-f_amazon-url: https://www.amazon.com/dp/0997082305/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0997082305/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

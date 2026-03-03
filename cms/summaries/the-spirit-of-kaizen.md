@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:10.719Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d61e4002fac4525f03_spirit-of-kaizen.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-spirit-of-kaizen/
+  alt: The Spirit of Kaizen book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-spirit-of-kaizen/'
 f_author-plain-text: Robert Maurer
 f_author: cms/authors/robert-maurer.md
 f_category-3: cms/summary-categories/self-management.md
@@ -58,7 +58,7 @@ f_big-idea: >-
   It sounds easy, so why isn’t kaizen more popular? Kaizen is the tortoise in a
   culture where hares receive the bulk of the attention and praise. What can you
   do to apply kaizen? It starts with your questions.
-f_quote-reference: \- The Spirit of Kaizen, page 7
+f_quote-reference: '\- The Spirit of Kaizen, page 7'
 f_insight-2: >-
   ### Don’t Streetlight
 
@@ -128,7 +128,7 @@ f_quote-2: >-
   innovation and kaizen. Innovation calls for a radical, immediate rethink of
   the status quo. Kaizen, on the other hand, asks for nothing other than small,
   doable steps toward improvement."
-f_amazon-url: https://www.amazon.com/dp/B009Q0CQMA/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B009Q0CQMA/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

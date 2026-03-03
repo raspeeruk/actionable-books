@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:51.450Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803a124d447bdbf6c010_the-brand-flip-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-brand-flip/
+  alt: The Brand Flip book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-brand-flip/'
 f_author-plain-text: Marty Neumeier
 f_author: cms/authors/marty-neumeier.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -36,7 +36,7 @@ f_big-idea: >-
   pair of shoes or the gospel, people interact with things to become who they
   want to become. I can work with that. People who don’t want to be Christian,
   don’t buy it. It really is simple.
-f_quote-reference: \- The Brand Flip, page 133
+f_quote-reference: '\- The Brand Flip, page 133'
 f_insight-2: >-
   ### Build a frame for a story
 
@@ -100,7 +100,7 @@ f_conclusion: >-
   alternative. A brand is flipped because it operates more like a church than a
   business: find true believers and help them tell the story.
 f_quote-2: '"A brand isn''t what you say it is. It''s what they say it is."'
-f_amazon-url: https://www.amazon.com/dp/0134172817/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0134172817/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

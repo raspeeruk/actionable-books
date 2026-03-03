@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:46.429Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b10c32dc84c9a55b91_an-everyone-culture-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/an-everyone-culture/
+  alt: An Everyone Culture book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/an-everyone-culture/'
 f_author-plain-text: Lisa Laskow Lahey
 f_author: cms/authors/lisa-laskow-lahey.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
@@ -53,7 +53,7 @@ f_big-idea: >-
   people development are inextricably interconnected. And, development, in this
   context, isn’t about building skills, it’s about building selves—and, as
   people flourish, so does business.
-f_quote-reference: \- An Everyone Culture, page 87
+f_quote-reference: '\- An Everyone Culture, page 87'
 f_insight-2: >-
   ### Create Meaningful Practices
 
@@ -136,7 +136,7 @@ f_quote-2: >-
   potential is not a matter of only ‘being better to our people,’ a DDO
   [Deliberately Developmental Organization] represents, instead, a rethinking of
   the very place of people development in organizational life."
-f_amazon-url: https://www.amazon.com/dp/1625278624/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1625278624/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

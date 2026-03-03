@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:00.234Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803523d6375759843008_laws_of_subtraction.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-laws-of-subtraction/
+  alt: The Laws of Subtraction book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-laws-of-subtraction/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/01/ActionableBooks-Audio-The-Laws-of-Subtraction.mp3
 f_author-plain-text: Matthew E. May
@@ -53,7 +53,7 @@ f_big-idea: >-
 
 
   Subtracting the words was an overt choice, **sending a specific message.**
-f_quote-reference: \- The Laws of Subtraction, page xii
+f_quote-reference: '\- The Laws of Subtraction, page xii'
 f_insight-2: >-
   ### Breaking Free: Relabel, Reattribute, Refocus, Revalue (A Deeper Dive into
   Law #5)
@@ -155,7 +155,7 @@ f_conclusion: >-
 f_quote-2: >-
   "[W]hen you remove just the right thing in just the right way, something good
   usually happens."
-f_amazon-url: https://www.amazon.com/dp/0071795618/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071795618/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

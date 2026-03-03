@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:25.723Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803b5e2fee3da799ae1d_managing-oneself-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/managing-oneself/
+  alt: Managing Oneself book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/managing-oneself/'
 f_author-plain-text: Peter Drucker
 f_author: cms/authors/peter-drucker.md
 f_category-3: cms/summary-categories/self-management.md
@@ -30,7 +30,7 @@ f_big-idea: >-
   get there. Drucker argues that the only way for us to capitalize on those
   choices is to know your strengths and then put yourself where your strengths
   can produce results.
-f_quote-reference: \- Managing Oneself, page 1
+f_quote-reference: '\- Managing Oneself, page 1'
 f_insight-2: >-
   ### Responsibility for relationships
 
@@ -101,7 +101,7 @@ f_quote-2: >-
   "History’s great achievers – a Napoleon, a da Vinci, a Mozart – have always
   managed themselves. That, in large measure, is what makes them great
   achievers."
-f_amazon-url: https://www.amazon.com/dp/142212312X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/142212312X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

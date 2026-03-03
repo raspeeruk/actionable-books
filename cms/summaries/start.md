@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:42.669Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780bdab601995e06fe24f_start.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/start/
+  alt: Start book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/start/'
 f_author-plain-text: Jon Acuff
 f_author: cms/authors/jon-acuff.md
 f_category-3: cms/summary-categories/self-management.md
@@ -55,7 +55,7 @@ f_big-idea: >-
   sixties, you just have to put in the work and start now. **No matter where you
   are on the road to awesome you will need to overcome two obstacles: how and
   when.**
-f_quote-reference: \- Start, Chapter 1
+f_quote-reference: '\- Start, Chapter 1'
 f_insight-2: >-
   ### Be Selfish at 5 a.m.
 
@@ -146,7 +146,7 @@ f_quote-2: >-
   Life is now less about how old you are and more about when you decide to
   live... Regardless of your age or station in life, it all comes down to one
   simple truth: you just have to start."
-f_amazon-url: https://www.amazon.com/dp/1937077594/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1937077594/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

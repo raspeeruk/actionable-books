@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:03.242Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802ea2b1b79752109415_creativity-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/creativity/
+  alt: Creativity book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/creativity/'
 f_author-plain-text: Mihaly Csikszentmihalyi
 f_author: cms/authors/mihaly-csikszentmihalyi.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -39,7 +39,7 @@ f_big-idea: >-
   new observations and experiences so that you can relive them and see a pattern
   of emerging interests. Once you discover new things that capture your
   interest, learn more about them and continue developing curiosity.
-f_quote-reference: \- Creativity, page 372
+f_quote-reference: '\- Creativity, page 372'
 f_insight-2: >-
   ### Develop Creative Personality Traits
 
@@ -113,7 +113,7 @@ f_quote-2: >-
   culture drop to even closer to zero. And what really matters, in the last
   account, is not whether your name has been attached to a recognized discovery,
   but whether you have lived a full and creative life.”
-f_amazon-url: https://www.amazon.com/dp/0062283251/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062283251/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

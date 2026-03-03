@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:13.961Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780316dbd28b39d9423d9_the-weekend-effect-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-weekend-effect/
+  alt: The Weekend Effect book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-weekend-effect/'
 f_author-plain-text: Katrina Onstad
 f_author: cms/authors/katrina-onstad.md
 f_category-3: cms/summary-categories/self-management.md
@@ -41,7 +41,7 @@ f_big-idea: >-
   it comes to a work-life balance, and the problem is just too prevalent to
   ignore. Time passed without a sense of leisure or personal accomplishment is
   never regained, and that is our on-going regret.
-f_quote-reference: \- The Weekend Effect, Kindle location 292
+f_quote-reference: '\- The Weekend Effect, Kindle location 292'
 f_insight-2: >-
   ### Seek beauty
 
@@ -106,7 +106,7 @@ f_conclusion: >-
 f_quote-2: >-
   "An interesting thing happens when you reclaim your weekend: you reclaim your
   childlike abandon and sense of possibility."
-f_amazon-url: https://www.amazon.com/dp/0062440187/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062440187/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

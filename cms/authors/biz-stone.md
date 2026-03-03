@@ -1,18 +1,18 @@
 ---
 title: Biz Stone
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Biz-Stone/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Biz-Stone/'
 f_unique-id: '780'
 f_image:
   url: /assets/external/65d779bee64200c19300117f_biz-stone.jpeg
-  alt: null
+  alt: Biz Stone
 slug: biz-stone
 f_summaries:
   - cms/summaries/things-a-little-bird-told-me.md
 updated-on: '2024-02-23T13:30:55.660Z'
 created-on: '2024-02-22T16:43:42.754Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/Biz/
-f_website-2: http://jelly.co
+f_twitter-2: 'http://twitter.com/Biz/'
+f_website-2: 'http://jelly.co'
 layout: '[authors].html'
 tags: authors
 ---

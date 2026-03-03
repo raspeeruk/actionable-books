@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:03.342Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780bee7814865e3100eb4_e.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/eat-move-sleep/
+  alt: Eat Move Sleep book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/eat-move-sleep/'
 f_author-plain-text: Tom Rath
 f_author: cms/authors/tom-rath.md
 f_category-3: cms/summary-categories/self-management.md
@@ -160,7 +160,7 @@ f_insight-1: >-
   and mixed package of root vegetables for roasting (no excuses now!) I will
   make broccoli soup and freeze individual servings for quick lunches.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1939714001/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1939714001/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

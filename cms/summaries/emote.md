@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:03.834Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780abd58945232eebb015_emote-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/emote/
+  alt: Emote book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/emote/'
 f_author-plain-text: Vikas Gopal Jhingran
 f_author: cms/authors/vikas-gopal-jhingran.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -35,7 +35,7 @@ f_big-idea: >-
 
   Let’s take a closer look at how we might harness emotions more deliberately to
   strengthen the effectiveness of our communications.
-f_quote-reference: \- Emote, page 16
+f_quote-reference: '\- Emote, page 16'
 f_insight-2: >-
   ### Walk your talk
 
@@ -125,7 +125,7 @@ f_conclusion: >-
 f_quote-2: >-
   "You have the power to motivate, encourage and inspire with the words you
   say."
-f_amazon-url: https://www.amazon.com/dp/1601633041/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1601633041/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

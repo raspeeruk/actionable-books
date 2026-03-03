@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:53.883Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807def59090b11f8a712_the-culture-engine.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-culture-engine/
+  alt: The Culture Engine book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-culture-engine/'
 f_author-plain-text: S. Chris Edmonds
 f_author: cms/authors/s-chris-edmonds.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
@@ -48,7 +48,7 @@ f_big-idea: >-
   inspiring workplace that brings out the best in the people who come to work
   every day. It’s creating a workplace that is perfect and where that perfection
   results in a desirable, positive culture.
-f_quote-reference: \- The Culture Engine, page 26
+f_quote-reference: '\- The Culture Engine, page 26'
 f_insight-2: >-
   ### Managing contribution vs. performance
 
@@ -114,7 +114,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Workplace inspiration does not happen naturally—it happens only by
   intention."
-f_amazon-url: https://www.amazon.com/dp/1118947320/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118947320/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

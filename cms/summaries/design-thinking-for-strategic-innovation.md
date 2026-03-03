@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780c481456d11fb06fb15_design-thinking-for-strategic-innovation-94x125.jpeg
-  alt: null
+  alt: Design Thinking for Strategic Innovation book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/design-thinking-for-strategic-innovation/
 f_author-plain-text: Idris Mootee
@@ -36,7 +36,7 @@ f_big-idea: >-
   design thinking can also influence culture and empathy within an organization.
   This collective engagement and momentum toward growth can also have an impact
   in setting apart the winners from the laggards in any business industry.
-f_quote-reference: \- Design Thinking for Strategic Innovation, page 60
+f_quote-reference: '\- Design Thinking for Strategic Innovation, page 60'
 f_insight-2: >-
   ### Effective Response to Change isn’t Reactionary. It Anticipates.
 
@@ -102,7 +102,7 @@ f_conclusion: >-
   organizations but capitalism itself. That design thinking can “unleash our
   imagination of a better future.”
 f_quote-2: '"Every future business leader needs to be a good design thinker"'
-f_amazon-url: https://www.amazon.com/dp/B00DDQTKKO/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00DDQTKKO/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

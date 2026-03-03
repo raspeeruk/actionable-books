@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780414397237729c99fe4_today-i-begin-a-new-life-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/today-i-begin-a-new-life/
+  alt: Today I Begin a New Life book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/today-i-begin-a-new-life/'
 f_author-plain-text: Dave Blanchard
 f_author: cms/authors/dave-blanchard.md
 f_category-3: cms/summary-categories/self-management.md
@@ -42,7 +42,7 @@ f_big-idea: >-
   in a very meaningful way. By identifying the pain and the healing process and
   then sharing that with others you make the world – theirs and yours – a better
   place.
-f_quote-reference: \- Today I Begin a New Life, page 11
+f_quote-reference: '\- Today I Begin a New Life, page 11'
 f_insight-2: >-
   ### Are You Busy or Productive?
 
@@ -109,7 +109,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Wherever we have been, whatever we have done, or what has been done to us, it
   is never too late to begin a new life!"
-f_amazon-url: https://www.amazon.com/dp/160645093X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/160645093X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

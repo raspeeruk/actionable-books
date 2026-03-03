@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:20.950Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808366cf927e76acb033_learned_optimism.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/learned-optimism-2/
+  alt: Learned Optimism book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/learned-optimism-2/'
 f_author-plain-text: Martin E. P. Seligman
 f_author: cms/authors/martin-e-p-seligman.md
 f_category-3: cms/summary-categories/self-management.md
@@ -51,7 +51,7 @@ f_big-idea: >-
   to directly impact the way a person moves through their life, the progression
   of their personal and professional goals and ultimately the likelihood of
   depression.
-f_quote-reference: \- Learned Optimism, page 7
+f_quote-reference: '\- Learned Optimism, page 7'
 f_insight-2: >-
   ### Learned Optimism
 
@@ -145,7 +145,7 @@ f_conclusion: >-
   explanatory style and committing to awareness and self-improvement, Seligman
   has given us the tools to live a happier, more productive life.
 f_quote-2: '"Our thoughts are not merely reactions to events; they change what ensues."'
-f_amazon-url: https://www.amazon.com/dp/1400078393/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1400078393/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

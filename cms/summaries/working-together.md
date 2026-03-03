@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:24.584Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780292a2994bbba9db492_working-together-tiny-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/working-together/
+  alt: Working Together book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/working-together/'
 f_author-plain-text: Michael Eisner
 f_author: cms/authors/michael-eisner.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -58,7 +58,7 @@ f_big-idea: >-
   Eisner puts it this way, _“A quality partnership also allows you to recognize
   your own weaknesses, and draw on a partner’s strengths without being
   uncomfortable about the vulnerability.”_
-f_quote-reference: \- Working Together, page 281
+f_quote-reference: '\- Working Together, page 281'
 f_insight-2: >-
   ### Don’t Stop Looking!
 
@@ -136,7 +136,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Does the partnership cause the success, or does the success cause the
   partnership?"
-f_amazon-url: https://www.amazon.com/dp/0061732362/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0061732362/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

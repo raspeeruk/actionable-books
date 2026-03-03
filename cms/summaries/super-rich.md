@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:44.910Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a571f7aab80c3151bc_super_rich-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/super-rich/
+  alt: Super Rich book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/super-rich/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/09/ActionableBokos-Audio-Super-Rich.mp3
 f_author-plain-text: Russell Simmons
@@ -157,7 +157,7 @@ f_quote-2: >-
   "So rather than any state of material abundance, Super Rich actually refers to
   living in a state of consciousness where you’re able to see the miracles of
   life unfolding in front of you all time."
-f_amazon-url: https://www.amazon.com/dp/1592405878/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1592405878/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

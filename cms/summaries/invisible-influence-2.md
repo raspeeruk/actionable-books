@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:17.806Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78092db928dde1f0f3023_invisible-influence-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/invisible-influence-2/
+  alt: Invisible Influence book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/invisible-influence-2/'
 f_author-plain-text: Jonah Berger
 f_author: cms/authors/jonah-berger.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -45,7 +45,7 @@ f_big-idea: >-
   that programs are popular and that spaces are in demand will increase demand
   and support the nurturing of a reading culture in the community. This can be
   driven by the power of unconscious influence.
-f_quote-reference: \- Invisible Influence, location 187
+f_quote-reference: '\- Invisible Influence, location 187'
 f_insight-2: >-
   ### Social Comparisons
 
@@ -143,7 +143,7 @@ f_conclusion: >-
 f_quote-2: >-
   "We underestimate how much social influence affects our behavior because we
   don’t realize it is happening."
-f_amazon-url: https://www.amazon.com/dp/1476759693/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1476759693/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

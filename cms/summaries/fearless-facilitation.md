@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:06.065Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780798f9ca28be98a97ae_fearless-facilitation.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/fearless-facilitation/
+  alt: Fearless Facilitation book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/fearless-facilitation/'
 f_author-plain-text: Cyndi Maxey
 f_author: cms/authors/cyndi-maxey.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -79,7 +79,7 @@ f_big-idea: >-
   others feel heard is the role of an impactful leader. As the authors state,
   the above three things are the platinum standard if you want to ensure you’re
   connecting, moving forward and setting yourself apart.
-f_quote-reference: \- Fearless Facilitation, page 132
+f_quote-reference: '\- Fearless Facilitation, page 132'
 f_insight-2: >-
   ### First focus on creating trust
 
@@ -157,7 +157,7 @@ f_quote-2: >-
   "Like it or not, from the moment you wake up until you shut out the lights at
   night, your work, time, and life are about facilitating yourself and others to
   get to the next right step in the best way."
-f_amazon-url: https://www.amazon.com/dp/1118375815/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118375815/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

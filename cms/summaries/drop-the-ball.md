@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:02.920Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78081da244ed58b68411d_drop-the-ball-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/drop-the-ball/
+  alt: Drop the Ball book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/drop-the-ball/'
 f_author-plain-text: Tiffany Dufu
 f_author: cms/authors/tiffany-dufu.md
 f_category-3: cms/summary-categories/self-management.md
@@ -69,7 +69,7 @@ f_big-idea: >-
 
 
   What balls can you bravely drop?
-f_quote-reference: \- Drop the Ball, page ix
+f_quote-reference: '\- Drop the Ball, page ix'
 f_insight-2: >-
   ### The Four Go-Tos
 
@@ -159,7 +159,7 @@ f_conclusion: >-
 f_quote-2: >-
   “…when women believe that for us ‘having it all’ must mean ‘doing it all’ – it
   becomes what psychologists call internalized oppression.”
-f_amazon-url: https://www.amazon.com/dp/1250071739/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1250071739/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,16 +1,16 @@
 ---
 title: Jon Gordon
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Jon-Gordon/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Jon-Gordon/'
 f_unique-id: '608'
 f_image:
   url: /assets/external/65d77a17cd562e223136201c_jon-gordon.jpeg
-  alt: null
+  alt: Jon Gordon
 slug: jon-gordon
 updated-on: '2024-02-23T13:30:54.630Z'
 created-on: '2024-02-22T16:45:11.713Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/JonGordon11/
-f_website-2: http://JonGordon.com
+f_twitter-2: 'http://twitter.com/JonGordon11/'
+f_website-2: 'http://JonGordon.com'
 layout: '[authors].html'
 tags: authors
 ---

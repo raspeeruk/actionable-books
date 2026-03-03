@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:18.103Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806fd5383806327c83fc_tuesday-morning-coaching.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/tuesday-morning-coaching/
+  alt: Tuesday Morning Coaching book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/tuesday-morning-coaching/'
 f_author-plain-text: David Cottrell
 f_author: cms/authors/david-cottrell.md
 f_category-3: cms/summary-categories/leadership.md
@@ -75,7 +75,7 @@ f_big-idea: >-
   them to my own life, and reading this book reminded me which ones in
   particular I have not been applying (goal setting, making good on my
   commitments, focus).
-f_quote-reference: \- Tuesday Morning Coaching, page 9
+f_quote-reference: '\- Tuesday Morning Coaching, page 9'
 f_insight-2: >-
   ### Pass It On
 
@@ -151,7 +151,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Never in the history of mankind has any situation improved on its own while
   people sat there doing nothing."
-f_amazon-url: https://www.amazon.com/dp/0981924255/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0981924255/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:56.469Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c9d4a4ec8cc91f643a_the-five-choices-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-five-choices/
+  alt: The Five Choices book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-five-choices/'
 f_author-plain-text: Adam Merrill
 f_author: cms/authors/adam-merrill.md
 f_category-3: cms/summary-categories/self-management.md
@@ -44,7 +44,7 @@ f_big-idea: >-
   Taking time to ‘pause, clarify and decide’ helps you determine where your time
   and energy is best directed in that moment. This winning strategy only works
   however, if you’ve taken the time to identify what is truly important to you.
-f_quote-reference: \- The Five Choices, page 11
+f_quote-reference: '\- The Five Choices, page 11'
 f_insight-2: >-
   ### Win Without Fighting
 
@@ -133,7 +133,7 @@ f_quote-2: >-
   "In today’s environment, the key to productivity is not to get more things
   done, but to get the right things done – the important things – with the
   highest quality you can achieve."
-f_amazon-url: https://www.amazon.com/dp/B00LQMDZZI/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00LQMDZZI/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

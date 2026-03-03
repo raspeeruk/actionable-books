@@ -1,18 +1,18 @@
 ---
 title: Jeff Goins
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Jeff-Goins/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Jeff-Goins/'
 f_unique-id: '594'
 slug: jeff-goins
 f_image:
   url: /assets/external/65d77a09d32366bcc080aa85_jeff-goins-180x220.jpeg
-  alt: null
+  alt: Jeff Goins
 f_summaries:
   - cms/summaries/the-art-of-work.md
 updated-on: '2024-02-23T13:30:58.367Z'
 created-on: '2024-02-22T16:44:58.001Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/jeffgoins/
-f_website-2: http://Goinswriter.com
+f_twitter-2: 'http://twitter.com/jeffgoins/'
+f_website-2: 'http://Goinswriter.com'
 layout: '[authors].html'
 tags: authors
 ---

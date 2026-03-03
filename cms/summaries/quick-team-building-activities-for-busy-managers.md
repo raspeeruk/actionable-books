@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d78038371cd956ed9703ea_quick-team-building-activities.jpeg
-  alt: null
+  alt: Quick Team-Building Activities for Busy Managers book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/quick-team-building-activities-for-busy-managers/
 f_author-plain-text: Brian Cole Miller
@@ -47,7 +47,7 @@ f_big-idea: >-
   values, and promote discussions on a wide range of topics! (Hint: you can
   start each team meeting with an activity or create a weekly “team time” huddle
   to rally folks together for 15 minutes of fun, yet focused learning).
-f_quote-reference: \- Quick Team-Building Activities, Back Jacket Cover
+f_quote-reference: '\- Quick Team-Building Activities, Back Jacket Cover'
 f_insight-2: >-
   ### Connect the Dots
 
@@ -117,7 +117,7 @@ f_quote-2: >-
   "Just because your team doesn’t have the time or the budget to embark on a
   full-scale training program, doesn’t mean you have to abandon the idea of
   team-building exercises altogether."
-f_amazon-url: https://www.amazon.com/dp/081447201X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/081447201X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

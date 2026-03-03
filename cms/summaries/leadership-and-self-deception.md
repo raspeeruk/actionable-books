@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:20.647Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78097476f5b2ebbd7727b_leadership1.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/leadership-and-self-deception/
+  alt: Leadership and Self-Deception book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/leadership-and-self-deception/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/01/Actionablebooks-Audio-Leadership-and-Self-Deception.mp3
 f_author-plain-text: The Arbinger Institute
@@ -73,7 +73,7 @@ f_big-idea: >-
   will still be seeing them as people that we want to help… even if we are
   unable to help at that very moment or in the way we think would be ideal. **We
   simply do the best we can under the circumstances.**
-f_quote-reference: \- Leadership and Self-Deception, page 32
+f_quote-reference: '\- Leadership and Self-Deception, page 32'
 f_insight-2: >-
   ### What/Who Focus?
 
@@ -167,7 +167,7 @@ f_quote-2: >-
   "No matter what we’re doing on the outside, people respond primarily to how
   we’re feeling about them on the inside. And how we’re feeling about them
   depends on whether we’re in or out of the box concerning them."
-f_amazon-url: https://www.amazon.com/dp/1576759776/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1576759776/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

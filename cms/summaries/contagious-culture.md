@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:54.795Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d752fced3f2a0b29c7_contagious-culture-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/contagious-culture/
+  alt: Contagious Culture book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/contagious-culture/'
 f_author-plain-text: Anese Cavanaugh
 f_author: cms/authors/anese-cavanaugh.md
 f_category-3: cms/summary-categories/leadership.md
@@ -92,7 +92,7 @@ f_big-idea: >-
 
   **It’s a choice we make every day –** Showing up. Having positive presence.
   It’s the choice that makes the difference.
-f_quote-reference: \- Contagious Culture, page 10
+f_quote-reference: '\- Contagious Culture, page 10'
 f_insight-2: >-
   ### The Leadership Trifecta
 
@@ -189,7 +189,7 @@ f_quote-2: >-
   "Your ability to grow others, hold space, and truly optimize impact is highly
   dependent on your presence, your own growth, and your relationship with
   yourself. So, in order to lead others, you must lead yourself first."
-f_amazon-url: https://www.amazon.com/dp/B016DXQ2W/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B016DXQ2W/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,10 +1,10 @@
 ---
 title: Piers Steel
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Piers-Steel/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Piers-Steel/'
 f_unique-id: '721'
 f_image:
   url: /assets/external/65d77a402e92cf2cc1d66208_piersprofile.png
-  alt: null
+  alt: Piers Steel
 slug: piers-steel
 f_summaries:
   - cms/summaries/the-procrastination-equation.md
@@ -13,7 +13,7 @@ created-on: '2024-02-22T16:45:52.585Z'
 published-on: '2024-02-23T13:42:23.311Z'
 f_facebook-2: >-
   http://www.facebook.com/pages/The-Procrastination-Equation/125077744212874?v=app_4949752878
-f_twitter-2: http://twitter.com/pierssteel/
+f_twitter-2: 'http://twitter.com/pierssteel/'
 layout: '[authors].html'
 tags: authors
 ---

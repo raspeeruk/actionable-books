@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:09.712Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780444f1f96a38b498244_getting-more.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/getting-more/
+  alt: Getting More book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/getting-more/'
 f_author-plain-text: Stuart Diamond
 f_author: cms/authors/stuart-diamond.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -35,7 +35,7 @@ f_big-idea: >-
   conversation that would move them forward in the deal. So before jumping ahead
   in the book to learn the tools and strategies this step should be ingrained
   first. Remember, what are your goals?
-f_quote-reference: \- Getting More, page 12
+f_quote-reference: '\- Getting More, page 12'
 f_insight-2: >-
   ### Attitude
 
@@ -116,7 +116,7 @@ f_quote-2: >-
   “persuasion,’ ‘communication,’ or ‘selling.’ They all should have the same
   process. That is, they should start with goals, focus on people, and be
   situational."
-f_amazon-url: https://www.amazon.com/dp/0307716899/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0307716899/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

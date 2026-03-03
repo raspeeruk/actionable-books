@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:42.370Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803a53372b1abe4c63a7_standout.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/standout/
+  alt: StandOut book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/standout/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/05/ActionableBooks-Audio-StandOut.mp3
 f_author-plain-text: Marcus Buckingham
@@ -34,7 +34,7 @@ f_big-idea: >-
   The secret is to really focus on our core strengths, and use them to their
   fullest in order to give you the edge you need. The two following Insights
   will show you how to do just that.
-f_quote-reference: \- StandOut, page 23
+f_quote-reference: '\- StandOut, page 23'
 f_insight-2: >-
   ### Stay Focused On Your Strengths, Always
 
@@ -102,7 +102,7 @@ f_conclusion: >-
 f_quote-2: >-
   "...there are patterns in you. And the most dominant – the most frequently
   recurring patterns – are the source of your strengths."
-f_amazon-url: https://www.amazon.com/dp/140020237X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/140020237X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

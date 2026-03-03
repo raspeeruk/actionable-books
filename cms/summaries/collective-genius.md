@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:54.037Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78087be5355ca509050fe_collective-genius.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/collective-genius/
+  alt: Collective Genius book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/collective-genius/'
 f_author-plain-text: Emily Truelove
 f_author: cms/authors/emily-truelove.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -56,7 +56,7 @@ f_big-idea: >-
   I’ll admit, I’m more of an ‘unleash’ type of person, but I realize that the
   ‘harness’ is necessary to actually get things done. So my task is to do more
   harnessing in my life, but also realize its importance in my organization.
-f_quote-reference: \- Collective Genius, page 7
+f_quote-reference: '\- Collective Genius, page 7'
 f_insight-2: >-
   ### Create the ability to innovate
 
@@ -137,7 +137,7 @@ f_quote-2: >-
   team or a large corporation, contains a slice of genius. Your task as leader
   is to create a place where all those slices can be elicited, combined, and
   converted into collective genius."
-f_amazon-url: https://www.amazon.com/dp/1422130029/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1422130029/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

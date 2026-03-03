@@ -1,17 +1,17 @@
 ---
 title: Michael Eisner
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Michael-Eisner/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Michael-Eisner/'
 f_unique-id: '854'
 f_image:
   url: /assets/external/65d77a2f8c2c4eb2827175c3_michael-eisner-180x220.jpeg
-  alt: null
+  alt: Michael Eisner
 slug: michael-eisner
 f_summaries:
   - cms/summaries/working-together.md
 updated-on: '2024-02-23T13:30:32.656Z'
 created-on: '2024-02-22T16:45:35.492Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://www.michaeleisner.com/
+f_website-2: 'http://www.michaeleisner.com/'
 layout: '[authors].html'
 tags: authors
 ---

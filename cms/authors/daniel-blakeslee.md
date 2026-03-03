@@ -1,18 +1,18 @@
 ---
 title: Daniel Blakeslee
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Daniel-Blakeslee/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Daniel-Blakeslee/'
 f_unique-id: '667'
 slug: daniel-blakeslee
 f_image:
   url: /assets/external/65d779d867d6a37a95c25abc_daniel-blakeslee2.png
-  alt: null
+  alt: Daniel Blakeslee
 f_summaries:
   - cms/summaries/the-leader-code.md
 updated-on: '2024-02-23T13:31:05.858Z'
 created-on: '2024-02-22T16:44:09.048Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/DanielBlakeslee/
-f_website-2: http://DanielBlakeslee.com
+f_twitter-2: 'http://twitter.com/DanielBlakeslee/'
+f_website-2: 'http://DanielBlakeslee.com'
 layout: '[authors].html'
 tags: authors
 ---

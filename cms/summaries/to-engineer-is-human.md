@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:16.067Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805e4ec1d7cd9b574b5a_to-engineer-is-human-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/to-engineer-is-human/
+  alt: To Engineer is Human book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/to-engineer-is-human/'
 f_author-plain-text: Henry Petroski
 f_author: cms/authors/henry-petroski.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -40,7 +40,7 @@ f_big-idea: >-
   fail. Often, this happens when we have innovative ideas. When we put our ideas
   into action, they also shape the future, which makes it even harder to define
   all weaknesses. Read on to the Insights for some ways we can spot flaws.
-f_quote-reference: \- To Engineer is Human, page 62
+f_quote-reference: '\- To Engineer is Human, page 62'
 f_insight-2: >-
   ### Computers Dilute Our Experience
 
@@ -116,7 +116,7 @@ f_quote-2: >-
   those of the twentieth was the trial and error of the mind over matter. They
   learned how to calculate to obviate the failure of structural materials, but
   they did not learn how to calculate to obviate the failure of the mind."
-f_amazon-url: https://www.amazon.com/dp/0679734163/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0679734163/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

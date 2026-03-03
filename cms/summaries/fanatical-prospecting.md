@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:05.945Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807f2a2994bbba9dd658_fanatical-prospecting-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/fanatical-prospecting/
+  alt: Fanatical Prospecting book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/fanatical-prospecting/'
 f_author-plain-text: Jeb Blount
 f_author: cms/authors/jeb-blount.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
@@ -53,7 +53,7 @@ f_big-idea: >-
   Our ability, as sales professionals, to be great at prospecting, will afford
   us, our company and those that we work with the ability to provide for
   ourselves, families and others.
-f_quote-reference: \- Fanatical Prospecting, page 3
+f_quote-reference: '\- Fanatical Prospecting, page 3'
 f_insight-2: >-
   ### Developing Mental Toughness
 
@@ -124,7 +124,7 @@ f_conclusion: >-
 f_quote-2: >-
   "What’s the secret that separates superstars from everyone else, and why do
   they consistently outperform other salespeople? Fanatical Prospecting."
-f_amazon-url: https://www.amazon.com/dp/1119144752/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1119144752/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

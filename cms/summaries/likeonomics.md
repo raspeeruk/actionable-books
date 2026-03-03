@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:22.082Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d35b979d7042d570c4570e_170455283.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/likeonomics/
+  alt: Likeonomics book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/likeonomics/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/08/ActionableBooks-Audio-Likeonomics.mp3
 f_author-plain-text: Rohit Bhargava
@@ -56,7 +56,7 @@ f_big-idea: >-
 
 
   **Likeable beats capable.**
-f_quote-reference: \- Likeonomics, page xxiii
+f_quote-reference: '\- Likeonomics, page xxiii'
 f_insight-2: >-
   ### The 5 Principles of Likeonomics: Truth, Relevance, Unselfishness,
   Simplicity, Timing (TRUST)
@@ -179,7 +179,7 @@ f_conclusion: ''
 f_quote-2: >-
   "How can any person, organization, or idea become more trusted and more
   believable?"
-f_amazon-url: https://www.amazon.com/dp/1118137531/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118137531/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

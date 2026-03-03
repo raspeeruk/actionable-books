@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d78037c32593873d9952cc_mans-search-for-meaning-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/mans-search-for-meaning/
+  alt: Man’s Search for Meaning book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/mans-search-for-meaning/'
 f_author-plain-text: Viktor E. Frankl
 f_author: cms/authors/viktor-e-frankl.md
 f_category-3: cms/summary-categories/self-management.md
@@ -35,7 +35,7 @@ f_big-idea: >-
   is for each of us to take responsibility for our attitudes along with our
   personal conduct. Is there something that comes to mind that you need to
   change in your attitude or actions?
-f_quote-reference: \- Man's Search for Meaning, page 165
+f_quote-reference: '\- Man''s Search for Meaning, page 165'
 f_insight-2: >-
   ### Avenues to meaning
 
@@ -106,7 +106,7 @@ f_conclusion: >-
   For what current problem are you taking the responsibility and fulfilling the
   necessary tasks that are before you?
 f_quote-2: '"The meaning of your life is to help others find the meaning of theirs."'
-f_amazon-url: https://www.amazon.com/dp/080701429X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/080701429X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

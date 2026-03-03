@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:00.922Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780360fab8426e4493b52_digital_leader.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/digital-leader/
+  alt: Digital Leader book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/digital-leader/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/12/ActionableBooks-Audio-Digital-Leader.mp3
 f_author-plain-text: Erik Qualman
@@ -41,7 +41,7 @@ f_big-idea: >-
   be posting about me (pictures and words). There is no way around it so I have
   to adapt now, think every minute about what I’m doing and how it will be taken
   literally by the world or risk influencing people in a way I didn’t intend.
-f_quote-reference: \- Digital Leader, page 89
+f_quote-reference: '\- Digital Leader, page 89'
 f_insight-2: >-
   ### Success doesn't happen alone
 
@@ -96,7 +96,7 @@ f_conclusion: >-
 f_quote-2: >-
   "…if this were your last day on earth, would you be happy with what you are
   doing and who you are as a person?"
-f_amazon-url: https://www.amazon.com/dp/0071792422/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071792422/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,16 +1,16 @@
 ---
 title: Robert T. Kiyosaki
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Robert-T.-Kiyosaki/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Robert-T.-Kiyosaki/'
 f_unique-id: '80'
 f_image:
   url: /assets/external/65d77a48e1933dfafaa617e8_robert-kiyosaki-lg-180x220.jpeg
-  alt: null
+  alt: Robert T. Kiyosaki
 slug: robert-t-kiyosaki
 updated-on: '2024-02-23T13:31:28.316Z'
 created-on: '2024-02-22T16:46:00.488Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://www.facebook.com/RobertKiyosaki
-f_twitter-2: http://twitter.com/theRealKiyosaki/
+f_facebook-2: 'http://www.facebook.com/RobertKiyosaki'
+f_twitter-2: 'http://twitter.com/theRealKiyosaki/'
 layout: '[authors].html'
 tags: authors
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:43.891Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807d0cdf6979a6b4983a_a-beautiful-constraint-94x119.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/a-beautiful-constraint/
+  alt: A Beautiful Constraint book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/a-beautiful-constraint/'
 f_author-plain-text: Adam Morgan
 f_author: cms/authors/adam-morgan.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -49,7 +49,7 @@ f_big-idea: >-
   fantasy of success and dwelling on the realities of what failure would feel
   like because the tension between them prompts us to make a plan and act on it
   more than positive thinking alone.”
-f_quote-reference: \- A Beautiful Constraint, page 5
+f_quote-reference: '\- A Beautiful Constraint, page 5'
 f_insight-2: >-
   ### Impose Constraints on Yourself
 
@@ -138,7 +138,7 @@ f_quote-2: >-
   steps in a new direction, which become self-sustaining when they pay off. Our
   hope is to provide those steps, and start to change the narrative, so we can
   all grow to make constraints beautiful."
-f_amazon-url: https://www.amazon.com/dp/1118899016/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118899016/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

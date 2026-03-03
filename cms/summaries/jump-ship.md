@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:19.125Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78047cc2cced2a36e58af_jump-ship-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/jump-ship/
+  alt: Jump Ship book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/jump-ship/'
 f_author-plain-text: Josh Shipp
 f_author: cms/authors/josh-shipp.md
 f_category-3: cms/summary-categories/self-management.md
@@ -103,7 +103,7 @@ f_big-idea: >-
   you. Don’t be a jerk. Instead of thinking you’re all that, you have an
   obligation to mentor, advise, and inspire others. Become a lifelong learner.
   This way, you won’t sink into the abyss of laziness and complacency.
-f_quote-reference: \- Jump Ship, page 13
+f_quote-reference: '\- Jump Ship, page 13'
 f_insight-2: >-
   ### Beware the Lure of Entrepreneurship
 
@@ -159,7 +159,7 @@ f_quote-2: >-
   “You were created to make something of your life that no other person on the
   planet or in the history of the world ever could. If you don’t do it, it might
   never be done… your dream dies with you.”
-f_amazon-url: https://www.amazon.com/dp/0312646739/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0312646739/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

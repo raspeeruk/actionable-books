@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:45.651Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b266cf927e76accbae_all-dreams-on-deck-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/all-dreams-on-deck/
+  alt: All Dreams on Deck book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/all-dreams-on-deck/'
 f_author-plain-text: Jeremy Cage
 f_author: cms/authors/jeremy-cage.md
 f_category-3: cms/summary-categories/self-management.md
@@ -54,7 +54,7 @@ f_big-idea: >-
   people who get fired aren’t in work that aligns with their dreams. And the 90%
   of new businesses that fail usually haven’t kept focused enough on their
   dream.
-f_quote-reference: \- All Dreams on Deck, page 5
+f_quote-reference: '\- All Dreams on Deck, page 5'
 f_insight-2: >-
   ### Plan and prepare
 
@@ -129,7 +129,7 @@ f_conclusion: >-
   dreaming specifically, intentionally, and taking the time to plan with a
   purpose.
 f_quote-2: '"Both business and life should be an adventure."'
-f_amazon-url: https://www.amazon.com/dp/1626343381/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1626343381/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

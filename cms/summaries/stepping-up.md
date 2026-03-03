@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:43.121Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780ae39068c80d9173816_stepping_up.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/stepping-up/
+  alt: Stepping Up book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/stepping-up/'
 f_category-3: cms/summary-categories/leadership.md
 f_team-2: cms/team/art-bingham.md
 f_big-idea: >-
@@ -46,7 +46,7 @@ f_big-idea: >-
   If you’re like me, then after learning this, you’re probably thinking that
   you’d rather lead intentionally than unintentionally. To this end, Izzo
   suggest that we consider how we are using the influence that we already have.
-f_quote-reference: \- Stepping Up, page 5
+f_quote-reference: '\- Stepping Up, page 5'
 f_insight-2: >-
   ### Scaling Down Stepping Up
 
@@ -111,7 +111,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Stepping up is seeing a need and deciding YOU are the right person to do
   something about it."
-f_amazon-url: https://www.amazon.com/dp/1609940571/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1609940571/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:02.315Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808cf5fb999468485a8e_dont-forget-your-cape.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/dont-forget-your-cape/
+  alt: Don’t Forget Your Cape book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/dont-forget-your-cape/'
 f_author-plain-text: Hugh D. Macphie
 f_author: cms/authors/hugh-d-macphie.md
 f_category-3: cms/summary-categories/self-management.md
@@ -38,7 +38,7 @@ f_big-idea: >-
   mindset is. This innocent mindset without the baggage of how society expects
   you to behave allows us to view situations as adventures and opportunities for
   learning rather than opportunities for failures.
-f_quote-reference: \- Don’t Forget Your Cape, pages 12-13
+f_quote-reference: '\- Don’t Forget Your Cape, pages 12-13'
 f_insight-2: >-
   ### Take a Breath
 
@@ -90,7 +90,7 @@ f_quote-2: >-
   "So this is a rejection of mediocrity, and an invitation to excellence. Don’t
   be afraid to be powerful beyond all measure. … Don’t forget your cape. Be a
   superhero. And deliver on the promise of who you could become"
-f_amazon-url: https://www.amazon.com/dp/1449042147/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1449042147/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

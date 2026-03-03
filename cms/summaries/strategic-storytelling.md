@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:43.502Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780944295a22ea4516d6b_strategic-storytelling-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/strategic-storytelling/
+  alt: Strategic Storytelling book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/strategic-storytelling/'
 f_author-plain-text: Dave Mckinsey
 f_author: cms/authors/dave-mckinsey.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -58,7 +58,7 @@ f_big-idea: >-
   that your Implications directly lead from your Approach and Findings. Your
   audience needs to believe in the validity of your Implications even if they
   can’t anticipate it directly from the previous sections of your presentation.
-f_quote-reference: \- Strategic Storytelling, page vi
+f_quote-reference: '\- Strategic Storytelling, page vi'
 f_insight-2: >-
   ### Engage your Audience with Intelligent, Authentic Conversation
 
@@ -138,7 +138,7 @@ f_conclusion: >-
 f_quote-2: >-
   "I want to read a public speaking book that is about the real speaking
   situations in which I find myself at work every day.”
-f_amazon-url: https://www.amazon.com/dp/1500594466/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1500594466/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

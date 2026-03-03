@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780b4d5383806327ca444_how-you-learn-is-how-you-live-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/how-you-learn-is-how-you-live/
+  alt: How You Learn is How You Live book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/how-you-learn-is-how-you-live/'
 f_author-plain-text: David A. Kolb
 f_author: cms/authors/david-a-kolb.md
 f_category-3: cms/summary-categories/self-management.md
@@ -49,7 +49,7 @@ f_big-idea: >-
 
 
   How can you employ the learning cycle to further expand your learning style?
-f_quote-reference: \- How You Learn is How You Live, page 2
+f_quote-reference: '\- How You Learn is How You Live, page 2'
 f_insight-2: >-
   ### The Nine Learning Styles
 
@@ -150,7 +150,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Living each life experience with a learning attitude can help us extract the
   right lessons from that experience."
-f_amazon-url: https://www.amazon.com/dp/1626568707/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1626568707/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

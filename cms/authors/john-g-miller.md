@@ -1,18 +1,18 @@
 ---
 title: John G. Miller
-f_original-url: https://www.actionablebooks.com/en-ca/authors/John-G.-Miller/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/John-G.-Miller/'
 f_unique-id: '232'
 f_image:
   url: /assets/external/65d77a131b184c7aceb80078_john-miller.jpeg
-  alt: null
+  alt: John G. Miller
 f_summaries:
   - cms/summaries/flipping-the-switch.md
 slug: john-g-miller
 updated-on: '2024-02-23T13:30:47.681Z'
 created-on: '2024-02-22T16:45:07.642Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/QBQGuy/
-f_website-2: http://qbq.com
+f_twitter-2: 'http://twitter.com/QBQGuy/'
+f_website-2: 'http://qbq.com'
 layout: '[authors].html'
 tags: authors
 ---

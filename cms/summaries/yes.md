@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:24.805Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808671f7aab80c314672_yes.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/yes/
+  alt: Yes! book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/yes/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/06/ActionableBooks-Audio-YES.mp3
 f_author-plain-text: Noah J. Goldstein
@@ -50,7 +50,7 @@ f_big-idea: >-
 
 
   What other concepts can we apply to be more persuasive?
-f_quote-reference: \- Yes!, book cover
+f_quote-reference: '\- Yes!, book cover'
 f_insight-2: >-
   ### To persuade others that you're competent, admit when you're wrong
 
@@ -126,7 +126,7 @@ f_conclusion: >-
   have benefitted from the work of Robert Cialdini and his co-authors – pick up
   a copy of _Yes!_ so you can too.
 f_quote-2: '"Small changes can make a big different to your powers of persuasion."'
-f_amazon-url: https://www.amazon.com/dp/1416576142/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1416576142/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

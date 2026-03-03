@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:54.765Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d3589ec7f59357d406_101602173-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-dream/
+  alt: The Dream book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-dream/'
 f_author-plain-text: Gurbaksh Chahal
 f_author: cms/authors/gurbaksh-chahal.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -160,7 +160,7 @@ f_conclusion: >-
   I loved _The Dream_ because of the candor with which it was written. This is a
   no-holds-barred narrative infused with the confidence of a person who has
   nothing to lose from sharing his knowledge.
-f_amazon-url: https://www.amazon.com/dp/B005DI894I/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B005DI894I/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

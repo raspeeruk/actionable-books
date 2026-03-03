@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7809668efe795c9dd88a8_make-facebook-work-for-your-business-94x144.jpeg
-  alt: null
+  alt: Make Facebook Work for your Business book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/make-facebook-work-for-your-business/
 f_author-plain-text: Alex Stearn
@@ -48,7 +48,7 @@ f_big-idea: >-
   Because I am so visual and a hands-on learner, it took me longer to read this
   book, as I would sit with a page propped open while I experimented on Facebook
   to see for myself if this app would work for my business.
-f_quote-reference: \- Make Facebook Work For Your Business, page 2
+f_quote-reference: '\- Make Facebook Work For Your Business, page 2'
 f_insight-2: >-
   ### Measure your results
 
@@ -119,7 +119,7 @@ f_conclusion: >-
 f_quote-2: >-
   "My goal is to help you save your time and your resources and provide you with
   a highly effective system to make Facebook work for your business."
-f_amazon-url: https://www.amazon.com/dp/1502876949/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1502876949/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

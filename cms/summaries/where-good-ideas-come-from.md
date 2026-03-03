@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:22.197Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a7da244ed58b684f6e_wgicf.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/where-good-ideas-come-from/
+  alt: Where Good Ideas Come From book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/where-good-ideas-come-from/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/01/ActionableBooks-Audio-Where-Good-Ideas-Come-From.mp3
 f_author-plain-text: Steven Johnson
@@ -49,7 +49,7 @@ f_big-idea: >-
   folders messy; embrace serendipity; make generative mistakes; take on multiple
   hobbies; frequent coffeehouses and other liquid networks; follow the links;
   let others build your own ideas; borrow, recycle, reinvent.”_
-f_quote-reference: \- Where Good Ideas Come From, page 174
+f_quote-reference: '\- Where Good Ideas Come From, page 174'
 f_insight-2: >-
   ### Seek Openness, Not Protection
 
@@ -138,7 +138,7 @@ f_insight-1: >-
   beginning of a project is a prime example of this.
 f_conclusion: ''
 f_quote-2: '"Chance favors the connected mind."'
-f_amazon-url: https://www.amazon.com/dp/1594485380/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1594485380/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

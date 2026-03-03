@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:05.678Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780ccda244ed58b685f79_the-paradox-of-choice-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-paradox-of-choice/
+  alt: The Paradox of Choice book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-paradox-of-choice/'
 f_author-plain-text: Barry Schwartz
 f_author: cms/authors/barry-schwartz.md
 f_category-3: cms/summary-categories/self-management.md
@@ -52,7 +52,7 @@ f_big-idea: >-
   Reflect on which decisions qualify for good enough and apply it consistently.
   He also suggests developing “well-defined standards for what is good enough”
   as detailed in the first GEM.
-f_quote-reference: \- Paradox of Choice, page 74
+f_quote-reference: '\- Paradox of Choice, page 74'
 f_insight-2: >-
   ### Practice gratitude to minimize regret
 
@@ -112,7 +112,7 @@ f_quote-2: >-
   accurate with every decision, and as more decisions are required and more
   options are available, the challenge of doing the decision making correctly
   becomes ever more difficult to meet."
-f_amazon-url: https://www.amazon.com/dp/B000TDGGVU/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B000TDGGVU/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

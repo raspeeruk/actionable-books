@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:01.272Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78056d1a6d45f96b01f3e_disciplined_dreaming.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/disciplined-dreaming/
+  alt: Disciplined Dreaming book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/disciplined-dreaming/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/ActionableBooks-Audio-Disciplined-Dreaming.mp3
 f_author-plain-text: Josh Linkner
@@ -117,7 +117,7 @@ f_conclusion: >-
   that I was left with after reading _Disciplined Dreaming_ was optimism and
   confidence that there are great things to look forward to that have yet to be
   created and discovered.
-f_amazon-url: https://www.amazon.com/dp/0470922222/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470922222/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

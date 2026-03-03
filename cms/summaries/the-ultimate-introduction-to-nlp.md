@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780240cdf6979a6b47082_ultimate-introduction-to-nlp-94x144.jpeg
-  alt: null
+  alt: The Ultimate Introduction to NLP book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-ultimate-introduction-to-nlp/
 f_author-plain-text: Alessio Roberti
@@ -44,7 +44,7 @@ f_big-idea: >-
   Instead of generalizing our experiences and projecting them into the future,
   we would be wise to realize (for example) that not all people will stab us in
   the back.
-f_quote-reference: \- The Ultimate Introduction to NLP, page 12
+f_quote-reference: '\- The Ultimate Introduction to NLP, page 12'
 f_insight-2: >-
   ### Building a Better Future
 
@@ -126,7 +126,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Whatever you think is going on, I want you to remember that it’s just a map.
   And it doesn’t necessarily match the map of the people around you."
-f_amazon-url: https://www.amazon.com/dp/0007497415/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0007497415/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

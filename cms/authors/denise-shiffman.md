@@ -1,17 +1,17 @@
 ---
 title: Denise Shiffman
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Denise-Shiffman/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Denise-Shiffman/'
 f_unique-id: '578'
 slug: denise-shiffman
 f_image:
   url: /assets/external/65d779e8e782ae4748a1244d_denise_shiffman.jpeg
-  alt: null
+  alt: Denise Shiffman
 f_summaries:
   - cms/summaries/the-age-of-engage.md
 updated-on: '2024-02-23T13:31:15.922Z'
 created-on: '2024-02-22T16:44:24.370Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/denisess/
+f_twitter-2: 'http://twitter.com/denisess/'
 layout: '[authors].html'
 tags: authors
 ---

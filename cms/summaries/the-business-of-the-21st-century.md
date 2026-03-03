@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780c078aa180633126495_business-of-the-21st-century-94x144.jpeg
-  alt: null
+  alt: The Business of the 21st Century book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-business-of-the-21st-century/
 f_author-plain-text: Robert T. Kiyosaki
@@ -70,7 +70,7 @@ f_big-idea: >-
   network. Help them build as wide and deep as they can. Ensure orders are
   processed in a timely manner, and cash flows back as quickly. That, in a
   nutshell, is how to build a big business from nothing in the 21st century.
-f_quote-reference: \- The Business of the 21st Century, page 3
+f_quote-reference: '\- The Business of the 21st Century, page 3'
 f_insight-2: >-
   ### The Value of Networking
 
@@ -123,7 +123,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Most of the U.S. population has been living for years on the knife-edge
   precipice between solvency and ruin."
-f_amazon-url: https://www.amazon.com/dp/8183222609/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/8183222609/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

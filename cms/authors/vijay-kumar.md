@@ -1,16 +1,16 @@
 ---
 title: Vijay Kumar
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Vijay-Kumar/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Vijay-Kumar/'
 f_unique-id: '31'
 f_image:
   url: /assets/external/65d77a618e2267d87246e1bd_vijay_kumar.jpeg
-  alt: null
+  alt: Vijay Kumar
 slug: vijay-kumar
 f_summaries: []
 updated-on: '2024-02-23T13:30:39.822Z'
 created-on: '2024-02-22T16:46:25.327Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://www.101designmethods.com/
+f_website-2: 'http://www.101designmethods.com/'
 layout: '[authors].html'
 tags: authors
 ---

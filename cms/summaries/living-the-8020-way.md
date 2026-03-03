@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:22.628Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b904ee7820ceb347c0_the-80-20-way-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/living-the-8020-way/
+  alt: Living the 80/20 Way book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/living-the-8020-way/'
 f_author-plain-text: Richard Koch
 f_author: cms/authors/richard-koch.md
 f_category-3: cms/summary-categories/self-management.md
@@ -46,7 +46,7 @@ f_big-idea: >-
   exercise, meditation and saving a portion of your earnings. But what makes the
   list interesting is that it also includes activities that are not so obvious,
   such as doing a daily unselfish act and focusing on what matters to you.
-f_quote-reference: \- Living the 80/20 Way, page 173
+f_quote-reference: '\- Living the 80/20 Way, page 173'
 f_insight-2: >-
   ### Live in the present
 
@@ -117,7 +117,7 @@ f_quote-2: >-
   things that we care about, the things we want to love and devote ourselves to,
   the things we are good at and enjoy. Having found these things, everything
   else is trivial."
-f_amazon-url: https://www.amazon.com/dp/1857886186/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1857886186/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

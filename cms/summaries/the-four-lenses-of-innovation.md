@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:57.413Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807c7eb51fa03a2abd99_the-four-lenses-94x90.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-four-lenses-of-innovation/
+  alt: The Four Lenses of Innovation book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-four-lenses-of-innovation/'
 f_author-plain-text: Rowan Gibson
 f_author: cms/authors/rowan-gibson.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -39,7 +39,7 @@ f_big-idea: >-
   focus on learning and practicing how to become more creative and innovative_.
   And a great way to do that is to apply Gibson’s four lenses to a challenge or
   problem you are currently facing.
-f_quote-reference: \- The 4 Lenses of Innovation, page xiii
+f_quote-reference: '\- The 4 Lenses of Innovation, page xiii'
 f_insight-2: >-
   ### Sow and You will Reap
 
@@ -127,7 +127,7 @@ f_quote-2: >-
   radically new or different ways of doing things that will fundamentally change
   customer expectations and behaviours, or break long established industry
   paradigms, or shift the entire basis for competitive advantage?"
-f_amazon-url: https://www.amazon.com/dp/1118740246/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118740246/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

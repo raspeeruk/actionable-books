@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:31.283Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780bc1de9c6d7938ed25e_own_your_niche.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/own-your-niche/
+  alt: Own Your Niche book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/own-your-niche/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-Own-Your-Niche.mp3
 f_author-plain-text: Stephanie Chandler
@@ -155,7 +155,7 @@ f_insight-1: >-
   notes, sound files, basically anything electronic and it is accessible on any
   device.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1935953281/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1935953281/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

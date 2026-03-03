@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:15.897Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78089c9a8372615bb24cf_tilt.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/tilt/
+  alt: Tilt book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/tilt/'
 f_author-plain-text: Niraj Dawar
 f_author: cms/authors/niraj-dawar.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -105,7 +105,7 @@ f_insight-1: >-
   only will you attract new customers, but your existing customers will see more
   value in your product or service and be less vulnerable to the competition.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1422187179/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1422187179/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

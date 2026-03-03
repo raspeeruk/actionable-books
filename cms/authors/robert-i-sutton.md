@@ -1,16 +1,16 @@
 ---
 title: Robert I. Sutton
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Robert-I.-Sutton/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Robert-I.-Sutton/'
 f_unique-id: '257'
 f_image:
   url: /assets/external/65d77a47e1933dfafaa61786_robert-sutton.jpeg
-  alt: null
+  alt: Robert I. Sutton
 slug: robert-i-sutton
 updated-on: '2024-02-23T13:30:38.695Z'
 created-on: '2024-02-22T16:45:59.228Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/work_matters/
-f_website-2: http://www.bobsutton.net
+f_twitter-2: 'http://twitter.com/work_matters/'
+f_website-2: 'http://www.bobsutton.net'
 layout: '[authors].html'
 tags: authors
 ---

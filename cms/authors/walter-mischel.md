@@ -1,11 +1,11 @@
 ---
 title: Walter Mischel
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Walter-Mischel/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Walter-Mischel/'
 f_unique-id: '678'
 slug: walter-mischel
 f_image:
   url: /assets/external/65d77a636a95d95c7544671f_walter-mischel-180x220.jpeg
-  alt: null
+  alt: Walter Mischel
 f_summaries:
   - cms/summaries/the-marshmallow-test.md
 updated-on: '2024-02-23T13:31:21.928Z'

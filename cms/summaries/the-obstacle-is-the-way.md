@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780a2eadf9e5ad150871a_the-obstacle-is-the-way-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-obstacle-is-the-way/
+  alt: The Obstacle Is the Way book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-obstacle-is-the-way/'
 f_author-plain-text: Ryan Holiday
 f_author: cms/authors/ryan-holiday.md
 f_category-3: cms/summary-categories/self-management.md
@@ -40,7 +40,7 @@ f_big-idea: >-
   yourself permission to call a thirty second ‘time out’ so you can objectively
   assess the situation and choose a more thoughtful and proactive way forward.
   Practice being _‘Response-Able’_.
-f_quote-reference: \- The Obstacle is the Way, page 8
+f_quote-reference: '\- The Obstacle is the Way, page 8'
 f_insight-2: >-
   ### Focus on the Process!
 
@@ -120,7 +120,7 @@ f_quote-2: >-
   "All great victories, be they in politics, business, art or seduction,
   involved resolving vexing problems with a potent cocktail of creativity, focus
   and daring."
-f_amazon-url: https://www.amazon.com/dp/1591846358/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591846358/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

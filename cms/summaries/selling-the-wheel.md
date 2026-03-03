@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:39.297Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805df0b248a4671a3197_selling-the-wheel.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/selling-the-wheel/
+  alt: Selling the Wheel book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/selling-the-wheel/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/11/ActionableBooks-Audio-Selling-the-Wheel.mp3
 f_author-plain-text: Howard Stevens
@@ -122,7 +122,7 @@ f_conclusion: >-
   introduces some hilarious historic equivalents to the modern world). If this
   summary even remotely piques your curiosity, you need to give _Selling the
   Wheel_ a read.
-f_amazon-url: https://www.amazon.com/dp/0684856018/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0684856018/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

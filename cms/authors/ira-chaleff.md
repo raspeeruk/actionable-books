@@ -1,11 +1,11 @@
 ---
 title: Ira Chaleff
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Ira-Chaleff/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Ira-Chaleff/'
 f_unique-id: '619'
 slug: ira-chaleff
 f_image:
   url: /assets/external/65d77a0047e6696c3ef3d166_ira-chaleff.jpeg
-  alt: null
+  alt: Ira Chaleff
 f_summaries:
   - cms/summaries/the-courageous-follower.md
 updated-on: '2024-02-23T13:31:28.705Z'

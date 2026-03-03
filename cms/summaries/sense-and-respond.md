@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:39.782Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780cf13cdde318a645260_sense-and-respond-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/sense-and-respond/
+  alt: Sense and Respond book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/sense-and-respond/'
 f_author-plain-text: Jeff Gothelf
 f_author: cms/authors/jeff-gothelf.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
@@ -81,7 +81,7 @@ f_big-idea: >-
   the way the sense and respond approach can be used to implement a sense and
   respond culture. Culture is in effect a product of your organization’s ongoing
   conversations with itself about itself.
-f_quote-reference: \- Sense and Respond, page 59
+f_quote-reference: '\- Sense and Respond, page 59'
 f_insight-2: >-
   ### It’s About People, Not Technology
 
@@ -177,7 +177,7 @@ f_quote-2: >-
   have, and we’re not sure whether our plans will be effective. In other words,
   it starts with a certain amount of humility, a quality that is often in short
   supply in business."
-f_amazon-url: https://www.amazon.com/dp/B01HLN0QGQ/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B01HLN0QGQ/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

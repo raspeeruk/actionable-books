@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780d55c2518978102c035_becoming-a-coaching-leader-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/becoming-a-coaching-leader/
+  alt: Becoming a Coaching Leader book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/becoming-a-coaching-leader/'
 f_author-plain-text: Daniel Harkavy
 f_author: cms/authors/daniel-harkavy.md
 f_category-3: cms/summary-categories/leadership.md
@@ -72,7 +72,7 @@ f_big-idea: >-
   great coaches providing opportunity for what can be and leading people “boldly
   and positively into the future.” I loved his idea to coach with passion in
   order to have more successes!
-f_quote-reference: \- Becoming a Coaching Leader, page 36
+f_quote-reference: '\- Becoming a Coaching Leader, page 36'
 f_insight-2: >-
   ### Schedule Your Day ... or They Will
 
@@ -130,7 +130,7 @@ f_quote-2: >-
   you, by making THEIR success YOUR mission. Help them to figure out how to win
   both in their career and in life, and you will enjoy both success and
   significance."
-f_amazon-url: https://www.amazon.com/dp/B007FZOY1E/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B007FZOY1E/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

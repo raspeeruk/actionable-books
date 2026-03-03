@@ -1,10 +1,10 @@
 ---
 title: Hamish Mckenzie
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Hamish-McKenzie/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Hamish-McKenzie/'
 f_unique-id: '447'
 f_image:
   url: /assets/external/65d779a49c49c73f41478f48_author-large.png
-  alt: null
+  alt: Hamish Mckenzie
 slug: hamish-mckenzie
 f_summaries:
   - cms/summaries/pitch.md

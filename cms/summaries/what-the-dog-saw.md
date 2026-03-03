@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:21.506Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780485675061815c4067b_what-the-dog-saw.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/what-the-dog-saw/
+  alt: What the Dog Saw book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/what-the-dog-saw/'
 f_author-plain-text: Malcolm Gladwell
 f_author: cms/authors/malcolm-gladwell.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -30,7 +30,7 @@ f_big-idea: >-
   the great Dog Whisperer through the eyes of the dog he is taming than the
   audience that has paid for his attendance. Now that is an interesting
   perspective to try and get your thoughts around.
-f_quote-reference: \- What the Dog Saw, page xxi
+f_quote-reference: '\- What the Dog Saw, page xxi'
 f_insight-2: >-
   ### What’s in a first impression?
 
@@ -100,7 +100,7 @@ f_quote-2: >-
   succeeds or fails on the strength of its ability to engage you, to make you
   think, to give you a glimpse into someone else’s head – even if in the end you
   conclude that someone else’s head is not a place you’d really like to be."
-f_amazon-url: https://www.amazon.com/dp/0316076201/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0316076201/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780d504ee7820ceb35356_recipes-thoughtful-leadership-healthy-culture-94x144.jpeg
-  alt: null
+  alt: Recipes for Thoughtful Leadership and Healthy Culture book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/recipes-for-thoughtful-leadership-and-healthy-culture/
 f_author-plain-text: Bonnie Sussman Versace
@@ -43,7 +43,7 @@ f_big-idea: >-
   consuming—yet, the exact opposite is true. To excel in your operations, you
   need dedicated, aligned teams, who are willing to go the extra mile for your
   business. That’s worth making the time for.
-f_quote-reference: \- Recipes for Thoughtful Leadership and Healthy Culture, page 5
+f_quote-reference: '\- Recipes for Thoughtful Leadership and Healthy Culture, page 5'
 f_insight-2: >-
   ### Relationships Matter
 
@@ -114,7 +114,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Don’t get distracted running the business and forget to grow the people who
   are helping to grow the business.”
-f_amazon-url: https://www.amazon.com/dp/B06XQGV8QY/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B06XQGV8QY/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

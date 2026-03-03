@@ -1,18 +1,18 @@
 ---
 title: David Weinberger
-f_original-url: https://www.actionablebooks.com/en-ca/authors/David-Weinberger/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/David-Weinberger/'
 f_unique-id: '796'
 f_image:
   url: /assets/external/65d779e743336637211b6e5d_david_weinberger.jpeg
-  alt: null
+  alt: David Weinberger
 slug: david-weinberger
 f_summaries:
   - cms/summaries/too-big-to-know.md
 updated-on: '2024-02-23T13:30:35.083Z'
 created-on: '2024-02-22T16:44:23.217Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/dweinberger/
-f_website-2: http://www.hyperorg.com/
+f_twitter-2: 'http://twitter.com/dweinberger/'
+f_website-2: 'http://www.hyperorg.com/'
 layout: '[authors].html'
 tags: authors
 ---

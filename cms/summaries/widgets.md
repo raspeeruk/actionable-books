@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:23.316Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78037be467da9b240c8c3_widgets-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/widgets/
+  alt: Widgets book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/widgets/'
 f_author-plain-text: Rodd Wagner
 f_author: cms/authors/rodd-wagner.md
 f_category-3: cms/summary-categories/leadership.md
@@ -36,7 +36,7 @@ f_big-idea: >-
   and do more than you ask for. And since they are often the ones interacting
   with your customers or on the frontlines of your business, this true
   engagement and loyalty will translate to higher profitability too.
-f_quote-reference: \- Widgets, page 1
+f_quote-reference: '\- Widgets, page 1'
 f_insight-2: >-
   ### Allow them to lead and have a voice
 
@@ -107,7 +107,7 @@ f_quote-2: >-
   trust you. Some don’t like you. Too many won’t stick it out with you. And the
   ones you need most have the credentials to walk out fastest if you treat them
   poorly."
-f_amazon-url: https://www.amazon.com/dp/0071847782/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071847782/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

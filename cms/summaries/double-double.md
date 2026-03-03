@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:02.535Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780ad6fb09c7aedcd757f_double_double-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/double-double/
+  alt: Double Double book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/double-double/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/07/Actionablebooks-Audio-Double-Double.mp3
 f_author-plain-text: Cameron Herold
@@ -39,7 +39,7 @@ f_big-idea: >-
 
   If you find you’re stuck doing work that truly doesn’t matter, try
   implementing one of these two Insights in your work life.
-f_quote-reference: \- Double Double, page 113
+f_quote-reference: '\- Double Double, page 113'
 f_insight-2: >-
   ### You're human. Deal with it.
 
@@ -122,7 +122,7 @@ f_conclusion: >-
   _Double Double_ is one I’m going to have within arm’s reach for years to come.
   I highly recommend this book.
 f_quote-2: '"It''s about focus, not tactics."'
-f_amazon-url: https://www.amazon.com/dp/1608320995/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1608320995/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

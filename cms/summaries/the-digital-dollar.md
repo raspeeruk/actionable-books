@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:54.478Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806d7434e224b36c0880_digital_dollar.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-digital-dollar/
+  alt: The Digital Dollar book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-digital-dollar/'
 f_author-plain-text: Joe Wozny
 f_author: cms/authors/joe-wozny.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -46,7 +46,7 @@ f_big-idea: >-
   name on all sites is so consistent and easy to communicate – think of business
   cards and brochures. We have all the icons listed with “BetterBeer” and a
   Twitter handle all by itself. It’s a real pet peeve, to be honest.
-f_quote-reference: \- The Digital Dollar, Introduction
+f_quote-reference: '\- The Digital Dollar, Introduction'
 f_insight-2: >-
   ### Building a Roadmap
 
@@ -140,7 +140,7 @@ f_quote-2: >-
   throughout, this book. The digital dollar, in the context of this book,
   defines all references to our unique perspective of the relationship between
   your money and the online world."
-f_amazon-url: https://www.amazon.com/dp/0978097467/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0978097467/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

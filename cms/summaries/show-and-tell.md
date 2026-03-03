@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:40.258Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a38f9ca28be98aaf02_show-and-tell.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/show-and-tell/
+  alt: Show and Tell book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/show-and-tell/'
 f_author-plain-text: Dan Roam
 f_author: cms/authors/dan-roam.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -36,7 +36,7 @@ f_big-idea: >-
   3.  **Tell the story with pictures** – Help the audience see what you mean by
   using pictures. They can see what you see, and then some! Using pictures
   captures the imagination. And that brings us back to engagement.
-f_quote-reference: \- Show and Tell, page 255
+f_quote-reference: '\- Show and Tell, page 255'
 f_insight-2: >-
   ### Lead with the eye and the mind will follow
 
@@ -119,7 +119,7 @@ f_conclusion: >-
 f_quote-2: >-
   "At any presentation, the audience is investing a part of their lives in us.
   Let’s give them a show."
-f_amazon-url: https://www.amazon.com/dp/1591846854/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591846854/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

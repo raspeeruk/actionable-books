@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:03.677Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780862b2bb9366f8099ae_egonomics-book-cover-sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/egonomics/
+  alt: Egonomics book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/egonomics/'
 f_author-plain-text: David Marcum and Steve Smith
 f_author: cms/authors/david-marcum-and-steve-smith.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -17,7 +17,7 @@ f_quote-reference: ''
 f_insight-2: ''
 f_insight-1: ''
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1416533273/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1416533273/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

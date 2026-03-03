@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:01.900Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a41e0dea9899f903b5_do-over-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/do-over/
+  alt: Do Over book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/do-over/'
 f_author-plain-text: Jon Acuff
 f_author: cms/authors/jon-acuff.md
 f_category-3: cms/summary-categories/self-management.md
@@ -58,7 +58,7 @@ f_big-idea: >-
   experience a career bump, jump, ceiling or opportunity, you’ll need
   investments in each of these areas to get back in the career game quickly and
   successfully.
-f_quote-reference: \- Do Over, page 11
+f_quote-reference: '\- Do Over, page 11'
 f_insight-2: >-
   ### Head down, head up
 
@@ -144,7 +144,7 @@ f_conclusion: >-
 f_quote-2: >-
   "We save for rainy days when it comes to our bank accounts but don’t do
   anything to protect our careers from the storm"
-f_amazon-url: https://www.amazon.com/dp/1591847613/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591847613/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

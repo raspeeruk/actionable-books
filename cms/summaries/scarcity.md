@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:38.607Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78068db928dde1f0f2244_scarcity.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/scarcity/
+  alt: Scarcity book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/scarcity/'
 f_author-plain-text: Eldar Shafir
 f_author: cms/authors/eldar-shafir.md
 f_category-3: cms/summary-categories/self-management.md
@@ -49,7 +49,7 @@ f_big-idea: >-
   see people differently and recognize that the behaviors of people (and
   organizations) living with scarcity are a result of reduced bandwidth—rather
   than being a result of what people are capable of.
-f_quote-reference: \- Scarcity, page 41
+f_quote-reference: '\- Scarcity, page 41'
 f_insight-2: >-
   ### One-time Fixes
 
@@ -123,7 +123,7 @@ f_quote-2: >-
   "Because the focus on scarcity is involuntary, and because it captures our
   attention, it impedes our ability to focus on other things. Scarcity in one
   walk of life means we have less attention, less mind, in the rest of life."
-f_amazon-url: https://www.amazon.com/dp/0805092641/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0805092641/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

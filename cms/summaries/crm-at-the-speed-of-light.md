@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:58.443Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803498fda031132d792a_crm-at-the-speed-of-light.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/crm-at-the-speed-of-light/
+  alt: CRM at the Speed of Light book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/crm-at-the-speed-of-light/'
 f_author-plain-text: Paul Greenberg
 f_author: cms/authors/paul-greenberg.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -44,7 +44,7 @@ f_big-idea: >-
 
   Where can you find your customers? Does your current system allow you to
   interact with them? How are you collecting data from these interactions?
-f_quote-reference: \- CRM at the Speed of Light, page 44
+f_quote-reference: '\- CRM at the Speed of Light, page 44'
 f_insight-2: >-
   ### Create your evaluation criteria
 
@@ -141,7 +141,7 @@ f_quote-2: >-
   relationship between the company and the customer has shifted from the company
   pushing ‘stuff’ at the customer to a conversation between the company and the
   customer."
-f_amazon-url: https://www.amazon.com/dp/0071590455/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071590455/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

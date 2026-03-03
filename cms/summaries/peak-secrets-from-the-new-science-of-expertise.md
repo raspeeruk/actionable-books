@@ -73,11 +73,74 @@ f_insight-1: >-
   addressing their desire for “success” versus “survival”? And finally, what’s
   the cause? People inherently want to be tied to something greater than
   themselves. Give them all three levels, or someone else will.
-f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0787988618/?tag=actionableb08-20
-f_quote-reference: ''
+f_conclusion: >-
+  In _Peak_, Ericsson and Pool use famous individuals from a broad range of
+  disciplines, who we generally see as naturally gifted, to confirm that
+  excelling in any area is within reach. They have combined their knowledge and
+  findings in neuroscience with practical case studies to provide an amazingly
+  simple approach for anyone to follow to achieve peak performance. What do you
+  wish you could be better at? What are you waiting for? Seize the methodology
+  identified by Ericsson and Pool and begin to turn your wish into your reality
+  today!
+f_amazon-url: 'https://www.amazon.com/dp/0787988618/?tag=actionableb08-20'
+f_quote-reference: '- Peak, page 122'
 layout: '[summaries].html'
 tags: summaries
+f_big-idea: >-
+  ### You can improve any skill if you practice deliberately
+
+
+  > "Deliberate practice is for everyone who dreams. It’s for anyone who wants
+  to learn how to draw, to write computer code, to juggle, to play… It’s for all
+  those people who want to take control of their lives and create their own
+  potential and not buy into the idea that this here, right now, is as good as
+  it gets."
+
+  > 
+
+  > \- Peak, page 146
+
+
+  The authors note that while anyone can improve in an area they wish to focus
+  on, there are some factors that may limit the extent of an individual’s
+  performance. For example, physical attributes in sports. But that aside, it
+  does not mean that we can never be good at it—we may just be limited on the
+  world stage in comparison to others who have the right genes. They also note
+  that some of the approaches and methodologies for deliberate practice may
+  prove most beneficial for children. Again, this does not mean adults cannot
+  achieve their goals as it’s possible “for adults, even older adults, to
+  develop a wide variety of new capabilities with the right training.” This
+  honesty is part of what makes this such an inspiring book as it tells us that
+  what we have come to believe is incorrect, that neuroscience research is
+  proving that our brains and body are adaptable and that we can most definitely
+  achieve our ambitions with the right attitude and discipline through
+  deliberate practice.
+
+
+  The principles of deliberate practice in everyday life involve the following
+  steps:
+
+
+  1.  **Find a good teacher  
+      **It is more effective and efficient to have a teacher providing feedback and assisting you in developing good mental representations that you can use to work from when you practice on your own. Mental representations help us visualize the success we seek, what it looks like, and how it feels when we are achieving the success. Think of athletes envisioning winning a race and how their muscles and body feel as they are competing.
+
+  2.  **Actively engage in your learning activity  
+      **If you are relaxed and having fun that is great. However, improvements will be unlikely. Deliberate practice takes discipline and hard work to see achievements in development and growth.
+
+  3.  **Pay attention to the detail  
+      **Improvement comes from paying attention to all the details and focusing on improving specific weaknesses. Remember to try different methods until you find one that works.
+
+  4.  **Plateaus are likely  
+      **The major reason for people ceasing to improve is that they settle at a plateau reached when the improvements stop. The best way to move beyond a plateau, and improve further, is to challenge your brain or body in a new way. This is common for athletes and the same is true for our brains and I believe reflects the potential for adaptability we have but don’t experience when we don’t push ourselves out of our comfort zone.
+
+  5.  **Maintaining motivation  
+      **We are all motivated for different reasons and there are many ways to weaken our desire to quit. Creating a habit is important in maintaining our discipline, for example, setting aside a fixed time to practice that is clear of all other obligations and distractions. Plan well and look for things that might interfere with your training and minimize its impact/influence. Establishing the habit makes maintaining your motivation easier.
+f_quote-2: >-
+  The creativity myth implies that few people can be creative, that any
+  successful creator will experience dramatic flashes of insight, and that
+  creating is more like magic than work. A rare few have what it takes, and for
+  them it comes easy. Anybody else’s creative efforts are doomed. ‘How to Fly a
+  Horse’ is about why the myth is wrong.
 ---
 
 

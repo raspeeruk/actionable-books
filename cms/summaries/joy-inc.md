@@ -1,14 +1,14 @@
 ---
 f_unique-number: 365
-title: Joy, Inc.
+title: 'Joy, Inc.'
 slug: joy-inc
 updated-on: '2024-02-27T20:31:36.409Z'
 created-on: '2024-02-22T16:06:18.591Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c47434e224b36c2ec8_joy-inc.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/joy-inc/
+  alt: 'Joy, Inc. book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/joy-inc/'
 f_author-plain-text: Richard Sheridan
 f_author: cms/authors/richard-sheridan.md
 f_category-3: cms/summary-categories/leadership.md
@@ -44,7 +44,7 @@ f_big-idea: >-
 
   *   **Walkies** – Get away from your desk and take a walk around the building
   with your colleagues. It doesn’t even matter what you talk about.
-f_quote-reference: \- Joy, Inc., page 9
+f_quote-reference: '\- Joy, Inc., page 9'
 f_insight-2: >-
   ### High Tech Anthropology
 
@@ -97,7 +97,7 @@ f_quote-2: >-
   "A pursuit of joy within a business context is not about the pursuit of fame
   or profit. Humans aspire to a higher purpose… We’ve found that profit, fame,
   and glory often follow us in this path, too."
-f_amazon-url: https://www.amazon.com/dp/B00DMCW1FK/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00DMCW1FK/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

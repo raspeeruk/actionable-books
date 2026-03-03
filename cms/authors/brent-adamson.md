@@ -1,18 +1,18 @@
 ---
 title: Brent Adamson
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Brent-Adamson/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Brent-Adamson/'
 f_unique-id: '609'
 f_image:
   url: /assets/external/65d779c2e782ae4748a10a5d_adamson1.jpeg
-  alt: null
+  alt: Brent Adamson
 slug: brent-adamson
 f_summaries:
   - cms/summaries/the-challenger-sale.md
 updated-on: '2024-02-23T13:30:29.153Z'
 created-on: '2024-02-22T16:43:46.591Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/brentadamson/
-f_website-2: http://www.thechallengersale.com
+f_twitter-2: 'http://twitter.com/brentadamson/'
+f_website-2: 'http://www.thechallengersale.com'
 layout: '[authors].html'
 tags: authors
 ---

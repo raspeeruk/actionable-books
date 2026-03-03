@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:50.607Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d733ad93c5dc41a7d1_art_of_worldly_wisdom.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-art-of-worldly-wisdom/
+  alt: The Art of Worldly Wisdom book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-art-of-worldly-wisdom/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-The-Art-of-Worldly-Wisdom.mp3
 f_author-plain-text: Baltasar Graci√°N
@@ -34,7 +34,7 @@ f_big-idea: >-
   but behave as though you are in danger of losing everything with your next
   move.** Think cautiously, consult Gracian and if you really can’t make the
   right decision, try to behave ethically.
-f_quote-reference: \- The Art of Worldly Wisdom, page 12
+f_quote-reference: '\- The Art of Worldly Wisdom, page 12'
 f_insight-2: >-
   ### Keep your storehouse of knowledge well-stocked
 
@@ -138,7 +138,7 @@ f_quote-2: >-
   "Things have their seasons, and even certain kinds of eminence go in and out
   of style. But wisdom has an advantage: she is eternal. If this is not her
   century, many others will be."
-f_amazon-url: https://www.amazon.com/dp/B0049P1LUK/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B0049P1LUK/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

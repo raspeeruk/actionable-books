@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7805d8ab9c0e7829baaf6_one-minute-manager-meets-the-monkey-94x144.jpeg
-  alt: null
+  alt: The One Minute Manager Meets the Monkey book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-one-minute-manager-meets-the-monkey/
 f_author-plain-text: Hal Burrows
@@ -40,7 +40,7 @@ f_big-idea: >-
   amount of time I have for them and contracting the amount of time they have
   for me. If they are running out of time more often than I am, that’s a good
   indicator of their increasing self-reliance.’_
-f_quote-reference: \- The One Minute Manager Meets the Monkey, page 50
+f_quote-reference: '\- The One Minute Manager Meets the Monkey, page 50'
 f_insight-2: >-
   ### Learn to Delegate
 
@@ -137,7 +137,7 @@ f_conclusion: >-
   is to ensure that we are prioritising the important tasks and letting go of
   (or delegating) the unimportant ones.
 f_quote-2: '"Things not worth doing are not worth doing well."'
-f_amazon-url: https://www.amazon.com/dp/0688103804/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0688103804/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,15 +1,15 @@
 ---
 title: Tim Brown
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Tim-Brown/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Tim-Brown/'
 f_unique-id: '124'
 f_image:
   url: /assets/external/65d77a5a3dadbcc5cd87ac36_tim-brown-lg-180x220.jpeg
-  alt: null
+  alt: Tim Brown
 slug: tim-brown
 updated-on: '2024-02-23T13:31:02.493Z'
 created-on: '2024-02-22T16:46:19.127Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://designthinking.ideo.com/
+f_website-2: 'http://designthinking.ideo.com/'
 layout: '[authors].html'
 tags: authors
 ---

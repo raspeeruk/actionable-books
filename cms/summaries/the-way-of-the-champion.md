@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:13.976Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806857e639fa01dbef8d_way_of_the_champion.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-way-of-the-champion/
+  alt: The Way of the Champion book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-way-of-the-champion/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/10/ActionableBooks-Audio-The-Way-of-The-Champion.mp3
 f_author-plain-text: Jerry Lynch
@@ -55,7 +55,7 @@ f_big-idea: >-
 
 
   Here are two methods to help sharpen your focus.
-f_quote-reference: \- The Way of the Champion, page i
+f_quote-reference: '\- The Way of the Champion, page i'
 f_insight-2: >-
   ### Practice Your I.P.R. (Instant Positive Response)
 
@@ -147,7 +147,7 @@ f_quote-2: >-
   acting as a champion, committing yourself to practicing the habits and ways of
   a champion, choosing to engage in a lifestyle that demonstrates such qualities
   and characteristics on a consistent daily basis."
-f_amazon-url: https://www.amazon.com/dp/0804837147/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0804837147/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

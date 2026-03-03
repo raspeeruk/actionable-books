@@ -1,13 +1,13 @@
 ---
 f_unique-number: 27
-title: Act Like a Leader, Think Like a Leader
+title: 'Act Like a Leader, Think Like a Leader'
 slug: act-like-a-leader-think-like-a-leader
 updated-on: '2024-02-27T20:31:09.283Z'
 created-on: '2024-02-22T16:05:45.081Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780893eeb22463bc98f97_act-like-a-leader-94x144.jpeg
-  alt: null
+  alt: 'Act Like a Leader, Think Like a Leader book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/act-like-a-leader-think-like-a-leader/
 f_author-plain-text: Herminia Ibarra
@@ -42,7 +42,7 @@ f_big-idea: >-
   becoming more DIY seems reminiscent of startup culture, where initiative is a
   must. Ibarra’s point is that if we want to advance and be leaders, not only do
   we need to be open to doing things differently, we need to take initiative.
-f_quote-reference: \- Act Like a Leader, Think Like a Leader, page 1
+f_quote-reference: '\- Act Like a Leader, Think Like a Leader, page 1'
 f_insight-2: >-
   ### Be your authentic self
 
@@ -103,7 +103,7 @@ f_conclusion: ''
 f_quote-2: >-
   "You can only learn what you need to know about your job and yourself by doing
   it – not just by thinking about it."
-f_amazon-url: https://www.amazon.com/dp/1422184129/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1422184129/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

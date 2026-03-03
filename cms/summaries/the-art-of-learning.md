@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:48.935Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806239068c80d9171419_the-art-of-learning-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-art-of-learning/
+  alt: The Art of Learning book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-art-of-learning/'
 f_author-plain-text: Josh Waitzkin
 f_author: cms/authors/josh-waitzkin.md
 f_category-3: cms/summary-categories/self-management.md
@@ -45,7 +45,7 @@ f_big-idea: >-
   exciting, and the results consistently mediocre. The pursuit of excellence
   will never truly begin until we eliminate our defeatist attitudes and welcome
   the hardships of mastery.
-f_quote-reference: \- The Art of Learning, page 47
+f_quote-reference: '\- The Art of Learning, page 47'
 f_insight-2: >-
   ### Find Your Zone
 
@@ -137,7 +137,7 @@ f_quote-2: >-
   "…there will be nothing learned from any challenge in which we don’t try our
   hardest. Growth comes at the point of resistance. We learn by pushing
   ourselves and finding what really lies at the outer reaches of our abilities."
-f_amazon-url: https://www.amazon.com/dp/0743277465/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0743277465/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

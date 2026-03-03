@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:04.580Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808e4ca49428b7516943_entreleadership-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/entreleadership/
+  alt: EntreLeadership book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/entreleadership/'
 f_author-plain-text: Dave Ramsey
 f_author: cms/authors/dave-ramsey.md
 f_category-3: cms/summary-categories/leadership.md
@@ -47,7 +47,7 @@ f_big-idea: >-
   one is a good parent. It takes work. Serving your team by leading them well is
   like serving your children by parenting them well. Are you able to relate to
   this analogy?
-f_quote-reference: \- EntreLeadership, page 2
+f_quote-reference: '\- EntreLeadership, page 2'
 f_insight-2: >-
   ### Selling by serving
 
@@ -129,7 +129,7 @@ f_conclusion: >-
   of starting and running a business along with high level leadership strategies
   that can be applied in any organization. Are you ready to be an EntreLeader?
 f_quote-2: '"You can win in business and have a blast doing it."'
-f_amazon-url: https://www.amazon.com/dp/1451617852/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1451617852/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

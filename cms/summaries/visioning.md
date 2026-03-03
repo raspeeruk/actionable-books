@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:19.898Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806e13cdde318a640cdd_visioning_booksize-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/visioning/
+  alt: Visioning book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/visioning/'
 f_author-plain-text: Glenn A. Williams
 f_author: cms/authors/glenn-a-williams.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -68,7 +68,7 @@ f_big-idea: >-
   vision back to you, or witnesses you speaking your vision aloud, you are
   likely to see yourself starting to think and feel differently about your
   vision
-f_quote-reference: \- Visioning, page 11
+f_quote-reference: '\- Visioning, page 11'
 f_insight-2: >-
   ### Be Kind to Yourself—Visioning is hard work
 
@@ -152,7 +152,7 @@ f_quote-2: >-
   time. We need a way to stay connected to a broader vision of our lives,
   against which we can make sense of the challenges and obstacles we encounter
   during our lives.”
-f_amazon-url: https://www.amazon.com/dp/0980855403/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0980855403/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

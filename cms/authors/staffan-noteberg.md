@@ -1,16 +1,16 @@
 ---
 title: Staffan Noteberg
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Staffan-Noteberg/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Staffan-Noteberg/'
 f_unique-id: '10'
 f_image:
   url: /assets/external/65d77a529230a02f00d0c84b_staffan.jpeg
-  alt: null
+  alt: Staffan Noteberg
 slug: staffan-noteberg
 updated-on: '2024-02-23T13:30:45.728Z'
 created-on: '2024-02-22T16:46:10.849Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/staffannoteberg/
-f_website-2: http://staffannoteberg.com/
+f_twitter-2: 'http://twitter.com/staffannoteberg/'
+f_website-2: 'http://staffannoteberg.com/'
 layout: '[authors].html'
 tags: authors
 ---

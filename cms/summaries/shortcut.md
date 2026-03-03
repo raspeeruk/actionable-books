@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:40.128Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a604ee7820ceb34002_shortcut-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/shortcut/
+  alt: Shortcut book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/shortcut/'
 f_author-plain-text: John Pollack
 f_author: cms/authors/john-pollack.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -47,7 +47,7 @@ f_big-idea: >-
   we already know, emphasizing the similarities between two unrelated topics is
   what makes analogies so effective. Adding emotions to them can boost
   persuasion, as we’ll see in the first GEM.
-f_quote-reference: \- Shortcut, page 182
+f_quote-reference: '\- Shortcut, page 182'
 f_insight-2: >-
   ### Use narratives or stories to enhance comprehension and retention
 
@@ -105,7 +105,7 @@ f_conclusion: >-
   to make your point more convincing. Combine it with a coherent story and an
   emotional appeal to boost your credibility and persuasion power.
 f_quote-2: '"The perfect analogy makes things as simple as possible, but no simpler."'
-f_amazon-url: https://www.amazon.com/dp/1592408494/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1592408494/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

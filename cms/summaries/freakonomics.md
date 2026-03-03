@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:08.850Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780261de9c6d7938e937b_freakonomics-cove-sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/freakonomics/
+  alt: Freakonomics book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/freakonomics/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/01/ActionableBooks-Audio-Freakonomics.mp3
 f_author-plain-text: Steven Levitt
@@ -19,7 +19,7 @@ f_quote-reference: ''
 f_insight-2: ''
 f_insight-1: ''
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0060731338/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0060731338/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

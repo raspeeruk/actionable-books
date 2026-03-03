@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:35.355Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780806632c78c3b6df7d9_promote-yourself.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/promote-yourself/
+  alt: Promote Yourself book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/promote-yourself/'
 f_author-plain-text: Dan Schawbel
 f_author: cms/authors/dan-schawbel.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
@@ -91,7 +91,7 @@ f_big-idea: >-
   success, be a smart giver and make sure you are learning and growing. Don’t
   rely on anyone or anything. Be accountable for your own career and take charge
   of your life.
-f_quote-reference: \- Promote Yourself, page 238
+f_quote-reference: '\- Promote Yourself, page 238'
 f_insight-2: >-
   ### Everything you need, you learned in Kindergarten
 
@@ -157,7 +157,7 @@ f_conclusion: >-
 f_quote-2: >-
   "If you believe in yourself, try new things, and spend some time outside your
   comfort zone, you can do anything you want."
-f_amazon-url: https://www.amazon.com/dp/1250044553/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1250044553/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

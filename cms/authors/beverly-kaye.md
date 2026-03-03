@@ -1,18 +1,18 @@
 ---
 title: Beverly Kaye
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Beverly-Kaye/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Beverly-Kaye/'
 f_unique-id: '346'
 f_image:
   url: /assets/external/65d779bc9230a02f00d08d5b_beverly-kaye.jpeg
-  alt: null
+  alt: Beverly Kaye
 slug: beverly-kaye
 f_summaries:
   - cms/summaries/learn-like-a-leader.md
 updated-on: '2024-02-23T13:31:08.167Z'
 created-on: '2024-02-22T16:43:41.061Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/BeverlyLKaye/
-f_website-2: http://careersystemsintl.com
+f_twitter-2: 'http://twitter.com/BeverlyLKaye/'
+f_website-2: 'http://careersystemsintl.com'
 layout: '[authors].html'
 tags: authors
 ---

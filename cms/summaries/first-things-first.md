@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:07.366Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805d540dd98b67c38667_first-things-first-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/first-things-first/
+  alt: First Things First book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/first-things-first/'
 f_author-plain-text: A. Roger Merrill And Rebecca Merrill
 f_author: cms/authors/a-roger-merrill-and-rebecca-merrill.md
 f_category-3: cms/summary-categories/self-management.md
@@ -79,7 +79,7 @@ f_big-idea: >-
 
   In order to move from urgency to importance (to quadrant 2) we must learn to
   identify our “first things” in life.
-f_quote-reference: \- First Things First, page 77
+f_quote-reference: '\- First Things First, page 77'
 f_insight-2: >-
   ### Characteristics of Becoming Principle Centred
 
@@ -204,8 +204,8 @@ f_conclusion: >-
   from time management to personal management should read this book: it will
   give you the means of choosing the correct course to achieve a life of
   fulfillment.
-f_quote-2: “Wheres there no gardener, there’s no garden”
-f_amazon-url: https://www.amazon.com/dp/0684802031/?tag=actionableb08-20
+f_quote-2: '“Wheres there no gardener, there’s no garden”'
+f_amazon-url: 'https://www.amazon.com/dp/0684802031/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:57.876Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780414df109592f03b933_imperfection.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-gifts-of-imperfection/
+  alt: The Gifts of Imperfection book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-gifts-of-imperfection/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/01/ActionableBooks-Audio-The-Gifts-of-Imperfection.mp3
 f_author-plain-text: Bren√© Brown
@@ -48,7 +48,7 @@ f_big-idea: >-
   plenty of opportunities to use these amazing tools each day. The end results
   include belonging and worthiness – ultimate quests that characterize the human
   experience.
-f_quote-reference: \- The Gifts of Imperfection, page 6
+f_quote-reference: '\- The Gifts of Imperfection, page 6'
 f_insight-2: >-
   ### Dig Deep
 
@@ -117,7 +117,7 @@ f_quote-2: >-
   up on love and belonging and joy – the experiences that make us the most
   vulnerable. Only when we are brave enough to explore the darkness will we
   discover the infinite power of our light."
-f_amazon-url: https://www.amazon.com/dp/159285849X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/159285849X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

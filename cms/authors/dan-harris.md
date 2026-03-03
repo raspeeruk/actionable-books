@@ -1,16 +1,16 @@
 ---
 title: Dan Harris
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Dan-Harris/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Dan-Harris/'
 f_unique-id: '27'
 f_image:
   url: /assets/external/65d779d5eec53b71dc7438ef_dan-harris-180x220.jpeg
-  alt: null
+  alt: Dan Harris
 slug: dan-harris
 f_summaries: []
 updated-on: '2024-02-23T13:31:32.290Z'
 created-on: '2024-02-22T16:44:06.143Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/danbharris/
+f_twitter-2: 'http://twitter.com/danbharris/'
 layout: '[authors].html'
 tags: authors
 ---

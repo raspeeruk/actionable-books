@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:07.809Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d36228bfbea0e6428b2df0_98055714.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-progress-principle/
+  alt: The Progress Principle book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-progress-principle/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/10/ActionableBooks-Audio-The-Progress-Principle.mp3
 f_author-plain-text: Steven Kramer
@@ -56,7 +56,7 @@ f_big-idea: >-
   positive inner work life creates happiness while motivating greater
   performance. insight #1 describes some ways to do this. insight #2 highlights
   a critical warning about the asymmetry of good and bad events.
-f_quote-reference: \- The Progress Principle, pages 3 & 10
+f_quote-reference: '\- The Progress Principle, pages 3 & 10'
 f_insight-2: >-
   ### Bad is Stronger Than Good
 
@@ -178,7 +178,7 @@ f_quote-2: >-
   leaders fundamentally misunderstood the most important source of
   motivation...the conventional rules miss the fundamental act of good
   management: managing for progress."
-f_amazon-url: https://www.amazon.com/dp/142219857X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/142219857X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

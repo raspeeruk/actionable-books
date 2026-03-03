@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:47.982Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806b78aa1806331237f5_age-of-unreason-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-age-of-unreason/
+  alt: The Age of Unreason book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-age-of-unreason/'
 f_author-plain-text: Charles Handy
 f_author: cms/authors/charles-handy.md
 f_category-3: cms/summary-categories/self-management.md
@@ -35,7 +35,7 @@ f_big-idea: >-
   recognize the right attitude to take we stay centered and focused. It is our
   focus that lets us envision the possibilities and the parts of ourselves we
   never saw before.
-f_quote-reference: \- The Age of Unreason, page 252
+f_quote-reference: '\- The Age of Unreason, page 252'
 f_insight-2: >-
   ### Avoid Negative Blocks
 
@@ -127,7 +127,7 @@ f_quote-2: >-
   the imagination, of spurring our creativity in an Age of Unreason when things
   are not going to go on working as they have been working, whether we like it
   or not."
-f_amazon-url: https://www.amazon.com/dp/0875843018/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0875843018/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

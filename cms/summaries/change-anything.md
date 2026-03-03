@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:52.930Z'
 published-on: '2024-02-27T17:21:07.905Z'
 f_image:
   url: /assets/external/65d780504563120af428d968_change_anything.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/change-anything/
+  alt: Change Anything book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/change-anything/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/01/ActionableBooks-Audio-Change-Anything.mp3
 f_author-plain-text: Al Switzler
@@ -164,7 +164,7 @@ f_insight-1: >-
   course, being an engineer, this strategy resonated with me. I’m curious and I
   love experiments.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0446573906/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0446573906/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

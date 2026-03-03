@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:20.871Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780ae327123816fae70f0_leapfrogging.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/leapfrogging/
+  alt: Leapfrogging book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/leapfrogging/'
 f_author-plain-text: Soren Kaplan
 f_author: cms/authors/soren-kaplan.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -52,7 +52,7 @@ f_big-idea: >-
   surprising experiences, and our reactions to them, to reevaluate our
   strategies, plans, and most importantly, our assumptions about what’s
   possible.
-f_quote-reference: \- Leapfrogging, page 6
+f_quote-reference: '\- Leapfrogging, page 6'
 f_insight-2: >-
   ### Persist
 
@@ -136,7 +136,7 @@ f_conclusion: ''
 f_quote-2: >-
   "If there’s something that’s really a big surprise… that’s generally the real
   world speaking to you, saying there’s something you don’t yet understand."
-f_amazon-url: https://www.amazon.com/dp/1609944941/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1609944941/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:25.598Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802a13d1e7c4be6e681c_brain.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/your-brain-at-work-2/
+  alt: Your Brain at Work book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/your-brain-at-work-2/'
 f_author-plain-text: David Rock
 f_author: cms/authors/david-rock.md
 f_category-3: cms/summary-categories/self-management.md
@@ -47,7 +47,7 @@ f_big-idea: >-
   *   plan recovery time by putting **high energy consumption tasks together**.
   Then when you move to the low energy tasks it’s a break for the brain
   (compared to mixing it up all day and never getting a substantial break).
-f_quote-reference: \- Your Brain at Work, Introduction
+f_quote-reference: '\- Your Brain at Work, Introduction'
 f_insight-2: >-
   ### Hot buttons
 
@@ -132,7 +132,7 @@ f_conclusion: >-
   abilities. I can already see a change in my completion of tasks. It’s very
   reinforcing!
 f_quote-2: '"It’s only by knowing your brain that you change it."'
-f_amazon-url: https://www.amazon.com/dp/0061771295/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0061771295/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

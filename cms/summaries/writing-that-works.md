@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:25.115Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78027d58945232eeb79d1_writing_that_works.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/writing-that-works/
+  alt: Writing That Works book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/writing-that-works/'
 f_author-plain-text: Joel Raphaelson
 f_author: cms/authors/joel-raphaelson.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -41,7 +41,7 @@ f_big-idea: >-
   Roman and Raphaelson suggest a number of ways to improve writing, and my
   personal favourites are: make the organization of your writing clear, be
   specific and write the way you speak (i.e. naturally).
-f_quote-reference: \- Writing That Works, page xii
+f_quote-reference: '\- Writing That Works, page xii'
 f_insight-2: >-
   ### Two Simple Editing Tips
 
@@ -106,7 +106,7 @@ f_conclusion: >-
 f_quote-2: >-
   "What you do need is a degree of determination - the perseverance to be sure
   you’ve said what you want to say."
-f_amazon-url: https://www.amazon.com/dp/0060956437/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0060956437/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

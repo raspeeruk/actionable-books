@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7805a72efaa8458989950_getting-a-squirrel-to-focus-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/getting-a-squirrel-to-focus/
+  alt: Getting a Squirrel to Focus book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/getting-a-squirrel-to-focus/'
 f_author-plain-text: Patricia B Scott
 f_author: cms/authors/patricia-b-scott.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -54,7 +54,7 @@ f_big-idea: >-
 
 
   **N – Need to connect** – Use strategies to engage them with emotion.
-f_quote-reference: \- Getting a Squirrel to Focus, page 52
+f_quote-reference: '\- Getting a Squirrel to Focus, page 52'
 f_insight-2: >-
   ### Call to Action
 
@@ -155,7 +155,7 @@ f_conclusion: >-
 f_quote-2: >-
   "A new fight is brewing over what might currently be the scarcest resource:
   our attention. We are now in an ‘attention economy’."
-f_amazon-url: https://www.amazon.com/dp/0615368581/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0615368581/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:22.814Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780906d3d2478cfb3ebcb_looptail.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/looptail/
+  alt: Looptail book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/looptail/'
 f_author-plain-text: Bruce Poon Tip
 f_author: cms/authors/bruce-poon-tip.md
 f_category-3: cms/summary-categories/leadership.md
@@ -63,7 +63,7 @@ f_big-idea: >-
   focus on the patient to create profit so we can develop new cures and
   treatments. The key is that we make money to build better treatments rather
   than we build treatments to make money. The intent makes all the difference.
-f_quote-reference: \- Looptail, page 187
+f_quote-reference: '\- Looptail, page 187'
 f_insight-2: >-
   ### Three types of people - which one are you?
 
@@ -186,7 +186,7 @@ f_quote-2: >-
   "The idea of the Looptail is that, if we get everything in our business right,
   with our people and our culture, you have to believe that everything else will
   fall into place."
-f_amazon-url: https://www.amazon.com/dp/1455574090/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1455574090/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

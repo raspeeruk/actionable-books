@@ -1,17 +1,17 @@
 ---
 title: Dev Patnaik
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Dev-Patnaik/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Dev-Patnaik/'
 f_unique-id: '846'
 slug: dev-patnaik
 f_image:
   url: /assets/external/65d779e967d6a37a95c2613b_dev.jpeg
-  alt: null
+  alt: Dev Patnaik
 f_summaries:
   - cms/summaries/wired-to-care.md
 updated-on: '2024-02-23T13:31:23.286Z'
 created-on: '2024-02-22T16:44:25.571Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/devpatnaik/
+f_twitter-2: 'http://twitter.com/devpatnaik/'
 layout: '[authors].html'
 tags: authors
 ---

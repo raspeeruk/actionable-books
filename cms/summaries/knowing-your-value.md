@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:19.564Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780ac8a4b4a660fe3ec7a_knowing-your-value-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/knowing-your-value/
+  alt: Knowing Your Value book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/knowing-your-value/'
 f_author-plain-text: Mika Brzezinski
 f_author: cms/authors/mika-brzezinski.md
 f_category-3: cms/summary-categories/self-management.md
@@ -42,7 +42,7 @@ f_big-idea: >-
   employees, need to work _smarter_ not harder. We must take responsibility for
   our careers and our pay cheques by drawing attention to the great work we are
   doing and demonstrating how it contributes to the success of the organization.
-f_quote-reference: \- Knowing Your Value, page 186
+f_quote-reference: '\- Knowing Your Value, page 186'
 f_insight-2: >-
   ### No Excuses, No Apologies
 
@@ -123,7 +123,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Knowing the fair-market value of our contributions at work is a critically
   important piece of knowledge for today’s (and tomorrow’s) professional woman."
-f_amazon-url: https://www.amazon.com/dp/1602861609/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1602861609/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

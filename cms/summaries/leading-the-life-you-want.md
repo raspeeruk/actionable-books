@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:20.478Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808a6c1a1ebc9b54b256_leading-the-life-you-want.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/leading-the-life-you-want/
+  alt: Leading the Life You Want book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/leading-the-life-you-want/'
 f_author-plain-text: Stewart D. Friedman
 f_author: cms/authors/stewart-d-friedman.md
 f_category-3: cms/summary-categories/self-management.md
@@ -49,7 +49,7 @@ f_big-idea: >-
   in life. Where are you in these roles? Are you where you want to be? If not,
   what can you be doing to get there? Sometimes we all need to step back and
   reflect on our direction so that we can end up where we want to be.
-f_quote-reference: \- Leading the Life You Want, page 208
+f_quote-reference: '\- Leading the Life You Want, page 208'
 f_insight-2: >-
   ### Hold Yourself Accountable
 
@@ -99,7 +99,7 @@ f_quote-2: >-
   "We must have our heads in the clouds and our feet on the ground, dealing with
   the reality while dreaming of a better future. We must be optimists and
   realists. And we must never quit trying to live the life we want."
-f_amazon-url: https://www.amazon.com/dp/1422189414/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1422189414/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

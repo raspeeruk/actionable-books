@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:47.244Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780cd327123816fae7b76_are-you-fully-charged-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/are-you-fully-charged/
+  alt: Are You Fully Charged? book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/are-you-fully-charged/'
 f_author-plain-text: Tom Rath
 f_author: cms/authors/tom-rath.md
 f_category-3: cms/summary-categories/self-management.md
@@ -41,7 +41,7 @@ f_big-idea: >-
   and therefore the one I’ll focus on here is meaning. Since we spend much of
   our waking life at work, it is crucial to find meaning there or nothing else
   we do will allow us to be our best.
-f_quote-reference: \- Are You Fully Charged?, page 3
+f_quote-reference: '\- Are You Fully Charged?, page 3'
 f_insight-2: >-
   ### Spend Time in Your Element
 
@@ -121,7 +121,7 @@ f_quote-2: >-
   Your mind is sharp, and your body is strong. On days when you are fully
   charged, you experience high levels of engagement and well-being. This charge
   carries forward, creating an upward cycle for those you care about."
-f_amazon-url: https://www.amazon.com/dp/B00U6BW560/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00U6BW560/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

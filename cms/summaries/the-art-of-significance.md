@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:49.399Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a19b92e746e868839b_9781591845744_p0_v1_s114x166.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-art-of-significance/
+  alt: The Art of Significance book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-art-of-significance/'
 f_author-plain-text: Dan Clark
 f_author: cms/authors/dan-clark.md
 f_category-3: cms/summary-categories/self-management.md
@@ -64,7 +64,7 @@ f_big-idea: >-
 
   You need not master them all at once. As with many things, significance is
   about the journey, not the destination.
-f_quote-reference: \- The Art of Significance, page 7
+f_quote-reference: '\- The Art of Significance, page 7'
 f_insight-2: >-
   ### The Truth Will Set You Free
 
@@ -146,7 +146,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Personal success, what we do for ourselves, dies with us, but significance,
   what we do for others, remains and is ever-lasting."
-f_amazon-url: https://www.amazon.com/dp/1591845742/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591845742/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

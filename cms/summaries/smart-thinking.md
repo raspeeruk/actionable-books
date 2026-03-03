@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:41.146Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804e0535ac2cb61ecfa8_smart_thinking.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/smart-thinking/
+  alt: Smart Thinking book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/smart-thinking/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/ActionableBooks-Audio-Smart-Thinking.mp3
 f_author-plain-text: Art Markman
@@ -39,7 +39,7 @@ f_big-idea: >-
   First and most obvious is to find ways to stop engaging in the old,
   undesirable behavior. The second and most critical to change is to replace the
   bad habit with a good one.
-f_quote-reference: \- Smart Thinking, back cover
+f_quote-reference: '\- Smart Thinking, back cover'
 f_insight-2: >-
   ### Smart Thinking in Practice
 
@@ -130,7 +130,7 @@ f_conclusion: ''
 f_quote-2: >-
   "When you understand how the mind works, you can think smarter – and act
   smarter."
-f_amazon-url: https://www.amazon.com/dp/0399537759/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0399537759/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

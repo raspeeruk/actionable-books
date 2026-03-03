@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:14.011Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806c5c25189781027b8e_wealthy_barber1.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-wealthy-barber-returns/
+  alt: The Wealthy Barber Returns book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-wealthy-barber-returns/'
 f_author-plain-text: David Chilton
 f_author: cms/authors/david-chilton.md
 f_category-3: cms/summary-categories/self-management.md
@@ -54,7 +54,7 @@ f_big-idea: >-
   **What if financial success wasn’t about making more, rather about wanting
   less?** Imagine if financial success was in your mind and a choice you could
   make by altering your perspective and gratitude.
-f_quote-reference: \- The Wealthy Barber Returns, page 3
+f_quote-reference: '\- The Wealthy Barber Returns, page 3'
 f_insight-2: >-
   ### Less is often more
 
@@ -143,7 +143,7 @@ f_quote-2: >-
   "Unless you marry into wealth or come from a very well-to-do family (both
   highly advisable strategies by the way), you’ll have to learn to spend less
   than you make."
-f_amazon-url: https://www.amazon.com/dp/0968394744/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0968394744/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

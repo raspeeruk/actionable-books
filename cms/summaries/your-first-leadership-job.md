@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7807d2b2bb9366f8095c1_your-first-leadership-job-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/your-first-leadership-job/
+  alt: Your First Leadership Job book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/your-first-leadership-job/'
 f_author-plain-text: Richard S. Wellins
 f_author: cms/authors/richard-s-wellins.md
 f_category-3: cms/summary-categories/leadership.md
@@ -48,7 +48,7 @@ f_big-idea: >-
   percent said they are currently working for their best boss ever. And as you
   might have expected, they rated their best bosses as three times more likely
   to use and exhibit catalyst behaviors.
-f_quote-reference: \- Your First Leadership Job, page 4
+f_quote-reference: '\- Your First Leadership Job, page 4'
 f_insight-2: >-
   ### Bring Out the Best in People
 
@@ -120,7 +120,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Nobody comes to his first leadership position knowing everything he needs to
   succeed."
-f_amazon-url: https://www.amazon.com/dp/1118911954/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118911954/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

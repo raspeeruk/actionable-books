@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:01.357Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803638000e5dc7567b5d_disney_u.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/disney-u/
+  alt: Disney U book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/disney-u/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/04/ActionableBooks-Audio-Disney-U.mp3
 f_author-plain-text: Doug Lipp
@@ -55,7 +55,7 @@ f_big-idea: >-
   By sharing insider stories of how the company survived major challenges
   through training innovations, Lipp supports his assertion that **a company is
   only as strong as its employee development program.**
-f_quote-reference: \- Disney U, page 53
+f_quote-reference: '\- Disney U, page 53'
 f_insight-2: >-
   ### Instill pride rather than servility in employees
 
@@ -134,7 +134,7 @@ f_conclusion: >-
   book also reminds us that Disney U has been putting that wisdom into practice
   for over half a century. When will other organizations catch up?
 f_quote-2: '"Training programs reflect organizational values and health."'
-f_amazon-url: https://www.amazon.com/dp/0071808078/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071808078/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

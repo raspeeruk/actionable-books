@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d78027a6abc3e76db245bc_innovation-and-entrepreneurship-94x144.jpeg
-  alt: null
+  alt: Innovation and Entrepreneurship book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/innovation-and-entrepreneurship/
 f_author-plain-text: Peter Drucker
@@ -47,7 +47,7 @@ f_big-idea: >-
 
   3.  Management and entrepreneur strategy is required in order to successfully
   bring innovation to the market
-f_quote-reference: \- Innovation and Entrepreneurship, page 30
+f_quote-reference: '\- Innovation and Entrepreneurship, page 30'
 f_insight-2: >-
   ### Treat Entrepreneurship as a Duty
 
@@ -212,7 +212,7 @@ f_quote-2: >-
   does not innovate inevitably ages and declines. And in a period of rapid
   change, such as the present, an entrepreneur period, the decline will be
   fast.”
-f_amazon-url: https://www.amazon.com/dp/0060851139/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0060851139/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

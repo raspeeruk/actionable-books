@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:07:07.663Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780344563120af428cf0d_presentation_secrets.jpeg
-  alt: null
+  alt: The Presentation Secrets of Steve Jobs book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-presentation-secrets-of-steve-jobs/
 f_author-plain-text: Carmine Gallo
@@ -48,7 +48,7 @@ f_big-idea: >-
   “Do you want to spend the rest of your life selling sugared water or do you
   want a chance to change the world?” Sculley said that those words were like a
   blow to the stomach and the words would “haunt” him until he joined Apple.
-f_quote-reference: \- The Presentation Secrets of Steve Jobs, page 215
+f_quote-reference: '\- The Presentation Secrets of Steve Jobs, page 215'
 f_insight-2: >-
   ### Prepare to Amaze
 
@@ -151,7 +151,7 @@ f_conclusion: >-
   creating drama and well-rehearsed staging, Steve Job’s presentations delighted
   audiences and left the media buzzing.
 f_quote-2: '"Stay hungry, stay foolish."'
-f_amazon-url: https://www.amazon.com/dp/0071636080/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071636080/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

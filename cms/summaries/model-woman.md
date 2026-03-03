@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:27.559Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802cd58945232eeb7b5d_model-woman-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/model-woman/
+  alt: Model Woman book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/model-woman/'
 f_author-plain-text: Robert Lacey
 f_author: cms/authors/robert-lacey.md
 f_category-3: cms/summary-categories/leadership.md
@@ -116,7 +116,7 @@ f_insight-1: >-
   you empower your people to make a difference for themselves and for others
   through their work?
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0062108077/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062108077/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

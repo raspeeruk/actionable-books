@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:16.904Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802c899573618576999a_ingenius1.png
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/ingenius/
+  alt: InGenius book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/ingenius/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/07/ActionableBooks-Audio-InGenius.mp3
 f_author-plain-text: Tina Seelig
@@ -60,7 +60,7 @@ f_big-idea: >-
   outside your control but those that have influence over your everyday
   interactions. By focusing on the factors you can control, you can learn how
   every moment provides an opportunity to creatively respond in any situation.
-f_quote-reference: \- inGenius, page 16
+f_quote-reference: '\- inGenius, page 16'
 f_insight-2: >-
   ### No Limits
 
@@ -127,7 +127,7 @@ f_conclusion: >-
   overcome challenges and generate opportunities of all dimensions” (page 201).
   Change the game.
 f_quote-2: '"Creativity is not just something you think about – it is something you do."'
-f_amazon-url: https://www.amazon.com/dp/0062020706/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062020706/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

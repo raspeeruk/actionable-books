@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:08.386Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808b97d45cdc3efa7240_the-radical-edge.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-radical-edge/
+  alt: The Radical Edge book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-radical-edge/'
 f_author-plain-text: Steve Farber
 f_author: cms/authors/steve-farber.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -106,7 +106,7 @@ f_conclusion: >-
   exciting, inspiring and (best of all) duplicable. I encourage you to pick up a
   copy of _The Radical Edge_ today, and begin your own path to “stoke your
   business, amp your life, and change the world.” Have fun doing it, too.
-f_amazon-url: https://www.amazon.com/dp/1427797935/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1427797935/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

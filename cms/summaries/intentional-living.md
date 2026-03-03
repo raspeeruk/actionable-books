@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:17.497Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78090f72bdcc46c19afe6_intentional-living-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/intentional-living/
+  alt: Intentional Living book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/intentional-living/'
 f_author-plain-text: John C. Maxwell
 f_author: cms/authors/john-c-maxwell.md
 f_category-3: cms/summary-categories/self-management.md
@@ -39,7 +39,7 @@ f_big-idea: >-
 
   How do you want people to summarize your life? Now that you know you have a
   choice, write one sentence you want them to say about you when you are gone.
-f_quote-reference: \- Rabbi Harold Kushner, quoted in Intentional Living, page 100
+f_quote-reference: '\- Rabbi Harold Kushner, quoted in Intentional Living, page 100'
 f_insight-2: >-
   ### Do You Relate to Others Like You?
 
@@ -123,7 +123,7 @@ f_quote-2: >-
   meaning, for the sense that we have figured out how to live so that our lives
   matter, so that the world will be at least a little bit different for our
   having passed through it."
-f_amazon-url: https://www.amazon.com/dp/1455548170/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1455548170/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

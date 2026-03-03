@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:26.937Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780354b8c885f258cc710_million-dollar-coaching.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/million-dollar-coaching/
+  alt: Million Dollar Coaching book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/million-dollar-coaching/'
 f_author-plain-text: Alan Weiss
 f_author: cms/authors/alan-weiss.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -138,7 +138,7 @@ f_insight-1: >-
   trust when I want a second opinion and ignore any unsolicited advice from
   people I casually meet at networking events.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0071743790/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071743790/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

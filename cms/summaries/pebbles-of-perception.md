@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:31.905Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809504ee7820ceb337dd_pebbles-of-perception-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/pebbles-of-perception/
+  alt: Pebbles of Perception book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/pebbles-of-perception/'
 f_author-plain-text: Laurence Endersen
 f_author: cms/authors/laurence-endersen.md
 f_category-3: cms/summary-categories/self-management.md
@@ -54,7 +54,7 @@ f_big-idea: >-
   Knowing yourself gives you the confidence and conviction to act on your
   expectations and not someone else’s. As Endersen notes “Always think for
   yourself. Don’t automatically accept what you are told.”
-f_quote-reference: \- Pebbles of Perception, page 115
+f_quote-reference: '\- Pebbles of Perception, page 115'
 f_insight-2: >-
   ### The value of experiences over things
 
@@ -127,7 +127,7 @@ f_quote-2: >-
   "Our ability to choose is one of life’s great gifts. We are the product of our
   choices. Good choices come from good character, and a few good choices make
   all the difference."
-f_amazon-url: https://www.amazon.com/dp/1502458578/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1502458578/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

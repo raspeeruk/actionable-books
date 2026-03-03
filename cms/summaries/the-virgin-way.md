@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:13.349Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a31a3802ce7ed1ef22_the-virgin-way.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-virgin-way/
+  alt: The Virgin Way book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-virgin-way/'
 f_author-plain-text: Richard Branson
 f_author: cms/authors/richard-branson.md
 f_category-3: cms/summary-categories/leadership.md
@@ -35,7 +35,7 @@ f_big-idea: >-
 
   So how exactly does one manage such a vast group of diverse businesses? It’s
   all in the Insights.
-f_quote-reference: \- The Virgin Way, page 157
+f_quote-reference: '\- The Virgin Way, page 157'
 f_insight-2: >-
   ### Create an entrepreneur culture
 
@@ -112,7 +112,7 @@ f_quote-2: >-
   "What routinely fools a Goliath is when, instead of going after their market
   share, someone instead goes out to create a whole new niche market right under
   their imperious nose."
-f_amazon-url: https://www.amazon.com/dp/1591847370/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591847370/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

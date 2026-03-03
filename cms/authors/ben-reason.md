@@ -1,11 +1,11 @@
 ---
 title: Ben Reason
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Ben-Reason/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Ben-Reason/'
 f_unique-id: '514'
 slug: ben-reason
 f_image:
   url: /assets/external/65d779ba9230a02f00d08b9c_ben-reason-180x210.jpeg
-  alt: null
+  alt: Ben Reason
 f_summaries:
   - cms/summaries/service-design-for-business.md
 updated-on: '2024-02-23T13:31:29.605Z'

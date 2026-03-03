@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:34.635Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78071445c05ffe5991424_predictable-revenue.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/predictable-revenue-2/
+  alt: Predictable Revenue book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/predictable-revenue-2/'
 f_author-plain-text: Aaron Ross
 f_author: cms/authors/aaron-ross.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -44,7 +44,7 @@ f_big-idea: >-
 
   It’s harder to make it profitable if your average customer is worth less than
   $5000.
-f_quote-reference: \- Predictable Revenue, page 2
+f_quote-reference: '\- Predictable Revenue, page 2'
 f_insight-2: >-
   ### The Sales Machine
 
@@ -115,7 +115,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Of course you want more revenue, but what good is it if it isn’t
   predictable?”
-f_amazon-url: https://www.amazon.com/dp/0984380213/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0984380213/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

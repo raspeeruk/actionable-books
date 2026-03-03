@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:01.695Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808413cdde318a641aea_the-long-tail.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-long-tail/
+  alt: The Long Tail book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-long-tail/'
 f_author-plain-text: Chris Anderson
 f_author: cms/authors/chris-anderson.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -119,7 +119,7 @@ f_conclusion: >-
   unbelievable rate. And yet… and yet, the fundamentals remain the same. Create
   something of value; create it with passion, and the world will respond. The
   classics are forever.
-f_amazon-url: https://www.amazon.com/dp/1401309666/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1401309666/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

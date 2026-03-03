@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:45.947Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78023493e1ac825f51e65_team-genius-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/team-genius/
+  alt: Team Genius book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/team-genius/'
 f_author-plain-text: Michael S. Malone
 f_author: cms/authors/michael-s-malone.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -95,7 +95,7 @@ f_big-idea: >-
 
   Asking these questions will help you define where your team is in it’s life
   cycle, and ultimately work more effectively.
-f_quote-reference: \- Team Genius, page xiv
+f_quote-reference: '\- Team Genius, page xiv'
 f_insight-2: >-
   ### Teams are Human Nature
 
@@ -190,7 +190,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Teams compose a large part of our private and public lives. We depend on them
   for both our success and our happiness."
-f_amazon-url: https://www.amazon.com/dp/006230254X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/006230254X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

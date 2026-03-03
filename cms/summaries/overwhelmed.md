@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:31.184Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c45c2518978102b8f8_overwhelmed.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/overwhelmed/
+  alt: Overwhelmed book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/overwhelmed/'
 f_author-plain-text: Brigid Schulte
 f_author: cms/authors/brigid-schulte.md
 f_category-3: cms/summary-categories/self-management.md
@@ -116,7 +116,7 @@ f_insight-1: >-
   were scarfed down in a heartbeat by a bunch of delighted middle schoolers. To
   let go of perfection is key to experiencing all life has to offer.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/B00D5TOGZS/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00D5TOGZS/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7807239068c80d9171a56_four-steps-to-the-epiphany-94x144.jpeg
-  alt: null
+  alt: The Four Steps to the Epiphany book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-four-steps-to-the-epiphany/
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -46,7 +46,7 @@ f_big-idea: >-
   it discarded its products for the home and became a major supplier of
   equipment to telecommunications carriers. The Customer Discovery process would
   have revealed the need to switch to a different market much earlier.
-f_quote-reference: \- The Four Steps to the Epiphany, page 20
+f_quote-reference: '\- The Four Steps to the Epiphany, page 20'
 f_insight-2: >-
   ### Would you deploy the product if it was free?
 
@@ -132,7 +132,7 @@ f_quote-2: >-
   "In the early stages of a startup, focusing on ‘execution’ will put you out of
   business. Instead, you need a ‘learning and discovery’ process so you can get
   the company to the point where you know what to execute."
-f_amazon-url: https://www.amazon.com/dp/0989200507/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0989200507/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

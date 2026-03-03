@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780c933ad93c5dc41a28e_9781591847465_automaticcustomer_jkf.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-automatic-customer/
+  alt: The Automatic Customer book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-automatic-customer/'
 f_author-plain-text: John Warrillow
 f_author: cms/authors/john-warrillow.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -59,7 +59,7 @@ f_big-idea: >-
   that gives me effectively the same thing. There’s a desire for access – to
   feeling “a part of the club” that is attractive. And, for the right price,
   enticing enough to pull out a credit card.
-f_quote-reference: \- The Automatic Customer, page 124
+f_quote-reference: '\- The Automatic Customer, page 124'
 f_insight-2: >-
   ### Tick, tick, tick…
 
@@ -130,7 +130,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Metaphorically speaking, a traditional business requires more brawn, while
   subscription business requires more brain."
-f_amazon-url: https://www.amazon.com/dp/B00LFYXDNQ/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00LFYXDNQ/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

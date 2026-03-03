@@ -1,14 +1,14 @@
 ---
 f_unique-number: 148
-title: Creativity, Inc.
+title: 'Creativity, Inc.'
 slug: creativity-inc
 updated-on: '2024-02-27T20:30:52.725Z'
 created-on: '2024-02-22T16:05:56.475Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780681b56e0975faaef29_creativity-inc.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/creativity-inc/
+  alt: 'Creativity, Inc. book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/creativity-inc/'
 f_author-plain-text: Amy Wallace
 f_author: cms/authors/amy-wallace.md
 f_category-3: cms/summary-categories/leadership.md
@@ -58,7 +58,7 @@ f_big-idea: >-
 
   I will try to keep my mind open to alternative viewpoints and realize that
   others see problems I don’t, and they see solutions too.
-f_quote-reference: \- Creativity, Inc., page xvi
+f_quote-reference: '\- Creativity, Inc., page xvi'
 f_insight-2: >-
   ### Protect the new
 
@@ -129,7 +129,7 @@ f_conclusion: >-
 f_quote-2: >-
   This book… is about the ongoing work of paying attention – of leading by being
   self-aware, as managers and as companies.
-f_amazon-url: https://www.amazon.com/dp/0812993012/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0812993012/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

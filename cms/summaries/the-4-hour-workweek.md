@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:46.764Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78044f40a70780ee9a762_the_4-hour_workweek-sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-4-hour-workweek/
+  alt: The 4-Hour Workweek book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-4-hour-workweek/'
 f_author-plain-text: Timothy Ferriss
 f_author: cms/authors/timothy-ferriss.md
 f_category-3: cms/summary-categories/self-management.md
@@ -44,7 +44,7 @@ f_big-idea: >-
 
 
   Please. Re-read the above quote. _Soak and marinate in it._
-f_quote-reference: \- The 10X Rule, page 3
+f_quote-reference: '\- The 10X Rule, page 3'
 f_insight-2: >-
   ### SUCCESS is your duty
 
@@ -122,7 +122,7 @@ f_quote-2: >-
   doing, you must think and act in a wildly different way than you previously
   have been. You cannot get to the next phase of a project without a grander
   mind-set, more acceleration, and extra horsepower."
-f_amazon-url: https://www.amazon.com/dp/0307465357/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0307465357/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

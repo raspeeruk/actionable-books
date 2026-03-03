@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:53.608Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809338000e5dc756a035_choose-yourself.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/choose-yourself/
+  alt: Choose Yourself book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/choose-yourself/'
 f_author-plain-text: James Altucher
 f_author: cms/authors/james-altucher.md
 f_category-3: cms/summary-categories/self-management.md
@@ -35,7 +35,7 @@ f_big-idea: >-
   to put into practice what the book or course teaches to realize the benefits.
   So, it’s really about making good decisions, displaying a personal effort, and
   taking the necessary actions.
-f_quote-reference: \- Choose Yourself, page 87
+f_quote-reference: '\- Choose Yourself, page 87'
 f_insight-2: >-
   ### Are You Seeking Constant Improvement?
 
@@ -102,7 +102,7 @@ f_quote-2: >-
   relying on century-old customs and antiquated ideas about ‘property rights’,
   ‘education’, ‘jobs’, ‘politics’, and so on that have kept people enslaved with
   ancient philosophical shackles."
-f_amazon-url: https://www.amazon.com/dp/1490313370/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1490313370/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

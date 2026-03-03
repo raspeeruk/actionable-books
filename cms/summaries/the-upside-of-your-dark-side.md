@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7803e0882405b4cf0f28f_upside-of-your-dark-side-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-upside-of-your-dark-side/
+  alt: The Upside of Your Dark Side book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-upside-of-your-dark-side/'
 f_author-plain-text: Robert Biswas Diener
 f_author: cms/authors/robert-biswas-diener.md
 f_category-3: cms/summary-categories/self-management.md
@@ -51,7 +51,7 @@ f_big-idea: >-
 
   Instead of sweeping these feelings under the rug, I am going to be more
   conscious of them and how they are serving me.
-f_quote-reference: \- C.G. Jung, quoted in The Upside of Your Dark Side, page 188
+f_quote-reference: '\- C.G. Jung, quoted in The Upside of Your Dark Side, page 188'
 f_insight-2: >-
   ### Distress Tolerance
 
@@ -143,7 +143,7 @@ f_conclusion: >-
 f_quote-2: >-
   "One does not become enlightened by imagining figures of light, but by making
   the darkness conscious."
-f_amazon-url: https://www.amazon.com/dp/0147516447/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0147516447/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

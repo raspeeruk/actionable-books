@@ -1,17 +1,17 @@
 ---
 title: Alex Lowy
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Alex-Lowy/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Alex-Lowy/'
 f_unique-id: '408'
 f_image:
   url: /assets/external/65d779a962300ba2b206219d_alex_lowy_bio-180x201.gif
-  alt: null
+  alt: Alex Lowy
 slug: alex-lowy
 f_summaries:
   - cms/summaries/no-problem.md
 updated-on: '2024-02-23T13:30:28.577Z'
 created-on: '2024-02-22T16:43:21.476Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://www.transcendstrategy.com/
+f_website-2: 'http://www.transcendstrategy.com/'
 layout: '[authors].html'
 tags: authors
 ---

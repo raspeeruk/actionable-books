@@ -6,7 +6,7 @@ f_unique-id: '225'
 slug: a-roger-merrill-and-rebecca-merrill
 f_image:
   url: /assets/external/65d779a49c49c73f41478f48_author-large.png
-  alt: null
+  alt: A. Roger Merrill And Rebecca Merrill
 f_summaries:
   - cms/summaries/first-things-first.md
 updated-on: '2024-02-23T13:31:20.212Z'

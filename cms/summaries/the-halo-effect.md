@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:58.224Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806287289c3de690460a_halo-effect.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-halo-effect/
+  alt: The Halo Effect book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-halo-effect/'
 f_author-plain-text: Phil Rosenzweig
 f_author: cms/authors/phil-rosenzweig.md
 f_category-3: cms/summary-categories/self-management.md
@@ -50,7 +50,7 @@ f_big-idea: >-
   Though the principles described in books such as _In Search of Excellence_
   intuitively seem like sound advice, the reality is it doesn’t give us a
   complete or reliable roadmap to create strong performance.
-f_quote-reference: \- The Halo Effect, page xvi
+f_quote-reference: '\- The Halo Effect, page xvi'
 f_insight-2: >-
   ### Remember: Performance Is Relative
 
@@ -134,7 +134,7 @@ f_conclusion: >-
 f_quote-2: >-
   "For all the secrets and formulas, for all the self-proclaimed thought
   leadership, success in business is as elusive as ever."
-f_amazon-url: https://www.amazon.com/dp/0743291263/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0743291263/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

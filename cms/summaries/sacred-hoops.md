@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:38.282Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78084da244ed58b684232_sacred_hoops.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/sacred-hoops/
+  alt: Sacred Hoops book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/sacred-hoops/'
 f_author-plain-text: Phil Jackson
 f_author: cms/authors/phil-jackson.md
 f_category-3: cms/summary-categories/leadership.md
@@ -49,7 +49,7 @@ f_big-idea: >-
   Jackson eloquently asks the audience to simply listen to him apply the tenets
   and theories of Buddhism to the tenets and theories of the practice of
   everyday life.
-f_quote-reference: \- Sacred Hoops, page 34
+f_quote-reference: '\- Sacred Hoops, page 34'
 f_insight-2: >-
   ### Mindfulness
 
@@ -136,7 +136,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Rookies are always ecstatic, seasoned players are quieter. Both on and off of
   the battlefield, winning is the only absolution."
-f_amazon-url: https://www.amazon.com/dp/1401308813/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1401308813/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

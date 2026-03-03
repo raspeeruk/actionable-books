@@ -1,14 +1,14 @@
 ---
 f_unique-number: 76
-title: Blog, Inc.
+title: 'Blog, Inc.'
 slug: blog-inc
 updated-on: '2024-02-27T20:31:11.914Z'
 created-on: '2024-02-22T16:05:49.311Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808f4563120af428fe0c_blog_inc.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/blog-inc/
+  alt: 'Blog, Inc. book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/blog-inc/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/09/ActionaableBooks-Audio-Blog-inc.wav
 f_author-plain-text: Joy Deangdeelert Cho
@@ -66,7 +66,7 @@ f_big-idea: >-
   indeed be a mixture of any of the different variations. Your blog will develop
   over time, and will tell you what it wants to be. The following two Insights
   will offer some tips for once you’ve got going.
-f_quote-reference: \- Blog, Inc., page 8
+f_quote-reference: '\- Blog, Inc., page 8'
 f_insight-2: >-
   ### Multiple Blogging Disorder
 
@@ -138,7 +138,7 @@ f_quote-2: >-
   "A handbook like this—full of advice from those who have already navigated the
   world of blogging—is one of the easiest ways to ensure that you develop and
   stay true to your core blogging goals and values."
-f_amazon-url: https://www.amazon.com/dp/1452107203/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1452107203/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

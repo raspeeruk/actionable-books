@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780b472efaa845898c4e1_how-to-win-at-the-sport-of-business-94x144.jpeg
-  alt: null
+  alt: How to Win at the Sport of Business book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/how-to-win-at-the-sport-of-business/
 f_author-plain-text: Mark Cuban
@@ -59,7 +59,7 @@ f_big-idea: >-
 
 
   In the end, though, you only need to win once to become a success. Just once!
-f_quote-reference: \- How to Win at the Sport of Business, page 3
+f_quote-reference: '\- How to Win at the Sport of Business, page 3'
 f_insight-2: >-
   ### Keep Swinging
 
@@ -120,7 +120,7 @@ f_quote-2: >-
   “In every job, I would justify in my mind, whether I loved it or hated it,
   that I was getting paid to learn and every experience would be of value when I
   figured out what I wanted to do when I grew up.”
-f_amazon-url: https://www.amazon.com/dp/1626810915/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1626810915/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

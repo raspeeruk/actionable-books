@@ -1,10 +1,10 @@
 ---
 title: Donald O. Clifton
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Donald-O.-Clifton/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Donald-O.-Clifton/'
 f_unique-id: '278'
 f_image:
   url: /assets/external/65d779eabddc0b719a0b8557_donald-o-clifton.jpeg
-  alt: null
+  alt: Donald O. Clifton
 slug: donald-o-clifton
 f_summaries:
   - cms/summaries/how-full-is-your-bucket.md

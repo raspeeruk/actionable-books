@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:07.854Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78070476f5b2ebbd75fe2_the_promise_dcotrine2-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-promise-doctrine/
+  alt: The Promise Doctrine book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-promise-doctrine/'
 f_author-plain-text: Craig P. Womack
 f_author: cms/authors/craig-p-womack.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -128,7 +128,7 @@ f_conclusion: >-
   to improve your performance, reliability, trustworthiness, relationships, and
   be known as someone people can count on, then use the system outlined in _The
   Promise Doctrine_ to produce the new you. Good luck!
-f_amazon-url: https://www.amazon.com/dp/0984259007/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0984259007/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

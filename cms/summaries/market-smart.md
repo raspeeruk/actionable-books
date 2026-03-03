@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:25.632Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78092f6702f0b878c912f_9781477227787_p0_v2_s114x166.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/market-smart/
+  alt: Market Smart book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/market-smart/'
 f_author-plain-text: Lisa Shepherd
 f_author: cms/authors/lisa-shepherd.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -46,7 +46,7 @@ f_big-idea: >-
 
 
   How do you take action on your marketing strategy?
-f_quote-reference: \- Market Smart, page 1
+f_quote-reference: '\- Market Smart, page 1'
 f_insight-2: >-
   ### Developing Content
 
@@ -141,7 +141,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The most successful B2B companies in the world use marketing to dominate
   their industries and deliver enviable results."
-f_amazon-url: https://www.amazon.com/dp/1477227784/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1477227784/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

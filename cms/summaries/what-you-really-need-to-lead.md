@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780b61de9c6d7938ecf57_what-you-really-need-to-lead-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/what-you-really-need-to-lead/
+  alt: What You Really Need to Lead book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/what-you-really-need-to-lead/'
 f_author-plain-text: Robert Steven Kaplan
 f_author: cms/authors/robert-steven-kaplan.md
 f_category-3: cms/summary-categories/leadership.md
@@ -50,7 +50,7 @@ f_big-idea: >-
   for you, too! I will definitely be making changes to ensure I stay connected
   with others more regularly with the goal of staying current on industry
   trends, best practices and identifying my pesky blind spots.
-f_quote-reference: \- What You Really Need to Lead, page 17
+f_quote-reference: '\- What You Really Need to Lead, page 17'
 f_insight-2: >-
   ### Become a Transformer
 
@@ -135,7 +135,7 @@ f_quote-2: >-
   "Leadership is a team sport. That is to say, your success is inextricably
   linked to the activities and contributions of others. You are highly unlikely
   to become a leader or develop your leadership capabilities all by yourself."
-f_amazon-url: https://www.amazon.com/dp/1633690555/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1633690555/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

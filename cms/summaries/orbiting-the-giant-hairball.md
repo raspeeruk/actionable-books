@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7805b327123816fae485c_orbiting-the-giant-hairball-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/orbiting-the-giant-hairball/
+  alt: Orbiting the Giant Hairball book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/orbiting-the-giant-hairball/'
 f_author-plain-text: Gordon Mackenzie
 f_author: cms/authors/gordon-mackenzie.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
@@ -40,7 +40,7 @@ f_big-idea: >-
   fear is to accept and support others. It creates a feeling of mutual respect
   and safety. Do you ever feel like the voice of criticism in your head is not
   yours? Other people hear your voice in their head, what is it saying?
-f_quote-reference: \- Orbiting the Giant Hairball, Page 33
+f_quote-reference: '\- Orbiting the Giant Hairball, Page 33'
 f_insight-2: >-
   ### Release Control
 
@@ -107,7 +107,7 @@ f_quote-2: >-
   the Hairball of the corporate mindset, beyond ‘accepted models, patterns, or
   standards,’ – all the while remaining connected to the spirit of the corporate
   mission."
-f_amazon-url: https://www.amazon.com/dp/0670879835/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0670879835/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

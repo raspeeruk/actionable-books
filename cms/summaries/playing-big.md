@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:33.612Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a6feb4fd439cd771e7_playing-big-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/playing-big/
+  alt: Playing Big book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/playing-big/'
 f_author-plain-text: Tara Mohr
 f_author: cms/authors/tara-mohr.md
 f_category-3: cms/summary-categories/self-management.md
@@ -38,7 +38,7 @@ f_big-idea: >-
   Mohr has provided to women, and what she outlines in the book are many
   practical ideas and tips for women to independently work through their
   barriers. Read on for two.
-f_quote-reference: \- Playing Big, page ix
+f_quote-reference: '\- Playing Big, page ix'
 f_insight-2: >-
   ### At Some Point, We Have to Leap
 
@@ -110,7 +110,7 @@ f_quote-2: >-
   "Playing Big is about bridging the gap between what we see in you and what you
   know about yourself. It’s a practical guide to moving past self-doubt and
   creating what you most want to create"
-f_amazon-url: https://www.amazon.com/dp/1594206074/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1594206074/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

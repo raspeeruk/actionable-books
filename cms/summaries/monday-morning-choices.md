@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:27.764Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780294f1f96a38b497908_monday_morning_choices.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/monday-morning-choices/
+  alt: Monday Morning Choices book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/monday-morning-choices/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-Monday-Morning-Choices.mp3
 f_author-plain-text: David Cottrell
@@ -73,7 +73,7 @@ f_conclusion: >-
   of those unconscious choices we make into the spotlight for new examination.
   Additionally, David Cottrell has provided an excellent tool to guide you in
   the reexamination of these choices.
-f_amazon-url: https://www.amazon.com/dp/0061451916/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0061451916/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

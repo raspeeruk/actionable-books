@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:35.990Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78043124d447bdbf6c471_quiet.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/quiet/
+  alt: Quiet book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/quiet/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/08/ActionableBooks-Audio-Quiet.mp3
 f_author-plain-text: Susan Cain
@@ -40,7 +40,7 @@ f_big-idea: >-
   Northern backwoods.” But he was also a quiet person. An introvert. The group
   didn’t listen to his suggestions (instead following the guidance of the
   loudest members of the group), to disastrous results.
-f_quote-reference: \- Quiet, page 226
+f_quote-reference: '\- Quiet, page 226'
 f_insight-2: >-
   ### Time Outs
 
@@ -107,7 +107,7 @@ f_quote-2: >-
   type is that introverts are antisocial and that extroverts are pro-social. ...
   neither formulation is correct; introverts and extroverts are differently
   social."
-f_amazon-url: https://www.amazon.com/dp/0307352145/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0307352145/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

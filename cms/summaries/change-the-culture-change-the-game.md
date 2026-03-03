@@ -1,6 +1,6 @@
 ---
 f_unique-number: 114
-title: Change the Culture, Change the Game
+title: 'Change the Culture, Change the Game'
 slug: change-the-culture-change-the-game
 updated-on: '2024-02-27T20:31:21.546Z'
 created-on: '2024-02-22T16:05:53.132Z'
@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780a05c2518978102a911_change-the-culture-change-the-game-94x144.jpeg
-  alt: null
+  alt: 'Change the Culture, Change the Game book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/change-the-culture-change-the-game/
 f_author-plain-text: Roger Connors
@@ -49,7 +49,7 @@ f_big-idea: >-
   great to read the view that the current culture isn’t necessarily a bad or
   poor culture, it is simply not the culture to help the organization achieve
   its desired results.
-f_quote-reference: \- Change the Culture, Change the Game, Kindle Edition, location 176
+f_quote-reference: '\- Change the Culture, Change the Game, Kindle Edition, location 176'
 f_insight-2: >-
   ### Confusion Equals Chaos
 
@@ -144,7 +144,7 @@ f_conclusion: >-
 f_quote-2: >-
   "When you build a Culture of Accountability, you create an organisation filled
   with people who can and will get game-changing results."
-f_amazon-url: https://www.amazon.com/dp/1591845394/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591845394/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

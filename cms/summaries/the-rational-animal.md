@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:08.596Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780512a2994bbba9dc5c3_rational-animal-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-rational-animal/
+  alt: The Rational Animal book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-rational-animal/'
 f_author-plain-text: Douglas T. Kenrick
 f_author: cms/authors/douglas-t-kenrick.md
 f_category-3: cms/summary-categories/self-management.md
@@ -73,7 +73,7 @@ f_big-idea: >-
   This is not to say that subselves provide an excuse or a justification for
   immoral behaviour. But they can explain why humans often behave like
   hypocrites: we have only one body, but our brains are inherently divided.
-f_quote-reference: \- The Rational Animal, page xii
+f_quote-reference: '\- The Rational Animal, page xii'
 f_insight-2: >-
   ### Know thyself
 
@@ -144,7 +144,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Our choices today reflect a deep seated evolutionary wisdom, honed by our
   ancestors’ past successes and failures."
-f_amazon-url: https://www.amazon.com/dp/0465032427/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0465032427/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

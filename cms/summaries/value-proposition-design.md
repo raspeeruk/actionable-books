@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7807d38000e5dc7569624_value-proposition-design-94x93.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/value-proposition-design/
+  alt: Value Proposition Design book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/value-proposition-design/'
 f_author-plain-text: Alan Smith
 f_author: cms/authors/alan-smith.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -73,7 +73,7 @@ f_big-idea: >-
   Therefore, a proposition to write a business book that is easy to use leads to
   results and helps communicate and sell ideas internally would be valuable to a
   potential business book customer.
-f_quote-reference: \- Value Proposition Design, page 58
+f_quote-reference: '\- Value Proposition Design, page 58'
 f_insight-2: >-
   ### Don't Judge. Listen.
 
@@ -184,7 +184,7 @@ f_quote-2: >-
   "In today’s hypercompetitive world, customers are surrounded by an ocean of
   tempting value propositions that all compete for the same limited slots of
   attention"
-f_amazon-url: https://www.amazon.com/dp/1118968050/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118968050/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

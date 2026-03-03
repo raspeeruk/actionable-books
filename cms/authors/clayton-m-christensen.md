@@ -1,16 +1,16 @@
 ---
 title: Clayton M. Christensen
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Clayton-M.-Christensen/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Clayton-M.-Christensen/'
 f_unique-id: '180'
 f_image:
   url: /assets/external/65d779d2f8540e93586289fa_christensen.jpeg
-  alt: null
+  alt: Clayton M. Christensen
 slug: clayton-m-christensen
 updated-on: '2024-02-23T13:30:37.791Z'
 created-on: '2024-02-22T16:44:02.330Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/claychristensen/
-f_website-2: http://www.claytonchristensen.com/
+f_twitter-2: 'http://twitter.com/claychristensen/'
+f_website-2: 'http://www.claytonchristensen.com/'
 layout: '[authors].html'
 tags: authors
 ---

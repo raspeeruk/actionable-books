@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:55.699Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78025b974b768d91bfdd4_creative-confidence.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/creative-confidence-2/
+  alt: Creative Confidence book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/creative-confidence-2/'
 f_author-plain-text: David Kelley
 f_author: cms/authors/david-kelley.md
 f_category-3: cms/summary-categories/self-management.md
@@ -55,7 +55,7 @@ f_big-idea: >-
   _Creative Confidence_ encourages people to make more mistakes and “fail” when
   putting ideas into action. When that action fails – pause, reflect, tweak and
   move forward.
-f_quote-reference: \- Creative Confidence, page 9
+f_quote-reference: '\- Creative Confidence, page 9'
 f_insight-2: >-
   ### Experiment with Side Projects
 
@@ -125,7 +125,7 @@ f_conclusion: >-
 f_quote-2: >-
   "You don’t have to switch careers or move to Silicon Valley to change your
   mindset"
-f_amazon-url: https://www.amazon.com/dp/038534936X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/038534936X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

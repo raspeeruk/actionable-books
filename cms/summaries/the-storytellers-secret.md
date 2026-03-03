@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780816dbd28b39d944e38_the-storytellers-secret-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-storytellers-secret/
+  alt: The Storyteller’s Secret book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-storytellers-secret/'
 f_author-plain-text: Carmine Gallo
 f_author: cms/authors/carmine-gallo.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -65,7 +65,7 @@ f_big-idea: >-
   lot) is summed up beautifully in this simple statement: “Jobs delivered wow
   moments in every product launch”. After a quick re-watch of the 2007 iPhone
   presentation, you’ll be inclined to agree.
-f_quote-reference: \- The Storyteller’s Secret, page xvi
+f_quote-reference: '\- The Storyteller’s Secret, page xvi'
 f_insight-2: >-
   ### The strength of simplicity
 
@@ -177,7 +177,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Ideas are the currency of the twenty-first century. In the information age,
   the knowledge economy, you are only as valuable as your ideas."
-f_amazon-url: https://www.amazon.com/dp/1250071550/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1250071550/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:26.542Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780803cf2f7d756cf21de_zombie-loyalists-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/zombie-loyalists/
+  alt: Zombie Loyalists book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/zombie-loyalists/'
 f_author-plain-text: Peter Shankman
 f_author: cms/authors/peter-shankman.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -35,7 +35,7 @@ f_big-idea: >-
   expectations so it’s easy for you to wow your customers with just a little
   effort. And once you wow them, you’ve taken a step toward building a zombie
   loyalist.
-f_quote-reference: \- Zombie Loyalists, page 12
+f_quote-reference: '\- Zombie Loyalists, page 12'
 f_insight-2: >-
   ### Own your mistakes
 
@@ -104,7 +104,7 @@ f_quote-2: >-
   "Imagine if you could make your customers so in love with you, so amazed at
   their experience with you, each and every time, that they’d have no choice but
   to tell the world how great you are?"
-f_amazon-url: https://www.amazon.com/dp/1137279664/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1137279664/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

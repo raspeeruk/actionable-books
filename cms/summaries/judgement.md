@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:18.888Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780dad33c7df02ee1897b_judgment.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/judgement/
+  alt: Judgment book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/judgement/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/12/ActionableBooks-Audio-Judgment.mp3
 f_author-plain-text: Noel M. Tichy
@@ -38,7 +38,7 @@ f_big-idea: >-
 
   The following two Insights highlight the two key elements of The Framework for
   Leadership Judgment.
-f_quote-reference: \- Judgment, page 5
+f_quote-reference: '\- Judgment, page 5'
 f_insight-2: >-
   ### Follow The Process of Judgment Calls
 
@@ -161,7 +161,7 @@ f_conclusion: >-
   the pitfalls of not following it. And I highly recommend you add it to your
   bookshelf – I know I’ll be keeping it close by as a reference.
 f_quote-2: '"With good judgment, little else matters. Without it, nothing else matters."'
-f_amazon-url: https://www.amazon.com/dp/B00394DFOM/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00394DFOM/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:56.060Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a696d29f515b3651d7_the-farm-on-the-roof-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-farm-on-the-roof/
+  alt: The Farm on the Roof book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-farm-on-the-roof/'
 f_author-plain-text: Anastasia Cole Plakias
 f_author: cms/authors/anastasia-cole-plakias.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -49,7 +49,7 @@ f_big-idea: >-
   activities. While I derive more satisfaction working on client deliverables,
   it is clear I need to crunch a few more numbers to get a better handle on
   what’s working well and where I’m short-changing myself.
-f_quote-reference: \- The Farm on the Roof, page 3
+f_quote-reference: '\- The Farm on the Roof, page 3'
 f_insight-2: >-
   ### Include Absolutely Everything!
 
@@ -125,7 +125,7 @@ f_quote-2: >-
   "We didn’t simply want to farm; we intended to create a small farm business –
   a self-sustaining enterprise that, like any other business, would have to turn
   a profit to survive."
-f_amazon-url: https://www.amazon.com/dp/1592409482/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1592409482/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

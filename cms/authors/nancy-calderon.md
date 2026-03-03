@@ -1,10 +1,10 @@
 ---
 title: Nancy Calderon
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Nancy-Calderon/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Nancy-Calderon/'
 f_unique-id: '848'
 f_image:
   url: /assets/external/65d77a34349bd618a2bf4a17_nancy-calderon-180x220.jpeg
-  alt: null
+  alt: Nancy Calderon
 slug: nancy-calderon
 f_summaries:
   - cms/summaries/women-on-board.md

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:23.352Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807c57e639fa01dbfcbf_low-hanging-fruit-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/low-hanging-fruit/
+  alt: Low-Hanging Fruit book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/low-hanging-fruit/'
 f_author-plain-text: Jeremy Eden
 f_author: cms/authors/jeremy-eden.md
 f_category-3: cms/summary-categories/self-management.md
@@ -30,7 +30,7 @@ f_big-idea: >-
   you find new things along the path to talk about. As the school year
   progresses from start to finish, I also suspect the time you take to get there
   may have become a little less. Was that a shortcut you just found?
-f_quote-reference: \- Low-Hanging Fruit, page 53
+f_quote-reference: '\- Low-Hanging Fruit, page 53'
 f_insight-2: >-
   ### Stuck between a rock and a hard place?
 
@@ -88,7 +88,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Brainstorming is like a food fight; problem solving is like a master cooking
   class."
-f_amazon-url: https://www.amazon.com/dp/1118857925/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118857925/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

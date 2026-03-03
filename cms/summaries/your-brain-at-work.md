@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:25.939Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802a13d1e7c4be6e681c_brain.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/your-brain-at-work/
+  alt: Your Brain at Work book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/your-brain-at-work/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/07/ActionableBooks-Audio-Your-Brain-at-Work.mp3
 f_author-plain-text: David Rock
@@ -59,7 +59,7 @@ f_big-idea: >-
   decide how much time you are going to spend on each task and stick to those
   timelines. This is more effective than continuously flitting across several
   tasks.
-f_quote-reference: \- Your Brain at Work, page 96
+f_quote-reference: '\- Your Brain at Work, page 96'
 f_insight-2: >-
   ### Divide Your Day
 
@@ -127,7 +127,7 @@ f_conclusion: >-
 f_quote-2: >-
   "By understanding your brain, you increase your capacity to change your
   brain."
-f_amazon-url: https://www.amazon.com/dp/0061771295/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0061771295/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,16 +1,16 @@
 ---
 title: Dr Richard Wiseman
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Dr-Richard-Wiseman/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Dr-Richard-Wiseman/'
 f_unique-id: '596'
 slug: dr-richard-wiseman
 f_image:
   url: /assets/external/65d779ee689a516315f35cbe_bubbles-180x220.jpeg
-  alt: null
+  alt: Dr Richard Wiseman
 updated-on: '2024-02-23T13:31:21.092Z'
 created-on: '2024-02-22T16:44:30.912Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: https://www.facebook.com/pages/Richard-Wiseman/216389545522
-f_twitter-2: http://twitter.com/RichardWiseman/
+f_facebook-2: 'https://www.facebook.com/pages/Richard-Wiseman/216389545522'
+f_twitter-2: 'http://twitter.com/RichardWiseman/'
 layout: '[authors].html'
 tags: authors
 ---

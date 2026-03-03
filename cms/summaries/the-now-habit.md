@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:04.548Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78098327123816fae6443_now-habit.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-now-habit/
+  alt: The Now Habit book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-now-habit/'
 f_author-plain-text: Neil Fiore
 f_author: cms/authors/neil-fiore.md
 f_category-3: cms/summary-categories/self-management.md
@@ -54,7 +54,7 @@ f_big-idea: >-
   image of herself as a procrastinator. As she became her own source of
   approval, she was able to face work without letting external judgements cause
   fear and inertia.
-f_quote-reference: \- The Now Habit, page 6
+f_quote-reference: '\- The Now Habit, page 6'
 f_insight-2: >-
   ### Support yourself
 
@@ -144,7 +144,7 @@ f_conclusion: ''
 f_quote-2: >-
   "The Now Habit is a strategic system, that is, it goes beyond ‘how to’ advice
   and presents a plan based on the dynamics of procrastination and motivation."
-f_amazon-url: https://www.amazon.com/dp/1585425524/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1585425524/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

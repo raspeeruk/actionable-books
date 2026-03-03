@@ -1,18 +1,18 @@
 ---
 title: Jacob Morgan
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Jacob-Morgan/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Jacob-Morgan/'
 f_unique-id: '613'
 slug: jacob-morgan
 f_image:
   url: /assets/external/65d77a01db07360e27f5b0f5_jacob-morgan.jpeg
-  alt: null
+  alt: Jacob Morgan
 f_summaries:
   - cms/summaries/the-collaborative-organization.md
 updated-on: '2024-02-23T13:30:44.021Z'
 created-on: '2024-02-22T16:44:49.747Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/jacobm/
-f_website-2: http://TheFutureOrganization.com
+f_twitter-2: 'http://twitter.com/jacobm/'
+f_website-2: 'http://TheFutureOrganization.com'
 layout: '[authors].html'
 tags: authors
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:55.466Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a141703458021819e0_effortless-experience.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-effortless-experience/
+  alt: The Effortless Experience book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-effortless-experience/'
 f_author-plain-text: Matthew Dixon
 f_author: cms/authors/matthew-dixon.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -49,7 +49,7 @@ f_big-idea: >-
   want to pick up the phone and speak to a live representative and even the best
   self-service options can’t solve complex customer problems. So what happens
   next when a customer calls in?
-f_quote-reference: \- The Effortless Experience, page 19
+f_quote-reference: '\- The Effortless Experience, page 19'
 f_insight-2: >-
   ### Focus on the overall customer service experience
 
@@ -144,7 +144,7 @@ f_quote-2: >-
   "I live in a small town with only one steakhouse. The steak there is fine. But
   the minute a new restaurant opens, you bet I’ll go there. So am I satisfied?
   Sure. Loyal? No way."
-f_amazon-url: https://www.amazon.com/dp/1591845815/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591845815/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

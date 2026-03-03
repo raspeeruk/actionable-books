@@ -1,10 +1,10 @@
 ---
 title: E. Tory Higgins
-f_original-url: https://www.actionablebooks.com/en-ca/authors/E.-Tory-Higgins/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/E.-Tory-Higgins/'
 f_unique-id: '235'
 f_image:
   url: /assets/external/65d779ee47e6696c3ef3caf7_tory.png
-  alt: null
+  alt: E. Tory Higgins
 slug: e-tory-higgins
 f_summaries:
   - cms/summaries/focus.md

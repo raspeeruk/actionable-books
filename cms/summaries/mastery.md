@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:26.061Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805b68efe795c9dd64b5_mastery.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/mastery/
+  alt: Mastery book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/mastery/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/01/ActionableBooks-Audio-Mastery.mp3
 f_author-plain-text: Robert Greene
@@ -69,7 +69,7 @@ f_big-idea: >-
 
   Greene makes it crystal clear when he says, “You must value learning above
   everything else.”
-f_quote-reference: \- Mastery, page 179
+f_quote-reference: '\- Mastery, page 179'
 f_insight-2: >-
   ### Engage and Embrace Your Creative Mind
 
@@ -164,7 +164,7 @@ f_conclusion: >-
   has the ability to leverage the principles and strategies used by such
   visionaries. **Which begs the question, how much better could you be?**
 f_quote-2: '"It is the choice of where to direct his or her energy that makes the Master."'
-f_amazon-url: https://www.amazon.com/dp/0670024961/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0670024961/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

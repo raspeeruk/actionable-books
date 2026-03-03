@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:12.834Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780324295a22ea4512039_how-to-be-everything-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/how-to-be-everything/
+  alt: How to Be Everything book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/how-to-be-everything/'
 f_author-plain-text: Emilie Wapnick
 f_author: cms/authors/emilie-wapnick.md
 f_category-3: cms/summary-categories/self-management.md
@@ -54,7 +54,7 @@ f_big-idea: >-
   not to say you couldn’t do one thing for a long period of time and not get
   bored, but the ability to switch between projects at a pace that feels right
   to you is crucial.
-f_quote-reference: \- How to Be Everything, page 180
+f_quote-reference: '\- How to Be Everything, page 180'
 f_insight-2: >-
   ### How to be productive as a multipotentialite
 
@@ -132,7 +132,7 @@ f_quote-2: >-
   "The most subtle and often most stifling challenge for multipotentialites is
   the self-doubt we sometimes experience living in a world that doesn’t
   recognize our strengths (or even our existence)."
-f_amazon-url: https://www.amazon.com/dp/0062566652/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062566652/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

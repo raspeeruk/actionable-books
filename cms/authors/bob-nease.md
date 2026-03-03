@@ -1,18 +1,18 @@
 ---
 title: Bob Nease
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Bob-Nease/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Bob-Nease/'
 f_unique-id: '713'
 f_image:
   url: /assets/external/65d779bf49b9e1a9de0ac8e1_bob-nease-180x220.jpeg
-  alt: null
+  alt: Bob Nease
 slug: bob-nease
 f_summaries:
   - cms/summaries/the-power-of-fifty-bits.md
 updated-on: '2024-02-23T13:30:36.078Z'
 created-on: '2024-02-22T16:43:43.713Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/bobnease/
-f_website-2: http://www.fiftybits.com/
+f_twitter-2: 'http://twitter.com/bobnease/'
+f_website-2: 'http://www.fiftybits.com/'
 layout: '[authors].html'
 tags: authors
 ---

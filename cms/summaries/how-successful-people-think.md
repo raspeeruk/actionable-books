@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:13.167Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780aa38e9272e48f5051f_how_successful_people_think.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/how-successful-people-think/
+  alt: How Successful People Think book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/how-successful-people-think/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/04/ActionableBooks-Audio-How-Successful-People-Think.mp3
 f_author-plain-text: John C. Maxwell
@@ -36,7 +36,7 @@ f_big-idea: >-
   deserve a insight for each, as the depth he provides is equally insightful and
   challenging. But for me, I was most inspired/challenged by two skills in
   particular: Big Picture Thinking and Reflective Thinking.
-f_quote-reference: \- James Allen, quoted in How Successful People Think, page 123
+f_quote-reference: '\- James Allen, quoted in How Successful People Think, page 123'
 f_insight-2: >-
   ### Look back to appreciate what comes ahead
 
@@ -117,7 +117,7 @@ f_conclusion: >-
 f_quote-2: >-
   "You are today where your thoughts have brought you. You will be tomorrow
   where your thoughts take you."
-f_amazon-url: https://www.amazon.com/dp/1599951681/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1599951681/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

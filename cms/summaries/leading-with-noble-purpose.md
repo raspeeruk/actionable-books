@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7807ebc56df19f3aedbd9_leading-with-noble-purpose-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/leading-with-noble-purpose/
+  alt: Leading with Noble Purpose book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/leading-with-noble-purpose/'
 f_author-plain-text: Lisa Earle Mcleod
 f_author: cms/authors/lisa-earle-mcleod.md
 f_category-3: cms/summary-categories/leadership.md
@@ -93,7 +93,7 @@ f_big-idea: >-
   *   Flight Centre: We care about delivering amazing travel experiences.
 
   *   PharMEDium: We advance patient safety and provide peace of mind.
-f_quote-reference: \- Leading with Noble Purpose, page 186
+f_quote-reference: '\- Leading with Noble Purpose, page 186'
 f_insight-2: >-
   ### Yes, AND
 
@@ -164,7 +164,7 @@ f_conclusion: >-
 f_quote-2: >-
   “As a Noble Purpose leader, you must believe that your business adds value to
   the world, and that you deserve to get paid for it.”
-f_amazon-url: https://www.amazon.com/dp/1119119804/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1119119804/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:45.504Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c8fde0fad249b0fddb_adverperience.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/adversperience/
+  alt: Adversperience book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/adversperience/'
 f_author-plain-text: Nicole Gallucci
 f_author: cms/authors/nicole-gallucci.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -41,7 +41,7 @@ f_big-idea: >-
   human interaction and behavior are hard to measure on a quantifiable scale.
   She gives a five part outline for defining the ways that you can measure the
   ROI of your campaign.
-f_quote-reference: \- Adversperience, page 5
+f_quote-reference: '\- Adversperience, page 5'
 f_insight-2: >-
   ### The more we change, the more we stay the same
 
@@ -105,7 +105,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Adversperience is the convergence of advertising and experiential
   marketing—it is live, participatory advertising."
-f_amazon-url: https://www.amazon.com/dp/B00KJG8GUQ/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00KJG8GUQ/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

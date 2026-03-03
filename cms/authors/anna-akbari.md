@@ -1,18 +1,18 @@
 ---
 title: Anna Akbari
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Anna-Akbari/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Anna-Akbari/'
 f_unique-id: '538'
 slug: anna-akbari
 f_image:
   url: /assets/external/65d779b1eb2a66fcb6efe507_anna-akbari-180x220.jpeg
-  alt: null
+  alt: Anna Akbari
 f_summaries:
   - cms/summaries/startup-your-life.md
 updated-on: '2024-02-23T13:30:39.149Z'
 created-on: '2024-02-22T16:43:29.650Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: https://twitter.com/annaakbari/
-f_website-2: http://www.annaakbari.com/
+f_twitter-2: 'https://twitter.com/annaakbari/'
+f_website-2: 'http://www.annaakbari.com/'
 layout: '[authors].html'
 tags: authors
 ---

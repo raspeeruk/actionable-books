@@ -1,15 +1,15 @@
 ---
 title: Shawn Achor
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Shawn-Achor/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Shawn-Achor/'
 f_unique-id: '79'
 f_image:
   url: /assets/external/65d77a4ff8540e935862d661_shawn-achor.jpeg
-  alt: null
+  alt: Shawn Achor
 slug: shawn-achor
 updated-on: '2024-02-23T13:31:31.448Z'
 created-on: '2024-02-22T16:46:07.323Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/shawnachor/
+f_twitter-2: 'http://twitter.com/shawnachor/'
 layout: '[authors].html'
 tags: authors
 ---

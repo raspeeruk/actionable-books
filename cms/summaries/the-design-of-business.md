@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:54.777Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808971f7aab80c3146f5_design-of-business.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-design-of-business/
+  alt: The Design of Business book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-design-of-business/'
 f_author-plain-text: Roger Martin
 f_author: cms/authors/roger-martin.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -83,7 +83,7 @@ f_conclusion: >-
   real change. A true design thinker doesn’t run foolhardy into extra costs and
   new challenges. But she doesn’t shy away from them either. Find the balance,
   and you will be a rock star in your organization.
-f_amazon-url: https://www.amazon.com/dp/1422177807/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1422177807/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

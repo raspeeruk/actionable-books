@@ -1,17 +1,17 @@
 ---
 title: James B. Rousseau Sr.
-f_original-url: https://www.actionablebooks.com/en-ca/authors/James-B.-Rousseau-Sr./
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/James-B.-Rousseau-Sr./'
 f_unique-id: '549'
 slug: james-b-rousseau-sr
 f_image:
   url: /assets/external/65d77a02cc5c48c59d149238_james-rousseau-180x220.jpeg
-  alt: null
+  alt: James B. Rousseau Sr.
 f_summaries:
   - cms/summaries/success-on-your-own-terms.md
 updated-on: '2024-02-23T13:30:27.320Z'
 created-on: '2024-02-22T16:44:50.671Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: https://jamesrosseausr.com
+f_website-2: 'https://jamesrosseausr.com'
 layout: '[authors].html'
 tags: authors
 ---

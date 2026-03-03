@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:46.397Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78046d58945232eeb83f4_100_startup.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-100-startup/
+  alt: The $100 Startup book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-100-startup/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/09/ActionableBooks-Audio-The-100-dollar-startup.mp3
 f_author-plain-text: Chris Guillebeau
@@ -20,7 +20,7 @@ f_quote-reference: ''
 f_insight-2: ''
 f_insight-1: ''
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0307951529/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0307951529/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

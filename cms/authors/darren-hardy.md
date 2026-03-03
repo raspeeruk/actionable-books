@@ -1,18 +1,18 @@
 ---
 title: Darren Hardy
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Darren-Hardy/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Darren-Hardy/'
 f_unique-id: '616'
 slug: darren-hardy
 f_image:
   url: /assets/external/65d779de8d0253c9b1706adf_hardy.jpeg
-  alt: null
+  alt: Darren Hardy
 f_summaries:
   - cms/summaries/the-compound-effect.md
 updated-on: '2024-02-23T13:31:21.995Z'
 created-on: '2024-02-22T16:44:14.884Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://www.facebook.com/SUCCESSmagazine
-f_twitter-2: http://twitter.com/darrenhardy/
+f_facebook-2: 'http://www.facebook.com/SUCCESSmagazine'
+f_twitter-2: 'http://twitter.com/darrenhardy/'
 layout: '[authors].html'
 tags: authors
 ---

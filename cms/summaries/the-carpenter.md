@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:51.934Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78055529024c0144a24e7_the-carpenter.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-carpenter/
+  alt: The Carpenter book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-carpenter/'
 f_author-plain-text: Jon Gordon
 f_author: cms/authors/jon-gordon.md
 f_category-3: cms/summary-categories/self-management.md
@@ -55,7 +55,7 @@ f_big-idea: >-
   straightforward, having the discipline to answer them and structure your life
   to work to attain them is difficult. This becomes the carpenter’s challenge to
   Michael: to lead his life by knowing what his end game ultimately is.
-f_quote-reference: \- The Carpenter, page 19
+f_quote-reference: '\- The Carpenter, page 19'
 f_insight-2: >-
   ### The Gift of Failure
 
@@ -134,7 +134,7 @@ f_quote-2: >-
   you know. Too many people go through life living by chance, but when you live
   by design and know the life you want to create, you are able to create a
   masterpiece instead of a piece of junk."
-f_amazon-url: https://www.amazon.com/dp/0470888547/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470888547/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

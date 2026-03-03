@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:48.461Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78059eadf9e5ad1504af7_the-anti-resume-revolution-sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-anti-resume-revolution/
+  alt: The Anti-Resume Revolution book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-anti-resume-revolution/'
 f_author-plain-text: Angela Lussier
 f_author: cms/authors/angela-lussier.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -130,7 +130,7 @@ f_conclusion: >-
   searching. A must-have for anyone in transition right now, _The Anti-Resume
   Revolution_ is also a great resource for HR professionals, small business
   owners, and anyone else who ever has a hand in the recruiting process.
-f_amazon-url: https://www.amazon.com/dp/0557139554/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0557139554/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

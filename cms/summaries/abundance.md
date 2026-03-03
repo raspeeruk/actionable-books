@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:44.964Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808e6dbd28b39d94532b_abundance.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/abundance/
+  alt: Abundance book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/abundance/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/11/ActionableBooks-Audio-Abundance.mp3
 f_author-plain-text: Peter Diamandis
@@ -170,7 +170,7 @@ f_conclusion: >-
   education, energy, and freedom. The authors show us the real possibility of a
   world where every human has their basic needs of humanity met, and as we
   approach this goal, an even further acceleration of progress will occur.
-f_amazon-url: https://www.amazon.com/dp/1451614217/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1451614217/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

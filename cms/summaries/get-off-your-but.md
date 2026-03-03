@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:09.273Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780522d3147c9543add64_get-off-your-but-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/get-off-your-but/
+  alt: Get Off Your “But” book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/get-off-your-but/'
 f_author-plain-text: Sean Stephenson
 f_author: cms/authors/sean-stephenson.md
 f_category-3: cms/summary-categories/self-management.md
@@ -37,7 +37,7 @@ f_big-idea: >-
   it has on the individual, sometimes in ways they weren’t even expecting. I
   actually would describe it as liberating. Deciding to shift towards a positive
   has the ability to actually liberate you into the world of what is possible.
-f_quote-reference: \- Get Off Your “But”, page 21
+f_quote-reference: '\- Get Off Your “But”, page 21'
 f_insight-2: >-
   ### Fool Me Once
 
@@ -84,7 +84,7 @@ f_conclusion: >-
   your attention on determines what you accomplish, how you feel, and what you
   can handle in life.”_
 f_quote-2: '"It’s more fun to be the underdog anyway – it makes for much better stories."'
-f_amazon-url: https://www.amazon.com/dp/0470399937/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470399937/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,15 +1,15 @@
 ---
 title: Atul Gawande
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Atul-Gawande/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Atul-Gawande/'
 f_unique-id: '87'
 f_image:
   url: /assets/external/65d779b52b39b3396d0a39bc_atul-gawande-lg-180x220.jpeg
-  alt: null
+  alt: Atul Gawande
 slug: atul-gawande
 updated-on: '2024-02-23T13:30:58.907Z'
 created-on: '2024-02-22T16:43:33.764Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://gawande.com/
+f_website-2: 'http://gawande.com/'
 layout: '[authors].html'
 tags: authors
 ---

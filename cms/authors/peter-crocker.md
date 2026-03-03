@@ -1,10 +1,10 @@
 ---
 title: Peter Crocker
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Peter-Crocker/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Peter-Crocker/'
 f_unique-id: '234'
 f_image:
   url: /assets/external/65d77a3ee1933dfafaa61421_peter-crocker-180x220.png
-  alt: null
+  alt: Peter Crocker
 slug: peter-crocker
 f_summaries:
   - cms/summaries/flying-solo.md

@@ -1,17 +1,17 @@
 ---
 title: Eugene T. Gendlin
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Eugene-T.-Gendlin/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Eugene-T.-Gendlin/'
 f_unique-id: '237'
 f_image:
   url: /assets/external/65d779f3f15e79c73be4a1bc_gendlin.bmp
-  alt: null
+  alt: Eugene T. Gendlin
 slug: eugene-t-gendlin
 f_summaries:
   - cms/summaries/focusing.md
 updated-on: '2024-02-23T13:30:59.164Z'
 created-on: '2024-02-22T16:44:36.198Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://focusing.org
+f_website-2: 'http://focusing.org'
 layout: '[authors].html'
 tags: authors
 ---

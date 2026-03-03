@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:55.024Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806b0c0a32898af3d2ab_e-myth.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-e-myth-revisited/
+  alt: The E-Myth Revisited book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-e-myth-revisited/'
 f_author-plain-text: Michael E. Gerber
 f_author: cms/authors/michael-e-gerber.md
 f_category-3: cms/summary-categories/self-management.md
@@ -38,7 +38,7 @@ f_big-idea: >-
   and order; to some degree status quo. There has to be some degree to balance
   between all three personalities and the business owner must move beyond the
   comfort zone of just being the technician.
-f_quote-reference: \- The E-Myth Revisited, page 3
+f_quote-reference: '\- The E-Myth Revisited, page 3'
 f_insight-2: >-
   ### Create a Primary Aim
 
@@ -111,7 +111,7 @@ f_quote-2: >-
   little to do with entrepreneurship. In fact, this is belief in the
   Entrepreneurial Myth is the most important factor in the devastating rate of
   small business failure today.”
-f_amazon-url: https://www.amazon.com/dp/0887307280/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0887307280/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,6 +1,6 @@
 ---
 f_unique-number: 1144
-title: You Have the Keys, Now Drive
+title: 'You Have the Keys, Now Drive'
 slug: you-have-the-keys-now-drive
 updated-on: '2024-02-27T20:30:58.440Z'
 created-on: '2024-02-22T16:07:25.532Z'
@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7807411e0ad2b62bf0604_you-have-the-keys-now-drive-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/you-have-the-keys-now-drive/
+  alt: 'You Have the Keys, Now Drive book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/you-have-the-keys-now-drive/'
 f_author-plain-text: Danny Stone
 f_author: cms/authors/danny-stone.md
 f_category-3: cms/summary-categories/self-management.md
@@ -54,7 +54,7 @@ f_big-idea: >-
   9.  Discover the power of taking time for yourself.
 
   10.  Achieve a life free and unstuck.
-f_quote-reference: \- You Have the Keys, Now Drive, page 14
+f_quote-reference: '\- You Have the Keys, Now Drive, page 14'
 f_insight-2: >-
   ### The F-Word – Permission to Fail
 
@@ -137,7 +137,7 @@ f_conclusion: >-
 f_quote-2: >-
   "No one else can live your life for you – no one else will have to live with
   your regrets – so do not allow them to determine your successes or failures."
-f_amazon-url: https://www.amazon.com/dp/0993611303/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0993611303/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

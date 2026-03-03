@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:47.649Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a7445c05ffe5992b8c_bunko-book-image-sm-94x144.jpeg
-  alt: null
+  alt: The Adventures of Johnny Bunko book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-adventures-of-johnny-bunko/
 f_author-plain-text: Daniel Pink
@@ -120,7 +120,7 @@ f_conclusion: >-
   As the “career advisor” Diana says near the end of the book, “This isn’t just
   career advice, guys. In some ways, this is what it means to be alive.” Hear,
   hear.
-f_amazon-url: https://www.amazon.com/dp/1594482918/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1594482918/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

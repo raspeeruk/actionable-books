@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:02.121Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780cafeb4fd439cd77df7_magic-of-thinking-big-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-magic-of-thinking-big/
+  alt: The Magic of Thinking Big book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-magic-of-thinking-big/'
 f_author-plain-text: Dr. David Schwartz
 f_author: cms/authors/dr-david-schwartz.md
 f_category-3: cms/summary-categories/self-management.md
@@ -64,7 +64,7 @@ f_big-idea: >-
   The beauty of this approach is that it’s a continuous cycle. When we create
   more value for others, we, in turn, become more valuable. I’ll expand below on
   other “big thinking” approaches and how we can implement them.
-f_quote-reference: \- The Magic of Thinking Big, page 3
+f_quote-reference: '\- The Magic of Thinking Big, page 3'
 f_insight-2: >-
   ### Create a “Sell-Yourself-To-Yourself” Commercial
 
@@ -173,7 +173,7 @@ f_quote-2: >-
   men are those who see that thoughts rule the world.' … Amazingly perceptive
   minds like Shakespeare, who observed, 'There is nothing either good or bad
   except that thinking makes it so.'"
-f_amazon-url: https://www.amazon.com/dp/B00NGZIR92/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00NGZIR92/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

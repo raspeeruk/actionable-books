@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:21.063Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78039db928dde1f0f109f_what-great-brands-do.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/what-great-brands-do/
+  alt: What Great Brands Do book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/what-great-brands-do/'
 f_author-plain-text: Denise Lee Yohn
 f_author: cms/authors/denise-lee-yohn.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -68,7 +68,7 @@ f_big-idea: >-
 
   It’s not enough to do one or two. Do all seven if you want to build a great
   brand.
-f_quote-reference: \- What Great Brands Do, page 20
+f_quote-reference: '\- What Great Brands Do, page 20'
 f_insight-2: >-
   ### Start inside
 
@@ -210,7 +210,7 @@ f_quote-2: >-
   "When you can’t see any daylight between what you believe, what you practice,
   what you offer and what you say about yourself, you are doing what great
   brands do."
-f_amazon-url: https://www.amazon.com/dp/111861125X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/111861125X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

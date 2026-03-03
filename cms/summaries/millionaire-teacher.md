@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:26.979Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d4da244ed58b6863db_millionaire-teacher.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/millionaire-teacher/
+  alt: Millionaire Teacher book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/millionaire-teacher/'
 f_author-plain-text: Andrew Hallam
 f_author: cms/authors/andrew-hallam.md
 f_category-3: cms/summary-categories/self-management.md
@@ -58,7 +58,7 @@ f_big-idea: >-
   greater debt. Significant wealth can be built over time and it’s a lot easier
   than you think (see below). But it all starts with the _mindset_ to become
   rich!
-f_quote-reference: \- Millionaire Teacher, page xxi
+f_quote-reference: '\- Millionaire Teacher, page xxi'
 f_insight-2: >-
   ### It’s not timing the market that matters – it’s time in the market
 
@@ -134,7 +134,7 @@ f_conclusion: >-
 f_quote-2: >-
   "I followed these timeless, easy-to-apply rules and became a debt-free
   millionaire in my 30s. Now let me pass them onto you"
-f_amazon-url: https://www.amazon.com/dp/B005OKPBR8/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B005OKPBR8/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

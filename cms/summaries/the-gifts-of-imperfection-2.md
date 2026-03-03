@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:58.041Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780414df109592f03b933_imperfection.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-gifts-of-imperfection-2/
+  alt: The Gifts of Imperfection book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-gifts-of-imperfection-2/'
 f_author-plain-text: Bren√© Brown
 f_author: cms/authors/bren-c-brown.md
 f_category-3: cms/summary-categories/self-management.md
@@ -35,7 +35,7 @@ f_big-idea: >-
   advocates for establishing a fail-safe, leaving room for growth and
   development, and establishing a new norm of vulnerability. Wholeheartedness
   feels scary at first, but can be nurtured and developed over time.
-f_quote-reference: \- The Gifts of Imperfection, page 6
+f_quote-reference: '\- The Gifts of Imperfection, page 6'
 f_insight-2: >-
   ### Things that Get in The Way
 
@@ -131,7 +131,7 @@ f_quote-2: >-
   as dangerous as giving up on love and belonging and joy- the experiences that
   make us most vulnerable. Only when we are brave enough to explore the darkness
   will we discover the infinite power of our light.”
-f_amazon-url: https://www.amazon.com/dp/159285849X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/159285849X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

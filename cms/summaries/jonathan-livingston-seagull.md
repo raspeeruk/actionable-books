@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:18.377Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c673685ce4f9a1375c_jonathan-livingston-seagull.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/jonathan-livingston-seagull/
+  alt: Jonathan Livingston Seagull book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/jonathan-livingston-seagull/'
 f_author-plain-text: Richard Bach
 f_author: cms/authors/richard-bach.md
 f_category-3: cms/summary-categories/self-management.md
@@ -40,7 +40,7 @@ f_big-idea: >-
   The best lesson that I can learn and possibly the hardest one to put into
   practice, will be to eliminate fear, boredom, and anger from my life as much
   as possible. Jonathan found the freedom to let go.
-f_quote-reference: \- Jonathan Livingston Seagull, page 90
+f_quote-reference: '\- Jonathan Livingston Seagull, page 90'
 f_insight-2: >-
   ### Finding your tribe
 
@@ -100,7 +100,7 @@ f_quote-2: >-
   "Don’t believe what your eyes are telling you. All they show is limitation.
   Look with your understanding, find out what you already know, and you’ll see
   the way to fly."
-f_amazon-url: https://www.amazon.com/dp/B00FNVSK1M/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00FNVSK1M/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

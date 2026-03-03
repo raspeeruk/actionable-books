@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:51.258Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78056ba0ab2be8afa27d0_brain_audit.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-brain-audit/
+  alt: The Brain Audit book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-brain-audit/'
 f_author-plain-text: Sean D'Souza
 f_author: cms/authors/sean-dsouza.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -60,7 +60,7 @@ f_big-idea: >-
 
 
   Let’s look at two of these sections in more depth.
-f_quote-reference: \- The Brain Audit, back cover
+f_quote-reference: '\- The Brain Audit, back cover'
 f_insight-2: >-
   ### Be Remarkable or Be Forgotten
 
@@ -149,7 +149,7 @@ f_quote-2: >-
   They obviously like what you’re selling, but they shift, fidget, and
   inexplicably walk away. And your sure sale slips through your fingers
   forever."
-f_amazon-url: https://www.amazon.com/dp/0473175045/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0473175045/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

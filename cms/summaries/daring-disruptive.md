@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:57.755Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78094eadf9e5ad1507fa1_daring-and-disruptive-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/daring-disruptive/
+  alt: Daring & Disruptive book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/daring-disruptive/'
 f_author-plain-text: Lisa Messenger
 f_author: cms/authors/lisa-messenger.md
 f_category-3: cms/summary-categories/leadership.md
@@ -50,7 +50,7 @@ f_big-idea: >-
   not enough just to get things done—they need to get done properly. Hire people
   to cover the bases that you can’t cover, and you’re less likely to encounter
   disasters along the way.
-f_quote-reference: \- Daring & Disruptive, page 76
+f_quote-reference: '\- Daring & Disruptive, page 76'
 f_insight-2: >-
   ### Your Culture Is Your Brand, and You Are Your Culture
 
@@ -129,7 +129,7 @@ f_quote-2: >-
   “If I’m going to fail, then I want to do it well – fast and with minimum risk.
   And as a result of this ethos, I’m quite prepared to try out a lot of new and
   interesting things, unafraid of the outcome.”
-f_amazon-url: https://www.amazon.com/dp/1501135864/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1501135864/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

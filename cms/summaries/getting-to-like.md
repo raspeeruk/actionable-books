@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:10.123Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b62d3147c9543b0e0d_getting-to-like-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/getting-to-like/
+  alt: Getting to Like book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/getting-to-like/'
 f_author-plain-text: Ali B. Zagat
 f_author: cms/authors/ali-b-zagat.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -60,7 +60,7 @@ f_big-idea: >-
   prospective audience, and may take time to develop and refine. This will be
   your Personal Branding Statement, and will help you to stay focused as your
   career moves forward.
-f_quote-reference: \- Getting to Like, page 9-10
+f_quote-reference: '\- Getting to Like, page 9-10'
 f_insight-2: >-
   ### Revising your Brand and Yourself
 
@@ -141,7 +141,7 @@ f_quote-2: >-
   "Effective personal branding isn’t about putting on a show or figuring out how
   to do as little work as possible while getting the most financial reward. Life
   is too short not to be the best possible version of yourself."
-f_amazon-url: https://www.amazon.com/dp/1632650479/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1632650479/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:03.650Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a548fff91cd3185a6a_ego-is-the-enemy-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/ego-is-the-enemy/
+  alt: Ego is the Enemy book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/ego-is-the-enemy/'
 f_author-plain-text: Ryan Holiday
 f_author: cms/authors/ryan-holiday.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -37,7 +37,7 @@ f_big-idea: >-
   handle it, is critical to us overcoming our ego. The next time you feel a
   strong negative emotional response to a situation at work (or in your personal
   life), ask yourself if the root cause could be feeling a threat to your ego.
-f_quote-reference: \- Ego is the Enemy, page 1
+f_quote-reference: '\- Ego is the Enemy, page 1'
 f_insight-2: >-
   ### WORK, WORK, WORK
 
@@ -96,7 +96,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Wherever you are, whatever you’re doing, your worst enemy already lives
   inside you: your ego.”
-f_amazon-url: https://www.amazon.com/dp/1591847818/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591847818/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

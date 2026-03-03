@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:35.697Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c566cf927e76acd1a8_quick-and-nimble.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/quick-and-nimble/
+  alt: Quick and Nimble book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/quick-and-nimble/'
 f_author-plain-text: Adam Bryant
 f_author: cms/authors/adam-bryant.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
@@ -39,7 +39,7 @@ f_big-idea: >-
   they are valued. This will change the culture from lackadaisical to motivated
   and your people from time punchers to contributors who want to get the job
   done right!
-f_quote-reference: \- Quick and Nimble, page 247
+f_quote-reference: '\- Quick and Nimble, page 247'
 f_insight-2: >-
   ### Command-and-control leadership is dead
 
@@ -127,7 +127,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The companies that will thrive over the long haul, will understand that
   culture is a key element of their strategy."
-f_amazon-url: https://www.amazon.com/dp/B00EGJE38G/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00EGJE38G/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

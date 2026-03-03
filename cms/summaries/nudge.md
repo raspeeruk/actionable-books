@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:29.242Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780244df109592f03a890_nudge.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/nudge/
+  alt: Nudge book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/nudge/'
 f_author-plain-text: Cass R. Sunstein
 f_author: cms/authors/cass-r-sunstein.md
 f_category-3: cms/summary-categories/self-management.md
@@ -41,7 +41,7 @@ f_big-idea: >-
   remember, whether you are sending around a signup sheet for the holiday
   potluck or presenting a retirement plan to incoming employees, how you frame
   the choice matters.
-f_quote-reference: \- Nudge, page 3
+f_quote-reference: '\- Nudge, page 3'
 f_insight-2: >-
   ### Improve the default
 
@@ -98,7 +98,7 @@ f_quote-2: >-
   behavior. A good rule of thumb is to assume that ‘everything matters.’ In many
   cases, the power of these small details comes from focusing the attention of
   users in a particular direction.
-f_amazon-url: https://www.amazon.com/dp/014311526X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/014311526X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

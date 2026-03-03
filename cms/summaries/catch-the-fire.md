@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:52.661Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806b77c4a8c4e31af857_catch-the-fire.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/catch-the-fire/
+  alt: Catch the Fire book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/catch-the-fire/'
 f_author-plain-text: Charlie Murphy
 f_author: cms/authors/charlie-murphy.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -41,7 +41,7 @@ f_big-idea: >-
 
 
   I teach a workshop next week – most excited about the ending!
-f_quote-reference: \- Catch the Fire, page 15
+f_quote-reference: '\- Catch the Fire, page 15'
 f_insight-2: >-
   ### The Arts are Good for Business
 
@@ -96,7 +96,7 @@ f_quote-2: >-
   "Creativity is one of our greatest sources of energy, and creative expression
   is what makes it operational in our lives. Unfortunately, too many people are
   cut off from this powerful force"
-f_amazon-url: https://www.amazon.com/dp/0865717575/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0865717575/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

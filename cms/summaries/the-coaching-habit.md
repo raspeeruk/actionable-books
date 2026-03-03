@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:52.693Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806d0dc598fbeb201c38_the-coaching-habit-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-coaching-habit/
+  alt: The Coaching Habit book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-coaching-habit/'
 f_author-plain-text: Michael Bungay Stanier
 f_author: cms/authors/michael-bungay-stanier.md
 f_category-3: cms/summary-categories/leadership.md
@@ -41,7 +41,7 @@ f_big-idea: >-
   If you’ve been avoiding coaching in your role because you think you need to
   take a course or spend lots of time learning a difficult new skill, the book
   gives you an easy way to get started. It’s simply knowing what to say.
-f_quote-reference: \- The Coaching Habit, page 41
+f_quote-reference: '\- The Coaching Habit, page 41'
 f_insight-2: >-
   ### Tame The Advice Monster
 
@@ -131,7 +131,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Call them forward to learn, improve and grow, rather than just get something
   sorted out."
-f_amazon-url: https://www.amazon.com/dp/0978440749/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0978440749/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

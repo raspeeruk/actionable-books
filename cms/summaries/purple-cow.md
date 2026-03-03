@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:35.923Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809cc9a8372615bb2c13_purple-cow.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/purple-cow/
+  alt: Purple Cow book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/purple-cow/'
 f_author-plain-text: Seth Godin
 f_author: cms/authors/seth-godin.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -104,7 +104,7 @@ f_conclusion: >-
   the population; a tiny segment that, if educated properly, will then share
   your message with the world. People don’t care what you have to say. They care
   what their friends have to say. Give them something to talk about.
-f_amazon-url: https://www.amazon.com/dp/1591843170/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591843170/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

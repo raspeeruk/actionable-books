@@ -1,18 +1,18 @@
 ---
 title: Tara Mohr
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Tara-Mohr/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Tara-Mohr/'
 f_unique-id: '453'
 slug: tara-mohr
 f_image:
   url: /assets/external/65d77a58da73597cd83754f9_tara-mohr-180x220.jpeg
-  alt: null
+  alt: Tara Mohr
 f_summaries:
   - cms/summaries/playing-big.md
 updated-on: '2024-02-23T13:30:29.410Z'
 created-on: '2024-02-22T16:46:16.812Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/tarasophia/
-f_website-2: http://www.taramohr.com/
+f_twitter-2: 'http://twitter.com/tarasophia/'
+f_website-2: 'http://www.taramohr.com/'
 layout: '[authors].html'
 tags: authors
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:44.681Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806f0882405b4cf10746_above-all-else.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/above-all-else/
+  alt: Above All Else book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/above-all-else/'
 f_author-plain-text: Chris Widener
 f_author: cms/authors/chris-widener.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -114,7 +114,7 @@ f_conclusion: >-
   we’ve seen. In this, his seventh book, Chris Widener shows a depth of
   understanding as to the true meaning of life that we can all learn and grow
   from. Here’s to a deep, wide well for all of us.
-f_amazon-url: https://www.amazon.com/dp/0981951236/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0981951236/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

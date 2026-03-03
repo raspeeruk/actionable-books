@@ -1,14 +1,14 @@
 ---
 f_unique-number: 429
-title: Making Habits, Breaking Habits
+title: 'Making Habits, Breaking Habits'
 slug: making-habits-breaking-habits
 updated-on: '2024-02-27T20:30:47.246Z'
 created-on: '2024-02-22T16:06:24.417Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780606632c78c3b6de6de_making-habits-breaking-habits.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/making-habits-breaking-habits/
+  alt: 'Making Habits, Breaking Habits book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/making-habits-breaking-habits/'
 f_author-plain-text: Jeremy Dean
 f_author: cms/authors/jeremy-dean.md
 f_category-3: cms/summary-categories/self-management.md
@@ -108,7 +108,7 @@ f_conclusion: >-
   break or a new habit we are hoping to form, it can happen, it just takes more
   time than most of us expect. Where do we go from here? Well, I’m prepared to
   give it a go and tackle the nail biting once and for all.
-f_amazon-url: https://www.amazon.com/dp/0738215988/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0738215988/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

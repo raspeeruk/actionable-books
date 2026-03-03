@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:28.453Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b8c711d4135c22c172_negotiation-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/negotiation/
+  alt: Negotiation book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/negotiation/'
 f_author-plain-text: Gavin Presman
 f_author: cms/authors/gavin-presman.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -49,7 +49,7 @@ f_big-idea: >-
   prepare a list of variables, establish hard lines and potential areas for
   compromise, and most importantly, prime your negotiating partner for a truly
   collaborative process.
-f_quote-reference: \- Negotiation, page 7
+f_quote-reference: '\- Negotiation, page 7'
 f_insight-2: >-
   ### The Human Operating System
 
@@ -146,7 +146,7 @@ f_quote-2: >-
   others first, you serve yourself best.’ Take this into account when you
   negotiate, because people sense selfishness in others very quickly, and it
   creates mistrust.”
-f_amazon-url: https://www.amazon.com/dp/1848319371/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1848319371/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

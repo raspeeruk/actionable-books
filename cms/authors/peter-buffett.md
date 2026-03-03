@@ -1,10 +1,10 @@
 ---
 title: Peter Buffett
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Peter-Buffett/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Peter-Buffett/'
 f_unique-id: '353'
 f_image:
   url: /assets/external/65d77a3dd32366bcc080cc73_peter-buffet-180x220.jpeg
-  alt: null
+  alt: Peter Buffett
 slug: peter-buffett
 f_summaries:
   - cms/summaries/life-is-what-you-make-it.md

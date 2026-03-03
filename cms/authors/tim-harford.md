@@ -1,16 +1,16 @@
 ---
 title: Tim Harford
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Tim-Harford/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Tim-Harford/'
 f_unique-id: '48'
 slug: tim-harford
 f_image:
   url: /assets/external/65d77a5caae19304122c7c6f_tim-harford-180x167.jpeg
-  alt: null
+  alt: Tim Harford
 updated-on: '2024-02-23T13:30:42.717Z'
 created-on: '2024-02-22T16:46:20.206Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/TimHarford/
-f_website-2: http://timharford.com
+f_twitter-2: 'http://twitter.com/TimHarford/'
+f_website-2: 'http://timharford.com'
 layout: '[authors].html'
 tags: authors
 ---

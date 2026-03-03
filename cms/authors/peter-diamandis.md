@@ -1,18 +1,18 @@
 ---
 title: Peter Diamandis
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Peter-Diamandis/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Peter-Diamandis/'
 f_unique-id: '42'
 f_image:
   url: /assets/external/65d77a3d9c49c73f4147d786_peter-diamandis1.jpeg
-  alt: null
+  alt: Peter Diamandis
 slug: peter-diamandis
 f_summaries:
   - cms/summaries/abundance.md
 updated-on: '2024-02-23T13:31:19.868Z'
 created-on: '2024-02-22T16:45:50.155Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://www.facebook.com/abundancebook
-f_twitter-2: http://twitter.com/PeterDiamandis/
+f_facebook-2: 'http://www.facebook.com/abundancebook'
+f_twitter-2: 'http://twitter.com/PeterDiamandis/'
 layout: '[authors].html'
 tags: authors
 ---

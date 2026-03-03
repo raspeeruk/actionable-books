@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780869b92e746e868779a_financial_intelligence_entrepreneurs.jpeg
-  alt: null
+  alt: Financial Intelligence for Entrepreneurs book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/financial-intelligence-for-entrepreneurs/
 f_podcast-url: >-
@@ -39,7 +39,7 @@ f_big-idea: >-
   that reflection depends on the ability of bookkeepers, accountants, and
   finance professionals to make reasonable assumptions and to calculate
   reasonable estimates.”
-f_quote-reference: \- Financial Intelligence for Entrepreneurs, page 4
+f_quote-reference: '\- Financial Intelligence for Entrepreneurs, page 4'
 f_insight-2: >-
   ### Follow the Open Book Management (OBM) Philosophy
 
@@ -152,7 +152,7 @@ f_quote-2: >-
   with customers and employees. Your concept for a company is probably
   fantastic. But if you don’t know finance, you’re operating at a disadvantage
   in the world of business."
-f_amazon-url: https://www.amazon.com/dp/1422119157/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1422119157/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:46.749Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78044f40a70780ee9a762_the_4-hour_workweek-sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-4-hour-workweek-2/
+  alt: The 4-Hour Workweek book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-4-hour-workweek-2/'
 f_author-plain-text: Timothy Ferriss
 f_author: cms/authors/timothy-ferriss.md
 f_category-3: cms/summary-categories/self-management.md
@@ -51,7 +51,7 @@ f_big-idea: >-
   If you’re starting out, ask yourself what you’re good at. What combination of
   skills can be converged with your audience? When you’ve defined that, you can
   continue figuring out the right audience and the right business model.
-f_quote-reference: \- The $100 Startup, page 8
+f_quote-reference: '\- The $100 Startup, page 8'
 f_insight-2: >-
   ### A Bias Towards Action
 
@@ -167,7 +167,7 @@ f_conclusion: >-
   inspiration and actionable business advice. Follow up those dreams and
   theories with your actions.
 f_quote-2: '"It''s not an elitist club; it''s a middle-class leaderless movement."'
-f_amazon-url: https://www.amazon.com/dp/0307465357/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0307465357/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

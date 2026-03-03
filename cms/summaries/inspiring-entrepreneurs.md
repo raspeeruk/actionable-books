@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:17.361Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806fe71bbdd1f5232ac7_inspiring-entrepreneurs-cover.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/inspiring-entrepreneurs/
+  alt: Inspiring Entrepreneurs book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/inspiring-entrepreneurs/'
 f_author-plain-text: Carissa Reiniger
 f_author: cms/authors/carissa-reiniger.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -114,7 +114,7 @@ f_conclusion: >-
   entrepreneurs and jam packed with exercises and worksheets, _Inspiring
   Entrepreneurs_ is a must have for any aspiring entrepreneur or person
   interested in taking on a new project in a leadership role. Not to be missed.
-f_amazon-url: https://www.amazon.com/dp/0981089704/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0981089704/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:27.910Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78085f6702f0b878c7e04_money-a-love-story.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/money-a-love-story/
+  alt: 'Money: A Love Story book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/money-a-love-story/'
 f_author-plain-text: Kate Northrup
 f_author: cms/authors/kate-northrup.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -102,7 +102,7 @@ f_conclusion: >-
 f_quote-2: >-
   "…allowing your life to be taken up by financial struggle and strife is
   playing smaller than you’re capable of."
-f_amazon-url: https://www.amazon.com/dp/1401941761/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1401941761/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

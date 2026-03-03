@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:08.566Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78030be467da9b240c400_four-seconds-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/four-seconds/
+  alt: Four Seconds book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/four-seconds/'
 f_author-plain-text: Peter Bregman
 f_author: cms/authors/peter-bregman.md
 f_category-3: cms/summary-categories/self-management.md
@@ -47,7 +47,7 @@ f_big-idea: >-
   complete this sentence: This is what it feels like to \_\_\_\_\_ (fill in the
   blank). IE: This is what it feels like to be in love; this is what it feels
   like to be nervous for a sales meeting; etc.” Try it out!
-f_quote-reference: \- Four Seconds, page 4
+f_quote-reference: '\- Four Seconds, page 4'
 f_insight-2: >-
   ### Not everything needs to be sustainable
 
@@ -119,7 +119,7 @@ f_quote-2: >-
   "Four Seconds is the amount of time required to take a single breathe. That
   short pause is all you need to see where you’re going wrong and to make a
   little shift."
-f_amazon-url: https://www.amazon.com/dp/0062372416/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062372416/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

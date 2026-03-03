@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:07.805Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806811e0ad2b62bf00a7_profit-zone1.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-profit-zone/
+  alt: The Profit Zone book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-profit-zone/'
 f_author-plain-text: Adrian J. Slywotzky
 f_author: cms/authors/adrian-j-slywotzky.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -112,7 +112,7 @@ f_conclusion: >-
   out, and take notes within the book. The notes I made in my copy completely
   changed our business design a few years ago – and happily, we just changed it
   again a few months ago.
-f_amazon-url: https://www.amazon.com/dp/0812933044/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0812933044/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

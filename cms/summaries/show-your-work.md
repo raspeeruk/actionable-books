@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:40.645Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c6476f5b2ebbd7956d_show-your-work.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/show-your-work/
+  alt: Show Your Work book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/show-your-work/'
 f_author-plain-text: Austin Kleon
 f_author: cms/authors/austin-kleon.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -40,7 +40,7 @@ f_big-idea: >-
   While this is the The Big Idea for me, I haven’t started doing it yet. Every
   day that I don’t create and share something is a step back from attracting
   people to my work.
-f_quote-reference: \- Show Your Work, page 3
+f_quote-reference: '\- Show Your Work, page 3'
 f_insight-2: >-
   ### It is okay to make money
 
@@ -90,7 +90,7 @@ f_quote-2: >-
   process, how to share your process in a way that attracts people who might be
   interested in what you do, and how do deal with the ups and downs of putting
   yourself and your work out in the world"
-f_amazon-url: https://www.amazon.com/dp/B00GU2RGGI/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00GU2RGGI/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

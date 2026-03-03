@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:09.999Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808ef40a70780ee9d7d1_the-silo-effect-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-silo-effect/
+  alt: The Silo Effect book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-silo-effect/'
 f_author-plain-text: Gillian Tett
 f_author: cms/authors/gillian-tett.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -50,7 +50,7 @@ f_big-idea: >-
   Examples are plentiful—and combatting the destructive effects of silos
   requires a great deal of intention. When we are intentional and do transcend
   our silos, the possibilities for innovation and new ways of thinking emerge.
-f_quote-reference: \- The Silo Effect, page ix
+f_quote-reference: '\- The Silo Effect, page ix'
 f_insight-2: >-
   ### Change the Way You Classify
 
@@ -119,7 +119,7 @@ f_quote-2: >-
   opportunities that are subsequently blindingly obvious? Why, as Daniel
   Kahneman, the psychologist put it, are we sometimes so 'blind to our own
   blindness?'"
-f_amazon-url: https://www.amazon.com/dp/1451644736/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1451644736/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

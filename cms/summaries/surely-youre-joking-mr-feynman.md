@@ -1,13 +1,13 @@
 ---
 f_unique-number: 679
-title: Surely You’re Joking, Mr. Feynman!
+title: 'Surely You’re Joking, Mr. Feynman!'
 slug: surely-youre-joking-mr-feynman
 updated-on: '2024-02-27T20:31:42.888Z'
 created-on: '2024-02-22T16:06:44.945Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d3a26ae26393f251b2_surely-youre-jokin.jpeg
-  alt: null
+  alt: 'Surely You’re Joking, Mr. Feynman! book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/surely-youre-joking-mr-feynman/
 f_author-plain-text: Richard P. Feynman
@@ -117,7 +117,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Here I stand, atoms with consciousness, matter with curiosity. A universe of
   atoms, an atom in the universe."
-f_amazon-url: https://www.amazon.com/dp/B003V1WXKU/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B003V1WXKU/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

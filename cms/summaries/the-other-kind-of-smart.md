@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:05.349Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d1a26ae26393f24fc5_the-other-kind-of-smart.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-other-kind-of-smart/
+  alt: The Other Kind of Smart book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-other-kind-of-smart/'
 f_author-plain-text: Harvey Deutschendorf
 f_author: cms/authors/harvey-deutschendorf.md
 f_category-3: cms/summary-categories/self-management.md
@@ -36,7 +36,7 @@ f_big-idea: >-
   Further, by crafting better relationships in one area of our lives, our
   capacity and ability to build in other areas is increased. Thereby, we lead
   more fulfilling lives. Makes sense… And, the journey begins with us.
-f_quote-reference: \- Mother Teresa, quoted in The Other Kind of Smart, page 28
+f_quote-reference: '\- Mother Teresa, quoted in The Other Kind of Smart, page 28'
 f_insight-2: >-
   ### Building Healthy Relationships
 
@@ -111,7 +111,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Kind words can be short and easy to speak, but their echoes are truly
   endless."
-f_amazon-url: https://www.amazon.com/dp/B002CQUGOK/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B002CQUGOK/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

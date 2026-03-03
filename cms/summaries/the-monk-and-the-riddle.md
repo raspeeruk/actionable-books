@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:03.265Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780980c0a32898af3e8a8_9781578516445_p0_v1_s114x166.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-monk-and-the-riddle/
+  alt: The Monk and the Riddle book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-monk-and-the-riddle/'
 f_author-plain-text: Randy Komisar
 f_author: cms/authors/randy-komisar.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
@@ -37,7 +37,7 @@ f_big-idea: >-
   for us, nor how long that future is. The message is clear: **define the type
   of life you want to live and go create a business or career that allows you to
   be passionate about your work.**
-f_quote-reference: \- The Monk and the Riddle, page 48
+f_quote-reference: '\- The Monk and the Riddle, page 48'
 f_insight-2: >-
   ### The Unimportance of Failure and the Importance of Passion
 
@@ -111,7 +111,7 @@ f_quote-2: >-
   "There’s nothing wrong with cashing out and making a lot of money – unless
   those ‘other things’ you intend to get to are what you’d rather be doing all
   along."
-f_amazon-url: https://www.amazon.com/dp/1578516447/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1578516447/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

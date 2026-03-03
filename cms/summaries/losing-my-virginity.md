@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:22.891Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d3622882912d41ea76317f_101158747.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/losing-my-virginity/
+  alt: Losing My Virginity book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/losing-my-virginity/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/10/ActionableBooks-Audio-Losing-My-Virginity.mp3
 f_author-plain-text: Richard Branson
@@ -30,7 +30,7 @@ f_big-idea: >-
   Records to Virgin Rail was conceived, and **you see a trail, not of money but
   of passion.** Passion balanced by a deep understanding of the principles of
   good business, as insight #1 shows.
-f_quote-reference: \- Losing My Virginity, page 409
+f_quote-reference: '\- Losing My Virginity, page 409'
 f_insight-2: >-
   ### There is No Formula
 
@@ -95,7 +95,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Conventionally, you concentrate on narrow boundaries when running a company.
   Not only do I find that restrictive I also think that it's dangerous."
-f_amazon-url: https://www.amazon.com/dp/0307720748/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0307720748/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

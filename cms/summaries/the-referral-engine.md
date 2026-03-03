@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:08.765Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809e1b56e0975fab063d_9781591844426_p0_v1_s114x166.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-referral-engine/
+  alt: The Referral Engine book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-referral-engine/'
 f_author-plain-text: John Jantsch
 f_author: cms/authors/john-jantsch.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -45,7 +45,7 @@ f_big-idea: >-
 
   Now that you have something for people to talk about, you’ll need to build a
   system and community around it.
-f_quote-reference: \- The Referral Engine, page 11
+f_quote-reference: '\- The Referral Engine, page 11'
 f_insight-2: >-
   ### Create A Referral Community
 
@@ -110,7 +110,7 @@ f_quote-2: >-
   "The ideal referral system, based on a strategy that gets people voluntarily
   talking about your business, can eliminate the need to ever actually ask for
   referrals again."
-f_amazon-url: https://www.amazon.com/dp/1591844428/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591844428/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:29.239Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78075c87cb42913ed56b0_oasis-conversations-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/oasis-conversations/
+  alt: OASIS Conversations book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/oasis-conversations/'
 f_author-plain-text: Ann Van Eron
 f_author: cms/authors/ann-van-eron.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -58,7 +58,7 @@ f_big-idea: >-
   each step of the process in depth, and makes it easy to implement her process.
   Even at a high level, remembering to approach difficult conversations from an
   open perspective can quickly yield results.
-f_quote-reference: \- OASIS Conversations, page 2
+f_quote-reference: '\- OASIS Conversations, page 2'
 f_insight-2: >-
   ### Take a Welcoming Stance—Be Curious
 
@@ -157,7 +157,7 @@ f_quote-2: >-
   relationships and results to suffer. For most of us, communicating with others
   is one of the most challenging aspects of our professional and personal
   lives.”
-f_amazon-url: https://www.amazon.com/dp/0997513608/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0997513608/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

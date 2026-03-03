@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:50.778Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808cc9a8372615bb2594_the-big-shift-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-big-shift/
+  alt: The Big Shift book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-big-shift/'
 f_author-plain-text: Darrell Bricker
 f_author: cms/authors/darrell-bricker.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -49,7 +49,7 @@ f_big-idea: >-
   this topic is an important one for Canada. The authors dedicated an entire
   chapter that sums up why the trends, stats, and commentary they’ve laid it out
   should matter to you, which are laid out in the Insights below.
-f_quote-reference: \- The Big Shift, page 277
+f_quote-reference: '\- The Big Shift, page 277'
 f_insight-2: >-
   ### My name is Joe, and I am Canadian… still applicable?
 
@@ -123,7 +123,7 @@ f_quote-2: >-
   Canada before our very eyes into a remarkable, post-national country whose
   best days lie ahead and whose wealth and tolerance will make us an example for
   and the envy of the world."
-f_amazon-url: https://www.amazon.com/dp/1443416452/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1443416452/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

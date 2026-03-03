@@ -1,18 +1,18 @@
 ---
 title: Stuart Diamond
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Stuart-Diamond/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Stuart-Diamond/'
 f_unique-id: '248'
 slug: stuart-diamond
 f_summaries:
   - cms/summaries/getting-more.md
 f_image:
   url: /assets/external/65d77a56806eaeecba7c4d76_stuart-diamond.jpeg
-  alt: null
+  alt: Stuart Diamond
 updated-on: '2024-02-23T13:30:35.492Z'
 created-on: '2024-02-22T16:46:15.047Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/Stuart_Diamond/
-f_website-2: http://www.gettingmore.com/
+f_twitter-2: 'http://twitter.com/Stuart_Diamond/'
+f_website-2: 'http://www.gettingmore.com/'
 layout: '[authors].html'
 tags: authors
 ---

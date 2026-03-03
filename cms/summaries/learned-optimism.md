@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:21.197Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808366cf927e76acb033_learned_optimism.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/learned-optimism/
+  alt: Learned Optimism book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/learned-optimism/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-Learned-Optimism.mp3
 f_author-plain-text: Martin E. P. Seligman
@@ -42,7 +42,7 @@ f_big-idea: >-
   Experiments with humans, using frustrating puzzles and noises, produced
   identical results. Helplessness could be learned, and it could be unlearned.
   **Once it was unlearned, the effects were permanent.**
-f_quote-reference: \- Learned Optimism, page 8
+f_quote-reference: '\- Learned Optimism, page 8'
 f_insight-2: >-
   ### Disputing Negative Thinking by Analyzing Evidence, Alternatives,
   Implications, and Usefulness
@@ -150,7 +150,7 @@ f_conclusion: >-
 f_quote-2: >-
   "One of the most significant findings in psychology in the last twenty years
   is that individuals can choose the way they think."
-f_amazon-url: https://www.amazon.com/dp/1400078393/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1400078393/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,10 +1,10 @@
 ---
 title: Aaron Goldstein
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Aaron-Goldstein/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Aaron-Goldstein/'
 f_unique-id: '628'
 f_image:
   url: /assets/external/65d779a4336cf3351ac3c38d_aaron_goldstein.jpeg
-  alt: null
+  alt: Aaron Goldstein
 slug: aaron-goldstein
 f_summaries:
   - cms/summaries/the-decoded-company.md

@@ -1,16 +1,16 @@
 ---
 title: Brendon Burchard
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Brendon-Burchard/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Brendon-Burchard/'
 f_unique-id: '275'
 f_image:
   url: /assets/external/65d779c111fc1cf0a0004cc5_burchard.jpeg
-  alt: null
+  alt: Brendon Burchard
 slug: brendon-burchard
 updated-on: '2024-02-23T13:30:38.439Z'
 created-on: '2024-02-22T16:43:46.098Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/BrendonBurchard/
-f_website-2: http://www.BrendonBurchard.com
+f_twitter-2: 'http://twitter.com/BrendonBurchard/'
+f_website-2: 'http://www.BrendonBurchard.com'
 layout: '[authors].html'
 tags: authors
 ---

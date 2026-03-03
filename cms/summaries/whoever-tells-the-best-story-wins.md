@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d35b95979f7943fbcd98fb_whoever-tells-the-best-story-wins.jpeg
-  alt: null
+  alt: Whoever Tells the Best Story Wins book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/whoever-tells-the-best-story-wins/
 f_author-plain-text: Annette Simmons
@@ -57,7 +57,7 @@ f_big-idea: >-
   a vision story about her potential startup that had me reaching for my
   checkbook. Each story fueled my perception of the teller, but in entirely
   opposite directions.
-f_quote-reference: \- Whoever Tells the Best Story Wins, page 50
+f_quote-reference: '\- Whoever Tells the Best Story Wins, page 50'
 f_insight-2: >-
   ### Tell stories that add substance to vision
 
@@ -122,7 +122,7 @@ f_quote-2: >-
   "People don’t want more information. They can’t process the information they
   already have. What they want is faith in you, your words, and your good
   intentions."
-f_amazon-url: https://www.amazon.com/dp/0814409148/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0814409148/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

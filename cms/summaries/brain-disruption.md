@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:50.067Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805e029e815b3dc3ab1e_brain-disruption-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/brain-disruption/
+  alt: Brain Disruption book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/brain-disruption/'
 f_author-plain-text: Bruce Montgomery
 f_author: cms/authors/bruce-montgomery.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -48,7 +48,7 @@ f_big-idea: >-
 
 
   So, how can you employ the rules of improv to develop creativity in your team?
-f_quote-reference: \- Brain Disruption, page 17
+f_quote-reference: '\- Brain Disruption, page 17'
 f_insight-2: >-
   ### Creativity Leads to Company Growth
 
@@ -113,7 +113,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Through improvisation you can create and establish an innovative corporate
   culture."
-f_amazon-url: https://www.amazon.com/dp/0692491821/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0692491821/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

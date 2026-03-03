@@ -1,11 +1,11 @@
 ---
 title: Peter Morville
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Peter-Morville/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Peter-Morville/'
 f_unique-id: '316'
 slug: peter-morville
 f_image:
   url: /assets/external/65d77a3eaeabd775f26cbf33_peter-morville-180x190.jpeg
-  alt: null
+  alt: Peter Morville
 f_summaries:
   - cms/summaries/intertwingled.md
 updated-on: '2024-02-23T13:31:29.085Z'

@@ -1,18 +1,18 @@
 ---
 title: Matthew E. May
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Matthew-E.-May/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Matthew-E.-May/'
 f_unique-id: '666'
 slug: matthew-e-may
 f_image:
   url: /assets/external/65d77a2dda73597cd8374203_may.jpeg
-  alt: null
+  alt: Matthew E. May
 f_summaries:
   - cms/summaries/the-laws-of-subtraction.md
 updated-on: '2024-02-23T13:31:29.836Z'
 created-on: '2024-02-22T16:45:33.618Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://facebook.com/matthewemay
-f_twitter-2: http://twitter.com/MatthewEMay/
+f_facebook-2: 'http://facebook.com/matthewemay'
+f_twitter-2: 'http://twitter.com/MatthewEMay/'
 layout: '[authors].html'
 tags: authors
 ---

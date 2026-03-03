@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:45.464Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808057e639fa01dbfdc0_adapt-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/adapt/
+  alt: Adapt book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/adapt/'
 f_author-plain-text: Tim Harford
 f_author: cms/authors/tim-harford.md
 f_category-3: cms/summary-categories/self-management.md
@@ -46,7 +46,7 @@ f_big-idea: >-
   a distance. The more ways you look at a problem, the more likely you will be
   to produce a workable solution. Once we are comfortable with failure, we are
   ready for the next step, evolve.
-f_quote-reference: \- Adapt, page 243
+f_quote-reference: '\- Adapt, page 243'
 f_insight-2: >-
   ### Failure increases risk tolerance
 
@@ -132,7 +132,7 @@ f_quote-2: >-
   First, try new things, expecting that some will fail. Second, make failure
   survivable: create safe spaces for failure or move forward in small steps. ...
   And third, make sure you know when you have failed, or you will never learn."
-f_amazon-url: https://www.amazon.com/dp/1250007550/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1250007550/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

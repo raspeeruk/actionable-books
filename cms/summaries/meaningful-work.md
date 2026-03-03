@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:26.366Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803da8157b6a52468572_meaningful-work-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/meaningful-work/
+  alt: Meaningful Work book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/meaningful-work/'
 f_author-plain-text: Shawn Askinosie
 f_author: cms/authors/shawn-askinosie.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -44,7 +44,7 @@ f_big-idea: >-
   this mindset, they make better decisions that lead to greater outcomes. For
   pharma people, we see much greater success when we create engagement through
   our common purpose to help improve patient outcomes.
-f_quote-reference: \- Meaningful Work, page 64
+f_quote-reference: '\- Meaningful Work, page 64'
 f_insight-2: >-
   ### Ideas are great. Action is better!
 
@@ -114,7 +114,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Businesses become great or meaningful when they are informed by a vocation
   that gives their product or service, and their employees, purpose.”
-f_amazon-url: https://www.amazon.com/dp/0143130315/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0143130315/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

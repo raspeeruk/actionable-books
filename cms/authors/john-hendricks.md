@@ -1,10 +1,10 @@
 ---
 title: John Hendricks
-f_original-url: https://www.actionablebooks.com/en-ca/authors/John-Hendricks/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/John-Hendricks/'
 f_unique-id: '35'
 f_image:
   url: /assets/external/65d77a134390006f85f9213f_john-hendrick.jpeg
-  alt: null
+  alt: John Hendricks
 slug: john-hendricks
 f_summaries:
   - cms/summaries/a-curious-discovery.md

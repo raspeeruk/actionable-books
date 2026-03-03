@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:28.841Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808af40a70780ee9d68e_no-problem.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/no-problem/
+  alt: No Problem book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/no-problem/'
 f_author-plain-text: Alex Lowy
 f_author: cms/authors/alex-lowy.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -110,7 +110,7 @@ f_conclusion: >-
   that solutions come from deliberate action, not passive complaining. If you
   ARE looking for a solution, and a guide to get you there, _No Problem_ is a
   resource worth having.
-f_amazon-url: https://www.amazon.com/dp/1425996019/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1425996019/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

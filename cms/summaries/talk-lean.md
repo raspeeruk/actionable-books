@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:45.589Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806b66cf927e76aca14a_talk-lean-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/talk-lean/
+  alt: Talk Lean book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/talk-lean/'
 f_author-plain-text: Alan Palmer
 f_author: cms/authors/alan-palmer.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -43,7 +43,7 @@ f_big-idea: >-
 
   So, you’ve declared what you’d like to achieve from your interaction. Now, how
   do you increase your odds of getting it?
-f_quote-reference: \- Talk Lean, page 12
+f_quote-reference: '\- Talk Lean, page 12'
 f_insight-2: >-
   ### Relearn to listen
 
@@ -108,7 +108,7 @@ f_quote-2: >-
   "More modestly, [this book] will give you the courage to say what you think
   and to ask for what you want and, if what you want is obtainable, it will give
   you the best chance of obtaining it quickly."
-f_amazon-url: https://www.amazon.com/dp/0857084976/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0857084976/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

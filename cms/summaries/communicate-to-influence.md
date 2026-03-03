@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d78036a6abc3e76db24b82_communicate-to-influence-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/communicate-to-influence/
+  alt: Communicate to Influence book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/communicate-to-influence/'
 f_author-plain-text: Ben Decker
 f_author: cms/authors/ben-decker.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -46,7 +46,7 @@ f_big-idea: >-
 
   4.  Good communication requires self-awareness, so get honest feedback (e.g.,
   watch a video recording of your speech).
-f_quote-reference: \- Communicate to Influence, page 5
+f_quote-reference: '\- Communicate to Influence, page 5'
 f_insight-2: >-
   ### Connect Emotionally with SHARPs
 
@@ -125,7 +125,7 @@ f_quote-2: >-
   "Business communication sucks, but there is hope. It doesn’t have to be this
   way. And it can’t. Circumstances and our audience demand that it change. The
   need for great communication has never been more urgent."
-f_amazon-url: https://www.amazon.com/dp/0071839836/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071839836/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

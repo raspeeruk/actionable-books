@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:46.751Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c3cc4b0b2ec90288e0_appvertising-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/appvertising/
+  alt: Appvertising book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/appvertising/'
 f_author-plain-text: Stephen Molloy
 f_author: cms/authors/stephen-molloy.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -46,7 +46,7 @@ f_big-idea: >-
   App stores stand to gain from the sales of apps. For example, Apple charges
   30% for each app sold on its app store. Apple realized quickly that apps also
   help to sell iPhones and iPads, and is supportive of app developers.
-f_quote-reference: \- Appvertising, page 80
+f_quote-reference: '\- Appvertising, page 80'
 f_insight-2: >-
   ### How to create successful apps and promote them
 
@@ -203,7 +203,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Apps are here to stay and they are changing the face of all businesses, big
   and small."
-f_amazon-url: https://www.amazon.com/dp/B00C7VHSCS/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00C7VHSCS/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

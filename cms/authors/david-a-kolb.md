@@ -1,11 +1,11 @@
 ---
 title: David A. Kolb
-f_original-url: https://www.actionablebooks.com/en-ca/authors/David-A.-Kolb/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/David-A.-Kolb/'
 f_unique-id: '296'
 slug: david-a-kolb
 f_image:
   url: /assets/external/65d779e112ad6ca218b88c80_david-a-kolb-180x168.jpeg
-  alt: null
+  alt: David A. Kolb
 f_summaries:
   - cms/summaries/how-you-learn-is-how-you-live.md
 updated-on: '2024-02-23T13:31:24.551Z'

@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d78098ef2953d859f4b892_jump-start-your-business-brain-94x144.jpeg
-  alt: null
+  alt: Jump Start Your Business Brain book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/jump-start-your-business-brain/
 f_author-plain-text: Doug Hall
@@ -45,7 +45,7 @@ f_big-idea: >-
 
 
   So, how do we earn a customer’s trust? Read on to the GEM’s.
-f_quote-reference: \- Jump Start Your Business Brain, page 5
+f_quote-reference: '\- Jump Start Your Business Brain, page 5'
 f_insight-2: >-
   ### Create Internet Credibility
 
@@ -141,7 +141,7 @@ f_quote-2: >-
   and identify ideas – ideas for new products, services, and businesses as well
   as ideas for advertising and marketing communication in support of your
   existing businesses."
-f_amazon-url: https://www.amazon.com/dp/1578601797/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1578601797/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

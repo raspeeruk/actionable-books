@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:47.379Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805c1c68aa62113b3d52_48-laws-of-power-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-48-laws-of-power/
+  alt: The 48 Laws of Power book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-48-laws-of-power/'
 f_author-plain-text: Robert Greene
 f_author: cms/authors/robert-greene.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -50,7 +50,7 @@ f_big-idea: >-
   know?” What evidence is your opinion based on? Don’t take things for granted.
   Look deep inside and find the source of your opinion or belief and question
   its authenticity and validity.
-f_quote-reference: \- The 5 Elements of Effective Thinking, page 15
+f_quote-reference: '\- The 5 Elements of Effective Thinking, page 15'
 f_insight-2: >-
   ### Question Everything
 
@@ -118,7 +118,7 @@ f_quote-2: >-
   “You can understand anything better than you currently do. Setting a higher
   standard for yourself for what you mean by understanding can revolutionize how
   you perceive the world”
-f_amazon-url: https://www.amazon.com/dp/0670881465/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0670881465/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

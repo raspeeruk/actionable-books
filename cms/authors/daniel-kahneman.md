@@ -1,18 +1,18 @@
 ---
 title: Daniel Kahneman
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Daniel-Kahneman/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Daniel-Kahneman/'
 f_unique-id: '788'
 f_image:
   url: /assets/external/65d779db28bdb50947f47885_kahneman.jpeg
-  alt: null
+  alt: Daniel Kahneman
 slug: daniel-kahneman
 f_summaries:
   - cms/summaries/thinking-fast-and-slow.md
 updated-on: '2024-02-23T13:30:31.822Z'
 created-on: '2024-02-22T16:44:12.194Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/DanielKahneman/
-f_website-2: http://www.princeton.edu/~kahneman/
+f_twitter-2: 'http://twitter.com/DanielKahneman/'
+f_website-2: 'http://www.princeton.edu/~kahneman/'
 layout: '[authors].html'
 tags: authors
 ---

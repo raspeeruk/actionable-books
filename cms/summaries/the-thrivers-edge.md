@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:12.521Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b52ea4a5ee7840946c_thrivers-edge-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-thrivers-edge/
+  alt: The Thriver’s Edge book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-thrivers-edge/'
 f_author-plain-text: Donna Stoneham
 f_author: cms/authors/donna-stoneham.md
 f_category-3: cms/summary-categories/self-management.md
@@ -46,7 +46,7 @@ f_big-idea: >-
 
   What choices are you making today? Which wolf are you feeding – the survivor
   or the thriver?
-f_quote-reference: \- The Thriver’s Edge, page 2
+f_quote-reference: '\- The Thriver’s Edge, page 2'
 f_insight-2: >-
   ### Anchors Aweigh!
 
@@ -135,7 +135,7 @@ f_conclusion: >-
 f_quote-2: >-
   "What helps people move from surviving to thriving? How can I learn to thrive
   and not hold myself back from being all that I’m capable of becoming?"
-f_amazon-url: https://www.amazon.com/dp/1631529803/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1631529803/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:31.136Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808f48a50b1aa4e443c6_9781454900672_p0_v1_s114x166.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/outwitting-the-devil/
+  alt: Outwitting the Devil book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/outwitting-the-devil/'
 f_author-plain-text: Napoleon Hill
 f_author: cms/authors/napoleon-hill.md
 f_category-3: cms/summary-categories/self-management.md
@@ -63,7 +63,7 @@ f_big-idea: >-
   influence in your own mental, spiritual and physical environment
 
   *   Caution (thinking before you act)
-f_quote-reference: \- Outwitting the Devil, page 44
+f_quote-reference: '\- Outwitting the Devil, page 44'
 f_insight-2: >-
   ### Self-discipline
 
@@ -139,7 +139,7 @@ f_conclusion: >-
 f_quote-2: >-
   "I discovered that happiness, the highest aim of mankind, was mine for the
   taking, business depression or no business depression."
-f_amazon-url: https://www.amazon.com/dp/1454900679/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1454900679/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

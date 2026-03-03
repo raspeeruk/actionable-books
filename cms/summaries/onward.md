@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:29.774Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780ac899573618576d6a4_onwards-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/onward/
+  alt: 'Onward: How Starbucks Fought for Its Life without Losing Its Soul book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/onward/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/10/ActionableBooks-Audio-Onward.mp3
 f_author-plain-text: Howard Schultz
@@ -44,7 +44,7 @@ f_big-idea: >-
   experience when they interact with their product or service companies. When
   you start seeing them as “yet another transaction,” you disappoint that
   expectation; a disappointment that they likely won’t tolerate for long.
-f_quote-reference: \- Onward, page 201
+f_quote-reference: '\- Onward, page 201'
 f_insight-2: >-
   ### Fixing Moments or Solving Problems?
 
@@ -113,7 +113,7 @@ f_conclusion: >-
 f_quote-2: >-
   "A store manager's job is not to oversee millions of customer transactions a
   week, but one transaction millions of times a week."
-f_amazon-url: https://www.amazon.com/dp/1605292885/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1605292885/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

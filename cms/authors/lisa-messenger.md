@@ -1,10 +1,10 @@
 ---
 title: Lisa Messenger
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Lisa-Messenger/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Lisa-Messenger/'
 f_unique-id: '159'
 f_image:
   url: /assets/external/65d77a25f8540e935862b4c5_lisa-messenger-180x167.jpeg
-  alt: null
+  alt: Lisa Messenger
 slug: lisa-messenger
 f_summaries:
   - cms/summaries/daring-disruptive.md

@@ -1,15 +1,15 @@
 ---
 title: Noel M. Tichy
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Noel-M.-Tichy/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Noel-M.-Tichy/'
 f_unique-id: '327'
 f_image:
   url: /assets/external/65d77a38600f96a54c6b5fb2_noel.jpeg
-  alt: null
+  alt: Noel M. Tichy
 slug: noel-m-tichy
 updated-on: '2024-02-23T13:30:32.234Z'
 created-on: '2024-02-22T16:45:44.162Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://www.noeltichy.com/
+f_website-2: 'http://www.noeltichy.com/'
 layout: '[authors].html'
 tags: authors
 ---

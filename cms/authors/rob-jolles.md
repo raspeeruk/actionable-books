@@ -1,18 +1,18 @@
 ---
 title: Rob Jolles
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Rob-Jolles/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Rob-Jolles/'
 f_unique-id: '283'
 f_image:
   url: /assets/external/65d77a448b89319a550cf36b_rob-jolles.jpeg
-  alt: null
+  alt: Rob Jolles
 slug: rob-jolles
 f_summaries:
   - cms/summaries/how-to-change-minds.md
 updated-on: '2024-02-23T13:30:54.876Z'
 created-on: '2024-02-22T16:45:56.972Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/robjolles/
-f_website-2: http://jolles.com
+f_twitter-2: 'http://twitter.com/robjolles/'
+f_website-2: 'http://jolles.com'
 layout: '[authors].html'
 tags: authors
 ---

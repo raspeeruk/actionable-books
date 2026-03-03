@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:36.168Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805e0c0a32898af3cd76_raving-fans-sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/raving-fans/
+  alt: Raving Fans book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/raving-fans/'
 f_author-plain-text: Ken Blanchard
 f_author: cms/authors/ken-blanchard.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -18,7 +18,7 @@ f_quote-reference: ''
 f_insight-2: ''
 f_insight-1: ''
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0688123163/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0688123163/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

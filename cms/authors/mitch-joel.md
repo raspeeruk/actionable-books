@@ -1,16 +1,16 @@
 ---
 title: Mitch Joel
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Mitch-Joel/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Mitch-Joel/'
 f_unique-id: '158'
 f_image:
   url: /assets/external/65d77a339dd4a722889e47e9_mitchjoel-lg-180x220.jpeg
-  alt: null
+  alt: Mitch Joel
 slug: mitch-joel
 updated-on: '2024-02-23T13:31:17.340Z'
 created-on: '2024-02-22T16:45:39.554Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://www.facebook.com/MitchJoel
-f_twitter-2: http://twitter.com/mitchjoel/
+f_facebook-2: 'http://www.facebook.com/MitchJoel'
+f_twitter-2: 'http://twitter.com/mitchjoel/'
 layout: '[authors].html'
 tags: authors
 ---

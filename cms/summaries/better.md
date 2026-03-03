@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:48.983Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78046b881391585a570f6_better_sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/better/
+  alt: Better book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/better/'
 f_author-plain-text: Atul Gawande
 f_author: cms/authors/atul-gawande.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -98,7 +98,7 @@ f_conclusion: >-
   to discover an improved therapy for wounded soldiers, maybe you’ll be the one
   to save your organization hundreds of dollars in colour ink cartridges.
   Everyone can be a hero in their own world.
-f_amazon-url: https://www.amazon.com/dp/0312427654/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0312427654/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

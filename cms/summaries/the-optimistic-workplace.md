@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780da81456d11fb0701e3_the-optimistic-workplace-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-optimistic-workplace/
+  alt: The Optimistic Workplace book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-optimistic-workplace/'
 f_author-plain-text: Shawn Murphy
 f_author: cms/authors/shawn-murphy.md
 f_category-3: cms/summary-categories/leadership.md
@@ -60,7 +60,7 @@ f_big-idea: >-
   be aware of the importance of team members’ personal lives and allow a more
   balanced work/life connection and, for instance, make changes to allow for
   more free time.
-f_quote-reference: \- The Optimistic Workplace, page 132-133
+f_quote-reference: '\- The Optimistic Workplace, page 132-133'
 f_insight-2: >-
   ### Purpose
 
@@ -171,7 +171,7 @@ f_quote-2: >-
   "When we allow somebody to walk into our organisation we have an obligation as
   stewards of that life to continue to allow that life to be everything they
   were meant to be"
-f_amazon-url: https://www.amazon.com/dp/B01019D3SA/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B01019D3SA/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

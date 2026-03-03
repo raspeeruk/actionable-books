@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:24.956Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78063c711d4135c229e4f_you-are-a-badass-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/you-are-a-badass/
+  alt: You Are a Badass book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/you-are-a-badass/'
 f_author-plain-text: Jen Sincero
 f_author: cms/authors/jen-sincero.md
 f_category-3: cms/summary-categories/self-management.md
@@ -39,7 +39,7 @@ f_big-idea: >-
   our decisions and actions to be greater. Remember that it is better to live
   your purpose than to live a life of misery and regret. Decide today to step
   into your badassery and own it!
-f_quote-reference: \- You Are a Badass, page 50
+f_quote-reference: '\- You Are a Badass, page 50'
 f_insight-2: >-
   ### Start believing
 
@@ -114,7 +114,7 @@ f_conclusion: >-
 f_quote-2: >-
   "You can't screw up so majorly that your badassery disappears. It is who you
   are. It's who you always will be. It's not up for negotiation."
-f_amazon-url: https://www.amazon.com/dp/0762447699/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0762447699/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:47.221Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803298fda031132d7785_angel-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/angel/
+  alt: Angel book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/angel/'
 f_author-plain-text: Jason Calacanis
 f_author: cms/authors/jason-calacanis.md
 f_team-2: cms/team/anand-thaker.md
@@ -47,7 +47,7 @@ f_big-idea: >-
   It’s critical to develop the meeting and the pitch down to a fine science. You
   will meet with so many founders, investors and stakeholders. Getting to the
   essentials helps to effectively and efficiently make a decision.
-f_quote-reference: \- Angel, Kindle Location 3169-3170
+f_quote-reference: '\- Angel, Kindle Location 3169-3170'
 f_insight-2: >-
   ### Become a Startup Detective
 
@@ -128,7 +128,7 @@ f_conclusion: >-
 f_quote-2: >-
   "They say no one gets there alone, and halfway through my career, I can tell
   you this is the truest thing I know."
-f_amazon-url: https://www.amazon.com/dp/0062560700/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062560700/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

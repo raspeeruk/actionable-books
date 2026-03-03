@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:07.957Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780290fab8426e4490d3e_fascinate_book_sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/fascinate/
+  alt: Fascinate book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/fascinate/'
 f_author-plain-text: Sally Hogshead
 f_author: cms/authors/sally-hogshead.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -92,7 +92,7 @@ f_conclusion: >-
   are drawn to certain people and companies, and how can we cultivate more of it
   in our lives. Fascinate is a great read – enjoyable and poignant, and sure to
   be referenced for years to come.
-f_amazon-url: https://www.amazon.com/dp/0061714704/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0061714704/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,10 +1,10 @@
 ---
 title: Justin Lokitz
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Justin-Lokitz/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Justin-Lokitz/'
 f_unique-id: '170'
 f_image:
   url: /assets/external/65d77a1b47e6696c3ef3e437_justin-lokitz-180x220.jpeg
-  alt: null
+  alt: Justin Lokitz
 slug: justin-lokitz
 f_summaries:
   - cms/summaries/design-a-better-business.md

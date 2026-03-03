@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:21.633Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c71de9c6d7938ed74f_leverage.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/leverage/
+  alt: Leverage book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/leverage/'
 f_author-plain-text: John R. Childress
 f_author: cms/authors/john-r-childress.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
@@ -135,7 +135,7 @@ f_insight-1: >-
   stopwatches or timers more often when I need to focus on a task. That is
   changing my behavior.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/B00HAMKVBO/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00HAMKVBO/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

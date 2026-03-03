@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:09.343Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78073b56c9adb0e2a4481_get-unstuck.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/get-unstuck-get-going/
+  alt: Get Unstuck & Get Going book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/get-unstuck-get-going/'
 f_author-plain-text: Michael Bungay Stanier
 f_author: cms/authors/michael-bungay-stanier.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -128,7 +128,7 @@ f_conclusion: >-
   back, and take the steps that will truly make us happy. Michael helps you get
   unstuck. Helping people do more ‘Great Work’ is his Great Work, after all.
 f_quote-2: '"You can always create possibilities in your life."'
-f_amazon-url: https://www.amazon.com/dp/0978440714/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0978440714/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

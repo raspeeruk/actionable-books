@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:10.491Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780482d3147c9543ada5b_the-social-organism-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-social-organism/
+  alt: The Social Organism book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-social-organism/'
 f_author-plain-text: Michael J. Casey
 f_author: cms/authors/michael-j-casey.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -46,7 +46,7 @@ f_big-idea: >-
   and are changed within our community and alter our society. To nurture a
   healthy society, we need to nourish the social organism with positive memes.
   For actionable tactics, read on to the Insights.
-f_quote-reference: \- The Social Organism, page 256
+f_quote-reference: '\- The Social Organism, page 256'
 f_insight-2: >-
   ### Ideas evolve unpredictably
 
@@ -125,7 +125,7 @@ f_quote-2: >-
   for disorderly chaos. Instead, in understanding and treating it as a Social
   Organism, we have a unique opportunity to nourish a new, healthier society and
   to build a more inclusive, prosperous, and sustainable world."
-f_amazon-url: https://www.amazon.com/dp/0316359521/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0316359521/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

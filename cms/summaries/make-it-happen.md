@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:24.120Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78058589ec7f5935792af_make-it-happen-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/make-it-happen/
+  alt: Make It Happen book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/make-it-happen/'
 f_author-plain-text: Lara Casey
 f_author: cms/authors/lara-casey.md
 f_category-3: cms/summary-categories/self-management.md
@@ -41,7 +41,7 @@ f_big-idea: >-
   potential then we won’t be able to manage the responsibility that comes with
   it, or that we won’t be able to sustain it. The repercussion of this kind of
   thinking is that we deem ourselves unworthy and keep playing small.
-f_quote-reference: \- Make It Happen, page xviii
+f_quote-reference: '\- Make It Happen, page xviii'
 f_insight-2: >-
   ### Create a Life on Purpose
 
@@ -120,7 +120,7 @@ f_quote-2: >-
   "A life of purpose – living for something bigger than yourself – is not about
   achieving your dream job or the ideal circumstances or the perfect timing. Yes
   what you have, where you are, right now, on purpose."
-f_amazon-url: https://www.amazon.com/dp/0529101505/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0529101505/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:30.780Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780cd237ef95a3c758c8e_oversubscribed-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/oversubscribed/
+  alt: Oversubscribed book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/oversubscribed/'
 f_author-plain-text: Daniel Priestley
 f_author: cms/authors/daniel-priestley.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -76,7 +76,7 @@ f_big-idea: >-
 
 
   The team members must work together to create a high performance culture.
-f_quote-reference: \- Oversubscribed, page 43
+f_quote-reference: '\- Oversubscribed, page 43'
 f_insight-2: >-
   ### Leverage technology
 
@@ -171,7 +171,7 @@ f_conclusion: >-
   serve its best clients within its capacity so as not to dilute its effort and
   disappoint everyone.
 f_quote-2: '"People don’t buy what others want to sell. They buy what others want to buy."'
-f_amazon-url: https://www.amazon.com/dp/B00TXOR9IU/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00TXOR9IU/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:28.019Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d777c4a8c4e31b266c_blog-traffic-sucks.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/my-blog-traffic-sucks/
+  alt: My Blog Traffic Sucks book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/my-blog-traffic-sucks/'
 f_author-plain-text: Steve Scott
 f_author: cms/authors/steve-scott.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -92,7 +92,7 @@ f_insight-1: >-
   [blog](http://www.stevepavlina.com/blog/2009/07/how-to-network-with-busy-people/)
   on how to network with busy people.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/B009WUKTXW/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B009WUKTXW/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

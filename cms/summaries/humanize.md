@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:14.655Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780665c25189781027834_humanize.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/humanize/
+  alt: Humanize book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/humanize/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/09/ActionableBooks-Audio-Humanize.wav
 f_author-plain-text: Jamie Notter
@@ -42,7 +42,7 @@ f_big-idea: >-
 
   So where do we begin? How do we tackle this daunting prospect of completely
   revolutionizing the way we work?
-f_quote-reference: \- Humanize, page 91
+f_quote-reference: '\- Humanize, page 91'
 f_insight-2: >-
   ### Be Open, Trustworthy, Generative, and Courageous
 
@@ -108,7 +108,7 @@ f_quote-2: >-
   "It is ironic that a significant advance in technology . . . would shine a
   light on our need to have more human organizations, but that’s exactly what’s
   happening."
-f_amazon-url: https://www.amazon.com/dp/0789741121/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0789741121/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

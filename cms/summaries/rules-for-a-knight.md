@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:37.987Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780464563120af428d62e_rules-for-a-knight-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/rules-for-a-knight/
+  alt: Rules for a Knight book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/rules-for-a-knight/'
 f_author-plain-text: Ethan Hawke
 f_author: cms/authors/ethan-hawke.md
 f_category-3: cms/summary-categories/self-management.md
@@ -40,7 +40,7 @@ f_big-idea: >-
 
   We can’t predict the future, good or bad, but learning to let go and let
   things play out can be extremely valuable throughout the course of our lives.
-f_quote-reference: \- Rules for a Knight, page 11
+f_quote-reference: '\- Rules for a Knight, page 11'
 f_insight-2: >-
   ### Dedication
 
@@ -93,7 +93,7 @@ f_conclusion: >-
 f_quote-2: >-
   “You are always in the right place at exactly the right time, and you always
   have been.”
-f_amazon-url: https://www.amazon.com/dp/0307962334/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0307962334/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

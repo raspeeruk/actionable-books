@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7809898fda031132dbd00_leadership-from-the-inside-out.jpeg
-  alt: null
+  alt: Leadership from the Inside Out book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/leadership-from-the-inside-out/
 f_author-plain-text: Kevin Cashman
@@ -49,7 +49,7 @@ f_big-idea: >-
   seven mastery pathways: personal, purpose, change, interpersonal, being,
   resilience, and action. The following are two of the stepping-stones to move
   toward growing as a leader by growing as a person.
-f_quote-reference: \- Leadership from the Inside Out, page 22
+f_quote-reference: '\- Leadership from the Inside Out, page 22'
 f_insight-2: >-
   ### Leading on purpose
 
@@ -138,7 +138,7 @@ f_quote-2: >-
   "We lead by virtue of who we are… The leader and the person are the same. As
   we learn to master our growth as a person, we will be on the path to mastery
   of Leadership From the Inside Out."
-f_amazon-url: https://www.amazon.com/dp/1576755991/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1576755991/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

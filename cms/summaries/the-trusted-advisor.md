@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:12.764Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806096875e3ddbe2eedb_trusted-advisor.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-trusted-advisor/
+  alt: The Trusted Advisor book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-trusted-advisor/'
 f_author-plain-text: David H. Maister
 f_author: cms/authors/david-h-maister.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -61,7 +61,7 @@ f_big-idea: >-
   belong there, then don’t put yourself there in the first place.
 
   *   Love your topic. It will show.
-f_quote-reference: \- The Trusted Advisor, Chapter 3
+f_quote-reference: '\- The Trusted Advisor, Chapter 3'
 f_insight-2: >-
   ### Quick-Impact List to Gain Trust
 
@@ -156,7 +156,7 @@ f_quote-2: >-
   somebody to trust you? It is clear that it is not done by saying ‘Trust me!’
   Nothing is more likely to get the listener to put up his or her defences! The
   key point is that trust must be earned and deserved."
-f_amazon-url: https://www.amazon.com/dp/0743212347/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0743212347/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

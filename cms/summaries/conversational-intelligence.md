@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780be1de9c6d7938ed365_conversational-intelligence-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/conversational-intelligence/
+  alt: Conversational Intelligence book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/conversational-intelligence/'
 f_author-plain-text: Judith Glaser
 f_author: cms/authors/judith-glaser.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -60,7 +60,7 @@ f_big-idea: >-
   their views and learn more about the perspectives of the others they are
   talking to; this leads to individuals working together to co-create and
   achieve greater shared success.
-f_quote-reference: \- Conversational Intelligence, page xv
+f_quote-reference: '\- Conversational Intelligence, page xv'
 f_insight-2: >-
   ### Lack of trust can be the undoing of successfully managing change
 
@@ -137,7 +137,7 @@ f_quote-2: >-
   “To get to the next level of greatness depends on the quality of our culture,
   which depends on the quality of our relationships, which depends on the
   quality of our conversations. Everything happens through conversations!”
-f_amazon-url: https://www.amazon.com/dp/1937134679/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1937134679/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

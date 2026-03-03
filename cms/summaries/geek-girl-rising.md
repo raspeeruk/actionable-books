@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:09.147Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808144f497b3b375265c_geek-girl-rising-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/geek-girl-rising/
+  alt: Geek Girl Rising book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/geek-girl-rising/'
 f_author-plain-text: Heather Cabot
 f_author: cms/authors/heather-cabot.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -42,7 +42,7 @@ f_big-idea: >-
   the beautiful website, the overseas freelance team—until she found that the
   beautiful website didn’t have functionality and she had paid for expensive
   garbage code.
-f_quote-reference: \- Geek Girl Rising, page 42
+f_quote-reference: '\- Geek Girl Rising, page 42'
 f_insight-2: >-
   ### Are you prepared to use your networks?
 
@@ -119,7 +119,7 @@ f_quote-2: >-
   "If you truly want to become an entrepreneur, you have to do it with a sense
   of conviction, of passion, but most importantly, you [have to] want to solve
   the problem."
-f_amazon-url: https://www.amazon.com/dp/1250112265/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1250112265/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

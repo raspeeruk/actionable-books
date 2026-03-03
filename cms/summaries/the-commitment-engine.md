@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:52.911Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809fe5c7d0393961d93f_commitment_engine.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-commitment-engine/
+  alt: The Commitment Engine book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-commitment-engine/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/ActionableBooks-Audio-The-Commitment-Engine.mp3
 f_author-plain-text: John Jantsch
@@ -63,7 +63,7 @@ f_big-idea: >-
   company so well that they become committed to your success, you need to tell
   all four stories, and you need to do it again and again and again. We all love
   a good story. **What stories are you telling?**
-f_quote-reference: \- The Commitment Engine, page 1
+f_quote-reference: '\- The Commitment Engine, page 1'
 f_insight-2: >-
   ### The Sales Story
 
@@ -138,7 +138,7 @@ f_conclusion: >-
   owners in particular, and anyone looking to re-inject their professional lives
   with a little bit of purpose, in general.
 f_quote-2: '"A business is only alive to the extent that there is commitment."'
-f_amazon-url: https://www.amazon.com/dp/1591844878/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591844878/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

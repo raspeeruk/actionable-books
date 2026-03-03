@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:21.083Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808c98fda031132db768_97964243-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/what-lucy-taught-us/
+  alt: What Lucy Taught Us book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/what-lucy-taught-us/'
 f_author-plain-text: Walter Geer
 f_author: cms/authors/walter-geer.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -55,7 +55,7 @@ f_big-idea: >-
   possibly to wrap that much candy, maybe the supervisor would have slowed down
   the conveyor belt for them. (Probably not, but they still should have been
   honest.)
-f_quote-reference: \- What Lucy Taught Us, page 80
+f_quote-reference: '\- What Lucy Taught Us, page 80'
 f_insight-2: >-
   ### Get Diagramming!
 
@@ -132,7 +132,7 @@ f_quote-2: >-
   "Business processes drive the creation and delivery of every organization’s
   products and services. More specifically, processes can be viewed as the way
   things get done."
-f_amazon-url: https://www.amazon.com/dp/1439243212/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1439243212/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

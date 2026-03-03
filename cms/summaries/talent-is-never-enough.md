@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:45.751Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780641d0bd5de4091e907_08-talent-is-never-enough-sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/talent-is-never-enough/
+  alt: Talent is Never Enough book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/talent-is-never-enough/'
 f_author-plain-text: John C. Maxwell
 f_author: cms/authors/john-c-maxwell.md
 f_category-3: cms/summary-categories/leadership.md
@@ -18,7 +18,7 @@ f_quote-reference: ''
 f_insight-2: ''
 f_insight-1: ''
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0785214038/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0785214038/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

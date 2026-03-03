@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:32.064Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804ab56c9adb0e29e386_perfectly-yourself-sm.jpeg
-  alt: null
+  alt: 'Perfectly Yourself: 9 Lessons for Enduring Happiness book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/perfectly-yourself-9-lessons-for-enduring-happiness/
 f_author-plain-text: Matthew Kelly
@@ -19,7 +19,7 @@ f_quote-reference: ''
 f_insight-2: ''
 f_insight-1: ''
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0345494520/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0345494520/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

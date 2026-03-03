@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:06.051Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808a39068c80d91723d5_fail-better-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/fail-better/
+  alt: Fail Better book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/fail-better/'
 f_author-plain-text: Anjali Sastry
 f_author: cms/authors/anjali-sastry.md
 f_category-3: cms/summary-categories/self-management.md
@@ -50,7 +50,7 @@ f_big-idea: >-
   self-reflection served me well, because if we are hoping to implement change
   and adapt in our professional life, we must be conscious of where we might
   also need to adapt in our personal life.
-f_quote-reference: \- Fail Better, page 283
+f_quote-reference: '\- Fail Better, page 283'
 f_insight-2: >-
   ### Stay adaptable
 
@@ -102,7 +102,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The right kind of failure instructs, refines, and improves ideas, work
   products, skills, capacities, and teamwork."
-f_amazon-url: https://www.amazon.com/dp/1422193446/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1422193446/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:07:00.017Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802e4df109592f03adc7_divine_compensation.jpeg
-  alt: null
+  alt: The Law of Divine Compensation book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-law-of-divine-compensation/
 f_author-plain-text: Marianne Williamson
@@ -37,7 +37,7 @@ f_big-idea: >-
   occurred had we believed in their improbability. As a consequence,
   **enlightenment is not a process we work toward; it’s a choice available to us
   in any instant.**
-f_quote-reference: \- Albert Einstein, quoted in The Law of Divine Compensation, page 1
+f_quote-reference: '\- Albert Einstein, quoted in The Law of Divine Compensation, page 1'
 f_insight-2: >-
   ### Distinguishing a Job from a Calling
 
@@ -116,7 +116,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The most important decision we make is whether we believe we live in a
   friendly or a hostile universe."
-f_amazon-url: https://www.amazon.com/dp/0062205412/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062205412/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

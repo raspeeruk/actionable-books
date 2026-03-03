@@ -1,11 +1,11 @@
 ---
 title: Tom Verducci
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Tom-Verducci/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Tom-Verducci/'
 f_unique-id: '621'
 slug: tom-verducci
 f_image:
   url: /assets/external/65d77a5f3cd3c607ecd0e817_tom-verducci-180x220.jpeg
-  alt: null
+  alt: Tom Verducci
 f_summaries:
   - cms/summaries/the-cubs-way.md
 updated-on: '2024-02-23T13:31:18.456Z'

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:51.522Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78093d1a6d45f96b03830_business_of_belief.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-business-of-belief/
+  alt: The Business of Belief book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-business-of-belief/'
 f_author-plain-text: Tom Asacker
 f_author: cms/authors/tom-asacker.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -34,7 +34,7 @@ f_big-idea: >-
   support our pre-existing beliefs. This behavior is evident in our cognitive
   dissonance (when we seek confirming evidence for existing beliefs), in our
   desires, and in the stories we tell ourselves.
-f_quote-reference: \- The Business of Belief, page 11
+f_quote-reference: '\- The Business of Belief, page 11'
 f_insight-2: >-
   ### Behave to Believe
 
@@ -98,7 +98,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Our personal beliefs define our choices, shape our lives and, collectively,
   determine our futures. Nothing is more important than belief."
-f_amazon-url: https://www.amazon.com/dp/1483922979/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1483922979/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

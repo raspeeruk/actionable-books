@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:49.315Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a952fced3f2a0b16b4_big-magic-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/big-magic/
+  alt: Big Magic book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/big-magic/'
 f_author-plain-text: Elizabeth Gilbert
 f_author: cms/authors/elizabeth-gilbert.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -53,7 +53,7 @@ f_big-idea: >-
 
 
   Think you’ve got hold of it? The next step is to persist, create and trust.
-f_quote-reference: \- Big Magic, page 259
+f_quote-reference: '\- Big Magic, page 259'
 f_insight-2: >-
   ### Don’t be a Martyr
 
@@ -114,7 +114,7 @@ f_conclusion: >-
 f_quote-2: >-
   "What do you love doing so much that the words failure and success essentially
   become irrelevant?"
-f_amazon-url: https://www.amazon.com/dp/1594634718/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1594634718/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

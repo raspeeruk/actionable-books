@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:07:02.098Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d41ee6bba16c527d49_selling-in-the-real-world.jpeg
-  alt: null
+  alt: The Mackay MBA of Selling in the Real World book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-mackay-mba-of-selling-in-the-real-world/
 f_author-plain-text: Harvey Mackay
@@ -119,7 +119,7 @@ f_insight-1: >-
   the rest of the day fighting the self-doubt and worries that might paralyze
   action. How are you developing and maintaining a positive attitude each day?
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/B005GSYYWQ/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B005GSYYWQ/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

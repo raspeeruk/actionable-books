@@ -1,18 +1,18 @@
 ---
 title: Ingrid Martine
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Ingrid-Martine/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Ingrid-Martine/'
 f_unique-id: '766'
 f_image:
   url: /assets/external/65d77a00b5b23a5b38f8fdac_ingrid-martine.jpeg
-  alt: null
+  alt: Ingrid Martine
 slug: ingrid-martine
 f_summaries:
   - cms/summaries/the-un-game.md
 updated-on: '2024-02-23T13:30:56.733Z'
 created-on: '2024-02-22T16:44:48.874Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/ingrid_martine/
-f_website-2: http://IngridMartine.com
+f_twitter-2: 'http://twitter.com/ingrid_martine/'
+f_website-2: 'http://IngridMartine.com'
 layout: '[authors].html'
 tags: authors
 ---

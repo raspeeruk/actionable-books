@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:00.836Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78080b4b3d748708ad115_leadership-habit-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-leadership-habit/
+  alt: The Leadership Habit book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-leadership-habit/'
 f_author-plain-text: Katie Fritchen
 f_author: cms/authors/katie-fritchen.md
 f_category-3: cms/summary-categories/leadership.md
@@ -61,7 +61,7 @@ f_big-idea: >-
   out specific examples of excellence. You can easily complete this action in
   five minutes per week—but the appreciation your team feels will create lasting
   results.
-f_quote-reference: \- The Leadership Habit, page xi
+f_quote-reference: '\- The Leadership Habit, page xi'
 f_insight-2: >-
   ### Leaders Model Good Behavior
 
@@ -150,7 +150,7 @@ f_quote-2: >-
   behaviors. Applying good ideas transforms behaviors to drive results. Subtle
   differences in the ways leaders act and respond, little differences in the
   ways they behave, can make a big difference in their results."
-f_amazon-url: https://www.amazon.com/dp/1119363209/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1119363209/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

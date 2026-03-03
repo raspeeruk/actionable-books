@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:12.563Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78091c182e2f2aa988e39_trust_edge.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-trust-edge/
+  alt: The Trust Edge book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-trust-edge/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/04/ActionableBooks-Audio-The-Trust-Edge.mp3
 f_author-plain-text: David Horsager
@@ -42,7 +42,7 @@ f_big-idea: >-
   everything takes and the more things cost. The higher the trust, the faster
   the innovation, the greater the creativity, freedom, morale and productivity!
   Trust can accelerate growth while mistrust destroys it.
-f_quote-reference: \- The Trust Edge, page 3
+f_quote-reference: '\- The Trust Edge, page 3'
 f_insight-2: >-
   ### Lots of Choices – Pick Just One!
 
@@ -163,7 +163,7 @@ f_conclusion: >-
   effort! You can begin by reading Horsager’s book. This review summarized just
   one pillar. There are 7 more…. Enjoy!
 f_quote-2: '"No matter what your role is, trust affects your influence and success."'
-f_amazon-url: https://www.amazon.com/dp/1476711372/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1476711372/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

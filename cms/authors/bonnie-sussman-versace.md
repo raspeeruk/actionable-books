@@ -1,18 +1,18 @@
 ---
 title: Bonnie Sussman Versace
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Bonnie-Sussman-Versace/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Bonnie-Sussman-Versace/'
 f_unique-id: '485'
 f_image:
   url: >-
     /assets/external/65d779c09dd4a722889e0306_bonnie-sussman-versace-180x220.jpeg
-  alt: null
+  alt: Bonnie Sussman Versace
 slug: bonnie-sussman-versace
 f_summaries:
   - cms/summaries/recipes-for-thoughtful-leadership-and-healthy-culture.md
 updated-on: '2024-02-23T13:30:59.144Z'
 created-on: '2024-02-22T16:43:44.409Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://focusedllc.net/
+f_website-2: 'http://focusedllc.net/'
 layout: '[authors].html'
 tags: authors
 ---

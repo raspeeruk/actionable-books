@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:03.463Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780520c32dc84c9a52c3e_myth-of-multitasking-sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-myth-of-multitasking/
+  alt: The Myth of Multitasking book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-myth-of-multitasking/'
 f_author-plain-text: Dave Crenshaw
 f_author: cms/authors/dave-crenshaw.md
 f_category-3: cms/summary-categories/self-management.md
@@ -120,7 +120,7 @@ f_insight-1: >-
   you’ve made the choice to minimize the active switches, all that remains is
   dealing with the passive switches.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0470372257/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470372257/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

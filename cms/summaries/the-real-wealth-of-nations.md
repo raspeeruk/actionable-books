@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:08.731Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78097c9a8372615bb296d_real-wealth-of-nations.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-real-wealth-of-nations/
+  alt: The Real Wealth of Nations book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-real-wealth-of-nations/'
 f_author-plain-text: Riane Tennenhaus Eisler
 f_author: cms/authors/riane-tennenhaus-eisler.md
 f_category-3: cms/summary-categories/leadership.md
@@ -53,7 +53,7 @@ f_big-idea: >-
   how many activities I do that don’t support them. I was particularly taken by
   examples of child rearing that aren’t as partnering as needed to raise
   children who’ll further Partnership.
-f_quote-reference: \- The Real Wealth of Nations, page 1
+f_quote-reference: '\- The Real Wealth of Nations, page 1'
 f_insight-2: >-
   ### Substitute a culture of caring for a culture of dominance
 
@@ -164,7 +164,7 @@ f_quote-2: >-
   "Why when we humans have such a great capacity for caring, consciousness and
   creativity, has our world seen so much cruelty, insensitivity and
   destructiveness?"
-f_amazon-url: https://www.amazon.com/dp/1576756297/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1576756297/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

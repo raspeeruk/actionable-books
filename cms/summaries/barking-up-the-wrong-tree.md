@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d78030e7814865e30fc01c_barking-up-the-wrong-tree-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/barking-up-the-wrong-tree/
+  alt: Barking Up the Wrong Tree book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/barking-up-the-wrong-tree/'
 f_author-plain-text: Eric Barker
 f_author: cms/authors/eric-barker.md
 f_category-3: cms/summary-categories/self-management.md
@@ -54,7 +54,7 @@ f_big-idea: >-
 
   The Insights below offer two ways for you to make the most of your time and
   achieve some semblance of work-life balance.
-f_quote-reference: \- Barking Up the Wrong Tree, page 3
+f_quote-reference: '\- Barking Up the Wrong Tree, page 3'
 f_insight-2: >-
   ### Ending Your Day On Time
 
@@ -119,7 +119,7 @@ f_quote-2: >-
   behind what separates the extremely successful from the rest of us, learn what
   we can do to be more like them, and find out in some cases why it’s good that
   we aren’t.
-f_amazon-url: https://www.amazon.com/dp/0062416049/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062416049/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

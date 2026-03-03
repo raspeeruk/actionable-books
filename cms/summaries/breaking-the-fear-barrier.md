@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:50.547Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780aabf6c5df855b66c0b_117891276-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/breaking-the-fear-barrier/
+  alt: Breaking the Fear Barrier book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/breaking-the-fear-barrier/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/02/ActionableBooks-Audio-Breaking-the-Fear-Barrier2.mp3
 f_author-plain-text: Tom Rieger
@@ -64,7 +64,7 @@ f_big-idea: >-
   guiding principles to the frontlines on how to operate, the values, and the
   long term decision making process is the way to topple the empires and get all
   departments working together and communicating.
-f_quote-reference: \- Breaking the Fear Barrier, back cover
+f_quote-reference: '\- Breaking the Fear Barrier, back cover'
 f_insight-2: >-
   ### Watch for Courageous Killers
 
@@ -125,7 +125,7 @@ f_conclusion: >-
 f_quote-2: >-
   "A company’s worst enemy is not always the competition. Sometimes it’s the
   fear that lives within its own walls."
-f_amazon-url: https://www.amazon.com/dp/1595620540/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1595620540/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

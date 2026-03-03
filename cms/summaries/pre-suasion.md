@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:34.553Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780940882405b4cf11597_pre-suasion-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/pre-suasion/
+  alt: Pre-Suasion book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/pre-suasion/'
 f_author-plain-text: Robert B. Cialdini
 f_author: cms/authors/robert-b-cialdini.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -43,7 +43,7 @@ f_big-idea: >-
 
   By focusing attention on ethics, an organization can elevate the perception of
   trust, and ultimately become more influential. Sounds like an ideal win/win!
-f_quote-reference: \- Pre-Suasion, page 4
+f_quote-reference: '\- Pre-Suasion, page 4'
 f_insight-2: >-
   ### When and Where—Important Considerations
 
@@ -204,7 +204,7 @@ f_quote-2: >-
   “The best persuaders become the best through pre-suasion – the process of
   arranging for recipients to be receptive to a message before they encounter
   it.”
-f_amazon-url: https://www.amazon.com/dp/1501109790/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1501109790/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

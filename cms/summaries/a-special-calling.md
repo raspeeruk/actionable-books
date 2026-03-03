@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:44.849Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78064e5c7d0393961ba4c_special_calling-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/a-special-calling/
+  alt: A Special Calling book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/a-special-calling/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/03/ActionableBooks-Audio-A-Special-Calling.mp3
 f_author-plain-text: Gordon Bell
@@ -35,7 +35,7 @@ f_big-idea: >-
   assistant dean into a powerful motivator; “I’ll show him if it’s the last
   thing I do!” His study habits improved and he received his medical degree in
   1943.
-f_quote-reference: \- A Special Calling, page 41
+f_quote-reference: '\- A Special Calling, page 41'
 f_insight-2: >-
   ### Learn from the students
 
@@ -98,7 +98,7 @@ f_conclusion: ''
 f_quote-2: >-
   "I knew with utter certainty that this was something I really had to do, and I
   would not budge."
-f_amazon-url: https://www.amazon.com/dp/0773722033/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0773722033/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

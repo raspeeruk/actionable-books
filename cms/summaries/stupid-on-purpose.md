@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:43.827Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780dab881391585a5c559_stupid-on-purpose-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/stupid-on-purpose/
+  alt: Stupid on Purpose book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/stupid-on-purpose/'
 f_author-plain-text: Mark Messick
 f_author: cms/authors/mark-messick.md
 f_category-3: cms/summary-categories/self-management.md
@@ -50,7 +50,7 @@ f_big-idea: >-
   things like quitting a relationship or job. Maybe it’s turning off your
   Blackberry on a Friday night during dinner and drinks. There’s nothing stupid
   about that. Unless you’re on call.
-f_quote-reference: \- Stupid on Purpose, loc 314
+f_quote-reference: '\- Stupid on Purpose, loc 314'
 f_insight-2: >-
   ### The System preserves itself by perpetuating 13 lies
 
@@ -148,7 +148,7 @@ f_quote-2: >-
   "Do you seriously want to spend the rest of your life coming home from a job
   you hate? Do you want to put off your hopes and dreams and passions to pursue
   a ‘normal life’?"
-f_amazon-url: https://www.amazon.com/dp/B0164O2QRK/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B0164O2QRK/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

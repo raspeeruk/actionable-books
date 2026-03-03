@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:16.944Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d0f232c4ec75c04177_influenced-redefined-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/influence-redefined/
+  alt: Influence Redefined book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/influence-redefined/'
 f_author-plain-text: Stacy Hanke
 f_author: cms/authors/stacy-hanke.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -63,7 +63,7 @@ f_big-idea: >-
 
   Note to self: In future, make sure I re-check texts before sending
   them—auto-correct is not always my friend!
-f_quote-reference: \- Influence Redefined, page 3
+f_quote-reference: '\- Influence Redefined, page 3'
 f_insight-2: >-
   ### The video never lies
 
@@ -120,7 +120,7 @@ f_conclusion: >-
   practice, together with an unwavering focus on your audience’s experience,
   will take you a long way.
 f_quote-2: '"Most people aren''t as influential as they think they are."'
-f_amazon-url: https://www.amazon.com/dp/B01N9OWI2J/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B01N9OWI2J/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:24.626Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780ae1a3802ce7ed1f40f_workquake.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/workquake/
+  alt: WorkQuake book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/workquake/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/04/ActionableBooks-Audio-WorkQuake.mp3
 f_author-plain-text: Paul Glover
@@ -102,7 +102,7 @@ f_conclusion: >-
   will find applicable lessons within _WorkQuake_. Glover’s writing style –
   short, to the point, and often humourous – allows him to say things that many
   other management books don’t have the guts to say.
-f_amazon-url: https://www.amazon.com/dp/1610660226/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1610660226/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

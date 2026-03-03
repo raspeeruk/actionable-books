@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:41.589Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d28f9ca28be98af12b_snap-selling.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/snap-selling/
+  alt: SNAP Selling book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/snap-selling/'
 f_author-plain-text: Jill Konrath
 f_author: cms/authors/jill-konrath.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -61,7 +61,7 @@ f_big-idea: >-
   relevant or irrelevant. (The challenge is exasperated when it is a prospect.)
   But the framework is a valuable start in understanding how to sell to your
   customers and stay relevant in their world.
-f_quote-reference: \- SNAP Selling, page 4
+f_quote-reference: '\- SNAP Selling, page 4'
 f_insight-2: >-
   ### The 3 Decisions
 
@@ -146,7 +146,7 @@ f_conclusion: >-
 f_quote-2: >-
   "In this book you’ll get an inside look at how your prospects actually make
   decisions – or don’t – in today’s crazy-busy organizations."
-f_amazon-url: https://www.amazon.com/dp/B003NX7NLU/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B003NX7NLU/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

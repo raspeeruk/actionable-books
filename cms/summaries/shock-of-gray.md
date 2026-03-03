@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:39.826Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780861de9c6d7938eb335_shock_of_gray-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/shock-of-gray/
+  alt: Shock of Gray book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/shock-of-gray/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/03/ActionableBokos-Audio-Shock-of-Gray.mp3
 f_author-plain-text: Ted C. Fishman
@@ -40,7 +40,7 @@ f_big-idea: >-
   an aging population on Tokyo’s version of Disneyland, has begun to host flower
   shows and a circus in order to attract its older citizens. The changes are
   inevitable, opening the doors to many opportunities for us younger generation.
-f_quote-reference: \- Shock of Gray, page 13
+f_quote-reference: '\- Shock of Gray, page 13'
 f_insight-2: >-
   ### Future Joe
 
@@ -100,7 +100,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Today’s 7 billion people will enjoy more than 250 billion extra years of life
   on earth over what would have transpired had we been born a century ago."
-f_amazon-url: https://www.amazon.com/dp/1416551026/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1416551026/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

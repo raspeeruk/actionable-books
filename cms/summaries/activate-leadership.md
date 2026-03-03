@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:45.381Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780739b92e746e868716d_activate-leadership-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/activate-leadership/
+  alt: Activate Leadership book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/activate-leadership/'
 f_author-plain-text: Jon Mertz
 f_author: cms/authors/jon-mertz.md
 f_category-3: cms/summary-categories/leadership.md
@@ -46,7 +46,7 @@ f_big-idea: >-
   we must first fully understand and be able to lead ourselves. Therefore,
   examining and being clear on our own points of view is a critical first step
   to leadership success.
-f_quote-reference: \- Activate Leadership, page 1
+f_quote-reference: '\- Activate Leadership, page 1'
 f_insight-2: >-
   ### Convert to Achieve Results
 
@@ -131,7 +131,7 @@ f_conclusion: >-
   _Activate Leadership_, the resources are there for Millennials to succeed. So
   Millennials, your time is now, are you ready?!
 f_quote-2: '"To the next generation of leaders who lead on purpose."'
-f_amazon-url: https://www.amazon.com/dp/0990539113/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0990539113/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

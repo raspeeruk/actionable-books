@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:16.761Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808f13d1e7c4be6e96a6_top_dog.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/top-dog/
+  alt: Top Dog book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/top-dog/'
 f_author-plain-text: Ashley Merryman
 f_author: cms/authors/ashley-merryman.md
 f_category-3: cms/summary-categories/self-management.md
@@ -31,7 +31,7 @@ f_big-idea: >-
   enhances it**. Taking the view of the Ancient Greeks, the authors argue that
   **attaining excellence through competition is a supreme virtue**, that
   competition challenges you to become the best you can be.
-f_quote-reference: \- Top Dog, page 9
+f_quote-reference: '\- Top Dog, page 9'
 f_insight-2: >-
   ### Creating a Competitive Workplace
 
@@ -95,7 +95,7 @@ f_conclusion: >-
 f_quote-2: >-
   "To be successful, you have to be able to perform when it counts. You have to
   be able to handle the pressure. You need to not wilt in the competition."
-f_amazon-url: https://www.amazon.com/dp/1455515159/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1455515159/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

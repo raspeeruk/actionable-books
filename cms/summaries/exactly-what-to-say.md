@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:05.362Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805f126c8e2a4b9183a2_exactly-what-to-say-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/exactly-what-to-say/
+  alt: Exactly What To Say book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/exactly-what-to-say/'
 f_author-plain-text: Phil Jones
 f_author: cms/authors/phil-jones.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -49,7 +49,7 @@ f_big-idea: >-
   How would you feel if \[paint a picture of success\]?  
 
   When would be a good time \[to speak next, get started, etc.\]?
-f_quote-reference: \- Exactly What to Say, page 3
+f_quote-reference: '\- Exactly What to Say, page 3'
 f_insight-2: >-
   ### Keep It Simple
 
@@ -130,7 +130,7 @@ f_quote-2: >-
   “Using words that talk straight to the part of the brain that is free from
   maybes and responds on reflex gives you a fair advantage in conversation and
   can result in you getting your own way more often.”
-f_amazon-url: https://www.amazon.com/dp/0692881956/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0692881956/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

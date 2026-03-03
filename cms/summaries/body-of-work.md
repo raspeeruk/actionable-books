@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:49.587Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a279d65a84c50a7e94_body-of-work.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/body-of-work/
+  alt: Body of Work book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/body-of-work/'
 f_author-plain-text: Pamela Slim
 f_author: cms/authors/pamela-slim.md
 f_category-3: cms/summary-categories/self-management.md
@@ -46,7 +46,7 @@ f_big-idea: >-
 
   By using the Persuasive Story Pattern, your passions and experience create a
   powerful motivation to your audience.
-f_quote-reference: \- Body of Work, page 7
+f_quote-reference: '\- Body of Work, page 7'
 f_insight-2: >-
   ### Your Definition of Success
 
@@ -129,7 +129,7 @@ f_quote-2: >-
   “Your body of work is everything you create, contribute, affect, and impact…
   Individuals who structure their careers around autonomy, mastery, and purpose
   will have a powerful body of work.”
-f_amazon-url: https://www.amazon.com/dp/1591846196/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591846196/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

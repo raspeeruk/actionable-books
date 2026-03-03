@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780da6fb09c7aedcd8d03_sales-management-simplified-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/sales-management-simplified/
+  alt: Sales Management. Simplified. book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/sales-management-simplified/'
 f_author-plain-text: Mike Weinberg
 f_author: cms/authors/mike-weinberg.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -65,7 +65,7 @@ f_big-idea: >-
   Culture is the most important piece of the sales puzzle. It enables you to
   drive results in a way that few other organizations will be able to contend
   with, ultimately giving you a palpable competitive edge!
-f_quote-reference: \- Sales Management. Simplified., page 4
+f_quote-reference: '\- Sales Management. Simplified., page 4'
 f_insight-2: >-
   ### Productive sales meetings align, equip, and energize the team
 
@@ -171,7 +171,7 @@ f_conclusion: >-
 f_quote-2: >-
   "You now understand that the frontline sales management role is one of the
   absolute toughest jobs on the planet."
-f_amazon-url: https://www.amazon.com/dp/B01019D3QC/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B01019D3QC/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

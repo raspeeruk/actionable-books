@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:02.891Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803ffeb4fd439cd722a2_driven-cover-sm-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/driven/
+  alt: Driven book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/driven/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/01/ActionableBooks-Audio-Driven.mp3
 f_author-plain-text: Robert Herjavec
@@ -94,7 +94,7 @@ f_insight-1: >-
   world without making some kind of sacrifice. Anyone who is driven to succeed
   recognizes this fact._”
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/155468708X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/155468708X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

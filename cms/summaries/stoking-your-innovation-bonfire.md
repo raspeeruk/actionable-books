@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:43.365Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78054b56c9adb0e29e715_77247055-94x144.jpeg
-  alt: null
+  alt: Stoking Your Innovation Bonfire book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/stoking-your-innovation-bonfire/
 f_podcast-url: >-
@@ -46,7 +46,7 @@ f_big-idea: >-
   An innovation vision is fluid and always changing, depending upon the
   marketplace’s needs at any given time. That said, there are a few places we
   can start in creating our own.
-f_quote-reference: \- Stoking Your Innovation Bonfire, page 1
+f_quote-reference: '\- Stoking Your Innovation Bonfire, page 1'
 f_insight-2: >-
   ### Accessing the Voice of the Customer
 
@@ -142,7 +142,7 @@ f_quote-2: >-
   inefficiencies they maintained during their start-up phase, and
   unintentionally erect barriers to innovation as they become ever more
   efficient and profitable."
-f_amazon-url: https://www.amazon.com/dp/0470621672/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470621672/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

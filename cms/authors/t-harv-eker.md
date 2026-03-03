@@ -1,18 +1,18 @@
 ---
 title: T. Harv Eker
-f_original-url: https://www.actionablebooks.com/en-ca/authors/T.-Harv-Eker/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/T.-Harv-Eker/'
 f_unique-id: '509'
 f_image:
   url: /assets/external/65d77a586a95d95c754463e5_t-harv-eker-180x220.jpeg
-  alt: null
+  alt: T. Harv Eker
 slug: t-harv-eker
 f_summaries:
   - cms/summaries/secrets-of-the-millionaire-mind.md
 updated-on: '2024-02-23T13:31:30.961Z'
 created-on: '2024-02-22T16:46:16.561Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://www.facebook.com/HarvEker
-f_twitter-2: http://twitter.com/T_Harv_Eker/
+f_facebook-2: 'http://www.facebook.com/HarvEker'
+f_twitter-2: 'http://twitter.com/T_Harv_Eker/'
 layout: '[authors].html'
 tags: authors
 ---

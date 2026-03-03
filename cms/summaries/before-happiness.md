@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:48.612Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c3813424c8d3a61322_before-happiness.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/before-happiness/
+  alt: Before Happiness book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/before-happiness/'
 f_author-plain-text: Shawn Achor
 f_author: cms/authors/shawn-achor.md
 f_category-3: cms/summary-categories/self-management.md
@@ -33,7 +33,7 @@ f_big-idea: >-
   choices to notice and to make the changes that move them in the right
   direction are indeed creating happier ways. It’s about seeing what is
   possible, and knowing that happiness can be in your reality.
-f_quote-reference: \- Before Happiness, page 231
+f_quote-reference: '\- Before Happiness, page 231'
 f_insight-2: >-
   ### Positive Inception
 
@@ -115,7 +115,7 @@ f_quote-2: >-
   truly inspired. … Let your new reality seep into your subconscious. Once you
   do you’ll find yourself capable of the kind of inspiration necessary for true
   greatness."
-f_amazon-url: https://www.amazon.com/dp/B00BVJG2P6/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00BVJG2P6/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

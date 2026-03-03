@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:05:56.287Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78042fde0fad249b0bb32_creatve-strategy.jpeg
-  alt: null
+  alt: 'Creative Strategy: A Guide for Innovation book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/creative-strategy-a-guide-for-innovation/
 f_podcast-url: >-
@@ -53,7 +53,7 @@ f_big-idea: >-
   methods of strategy and the methods of creativity have a connection and there
   is no need for conducting two separate sessions. Creative strategy offers a
   formal method that **mirrors the way the brain works**.
-f_quote-reference: \- Creative Strategy, page 5
+f_quote-reference: '\- Creative Strategy, page 5'
 f_insight-2: >-
   ### Slaughtering sacred cows
 
@@ -150,7 +150,7 @@ f_quote-2: >-
   "But for every goal you set, every initiative you design, there might be a
   better one just beyond your grasp – an innovation you don’t yet see. Creative
   strategy helps you see it."
-f_amazon-url: https://www.amazon.com/dp/0231160526/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0231160526/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

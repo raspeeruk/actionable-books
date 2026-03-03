@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:40.412Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b56dbd28b39d946666_shareology-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/shareology/
+  alt: Shareology book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/shareology/'
 f_author-plain-text: Bryan J Kramer
 f_author: cms/authors/bryan-j-kramer.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -35,7 +35,7 @@ f_big-idea: >-
   Kramer also talks about letting people see “behind the curtain” to see the
   real people behind the brand. I’m really excited to roll out a social sharing
   strategy that highlights both clients and agents to make the brand more human.
-f_quote-reference: \- Shareology, page 5
+f_quote-reference: '\- Shareology, page 5'
 f_insight-2: >-
   ### It’s all about context
 
@@ -110,7 +110,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Humans have been sharing resources and knowledge since they first banded
   together in prehistoric times, even before there was language."
-f_amazon-url: https://www.amazon.com/dp/1630473847/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1630473847/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

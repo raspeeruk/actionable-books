@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:45.998Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78062ab601995e06fb845_team-of-rivals.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/team-of-rivals/
+  alt: Team of Rivals book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/team-of-rivals/'
 f_author-plain-text: Doris Kearns Goodwin
 f_author: cms/authors/doris-kearns-goodwin.md
 f_category-3: cms/summary-categories/leadership.md
@@ -53,7 +53,7 @@ f_big-idea: >-
   reading fiction – you can give yourself an emotional anchor to hold onto that
   allows you to stay on course even in the midst of the incredibly stressful
   pressures.
-f_quote-reference: \- Frederick Douglass on Abraham Lincoln, Team of Rivals, page 15
+f_quote-reference: '\- Frederick Douglass on Abraham Lincoln, Team of Rivals, page 15'
 f_insight-2: >-
   ### Always remember how to be entertaining
 
@@ -156,7 +156,7 @@ f_quote-2: >-
   has been fully occupied... The whole field of fact and fancy has been gleaned
   and garnered. Any man can say things that are true of Abraham Lincoln, but no
   man can say anything that is new of Abraham Lincoln."
-f_amazon-url: https://www.amazon.com/dp/0743270754/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0743270754/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

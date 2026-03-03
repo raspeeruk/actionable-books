@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:48.936Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804b4563120af428d7e2_art_of_innovation-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-art-of-innovation/
+  alt: The Art of Innovation book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-art-of-innovation/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/09/ActionableBooks-Audio-The-Art-of-Innovation.mp3
 f_author-plain-text: Tom Kelley
@@ -66,7 +66,7 @@ f_big-idea: >-
   they’re probably not food critics. In business, too, your customers may lack
   the vocabulary or the palate to explain what’s wrong, and especially what’s
   missing. Companies shouldn’t ask them to.”
-f_quote-reference: \- The Art of Innovation, page 3
+f_quote-reference: '\- The Art of Innovation, page 3'
 f_insight-2: >-
   ### Find The Rule Breakers & See Products In Motion
 
@@ -179,7 +179,7 @@ f_conclusion: >-
   position, often the best way to get better at innovating (like many things in
   life) is to _practice, practice, practice!_
 f_quote-2: '"You’ve got to out-innovate the innovators."'
-f_amazon-url: https://www.amazon.com/dp/0385499841/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0385499841/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:15.202Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806066cf927e76ac9c54_hunch-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/hunch/
+  alt: Hunch book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/hunch/'
 f_author-plain-text: Bernadette Jiwa
 f_author: cms/authors/bernadette-jiwa.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -70,7 +70,7 @@ f_big-idea: >-
 
   4.  **_Verification: try and test._** _Execute your idea and test to see if it
   works._
-f_quote-reference: \- Hunch, page 13
+f_quote-reference: '\- Hunch, page 13'
 f_insight-2: >-
   ### Ideas vs. Opportunities
 
@@ -153,7 +153,7 @@ f_quote-2: >-
   "[‘Hunch’ tells the story of] those successful entrepreneurs, creatives and
   innovators—people just like you—who have harnessed their curiosity, empathy
   and imagination, seeking out opportunities to invent, create and serve."
-f_amazon-url: https://www.amazon.com/dp/0735214115/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0735214115/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

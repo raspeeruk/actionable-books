@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:15.728Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c10fab8426e449811c_ive-got-your-back-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/ive-got-your-back/
+  alt: I’ve Got Your Back book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/ive-got-your-back/'
 f_author-plain-text: James C. Galvin
 f_author: cms/authors/james-c-galvin.md
 f_category-3: cms/summary-categories/leadership.md
@@ -53,7 +53,7 @@ f_big-idea: >-
   forward and put the work in that it takes to do the perfect dance for the good
   of the whole. My ultimate leader, God, has called me to lead in some
   situations. Therefore I must obey.
-f_quote-reference: \- I’ve Got Your Back, page 1
+f_quote-reference: '\- I’ve Got Your Back, page 1'
 f_insight-2: >-
   ### Why care about being a good follower?
 
@@ -133,7 +133,7 @@ f_conclusion: >-
   to it making us be a better leader, we will be in a follower role everyday in
   some part of our lives for the rest of our lives.
 f_quote-2: '"Leadership is really a particular form of followership."'
-f_amazon-url: https://www.amazon.com/dp/B00A2ULAFM/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00A2ULAFM/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

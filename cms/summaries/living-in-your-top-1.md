@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:22.503Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d35b9718b4ab351e4ce049_98267068.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/living-in-your-top-1/
+  alt: Living In Your Top 1% book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/living-in-your-top-1/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/07/ActionableBooks-Audio-Living-in-Your-Top-1-Percent.mp3
 f_author-plain-text: Alissa Finerman
@@ -52,7 +52,7 @@ f_big-idea: >-
   The following two Insights will help you stay on track with your goals, and
   ensure that they don’t end up like those resolutions you might have made at
   the beginning of the year.
-f_quote-reference: \- Living In Your Top 1%, page 7-8
+f_quote-reference: '\- Living In Your Top 1%, page 7-8'
 f_insight-2: >-
   ### Harmonious Goals
 
@@ -128,7 +128,7 @@ f_quote-2: >-
   "After a while, it’s natural to think that in order to be the best you have to
   be better than others. Many people define success by being in the top 1%, when
   in reality it’s about living in your top 1%."
-f_amazon-url: https://www.amazon.com/dp/1453619232/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1453619232/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

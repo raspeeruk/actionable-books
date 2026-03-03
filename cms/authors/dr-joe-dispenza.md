@@ -1,18 +1,18 @@
 ---
 title: Dr. Joe Dispenza
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Dr.-Joe-Dispenza/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Dr.-Joe-Dispenza/'
 f_unique-id: '861'
 f_image:
   url: /assets/external/65d779ed0a647598b7a98bba_joe-dispenza-180x220.jpeg
-  alt: null
+  alt: Dr. Joe Dispenza
 f_summaries:
   - cms/summaries/you-are-the-placebo.md
 slug: dr-joe-dispenza
 updated-on: '2024-02-23T13:30:36.617Z'
 created-on: '2024-02-22T16:44:29.896Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/drjoedispenza/
-f_website-2: http://www.drjoedispenza.com/
+f_twitter-2: 'http://twitter.com/drjoedispenza/'
+f_website-2: 'http://www.drjoedispenza.com/'
 layout: '[authors].html'
 tags: authors
 ---

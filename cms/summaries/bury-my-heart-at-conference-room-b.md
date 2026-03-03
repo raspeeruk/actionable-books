@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:05:52.064Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809bcc81e56affcd194c_bury-my-heart-94x144.jpeg
-  alt: null
+  alt: Bury My Heart at Conference Room B book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/bury-my-heart-at-conference-room-b/
 f_author-plain-text: Stan Slap
@@ -42,7 +42,7 @@ f_big-idea: >-
   to live and work based on their own values and believe the world would be
   better off following these values too. So they work hard to inspire others to
   support them and their values so that they can live the life they want.
-f_quote-reference: \- Bury My Heart at Conference Room B, page 13
+f_quote-reference: '\- Bury My Heart at Conference Room B, page 13'
 f_insight-2: >-
   ### Cherish and Protect Their Trust
 
@@ -108,7 +108,7 @@ f_quote-2: >-
   especially under pressure. This is what it means to live your values. Achieve
   all of this at work and both you and your company will be a whole lot richer
   for it."
-f_amazon-url: https://www.amazon.com/dp/1591843243/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591843243/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

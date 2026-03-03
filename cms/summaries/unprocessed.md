@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:19.317Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78030b881391585a5693e_unprocessed-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/unprocessed/
+  alt: Unprocessed book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/unprocessed/'
 f_author-plain-text: Megan Kimble
 f_author: cms/authors/megan-kimble.md
 f_category-3: cms/summary-categories/self-management.md
@@ -48,7 +48,7 @@ f_big-idea: >-
   Get your intern to research a social media platform to see if it’s viable. You
   don’t have to be perfect every time. But if you make the best decision you can
   most of the time, you’re on the right track.
-f_quote-reference: \- Unprocessed, page 112
+f_quote-reference: '\- Unprocessed, page 112'
 f_insight-2: >-
   ### Fail, learn and try again
 
@@ -112,7 +112,7 @@ f_conclusion: >-
 f_quote-2: >-
   "We fret about what to select from overabundant produce sections. Busy, broke,
   and overtaxed by decisions, we want a label to tell us."
-f_amazon-url: https://www.amazon.com/dp/0062382462/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062382462/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

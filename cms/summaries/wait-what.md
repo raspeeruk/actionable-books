@@ -1,14 +1,14 @@
 ---
 f_unique-number: 1079
-title: Wait, What?
+title: 'Wait, What?'
 slug: wait-what
 updated-on: '2024-02-27T20:30:13.332Z'
 created-on: '2024-02-22T16:07:20.363Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78032e88f5f3f6bcbb680_wait-what-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/wait-what/
+  alt: 'Wait, What? book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/wait-what/'
 f_author-plain-text: James E. Ryan
 f_author: cms/authors/james-e-ryan.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -53,7 +53,7 @@ f_big-idea: >-
   While we don’t have the space to delve into each of the questions
   individually, the remainder of the summary will go into a deep dive on two of
   them: _“Wait, what?”_ and _“What truly matters?”_
-f_quote-reference: \- Wait, What?, page 12
+f_quote-reference: '\- Wait, What?, page 12'
 f_insight-2: >-
   ### What Truly Matters?
 
@@ -131,7 +131,7 @@ f_quote-2: >-
   "...questions are just as important as answers, often more so. The simple
   truth is that an answer can only be as good as the question asked. If you ask
   the wrong question, you are going to get the wrong answer."
-f_amazon-url: https://www.amazon.com/dp/0062664573/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062664573/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

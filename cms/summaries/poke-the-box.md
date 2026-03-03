@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:33.804Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780bcf40a70780ee9f2db_poke_the_box-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/poke-the-box/
+  alt: Poke the Box book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/poke-the-box/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/04/ActionableBooks-Audio-Poke-the-Box.mp3
 f_author-plain-text: Seth Godin
@@ -116,7 +116,7 @@ f_insight-1: >-
 
   You haven’t started shipping. Only talking and thinking, but not shipping.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1936719002/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1936719002/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

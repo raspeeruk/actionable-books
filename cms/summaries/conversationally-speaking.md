@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780c14ec1d7cd9b577fd7_conversationally-speaking-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/conversationally-speaking/
+  alt: Conversationally Speaking book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/conversationally-speaking/'
 f_author-plain-text: Alan Garner
 f_author: cms/authors/alan-garner.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -43,7 +43,7 @@ f_big-idea: >-
   from two parties. The quicker you arrive at a topic you both enjoy, the easier
   it is to continue conversation. This dual perspective mindset initially
   benefits others and will normally reciprocate benefit to you.
-f_quote-reference: \- Conversationally Speaking, page 2
+f_quote-reference: '\- Conversationally Speaking, page 2'
 f_insight-2: >-
   ### Ask Questions
 
@@ -121,6 +121,7 @@ f_quote-2: >-
   and nontechnical manner."
 layout: '[summaries].html'
 tags: summaries
+f_amazon-url: 'https://www.amazon.com/dp/9781565656/?tag=actionableb08-20'
 ---
 
 > "I developed the Conversationally Speaking workshop and have written this book to fill in this gap and teach these skills in an interesting, straightforward, and nontechnical manner." _\- Conversationally Speaking, page 2_

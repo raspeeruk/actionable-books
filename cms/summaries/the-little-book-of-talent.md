@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:01.675Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78024f40a70780ee99bea_little_book_of_talent.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-little-book-of-talent/
+  alt: The Little Book of Talent book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-little-book-of-talent/'
 f_author-plain-text: Daniel Coyle
 f_author: cms/authors/daniel-coyle.md
 f_category-3: cms/summary-categories/self-management.md
@@ -35,7 +35,7 @@ f_big-idea: >-
   with others as part of a group, but only you can do the work. As my trainer
   friend says, “You’ve got this.” Let’s talk more about how to focus your
   practice and develop your talent.
-f_quote-reference: \- Aristotle, quoted in The Little Book of Talent, page ix
+f_quote-reference: '\- Aristotle, quoted in The Little Book of Talent, page ix'
 f_insight-2: >-
   ### Time, Grit And Perseverance Are Key
 
@@ -92,7 +92,7 @@ f_conclusion: >-
   ability to reach your talent’s fullest potential, and embracing your practice
   with effort and dedication will get you there.
 f_quote-2: '"We are what we repeatedly do. Excellence, then, is not an act, but a habit."'
-f_amazon-url: https://www.amazon.com/dp/034553025X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/034553025X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

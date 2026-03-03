@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:16.815Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780430271589378cb94b7_120603514-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/incognito/
+  alt: Incognito book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/incognito/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/03/ActionableBooks-Audio-Incognito.mp3
 f_author-plain-text: David Eagleman
@@ -43,7 +43,7 @@ f_big-idea: >-
   “right-brain” thinkers or “left-brain” thinkers, and any damage our brains
   have experienced as a result of trauma or insufficient chemical composition,
   we all behave differently in various situations.
-f_quote-reference: \- Incognito, page 224
+f_quote-reference: '\- Incognito, page 224'
 f_insight-2: >-
   ### Unequal Before the Law
 
@@ -132,7 +132,7 @@ f_conclusion: >-
 f_quote-2: >-
   "If our brains were simple enough to be understood, we wouldn’t be smart
   enough to understand them."
-f_amazon-url: https://www.amazon.com/dp/0307377334/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0307377334/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

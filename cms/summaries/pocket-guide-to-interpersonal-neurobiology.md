@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d78025e5c7d03939619ab1_pocket-guide-to-interpersonal-neurobiology-94x144.jpeg
-  alt: null
+  alt: Pocket Guide to Interpersonal Neurobiology book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/pocket-guide-to-interpersonal-neurobiology/
 f_author-plain-text: Daniel J. Siegel
@@ -52,7 +52,7 @@ f_big-idea: >-
   about our brains can help us enormously. Dr. Siegel is an advocate for
   educating people about how their brains work—in schools and in all settings
   where people live and work together.
-f_quote-reference: \- Pocket Guide to Interpersonal Neurobiology, front matter
+f_quote-reference: '\- Pocket Guide to Interpersonal Neurobiology, front matter'
 f_insight-2: >-
   ### The Power of Neuroplasticity
 
@@ -126,7 +126,7 @@ f_quote-2: >-
   "…you can dive in anywhere and go anywhere and the sphere of knowledge will be
   created by your own exploration of this material… In this way, the process of
   reading this book mirrors the book’s content regarding the mind itself."
-f_amazon-url: https://www.amazon.com/dp/039370713X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/039370713X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

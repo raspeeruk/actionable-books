@@ -1,11 +1,11 @@
 ---
 title: Michael Lombardi
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Michael-Lombardi/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Michael-Lombardi/'
 f_unique-id: '569'
 slug: michael-lombardi
 f_image:
   url: /assets/external/65d77a309c49c73f4147d156_michael-lombardi-180x220.jpeg
-  alt: null
+  alt: Michael Lombardi
 f_summaries:
   - cms/summaries/the-5-am-club.md
 updated-on: '2024-02-23T13:31:17.299Z'

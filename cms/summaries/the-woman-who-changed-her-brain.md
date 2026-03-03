@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:07:14.713Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d35b99dfa708397763b539_159178514.jpeg
-  alt: null
+  alt: The Woman Who Changed Her Brain book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-woman-who-changed-her-brain/
 f_author-plain-text: Barbara Arrowsmith Young
@@ -41,7 +41,7 @@ f_big-idea: >-
   that “it is possible for students to strengthen the weak cognitive capacities
   underlying their learning dysfunctions through a program of specific cognitive
   exercises.”
-f_quote-reference: \- The Woman Who Changed Her Brain, page 8
+f_quote-reference: '\- The Woman Who Changed Her Brain, page 8'
 f_insight-2: >-
   ### We're Not Good at Recognizing Cognitive Deficits in Others
 
@@ -174,7 +174,7 @@ f_conclusion: >-
   recognized overwhelming parallels to two in my life who I’ve assumed just
   wasn’t listening, trying, caring.
 f_quote-2: '"[J]ust as our brains shape us, we can shape our brains."'
-f_amazon-url: https://www.amazon.com/dp/1451607938/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1451607938/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

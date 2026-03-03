@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:16.088Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806a6c1a1ebc9b54a498_time-power-sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/time-power/
+  alt: Time Power book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/time-power/'
 f_author-plain-text: Brian Tracy
 f_author: cms/authors/brian-tracy.md
 f_category-3: cms/summary-categories/self-management.md
@@ -117,7 +117,7 @@ f_insight-1: >-
 
   *   Focus on the important. Life’s too short to spend it wading through muck.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0814474705/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0814474705/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

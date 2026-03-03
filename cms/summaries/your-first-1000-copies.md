@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:25.850Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805a9b76cdf5e3a263b3_1000-copies.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/your-first-1000-copies/
+  alt: Your First 1000 Copies book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/your-first-1000-copies/'
 f_author-plain-text: Tim Grahl
 f_author: cms/authors/tim-grahl.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -39,7 +39,7 @@ f_big-idea: >-
   prompting than a simple email from you asking them to please buy. All the
   traditional, expensive and risky marketing is replaced with you forming long
   lasting, mutually beneficial relationships with your readers.
-f_quote-reference: \- Your First 1000 Copies, page 1
+f_quote-reference: '\- Your First 1000 Copies, page 1'
 f_insight-2: >-
   ### Ask for a sale
 
@@ -188,7 +188,7 @@ f_conclusion: ''
 f_quote-2: >-
   "How would you feel knowing that every time you started a new book project,
   you already had people excited to buy it and ready to recommend it to others?"
-f_amazon-url: https://www.amazon.com/dp/0615796796/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0615796796/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

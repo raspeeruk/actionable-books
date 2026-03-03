@@ -1,14 +1,14 @@
 ---
 f_unique-number: 1034
-title: Thinking, Fast and Slow
+title: 'Thinking, Fast and Slow'
 slug: thinking-fast-and-slow
 updated-on: '2024-02-27T20:30:34.133Z'
 created-on: '2024-02-22T16:07:15.527Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d35b98df111dd590ce6a7d_112381403.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/thinking-fast-and-slow/
+  alt: 'Thinking, Fast and Slow book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/thinking-fast-and-slow/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/06/ActionableBooks-Audio-Thinking-Fast-and-Slow.mp3
 f_author-plain-text: Daniel Kahneman
@@ -96,7 +96,7 @@ f_big-idea: >-
 
   The insights in _Thinking, Fast and Slow_ are certainly worth the time and
   effort it takes to read, and go far beyond the two Gems I detail below.
-f_quote-reference: \- Thinking Fast and Slow, page 270
+f_quote-reference: '\- Thinking Fast and Slow, page 270'
 f_insight-2: >-
   ### Ease of Recall Trumps Reality
 
@@ -163,7 +163,7 @@ f_conclusion: >-
   I’ll close with selected quotes which gave me that goose bumps “write that
   down now” feeling:
 f_quote-2: '"Every significant choice we make in life carries with it some uncertainty."'
-f_amazon-url: https://www.amazon.com/dp/0374275637/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0374275637/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

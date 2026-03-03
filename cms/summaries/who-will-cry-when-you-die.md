@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:22.415Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c0b4b3d748708ae92c_who-will-cry-when-you-die.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/who-will-cry-when-you-die/
+  alt: Who Will Cry When You Die? book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/who-will-cry-when-you-die/'
 f_author-plain-text: Robin Sharma
 f_author: cms/authors/robin-sharma.md
 f_category-3: cms/summary-categories/leadership.md
@@ -77,7 +77,7 @@ f_insight-1: >-
 
   _“The person that tries to do everything ultimately achieves nothing.”_
 f_conclusion: _“Too many of us die at twenty and are buried at eighty.”_
-f_amazon-url: https://www.amazon.com/dp/8179922324/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/8179922324/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

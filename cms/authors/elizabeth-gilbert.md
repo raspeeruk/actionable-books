@@ -1,18 +1,18 @@
 ---
 title: Elizabeth Gilbert
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Elizabeth-Gilbert/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Elizabeth-Gilbert/'
 f_unique-id: '88'
 f_image:
   url: /assets/external/65d779f03ae99fc35f4c0609_elizabeth-gilbert-180x220.jpeg
-  alt: null
+  alt: Elizabeth Gilbert
 slug: elizabeth-gilbert
 f_summaries:
   - cms/summaries/big-magic.md
 updated-on: '2024-02-23T13:31:00.263Z'
 created-on: '2024-02-22T16:44:32.882Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/GilbertLiz/
-f_website-2: http://ElizabethGilbert.com
+f_twitter-2: 'http://twitter.com/GilbertLiz/'
+f_website-2: 'http://ElizabethGilbert.com'
 layout: '[authors].html'
 tags: authors
 ---

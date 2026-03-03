@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d78031493e1ac825f525d8_subtle-art-of-not-giving-a-fck-94x144.jpeg
-  alt: null
+  alt: The Subtle Art of Not Giving a F*ck book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-subtle-art-of-not-giving-a-fck/
 f_author-plain-text: Mark Manson
@@ -57,7 +57,7 @@ f_big-idea: >-
   with it and it can take a lifetime to achieve with practice, Manson believes
   that it is one of the most worthy struggles someone can undertake in their
   lives.
-f_quote-reference: \- The Subtle Art of Not Giving a F\*ck, page 13
+f_quote-reference: '\- The Subtle Art of Not Giving a F\*ck, page 13'
 f_insight-2: >-
   ### And Then You Die
 
@@ -171,7 +171,7 @@ f_quote-2: >-
   in fact. And if you go around giving a f*ck about everything and everyone
   without a conscious thought or choice - well, then you’re going to get
   f*cked.”
-f_amazon-url: https://www.amazon.com/dp/0062457713/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062457713/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

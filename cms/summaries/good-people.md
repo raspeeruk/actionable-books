@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:10.597Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78025c35d7f017ded665e_good-people-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/good-people/
+  alt: Good People book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/good-people/'
 f_author-plain-text: Anthony Tjan
 f_author: cms/authors/anthony-tjan.md
 f_category-3: cms/summary-categories/self-management.md
@@ -41,7 +41,7 @@ f_big-idea: >-
 
 
   So how does one develop goodness?
-f_quote-reference: \- Good People, page 30
+f_quote-reference: '\- Good People, page 30'
 f_insight-2: >-
   ### Start with a Solid Foundation
 
@@ -146,7 +146,7 @@ f_quote-2: >-
   "Our general definition of ‘good people’ is this: those committed to
   continuously cultivating the values that help them and others become the
   fullest versions of who they are."
-f_amazon-url: https://www.amazon.com/dp/039956215X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/039956215X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,17 +1,17 @@
 ---
 title: Michael Harris
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Michael-Harris/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Michael-Harris/'
 f_unique-id: '313'
 slug: michael-harris
 f_image:
   url: /assets/external/65d77a2fd99cd61e7fc24552_michae-harris.jpeg
-  alt: null
+  alt: Michael Harris
 f_summaries:
   - cms/summaries/insight-selling.md
 updated-on: '2024-02-23T13:30:56.439Z'
 created-on: '2024-02-22T16:45:36.093Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://insightdemand.com/
+f_website-2: 'http://insightdemand.com/'
 layout: '[authors].html'
 tags: authors
 ---

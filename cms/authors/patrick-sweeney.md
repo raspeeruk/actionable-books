@@ -1,10 +1,10 @@
 ---
 title: Patrick Sweeney
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Patrick-Sweeney/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Patrick-Sweeney/'
 f_unique-id: '830'
 f_image:
   url: /assets/external/65d77a3a8c2c4eb282717b10_patrick-sweeney-180x220.jpeg
-  alt: null
+  alt: Patrick Sweeney
 slug: patrick-sweeney
 f_summaries:
   - cms/summaries/what-you-arent-seeing.md

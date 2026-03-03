@@ -1,11 +1,11 @@
 ---
 title: Jim Loehr
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Jim-Loehr/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Jim-Loehr/'
 f_unique-id: '715'
 slug: jim-loehr
 f_image:
   url: /assets/external/65d77a1053c6c7714956dda0_loehr1.jpeg
-  alt: null
+  alt: Jim Loehr
 f_summaries:
   - cms/summaries/the-power-of-full-engagement.md
 updated-on: '2024-02-23T13:31:22.442Z'

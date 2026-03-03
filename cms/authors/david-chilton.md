@@ -1,18 +1,18 @@
 ---
 title: David Chilton
-f_original-url: https://www.actionablebooks.com/en-ca/authors/David-Chilton/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/David-Chilton/'
 f_unique-id: '772'
 f_image:
   url: /assets/external/65d779e27e3af15715d69f8c_david_chilton.jpeg
-  alt: null
+  alt: David Chilton
 slug: david-chilton
 f_summaries:
   - cms/summaries/the-wealthy-barber-returns.md
 updated-on: '2024-02-23T13:30:40.739Z'
 created-on: '2024-02-22T16:44:18.468Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/wealthy_barber/
-f_website-2: http://wealthybarber.com
+f_twitter-2: 'http://twitter.com/wealthy_barber/'
+f_website-2: 'http://wealthybarber.com'
 layout: '[authors].html'
 tags: authors
 ---

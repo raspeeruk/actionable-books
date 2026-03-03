@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780db0dc598fbeb205f0c_life-changing-magic-of-tidying-up-94x144.jpeg
-  alt: null
+  alt: The Life-Changing Magic of Tidying Up book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-life-changing-magic-of-tidying-up/
 f_author-plain-text: Marie Kondo
@@ -34,7 +34,7 @@ f_big-idea: >-
   are organized. It turns out 90% of people are a combination of “can’t throw it
   away” and “can’t put it back types”; the other 10% of the population can
   discard but can’t put things away.
-f_quote-reference: \- The Life-Changing Magic of Tidying Up, page 4
+f_quote-reference: '\- The Life-Changing Magic of Tidying Up, page 4'
 f_insight-2: >-
   ### Sort by Category, Not Location
 
@@ -116,6 +116,7 @@ f_quote-2: >-
   order, too."
 layout: '[summaries].html'
 tags: summaries
+f_amazon-url: 'https://www.amazon.com/dp/Ten Speed/?tag=actionableb08-20'
 ---
 
 > "When you put your house in order, you put your affairs and your past in order, too." _\- The Life-Changing Magic of Tidying Up, page 4_

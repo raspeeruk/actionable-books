@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:37.315Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78091cec14bdda493da3c_relentless-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/relentless/
+  alt: Relentless book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/relentless/'
 f_author-plain-text: Tim S. Grover
 f_author: cms/authors/tim-s-grover.md
 f_category-3: cms/summary-categories/self-management.md
@@ -42,7 +42,7 @@ f_big-idea: >-
 
 
   All that matters are the results you produce!
-f_quote-reference: \- Relentless, Page 165
+f_quote-reference: '\- Relentless, Page 165'
 f_insight-2: >-
   ### The Concept of Failure
 
@@ -113,7 +113,7 @@ f_quote-2: >-
   really want? Your social life? Relationships? Credit cards? Free time? Sleep?
   Now answer this question: What are you willing to sacrifice? If those two
   lists don’t match up, you don’t want it badly enough."
-f_amazon-url: https://www.amazon.com/dp/1476714207/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1476714207/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

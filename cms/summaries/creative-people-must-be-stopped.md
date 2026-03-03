@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d78076e71bbdd1f5232e9c_creative_people_must_be_stopped.jpeg
-  alt: null
+  alt: Creative People Must Be Stopped book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/creative-people-must-be-stopped/
 f_author-plain-text: David A. Owens
@@ -56,7 +56,7 @@ f_big-idea: >-
   “If we can identify the key constraints for a particular innovation,” writes
   Owen, “we can usually come up with ideas for interventions that increase the
   odds that our innovation will succeed.”
-f_quote-reference: \- Creative People Must Be Stopped, page 1
+f_quote-reference: '\- Creative People Must Be Stopped, page 1'
 f_insight-2: >-
   ### Planning for the unknowable
 
@@ -140,7 +140,7 @@ f_quote-2: >-
   "Innovation is a natural and desirable outcome of human interaction, yet it is
   systematically stopped in organizations, often by the very people who say they
   want it and who stand to benefit from it."
-f_amazon-url: https://www.amazon.com/dp/1118002903/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118002903/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

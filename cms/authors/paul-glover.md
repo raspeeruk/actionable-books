@@ -1,18 +1,18 @@
 ---
 title: Paul Glover
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Paul-Glover/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Paul-Glover/'
 f_unique-id: '855'
 f_image:
   url: /assets/external/65d77a3b2772244af7c1a37a_paul-glover.jpeg
-  alt: null
+  alt: Paul Glover
 slug: paul-glover
 f_summaries:
   - cms/summaries/workquake.md
 updated-on: '2024-02-23T13:31:28.927Z'
 created-on: '2024-02-22T16:45:47.892Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://www.facebook.com/pages/The-WorkQuaketm/208481659185990
-f_twitter-2: http://twitter.com/WorkQuakeBook/
+f_facebook-2: 'http://www.facebook.com/pages/The-WorkQuaketm/208481659185990'
+f_twitter-2: 'http://twitter.com/WorkQuakeBook/'
 layout: '[authors].html'
 tags: authors
 ---

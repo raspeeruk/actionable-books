@@ -1,18 +1,18 @@
 ---
 title: Jeff Szymanski
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Jeff-Szymanski/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Jeff-Szymanski/'
 f_unique-id: '706'
 f_image:
   url: /assets/external/65d77a0be782ae4748a13971_jeff.jpeg
-  alt: null
+  alt: Jeff Szymanski
 slug: jeff-szymanski
 f_summaries:
   - cms/summaries/the-perfectionists-handbook.md
 updated-on: '2024-02-23T13:31:00.854Z'
 created-on: '2024-02-22T16:45:00.190Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/drjeffszymanski/
-f_website-2: http://drjeffszymanski.com/
+f_twitter-2: 'http://twitter.com/drjeffszymanski/'
+f_website-2: 'http://drjeffszymanski.com/'
 layout: '[authors].html'
 tags: authors
 ---

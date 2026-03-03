@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:50.594Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780990dc598fbeb20383b_art_of_the_start-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-art-of-the-start/
+  alt: The Art of the Start book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-art-of-the-start/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/02/ActionableBooks-Audio-The-Art-of-the-Start.mp3
 f_author-plain-text: Guy Kawasaki
@@ -103,7 +103,7 @@ f_insight-1: >-
   disposal. The key to identifying an appropriate beachhead is to understand and
   embrace a delicate balance of belief and humility.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1591840562/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591840562/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

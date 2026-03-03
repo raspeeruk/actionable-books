@@ -1,10 +1,10 @@
 ---
 title: David Jones
-f_original-url: https://www.actionablebooks.com/en-ca/authors/David-Jones/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/David-Jones/'
 f_unique-id: '835'
 f_image:
   url: /assets/external/65d779e40b428a887e320460_david-jones.jpeg
-  alt: null
+  alt: David Jones
 slug: david-jones
 f_summaries:
   - cms/summaries/who-cares-wins.md

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:18.325Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780526a90cc1e859007c2_9780465085965_p0_v1_s114x166.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/too-big-to-know/
+  alt: Too Big to Know book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/too-big-to-know/'
 f_author-plain-text: David Weinberger
 f_author: cms/authors/david-weinberger.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -30,7 +30,7 @@ f_big-idea: >-
   the better chance of more worldly results. **The Internet reaches places
   teachers and experts were once never able to acquire scientific samples
   from.** It assists in breaking barriers.
-f_quote-reference: \- Too Big To Know, Prologue
+f_quote-reference: '\- Too Big To Know, Prologue'
 f_insight-2: >-
   ### Networking Leadership
 
@@ -85,7 +85,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Digital media is transforming the evolution, form and the way we perceive
   knowledge."
-f_amazon-url: https://www.amazon.com/dp/0465021425/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0465021425/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

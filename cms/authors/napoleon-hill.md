@@ -1,15 +1,15 @@
 ---
 title: Napoleon Hill
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Napoleon-Hill/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Napoleon-Hill/'
 f_unique-id: '427'
 slug: napoleon-hill
 f_image:
   url: /assets/external/65d77a354fe9f51a8bbd9da9_napoleon-hill-lg-180x220.jpeg
-  alt: null
+  alt: Napoleon Hill
 updated-on: '2024-02-23T13:30:32.410Z'
 created-on: '2024-02-22T16:45:41.926Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://www.naphill.org/
+f_website-2: 'http://www.naphill.org/'
 layout: '[authors].html'
 tags: authors
 ---

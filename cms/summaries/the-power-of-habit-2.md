@@ -87,10 +87,33 @@ f_insight-1: >-
 f_conclusion: >-
   Charles Duhigg’s _The Power of Habit_ is an invaluable tome if you’re
   interested in breaking the habits that are holding you back.
-f_amazon-url: https://www.amazon.com/dp/1400069289/?tag=actionableb08-20
-f_quote-reference: ''
+f_amazon-url: 'https://www.amazon.com/dp/1400069289/?tag=actionableb08-20'
+f_quote-reference: '- The Power of Habit, prologue XVII'
 layout: '[summaries].html'
 tags: summaries
+f_big-idea: >-
+  ### Small habits make or break you
+
+
+  > "What Bowman could give Phelps, however – what would set him apart from
+  other competitors- were habits that would make him the strongest mental
+  swimmer in the pool."
+
+  > 
+
+  > \- The Power of Habit, page 111
+
+
+  Don’t think you have it in you to change your bad habits? You will likely be
+  thrilled to know that there is tremendous research that shows it is the small
+  habits that fuel transformative changes. Each small habit creates a small
+  advantage which sets in motion another small habit and advantage etc. The
+  small habits create patterns that convince people that bigger achievements are
+  within reach. Duhigg shares the story of how it was small habits that led to
+  Michael Phelp’s Olympic gold medal victory. Michael’s small habits allowed him
+  to wake up the morning of the meet and not really think at all. He stayed
+  relaxed and simply followed his habits, one at a time, to victory.
+f_quote-2: Getting people right is the key to taking your business out of a fog.
 ---
 
 

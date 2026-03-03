@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:43.840Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d7391413176f57a653_stumbling-on-happiness-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/stumbling-on-happiness/
+  alt: Stumbling on Happiness book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/stumbling-on-happiness/'
 f_author-plain-text: Daniel Gilbert
 f_author: cms/authors/daniel-gilbert.md
 f_category-3: cms/summary-categories/self-management.md
@@ -44,7 +44,7 @@ f_big-idea: >-
   one’s future emotions, but because we don’t realize just how similar we are,
   we reject this reliable method and rely instead on our imaginations, as flawed
   and fallible as they may be.”
-f_quote-reference: \- Stumbling on Happiness, page 5
+f_quote-reference: '\- Stumbling on Happiness, page 5'
 f_insight-2: >-
   ### We Rationalize Courage More Than Cowardice
 
@@ -122,7 +122,7 @@ f_quote-2: >-
   the human brain is its ability to imagine objects and episodes that do not
   exist in the realm of the real, and it is this ability that allows us to think
   about the future."
-f_amazon-url: https://www.amazon.com/dp/B0031TZBMY/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B0031TZBMY/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

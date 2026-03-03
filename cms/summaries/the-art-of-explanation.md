@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:48.779Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78079345fe67ffc98c1b3_art_of_explanation.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-art-of-explanation/
+  alt: The Art of Explanation book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-art-of-explanation/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/ActionableBooks-Audio-The-Art-of-Explanation.mp3
 f_author-plain-text: Lee Lefever
@@ -46,7 +46,7 @@ f_big-idea: >-
   LeFever goes on to provide readers with systems they can follow to explain
   their ideas. He submits that a good explanation requires three steps:
   planning, presenting, and packaging.
-f_quote-reference: \- The Art of Explanation, page 31
+f_quote-reference: '\- The Art of Explanation, page 31'
 f_insight-2: >-
   ### Know your audience and empathize with them
 
@@ -101,7 +101,7 @@ f_conclusion: >-
   communications, this book has practical applications for anyone because as
   LeFever points out, **explanation is something we all do.**
 f_quote-2: '"How often do we sit down and focus on how we will explain an idea?"'
-f_amazon-url: https://www.amazon.com/dp/1118374584/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118374584/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

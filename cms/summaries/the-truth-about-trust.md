@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:12.777Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a8c35d7f017dedcfa9_truth-about-trust.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-truth-about-trust/
+  alt: The Truth About Trust book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-truth-about-trust/'
 f_author-plain-text: David Desteno
 f_author: cms/authors/david-desteno.md
 f_category-3: cms/summary-categories/self-management.md
@@ -70,7 +70,7 @@ f_insight-1: >-
   competence as well. Ask yourself if they have the skills and experience to do
   what they say they can do.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1594631239/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1594631239/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

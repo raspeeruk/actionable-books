@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:59.069Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780bd3b62b64863dc2167_hidden-agenda.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-hidden-agenda/
+  alt: The Hidden Agenda book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-hidden-agenda/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-The-Hidden-Agenda.mp3
 f_author-plain-text: Kevin Allen
@@ -65,7 +65,7 @@ f_big-idea: >-
   When you identify the hidden agenda and ‘connect your strengths, beliefs, and
   ambitions to this hidden agenda, you win.’ **But so does the person you are
   pitching.**
-f_quote-reference: \- The Hidden Agenda, inside cover
+f_quote-reference: '\- The Hidden Agenda, inside cover'
 f_insight-2: >-
   ### The Win Strategy – Leveraging Who You Are
 
@@ -160,7 +160,7 @@ f_quote-2: >-
   "It all boils down to the act of stirring someone to join you – to agree to
   follow you. Yet we consistently underestimate how critical it is to recognize
   the needs, spoken and unspoken, of the decision maker."
-f_amazon-url: https://www.amazon.com/dp/1937134040/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1937134040/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

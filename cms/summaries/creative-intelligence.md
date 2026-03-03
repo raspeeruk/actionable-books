@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:56.115Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802c2ebc9b7d62b31ae8_creative-intelligence.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/creative-intelligence/
+  alt: Creative Intelligence book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/creative-intelligence/'
 f_author-plain-text: Bruce Nussbaum
 f_author: cms/authors/bruce-nussbaum.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -34,7 +34,7 @@ f_big-idea: >-
   organizations), it was in the collaboration of individuals, rather than lone
   effort, that led to those innovations. Collaboration and sharing are
   essential.
-f_quote-reference: \- Creative Intelligence, page 33
+f_quote-reference: '\- Creative Intelligence, page 33'
 f_insight-2: >-
   ### Indie Capitalism
 
@@ -140,7 +140,7 @@ f_conclusion: ''
 f_quote-2: >-
   "This is a book for people who aren’t just interested in becoming more
   creative, but who want to create things that change our lives."
-f_amazon-url: https://www.amazon.com/dp/0062088424/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062088424/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

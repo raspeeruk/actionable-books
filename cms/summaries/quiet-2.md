@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:35.970Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78043124d447bdbf6c471_quiet.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/quiet-2/
+  alt: Quiet book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/quiet-2/'
 f_author-plain-text: Susan Cain
 f_author: cms/authors/susan-cain.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -58,7 +58,7 @@ f_big-idea: >-
   new phenomenon that has the potential to stifle productivity at work and to
   deprive schoolchildren of the skills they’ll need to achieve excellence in an
   increasingly competitive world.”
-f_quote-reference: \- Anais Nin, quoted in Quiet, page 264
+f_quote-reference: '\- Anais Nin, quoted in Quiet, page 264'
 f_insight-2: >-
   ### Free Trait Theory and Core Personal Projects
 
@@ -146,7 +146,7 @@ f_quote-2: >-
   "Our culture made a virtue of living only as extroverts. We discouraged the
   inner journey, the quest for a center. So we lost our center and have to find
   it again."
-f_amazon-url: https://www.amazon.com/dp/0307352145/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0307352145/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

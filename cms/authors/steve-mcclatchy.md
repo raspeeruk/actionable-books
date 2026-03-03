@@ -1,18 +1,18 @@
 ---
 title: Steve Mcclatchy
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Steve-McClatchy/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Steve-McClatchy/'
 f_unique-id: '164'
 slug: steve-mcclatchy
 f_image:
   url: /assets/external/65d77a5422ad1490218f8a93_steve-mcclatchy-180x220.jpeg
-  alt: null
+  alt: Steve Mcclatchy
 f_summaries:
   - cms/summaries/decide.md
 updated-on: '2024-02-23T13:30:29.878Z'
 created-on: '2024-02-22T16:46:13.032Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/stevemcclatchy/
-f_website-2: http://www.SteveMcClatchy.com
+f_twitter-2: 'http://twitter.com/stevemcclatchy/'
+f_website-2: 'http://www.SteveMcClatchy.com'
 layout: '[authors].html'
 tags: authors
 ---

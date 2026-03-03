@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:17.249Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806a493e1ac825f53f94_trajectory-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/trajectory/
+  alt: Trajectory book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/trajectory/'
 f_author-plain-text: David Van Rooy
 f_author: cms/authors/david-van-rooy.md
 f_category-3: cms/summary-categories/self-management.md
@@ -78,7 +78,7 @@ f_big-idea: >-
   14.  This involves bringing together and enacting all the previous lessons to
   reach point of ‘sustained performance’ and as such be someone who stands out
   from the crowd as a role model and to succeed at being your best.
-f_quote-reference: \- Trajectory, page 7
+f_quote-reference: '\- Trajectory, page 7'
 f_insight-2: >-
   ### Failure Breeds Success
 
@@ -133,7 +133,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Every person has a trajectory. Your trajectory is the path you create for
   yourself."
-f_amazon-url: https://www.amazon.com/dp/0814433901/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0814433901/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

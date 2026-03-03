@@ -1,14 +1,14 @@
 ---
 f_unique-number: 335
-title: If You’re Not First, You’re Last
+title: 'If You’re Not First, You’re Last'
 slug: if-youre-not-first-youre-last
 updated-on: '2024-02-27T20:31:42.887Z'
 created-on: '2024-02-22T16:06:16.351Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d2237ef95a3c758f34_if-youre-not-first-youre-last.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/if-youre-not-first-youre-last/
+  alt: 'If You’re Not First, You’re Last book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/if-youre-not-first-youre-last/'
 f_author-plain-text: Grant Cardone
 f_author: cms/authors/grant-cardone.md
 f_category-3: cms/summary-categories/self-management.md
@@ -37,7 +37,7 @@ f_big-idea: >-
   and speak differently if I had 24 hours left to live unless I closed a sale by
   the end of the day?” There would probably be a much greater sense of urgency
   than if you thought you had 20 years left to live.
-f_quote-reference: \- If You’re Not First You’re Last, page 75
+f_quote-reference: '\- If You’re Not First You’re Last, page 75'
 f_insight-2: >-
   ### Perform at your highest level always
 
@@ -122,7 +122,7 @@ f_quote-2: >-
   "Your Success is not limited by the economy; it’s only limited by the people
   you know and the amount of interest you can generate in your products and
   services."
-f_amazon-url: https://www.amazon.com/dp/B003OUX8UC/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B003OUX8UC/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

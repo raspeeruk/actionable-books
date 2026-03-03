@@ -1,15 +1,15 @@
 ---
 title: Spencer Johnson
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Spencer-Johnson/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Spencer-Johnson/'
 f_unique-id: '436'
 f_image:
   url: /assets/external/65d77a5151402807b412a4e4_spencer-johnson.jpeg
-  alt: null
+  alt: Spencer Johnson
 slug: spencer-johnson
 updated-on: '2024-02-23T13:30:30.217Z'
 created-on: '2024-02-22T16:46:09.675Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://www.spencerjohnson.com/
+f_website-2: 'http://www.spencerjohnson.com/'
 layout: '[authors].html'
 tags: authors
 ---

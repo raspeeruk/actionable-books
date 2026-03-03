@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:54.127Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c3e71bbdd1f5235702_the-decision-book-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-decision-book/
+  alt: The Decision Book book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-decision-book/'
 f_author-plain-text: Mikael Krogerus
 f_author: cms/authors/mikael-krogerus.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -79,7 +79,7 @@ f_big-idea: >-
   ability to successfully execute a planned task. The latter model describes how
   you and others can be lead to explore a topic from multiple points of view,
   resulting in a more holistic understanding.
-f_quote-reference: \- The Decision Book, page 6
+f_quote-reference: '\- The Decision Book, page 6'
 f_insight-2: >-
   ### The future of decision making will rely on prognostication tools
 
@@ -137,7 +137,7 @@ f_conclusion: >-
 f_quote-2: >-
   "When we encounter chaos, we seek ways to structure it, to see through it, or
   at least to gain an overview of it."
-f_amazon-url: https://www.amazon.com/dp/B00C57C392/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00C57C392/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

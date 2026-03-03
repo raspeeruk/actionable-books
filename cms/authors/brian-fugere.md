@@ -1,10 +1,10 @@
 ---
 title: Brian Fugere
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Brian-Fugere/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Brian-Fugere/'
 f_unique-id: '837'
 f_image:
   url: /assets/external/65d779c27e1b1fa86a52600d_brianfugere.jpeg
-  alt: null
+  alt: Brian Fugere
 slug: brian-fugere
 f_summaries:
   - cms/summaries/why-business-people-speak-like-idiots.md

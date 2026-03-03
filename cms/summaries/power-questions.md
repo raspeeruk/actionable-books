@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:34.172Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780784ec1d7cd9b57561e_power-questions.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/power-questions/
+  alt: Power Questions book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/power-questions/'
 f_author-plain-text: Andrew Sobel
 f_author: cms/authors/andrew-sobel.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -36,7 +36,7 @@ f_big-idea: >-
   I can summarize by saying the power of questions by highlighting two very
   important reasons to ask them: Questions bring clarity. Questions invite
   relationships.
-f_quote-reference: \- Power Questions, page 3
+f_quote-reference: '\- Power Questions, page 3'
 f_insight-2: >-
   ### Get to know someone!
 
@@ -111,7 +111,7 @@ f_quote-2: >-
   "I can always tell how experienced and insightful a prospective consultant,
   banker, or lawyer is by the quality of their questions and how intently they
   listen. That's how simple it is."
-f_amazon-url: https://www.amazon.com/dp/1118119630/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118119630/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

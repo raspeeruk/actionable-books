@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:42.936Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780879b76cdf5e3a27f15_5-minds-for-the-future.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/5-minds-for-the-future/
+  alt: 5 Minds for the Future book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/5-minds-for-the-future/'
 f_author-plain-text: Howard Gardner
 f_author: cms/authors/howard-gardner.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
@@ -64,7 +64,7 @@ f_big-idea: >-
   Before listing the various tools and methods useful for each mode, Kumar
   discusses mindsets that will increase the probability that we will address the
   mode thoroughly.
-f_quote-reference: \- 101 Design Methods, page 1
+f_quote-reference: '\- 101 Design Methods, page 1'
 f_insight-2: >-
   ### There's More than One Way to Skin a Cat
 
@@ -151,7 +151,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Innovation has arrived, and it has made a huge splash in the world of
   business. Except that it hasn’t."
-f_amazon-url: https://www.amazon.com/dp/1422145352/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1422145352/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

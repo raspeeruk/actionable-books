@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:58.563Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d973685ce4f9a14965_98278680-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-happiness-project-2/
+  alt: The Happiness Project book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-happiness-project-2/'
 f_author-plain-text: Gretchen Rubin
 f_author: cms/authors/gretchen-rubin.md
 f_category-3: cms/summary-categories/self-management.md
@@ -36,7 +36,7 @@ f_big-idea: >-
 
 
   ![](/assets/external/65d78bfef9736c458d438e0d_screen-shot-2017-02-28-at-2.56.56-PM.png)
-f_quote-reference: \- Robert Louise Stevenson, The Happiness Project, page 285
+f_quote-reference: '\- Robert Louise Stevenson, The Happiness Project, page 285'
 f_insight-2: >-
   ### Never Stop Growing
 
@@ -89,7 +89,7 @@ f_conclusion: >-
   had and discipline herself to make the tweaks in her life that are proven to
   bring greater joy. What one little thing do you know you need to do?
 f_quote-2: “There is no duty we so much underrate as the duty of being happy.”
-f_amazon-url: https://www.amazon.com/dp/B0089LOHZ6/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B0089LOHZ6/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:07:24.427Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809abc56df19f3aef1b2_working-for-you.jpeg
-  alt: null
+  alt: Working For You Isn’t Working For Me book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/working-for-you-isnt-working-for-me/
 f_author-plain-text: Katherine Crowley
@@ -85,7 +85,7 @@ f_big-idea: >-
 
   **You experience an ongoing state of chronic mental, physical and emotional
   pain.
-f_quote-reference: \- Working For You Isn’t Working for Me, page 285
+f_quote-reference: '\- Working For You Isn’t Working for Me, page 285'
 f_insight-2: >-
   ### Depersonalize
 
@@ -140,7 +140,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Understand that building a better relationship with any authority figure is a
   process"
-f_amazon-url: https://www.amazon.com/dp/1591842751/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591842751/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

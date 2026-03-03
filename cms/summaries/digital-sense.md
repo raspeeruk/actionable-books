@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:01.189Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d0f72bdcc46c19c6c4_digital-sense-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/digital-sense/
+  alt: Digital Sense book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/digital-sense/'
 f_author-plain-text: Chris J. Snook
 f_author: cms/authors/chris-j-snook.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -57,7 +57,7 @@ f_big-idea: >-
   Gaining and understanding of what types of people make up your team will help
   you identify people who can drive and support change, as you adopt a more
   digital mindset.
-f_quote-reference: \- Brian Solis, Digital Sense, Kindle Locations 421-422
+f_quote-reference: '\- Brian Solis, Digital Sense, Kindle Locations 421-422'
 f_insight-2: >-
   ### Relationships Matters, B.R.O.
 
@@ -154,7 +154,7 @@ f_quote-2: >-
   "A digital marketer is someone who understands that, to engage someone
   digitally, it must be done in a meaningful, personalized and contextually +
   culturally relevant manner."
-f_amazon-url: https://www.amazon.com/dp/B01NBRYEMV/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B01NBRYEMV/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:32.632Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c5ba0ab2be8afa620e_permission-marketing-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/permission-marketing/
+  alt: Permission Marketing book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/permission-marketing/'
 f_author-plain-text: Seth Godin
 f_author: cms/authors/seth-godin.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -72,7 +72,7 @@ f_big-idea: >-
   Authenticity, relevance, and frequency will allow a brand to open the doors
   for long-term dialogue and profitability through customer retention and
   advocacy.
-f_quote-reference: \- Permission Marketing, location 934
+f_quote-reference: '\- Permission Marketing, location 934'
 f_insight-2: >-
   ### Farming Over Hunting
 
@@ -143,7 +143,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Creating value through interaction is far more important than solving a
   consumer’s problem in thirty seconds."
-f_amazon-url: https://www.amazon.com/dp/B000FC0SSC/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B000FC0SSC/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

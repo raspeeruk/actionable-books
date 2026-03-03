@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:07:23.027Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78061c84c1d05fdbab6cd_14625328-94x144.jpeg
-  alt: null
+  alt: Why Business People Speak Like Idiots book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/why-business-people-speak-like-idiots/
 f_podcast-url: >-
@@ -56,7 +56,7 @@ f_big-idea: >-
   Straight talk is scarce and valuable. Those who excel at it will stand out. So
   what are these “traps” to avoid exactly, and how do we do that? Well, I
   thought you’d never ask.
-f_quote-reference: \- Why Business People Speak Like Idiots, page 2
+f_quote-reference: '\- Why Business People Speak Like Idiots, page 2'
 f_insight-2: >-
   ### Readers Make Personal Assumptions Based on Your Writing
 
@@ -144,7 +144,7 @@ f_conclusion: >-
   evident as I go about my business. Its straight-talk lesson is a cornerstone
   of my business writing and coaching.
 f_quote-2: '"Bull has become the language of business."'
-f_amazon-url: https://www.amazon.com/dp/0743269098/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0743269098/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

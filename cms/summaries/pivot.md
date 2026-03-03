@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:33.348Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a61de9c6d7938ec794_pivot-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/pivot/
+  alt: PIVOT book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/pivot/'
 f_author-plain-text: Jenny Blake
 f_author: cms/authors/jenny-blake.md
 f_category-3: cms/summary-categories/self-management.md
@@ -39,7 +39,7 @@ f_big-idea: >-
   your ever-growing to do list, start looking at it as a new way of thinking
   about small, incremental changes that can have a big impact to your career and
   work satisfaction.
-f_quote-reference: \- PIVOT, page 7
+f_quote-reference: '\- PIVOT, page 7'
 f_insight-2: >-
   ### Create a Pivot Culture
 
@@ -112,7 +112,7 @@ f_conclusion: >-
 f_quote-2: >-
   "…when it comes to our careers, learning to pivot is Plan A. Pivoting, within
   our roles and throughout our careers, is the new normal."
-f_amazon-url: https://www.amazon.com/dp/1591848202/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591848202/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

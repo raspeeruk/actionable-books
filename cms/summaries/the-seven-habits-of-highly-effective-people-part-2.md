@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780613b62b64863dbc88e_the-7-habits-of-highly-effective-people.jpeg
-  alt: null
+  alt: The Seven Habits of Highly Effective People – Part 2 book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-seven-habits-of-highly-effective-people-part-2/
 f_author-plain-text: Stephen Covey
@@ -20,7 +20,7 @@ f_quote-reference: ''
 f_insight-2: ''
 f_insight-1: ''
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0743269519/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0743269519/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

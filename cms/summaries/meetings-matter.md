@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:26.680Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806ccc81e56affccff36_meetings-matter-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/meetings-matter/
+  alt: Meetings Matter book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/meetings-matter/'
 f_author-plain-text: Paul Axtell
 f_author: cms/authors/paul-axtell.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -51,7 +51,7 @@ f_big-idea: >-
 
   If we can master these elements when deciding where to vacation next summer,
   we’ll be better prepared to make every professional meeting matter.
-f_quote-reference: \- Meetings Matter, page 4
+f_quote-reference: '\- Meetings Matter, page 4'
 f_insight-2: >-
   ### Game-plan each conversation
 
@@ -153,7 +153,7 @@ f_quote-2: >-
   conversation is like a puzzle with all the pieces in place. Improving your
   meetings by improving your conversations is not mysterious, but the impact can
   be dramatic."
-f_amazon-url: https://www.amazon.com/dp/0943097142/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0943097142/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

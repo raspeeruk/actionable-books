@@ -1,10 +1,10 @@
 ---
 title: Barbara Kellerman
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Barbara-Kellerman/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Barbara-Kellerman/'
 f_unique-id: '69'
 f_image:
   url: /assets/external/65d779b72b39b3396d0a3aad_barbara-kellerman-180x220.jpeg
-  alt: null
+  alt: Barbara Kellerman
 slug: barbara-kellerman
 f_summaries:
   - cms/summaries/bad-leadership.md

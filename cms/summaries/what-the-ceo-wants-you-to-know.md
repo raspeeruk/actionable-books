@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7805a0882405b4cf0fc61_what-the-ceo-wants-you-to-know-94x144.jpeg
-  alt: null
+  alt: What the CEO Wants You to Know book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/what-the-ceo-wants-you-to-know/
 f_author-plain-text: Ram Charan
@@ -51,7 +51,7 @@ f_big-idea: >-
   Think like a street vendor! If you can examine your business and how it
   operates in these five basic areas, “you are on your way to thinking and
   acting like a true businessperson and a successful CEO”.
-f_quote-reference: \- What the CEO Wants You to Know, page 12
+f_quote-reference: '\- What the CEO Wants You to Know, page 12'
 f_insight-2: >-
   ### Learning From the Street Vendor
 
@@ -128,7 +128,7 @@ f_quote-2: >-
   make money year after year—are like the best teacher you ever had. They are
   able to take the complexity and mystery out of business by focusing on the
   core fundamentals."
-f_amazon-url: https://www.amazon.com/dp/0609608398/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0609608398/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

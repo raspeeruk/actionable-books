@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:46.795Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809666cf927e76acbaa8_5am-club-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-5-am-club/
+  alt: The 5 AM Club book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-5-am-club/'
 f_author-plain-text: Michael Lombardi
 f_author: cms/authors/michael-lombardi.md
 f_category-3: cms/summary-categories/self-management.md
@@ -75,7 +75,7 @@ f_big-idea: >-
 
 
   3\. The law of patience – with time, things happen
-f_quote-reference: \- The 11 Laws of Likability, page 4
+f_quote-reference: '\- The 11 Laws of Likability, page 4'
 f_insight-2: >-
   ### Energy is contagious
 
@@ -183,7 +183,7 @@ f_conclusion: ''
 f_quote-2: >-
   "…here is the essential truth about meaningful connections: It’s not about you
   – it’s about the relationship."
-f_amazon-url: https://www.amazon.com/dp/1511513063/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1511513063/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

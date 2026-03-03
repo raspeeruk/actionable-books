@@ -1,18 +1,18 @@
 ---
 title: Scott D. Anthony
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Scott-D.-Anthony/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Scott-D.-Anthony/'
 f_unique-id: '675'
 f_image:
   url: /assets/external/65d77a4d8edbc07e760bb7d5_scott_d_anthony.jpeg
-  alt: null
+  alt: Scott D. Anthony
 slug: scott-d-anthony
 f_summaries:
   - cms/summaries/the-little-black-book-of-innovation.md
 updated-on: '2024-02-23T13:30:56.696Z'
 created-on: '2024-02-22T16:46:05.626Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/ScottDAnthony/
-f_website-2: http://innosight.com
+f_twitter-2: 'http://twitter.com/ScottDAnthony/'
+f_website-2: 'http://innosight.com'
 layout: '[authors].html'
 tags: authors
 ---

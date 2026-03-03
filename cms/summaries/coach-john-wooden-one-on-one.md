@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:53.766Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c08f9ca28be98ae8a7_wooden-one-on-one.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/coach-john-wooden-one-on-one/
+  alt: Coach Wooden One-on-One book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/coach-john-wooden-one-on-one/'
 f_author-plain-text: Jay Carty
 f_author: cms/authors/jay-carty.md
 f_category-3: cms/summary-categories/self-management.md
@@ -153,7 +153,7 @@ f_insight-1: >-
   moved on… I had not thought of it as a hardship at the time, and I never made
   excuses.”
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/9780830732/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/9780830732/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

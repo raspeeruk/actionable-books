@@ -1,16 +1,16 @@
 ---
 title: Nilofer Merchant
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Nilofer-Merchant/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Nilofer-Merchant/'
 f_unique-id: '692'
 f_image:
   url: /assets/external/65d75357f1e6114a316b3053_nilofer-merchant-180x220.jpeg
-  alt: null
+  alt: Nilofer Merchant
 slug: nilofer-merchant
 updated-on: '2024-02-23T13:31:21.366Z'
 created-on: '2024-02-22T16:45:44.604Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://www.facebook.com/nilofer.merchant
-f_twitter-2: http://twitter.com/nilofer/
+f_facebook-2: 'http://www.facebook.com/nilofer.merchant'
+f_twitter-2: 'http://twitter.com/nilofer/'
 layout: '[authors].html'
 tags: authors
 ---

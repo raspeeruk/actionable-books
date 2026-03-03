@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:22.579Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804a2ea4a5ee7840330c_39058838-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/who-the-a-method-for-hiring/
+  alt: 'Who: The A Method For Hiring book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/who-the-a-method-for-hiring/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/01/ActionableBooks-Audio-Who.mp3
 f_author-plain-text: Geoff Smart
@@ -56,7 +56,7 @@ f_big-idea: >-
   of similar looking candidates_
 
   *   _Lose candidates they really want to join their team_
-f_quote-reference: \- Who, Excerpt from Seminar
+f_quote-reference: '\- Who, Excerpt from Seminar'
 f_insight-2: >-
   ### The Power of Priority
 
@@ -142,7 +142,7 @@ f_conclusion: >-
 f_quote-2: >-
   "To improve your life and enable you to have greater career and financial
   success by helping you to make better hiring decisions!"
-f_amazon-url: https://www.amazon.com/dp/0345504194/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0345504194/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

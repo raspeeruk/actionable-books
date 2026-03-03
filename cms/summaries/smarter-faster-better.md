@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:41.539Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780da124d447bdbf71a4d_smarter-faster-better-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/smarter-faster-better/
+  alt: Smarter Faster Better book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/smarter-faster-better/'
 f_author-plain-text: Charles Duhigg
 f_author: cms/authors/charles-duhigg.md
 f_category-3: cms/summary-categories/self-management.md
@@ -40,7 +40,7 @@ f_big-idea: >-
 
   For me, this opens up ways of thinking about how I work and live that I hadn’t
   considered before and new ways to define and measure my productivity.
-f_quote-reference: \- Smarter Faster Better, location 80
+f_quote-reference: '\- Smarter Faster Better, location 80'
 f_insight-2: >-
   ### The How of Teams vs. the Who of Teams
 
@@ -129,7 +129,7 @@ f_quote-2: >-
   "Productivity, put simply, is the name we give our attempts to figure out the
   best uses of our energy, intellect, and time as we try to seize the most
   meaningful rewards with the least wasted effort."
-f_amazon-url: https://www.amazon.com/dp/B012089MSA/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B012089MSA/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

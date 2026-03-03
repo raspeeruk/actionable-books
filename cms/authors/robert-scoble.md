@@ -1,18 +1,18 @@
 ---
 title: Robert Scoble
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Robert-Scoble/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Robert-Scoble/'
 f_unique-id: '399'
 slug: robert-scoble
 f_image:
   url: /assets/external/65d77a484538df72c01c3f47_robert-scoble-headshot.jpeg
-  alt: null
+  alt: Robert Scoble
 f_summaries:
   - cms/summaries/naked-conversations.md
 updated-on: '2024-02-23T13:30:46.954Z'
 created-on: '2024-02-22T16:46:00.505Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/Scobleizer/
-f_website-2: http://scobleizer.com/
+f_twitter-2: 'http://twitter.com/Scobleizer/'
+f_website-2: 'http://scobleizer.com/'
 layout: '[authors].html'
 tags: authors
 ---

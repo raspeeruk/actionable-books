@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:03.114Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c72a7f9d2c04d7131e_moment-of-clarity.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-moment-of-clarity/
+  alt: The Moment of Clarity book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-moment-of-clarity/'
 f_author-plain-text: Christian Madsbjerg
 f_author: cms/authors/christian-madsbjerg.md
 f_category-3: cms/summary-categories/self-management.md
@@ -52,7 +52,7 @@ f_big-idea: >-
 
   An ‘aha’ moment, or moment of clarity, emerges when you immerse yourself in an
   experience with an open mind.
-f_quote-reference: \- The Moment of Clarity, page 181
+f_quote-reference: '\- The Moment of Clarity, page 181'
 f_insight-2: >-
   ### Develop a sense of care
 
@@ -134,7 +134,7 @@ f_conclusion: >-
   I plan to work on things that I deeply care about, and find ways to care about
   the things I’ve been asked to work on.
 f_quote-2: '"Getting people right is the key to taking your business out of a fog."'
-f_amazon-url: https://www.amazon.com/dp/B00HKZGKB6/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00HKZGKB6/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

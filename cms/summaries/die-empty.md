@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:00.852Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a2f91f45c228071e9d_die-empty.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/die-empty/
+  alt: Die Empty book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/die-empty/'
 f_author-plain-text: Todd Henry
 f_author: cms/authors/todd-henry.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -34,7 +34,7 @@ f_big-idea: >-
   Being unwilling to settle for average is key to moving beyond these demons,
   and there are a number of reasons why you might get stuck. Let’s talk more
   about how to do this.
-f_quote-reference: \- Die Empty, page 215
+f_quote-reference: '\- Die Empty, page 215'
 f_insight-2: >-
   ### Don't Settle for Mediocrity
 
@@ -129,7 +129,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Tomorrow is only an unfilled wish, so live and work as if today is all you
   have."
-f_amazon-url: https://www.amazon.com/dp/1591845890/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591845890/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

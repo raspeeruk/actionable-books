@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:48.579Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78024bf6c5df855b6333a_being-strategic-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/being-strategic/
+  alt: Being Strategic book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/being-strategic/'
 f_author-plain-text: Erika Anderson
 f_author: cms/authors/erika-anderson.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -58,7 +58,7 @@ f_big-idea: >-
 
 
   (model p 27, _Being Strategic_)
-f_quote-reference: \- Being Strategic, page 4
+f_quote-reference: '\- Being Strategic, page 4'
 f_insight-2: >-
   ### Strategies Reveal a Choice
 
@@ -161,7 +161,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Being strategic...involves a way of thinking and a set of skills that are
   applicable to almost any decision, large or small, professional or personal.”
-f_amazon-url: https://www.amazon.com/dp/031265670X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/031265670X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

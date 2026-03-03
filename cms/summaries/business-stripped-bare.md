@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:52.785Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809d8ab9c0e7829bcc72_business_stripped_bare-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/business-stripped-bare/
+  alt: Business Stripped Bare book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/business-stripped-bare/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/05/ActionableBooks-Business-Stripped-Bare.mp3
 f_author-plain-text: Richard Branson
@@ -52,7 +52,7 @@ f_big-idea: >-
   launch of Virgin Atlantic, challenging physics with Virgin Galactic and dozens
   of other examples, Branson shares what he believes to be the biggest lessons
   he’s learned through his varied and expansive experience.
-f_quote-reference: \- Business Stripped Bare, page xvii
+f_quote-reference: '\- Business Stripped Bare, page xvii'
 f_insight-2: >-
   ### Blame Small
 
@@ -121,7 +121,7 @@ f_conclusion: ''
 f_quote-2: >-
   "We can't afford to make business boring, or no one with any talent will do
   it."
-f_amazon-url: https://www.amazon.com/dp/1591844061/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591844061/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

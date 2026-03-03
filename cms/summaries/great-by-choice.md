@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:10.945Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d86fb09c7aedcd8b7f_142960856-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/great-by-choice/
+  alt: Great By Choice book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/great-by-choice/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/11/ActionableBooks-Audio-Great-by-Choice.mp3
 f_author-plain-text: Jim Collins
@@ -42,7 +42,7 @@ f_big-idea: >-
   Ambition – that makes a company **great**. And there are some simple ideas in
   _Great by Choice_ that you can apply to your own life and business, regardless
   of what you do or who you do it for.
-f_quote-reference: \- Great By Choice, page 33
+f_quote-reference: '\- Great By Choice, page 33'
 f_insight-2: >-
   ### Bullets Before Cannonballs
 
@@ -135,7 +135,7 @@ f_quote-2: >-
   or flamboyant, normal to the point of dull, or just flat-out weird - none of
   this really matters, as long as they're passionately driven for a cause beyond
   themselves."
-f_amazon-url: https://www.amazon.com/dp/B0058DTIC0/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B0058DTIC0/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

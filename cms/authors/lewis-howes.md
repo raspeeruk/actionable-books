@@ -1,16 +1,16 @@
 ---
 title: Lewis Howes
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Lewis-Howes/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Lewis-Howes/'
 f_unique-id: '741'
 f_image:
   url: /assets/external/65d77a24f825310630f12656_lewis-howes-180x220.jpeg
-  alt: null
+  alt: Lewis Howes
 slug: lewis-howes
 updated-on: '2024-02-23T13:30:52.571Z'
 created-on: '2024-02-22T16:45:24.677Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/lewishowes/
-f_website-2: http://LewisHowes.com
+f_twitter-2: 'http://twitter.com/lewishowes/'
+f_website-2: 'http://LewisHowes.com'
 layout: '[authors].html'
 tags: authors
 ---

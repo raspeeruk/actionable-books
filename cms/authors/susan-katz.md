@@ -1,18 +1,18 @@
 ---
 title: Susan Katz
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Susan-Katz/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Susan-Katz/'
 f_unique-id: '149'
 slug: susan-katz
 f_image:
   url: /assets/external/65d77a577a098686177497b7_susan-katz-180x220.jpeg
-  alt: null
+  alt: Susan Katz
 f_summaries:
   - cms/summaries/create-your-dream-job.md
 updated-on: '2024-02-23T13:31:19.586Z'
 created-on: '2024-02-22T16:46:15.918Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: https://www.facebook.com/susankatzadvantage
-f_twitter-2: https://twitter.com/SKatzAdv/
+f_facebook-2: 'https://www.facebook.com/susankatzadvantage'
+f_twitter-2: 'https://twitter.com/SKatzAdv/'
 layout: '[authors].html'
 tags: authors
 ---

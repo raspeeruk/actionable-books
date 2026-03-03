@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:34.218Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808aef59090b11f8aae3_power-cues.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/power-cues/
+  alt: Power Cues book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/power-cues/'
 f_author-plain-text: Nick Morgan
 f_author: cms/authors/nick-morgan.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -42,7 +42,7 @@ f_big-idea: >-
   liars may have their torso turned toward you but because they are trying to
   deceive you their legs and feet may show what is really happening and be
   turned away.
-f_quote-reference: \- Power Cues, page 231
+f_quote-reference: '\- Power Cues, page 231'
 f_insight-2: >-
   ### Let Me Hear You Say It
 
@@ -119,7 +119,7 @@ f_quote-2: >-
   evolutionary past necessitated this confluence of communication, and we need
   to get in touch with it again in order to realize the full power of influence
   an individual can have over a group."
-f_amazon-url: https://www.amazon.com/dp/1422193500/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1422193500/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:55.280Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d8e5c7d0393962029f_courage-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/courage/
+  alt: 'COURAGE: Igniting Self-Confidence book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/courage/'
 f_author-plain-text: Debbie Ford
 f_author: cms/authors/debbie-ford.md
 f_category-3: cms/summary-categories/self-management.md
@@ -122,7 +122,7 @@ f_conclusion: >-
   Confidence, Courage and Strength. It’s up to each of us which set we choose to
   listen to.
 f_quote-2: '"Fear knocked at the door, love answered and no one was there."'
-f_amazon-url: https://www.amazon.com/dp/B0070XB0SG/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B0070XB0SG/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

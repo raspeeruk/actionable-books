@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:02.472Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d8476f5b2ebbd79a3c_medici_effect.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-medici-effect/
+  alt: The Medici Effect book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-medici-effect/'
 f_author-plain-text: Bill Hortz
 f_author: cms/authors/frans-johansson.md
 f_category-3: cms/summary-categories/self-management.md
@@ -48,7 +48,7 @@ f_big-idea: >-
 
 
   “The future lies at the Intersection: Find Your Way There.”
-f_quote-reference: \- The Medici Effect, page 7
+f_quote-reference: '\- The Medici Effect, page 7'
 f_insight-2: >-
   ### Unknown Territory Requires Flexible Thinking
 
@@ -128,7 +128,7 @@ f_conclusion: >-
 f_quote-2: >-
   "How do we create an explosion of extraordinary ideas, and how do we make
   those ideas happen? The answers may surprise you."
-f_amazon-url: https://www.amazon.com/dp/B0064CKKAS/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B0064CKKAS/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

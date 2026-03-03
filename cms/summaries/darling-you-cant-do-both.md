@@ -1,14 +1,14 @@
 ---
 f_unique-number: 157
-title: Darling, You Can’t Do Both
+title: 'Darling, You Can’t Do Both'
 slug: darling-you-cant-do-both
 updated-on: '2024-02-27T20:31:37.448Z'
 created-on: '2024-02-22T16:05:58.379Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c6e997a36d75091e56_darling-you-cant-do-both.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/darling-you-cant-do-both/
+  alt: 'Darling, You Can’t Do Both book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/darling-you-cant-do-both/'
 f_author-plain-text: Janet Kestin
 f_author: cms/authors/janet-kestin.md
 f_category-3: cms/summary-categories/self-management.md
@@ -137,7 +137,7 @@ f_conclusion: >-
   a required strategy, to ignore some of the rules that were written for the
   workplace but not necessarily for women in the workplace. Just as the
   strikethrough the title implies, it isn’t true that you can’t have it all.
-f_amazon-url: https://www.amazon.com/dp/B00G98R09Q/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00G98R09Q/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

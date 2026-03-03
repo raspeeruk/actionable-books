@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:16.293Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808648fff91cd3184646_97954273-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/today-we-are-rich/
+  alt: Today We Are Rich book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/today-we-are-rich/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/05/ActionableBooks-Audio-Today-We-Are-Rich.mp3
 f_author-plain-text: Tim Sanders
@@ -40,7 +40,7 @@ f_big-idea: >-
   I doubt there’s anyone among us who would argue the value and importance of
   keeping our promises. And yet, can any of us say with 100% certainty that
   we’ve never broken one? Why is that?
-f_quote-reference: \- Today We Are Rich, page 39
+f_quote-reference: '\- Today We Are Rich, page 39'
 f_insight-2: >-
   ### Break at your own risk
 
@@ -124,7 +124,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Self confidence is a purifier of sorts that reduces the chatter in your head
   and allows you to fall into a state of flow."
-f_amazon-url: https://www.amazon.com/dp/1414339119/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1414339119/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

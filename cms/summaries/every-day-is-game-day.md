@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:04.949Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c44f1f96a38b49be74_every-day-is-game-day.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/every-day-is-game-day/
+  alt: Every Day Is Game Day book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/every-day-is-game-day/'
 f_author-plain-text: Mark Verstegen
 f_author: cms/authors/mark-verstegen.md
 f_category-3: cms/summary-categories/self-management.md
@@ -43,7 +43,7 @@ f_big-idea: >-
   evaluation, learning and regrouping can make the next project even more
   successful. At some level a game or a project will be a failure if you don’t
   recover and learn from it.
-f_quote-reference: \- Every Day is Game Day, page 1
+f_quote-reference: '\- Every Day is Game Day, page 1'
 f_insight-2: >-
   ### Recovery sustains high performance
 
@@ -124,7 +124,7 @@ f_quote-2: >-
   "Anyone can hit excellence for a day, even a week or a month. That’s easy. But
   a high performer is one who does it consistently for years over the course of
   a career."
-f_amazon-url: https://www.amazon.com/dp/B00DMCPI1Y/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00DMCPI1Y/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

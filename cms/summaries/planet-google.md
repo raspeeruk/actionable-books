@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:33.366Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78086371cd956ed972eb5_planet-google.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/planet-google/
+  alt: Planet Google book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/planet-google/'
 f_author-plain-text: Randall Stross
 f_author: cms/authors/randall-stross.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -114,7 +114,7 @@ f_conclusion: >-
   yet to be determined. If the first 10 years are any indication, though, what
   with YouTube, Google Maps, Earth, Docs and AdWords, the next 290 years should
   be one hell of a ride.
-f_amazon-url: https://www.amazon.com/dp/1416546960/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1416546960/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

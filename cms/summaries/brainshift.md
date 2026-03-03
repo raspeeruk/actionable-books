@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:50.114Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806d78aa1806331238c2_bookcover2-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/brainshift/
+  alt: BrainShift book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/brainshift/'
 f_author-plain-text: Jeff Wilson
 f_author: cms/authors/jeff-wilson.md
 f_category-3: cms/summary-categories/self-management.md
@@ -87,7 +87,7 @@ f_conclusion: >-
   thinking. As a leadership coach it is imperative that I help others remove
   limiting beliefs, and this book gave me the skills, tools and insights to do
   so.
-f_amazon-url: https://www.amazon.com/dp/0978052706/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0978052706/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

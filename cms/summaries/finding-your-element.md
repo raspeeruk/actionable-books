@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:07.036Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805b67d3671dc03664d0_finding-your-element.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/finding-your-element/
+  alt: Finding Your Element book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/finding-your-element/'
 f_author-plain-text: Sir Ken Robinson
 f_author: cms/authors/sir-ken-robinson.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
@@ -39,7 +39,7 @@ f_big-idea: >-
   **Principal #3:** Life is organic. “\[L\]ife is a constant process of
   improvisation between interests and personality on the one hand and
   circumstances and opportunities on the other.”
-f_quote-reference: \- Finding Your Element, page 5
+f_quote-reference: '\- Finding Your Element, page 5'
 f_insight-2: >-
   ### What's Your Attitude
 
@@ -84,7 +84,7 @@ f_quote-2: >-
   "Finding your Element is a quest to find yourself…it is a two-way journey: an
   inward journey to explore what lies within you and an outward journey to
   explore opportunities in the world around you."
-f_amazon-url: https://www.amazon.com/dp/0670022381/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0670022381/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

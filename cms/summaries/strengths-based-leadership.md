@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:43.527Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780aaba0ab2be8afa551d_strengths-based-leadership1.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/strengths-based-leadership/
+  alt: Strengths Based Leadership book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/strengths-based-leadership/'
 f_author-plain-text: Barry Conchie
 f_author: cms/authors/barry-conchie.md
 f_category-3: cms/summary-categories/leadership.md
@@ -50,7 +50,7 @@ f_big-idea: >-
   the Gallup research tells us, I will be on firm footing with my followers if I
   figure out ways to apply my strengths to supporting those needed within my
   organization.
-f_quote-reference: \- Strengths Based Leadership, page 8
+f_quote-reference: '\- Strengths Based Leadership, page 8'
 f_insight-2: >-
   ### General suggestions provided. You figure out the specifics.
 
@@ -152,7 +152,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Those who strive to be competent in all areas become the least effective
   leaders overall."
-f_amazon-url: https://www.amazon.com/dp/1595620257/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1595620257/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

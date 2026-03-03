@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:42.718Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809ae4a0b87bccdf74de_start-with-why-sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/start-with-why/
+  alt: Start With WHY book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/start-with-why/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/05/ActionableBooks-Audio-Start-with-WHY2.mp3
 f_author-plain-text: Simon Sinek
@@ -102,7 +102,7 @@ f_conclusion: >-
   bottom line numbers. In example after example, Simon Sinek (a new writer that
   I certainly hope to see more of) shows us the wild success that has come from
   applying the power of Why. It’s a lesson received loud and clear.
-f_amazon-url: https://www.amazon.com/dp/1591842808/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591842808/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

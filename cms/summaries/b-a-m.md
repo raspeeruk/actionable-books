@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:47.013Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808c8f9ca28be98aa536_bam_cover_sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/b-a-m/
+  alt: B-A-M! book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/b-a-m/'
 f_author-plain-text: Barry Moltz
 f_author: cms/authors/barry-moltz.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -120,7 +120,7 @@ f_insight-1: >-
 
   Call a customer this week. See what you learn.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1449007945/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1449007945/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

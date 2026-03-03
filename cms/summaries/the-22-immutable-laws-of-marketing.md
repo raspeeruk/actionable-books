@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7806ba1ca3470eb5a7984_22-immutable-laws-of-marketing-94x144.jpeg
-  alt: null
+  alt: The 22 Immutable Laws of Marketing book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-22-immutable-laws-of-marketing/
 f_author-plain-text: Al Ries
@@ -57,7 +57,7 @@ f_big-idea: >-
 
   All of these are suggestions about how to start your day the best way
   possible. That good start will frame the rest of your day.
-f_quote-reference: \- The 5 AM Club, page 1
+f_quote-reference: '\- The 5 AM Club, page 1'
 f_insight-2: >-
   ### Organization is Important
 
@@ -124,7 +124,7 @@ f_quote-2: >-
   “There is nothing like waking up early in the morning, taking time to enjoy
   the day before heading off to your chaotic workplace and feel energized
   throughout the entire day.”
-f_amazon-url: https://www.amazon.com/dp/0887306667/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0887306667/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

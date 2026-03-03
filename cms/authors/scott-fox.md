@@ -1,18 +1,18 @@
 ---
 title: Scott Fox
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Scott-Fox/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Scott-Fox/'
 f_unique-id: '130'
 slug: scott-fox
 f_image:
   url: /assets/external/65d77a4d806eaeecba7c4a0e_scott-fox.jpeg
-  alt: null
+  alt: Scott Fox
 f_summaries:
   - cms/summaries/click-millionaires.md
 updated-on: '2024-02-23T13:30:30.359Z'
 created-on: '2024-02-22T16:46:05.737Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/scott_fox/
-f_website-2: http://www.scottfox.com/
+f_twitter-2: 'http://twitter.com/scott_fox/'
+f_website-2: 'http://www.scottfox.com/'
 layout: '[authors].html'
 tags: authors
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:12.474Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c12a7f9d2c04d7107b_hooked.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/hooked/
+  alt: Hooked book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/hooked/'
 f_author-plain-text: Nir Eyal
 f_author: cms/authors/nir-eyal.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -56,7 +56,7 @@ f_big-idea: >-
 
   Once you’ve solved the habit question, you need to think about the reward and
   investment elements as well.
-f_quote-reference: \- Hooked, page 2
+f_quote-reference: '\- Hooked, page 2'
 f_insight-2: >-
   ### From Habit To Evangelist
 
@@ -122,7 +122,7 @@ f_quote-2: >-
   "In order to win the loyalty of their users and create a product that's
   regularly used, companies must learn not only what compels users to click but
   also what makes them tick."
-f_amazon-url: https://www.amazon.com/dp/9781591847/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/9781591847/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

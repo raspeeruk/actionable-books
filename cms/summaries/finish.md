@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:07.101Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a4eadf9e5ad15087c1_finish-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/finish/
+  alt: Finish book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/finish/'
 f_author-plain-text: Jon Acuff
 f_author: cms/authors/jon-acuff.md
 f_category-3: cms/summary-categories/self-management.md
@@ -39,7 +39,7 @@ f_big-idea: >-
   stumbling block in our attempts to reach our goals. By accepting our own
   imperfections and being comfortable with our own imperfect steps, we are much
   more likely to cross our goal finish line.
-f_quote-reference: \- Finish, page 16
+f_quote-reference: '\- Finish, page 16'
 f_insight-2: >-
   ### Decide Which Things You’ll “Bomb”
 
@@ -111,7 +111,7 @@ f_conclusion: >-
 f_quote-2: >-
   “The harder you try to be perfect, the less likely you’ll accomplish your
   goals.”
-f_amazon-url: https://www.amazon.com/dp/1591847621/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591847621/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

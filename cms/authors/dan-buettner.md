@@ -1,18 +1,18 @@
 ---
 title: Dan Buettner
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Dan-Buettner/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Dan-Buettner/'
 f_unique-id: '792'
 f_image:
   url: /assets/external/65d779d4cb21177e4c77308b_dan-180x220.jpeg
-  alt: null
+  alt: Dan Buettner
 f_summaries:
   - cms/summaries/thrive-finding-happiness-the-blue-zones-way.md
 slug: dan-buettner
 updated-on: '2024-02-23T13:31:17.793Z'
 created-on: '2024-02-22T16:44:05.083Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://facebook.com/bluezonesfans
-f_twitter-2: http://twitter.com/bluezones/
+f_facebook-2: 'http://facebook.com/bluezonesfans'
+f_twitter-2: 'http://twitter.com/bluezones/'
 layout: '[authors].html'
 tags: authors
 ---

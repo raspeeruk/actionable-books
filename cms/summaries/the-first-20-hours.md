@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:56.485Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a2b56c9adb0e2a860b_first-20-hours.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-first-20-hours/
+  alt: The First 20 Hours book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-first-20-hours/'
 f_author-plain-text: Josh Kaufman
 f_author: cms/authors/josh-kaufman.md
 f_category-3: cms/summary-categories/self-management.md
@@ -33,7 +33,7 @@ f_big-idea: >-
 
   Rapid skill acquisition is a form of immersion. It requires some setup to
   prevent us from sabotaging ourselves.
-f_quote-reference: \- The First 20 Hours, page 5
+f_quote-reference: '\- The First 20 Hours, page 5'
 f_insight-2: >-
   ### Be Willing to Jump in Over Your Head
 
@@ -127,7 +127,7 @@ f_quote-2: >-
   "By knowing what you're getting into, learning the fundamentals, practicing
   intelligently, and developing a practice routine, you'll make progress more
   quickly and consistently, and you'll achieve expert status in record time."
-f_amazon-url: https://www.amazon.com/dp/1591845556/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591845556/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

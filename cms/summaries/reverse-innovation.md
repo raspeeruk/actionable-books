@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:37.492Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780888ab9c0e7829bc3a9_reverse-innovation.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/reverse-innovation/
+  alt: Reverse Innovation book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/reverse-innovation/'
 f_author-plain-text: Chris Trimble
 f_author: cms/authors/chris-trimble.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -37,7 +37,7 @@ f_big-idea: >-
   needs of those countries will have serious ramifications in the future as
   other companies compete in those markets. Embracing this attitude is critical
   to all reverse innovation efforts.
-f_quote-reference: \- Reverse Innovation, page 14
+f_quote-reference: '\- Reverse Innovation, page 14'
 f_insight-2: >-
   ### Bring reverse innovations home
 
@@ -112,7 +112,7 @@ f_quote-2: >-
   well in rich countries. If you want to use today’s science and technology to
   address unmet needs in the developing world, then you must start with humility
   and curiosity."
-f_amazon-url: https://www.amazon.com/dp/1422157644/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1422157644/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

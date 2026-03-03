@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:43.165Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780ba1ee6bba16c52758a_5-conversations-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/5-conversations/
+  alt: 5 Conversations book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/5-conversations/'
 f_author-plain-text: Nick Cowley
 f_author: cms/authors/nick-cowley.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -57,7 +57,7 @@ f_big-idea: >-
   for people in loosely clad clothing with incense burning in every room.
   Mindfulness is a valuable practice that serves his personal life and his
   professional life well, allowing for growth, patience and ultimately success.
-f_quote-reference: \- 10% Happier, page 89
+f_quote-reference: '\- 10% Happier, page 89'
 f_insight-2: >-
   ### The answer is non-attachment
 
@@ -133,7 +133,7 @@ f_quote-2: >-
   "As best as I could understand it, the Buddha’s main thesis was that in a
   world where everything is constantly changing, we suffer because we cling to
   things that won’t last"
-f_amazon-url: https://www.amazon.com/dp/1909623717/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1909623717/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

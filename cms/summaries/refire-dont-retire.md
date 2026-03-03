@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:36.938Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b26d3d2478cfb4011c_refire-dont-retire-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/refire-dont-retire/
+  alt: Refire! Don’t Retire book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/refire-dont-retire/'
 f_author-plain-text: Ken Blanchard
 f_author: cms/authors/ken-blanchard.md
 f_category-3: cms/summary-categories/self-management.md
@@ -42,7 +42,7 @@ f_big-idea: >-
   we’re going to approach life with gusto. How often do we find ourselves
   willingly choosing not to be spontaneous so we can follow the same, tired
   patterns of behavior?
-f_quote-reference: \- Refire! Don’t Retire, page 16
+f_quote-reference: '\- Refire! Don’t Retire, page 16'
 f_insight-2: >-
   ### Feedback is the breakfast of champions
 
@@ -108,7 +108,7 @@ f_quote-2: >-
   "We’ve found conclusive evidence that achievements and accumulation of wealth
   do not make people happy…there’s plenty of emphasis on success in our culture.
   I’m finding we have to help people focus on significance as well."
-f_amazon-url: https://www.amazon.com/dp/1626563330/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1626563330/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

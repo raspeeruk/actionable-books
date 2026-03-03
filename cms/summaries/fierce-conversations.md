@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:06.656Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804e6632c78c3b6de059_fierce_conversations.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/fierce-conversations/
+  alt: Fierce Conversations book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/fierce-conversations/'
 f_author-plain-text: Susan Scott
 f_author: cms/authors/susan-scott.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -32,7 +32,7 @@ f_big-idea: >-
 
   How can you begin to change the quality of your conversations with the people
   who matter in your life?
-f_quote-reference: \- Fierce Conversations, preface
+f_quote-reference: '\- Fierce Conversations, preface'
 f_insight-2: >-
   ### Combine Honesty With Compassion
 
@@ -102,7 +102,7 @@ f_quote-2: >-
   "When you think of a fierce conversation, think passion, integrity,
   authenticity, collaboration. Think cultural transformation. Think of
   leadership."
-f_amazon-url: https://www.amazon.com/dp/0425193373/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0425193373/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

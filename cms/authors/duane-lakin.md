@@ -1,17 +1,17 @@
 ---
 title: Duane Lakin
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Duane-Lakin/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Duane-Lakin/'
 f_unique-id: '767'
 slug: duane-lakin
 f_image:
   url: /assets/external/65d779ee5999de7a135e628c_duane-lakin.jpeg
-  alt: null
+  alt: Duane Lakin
 f_summaries:
   - cms/summaries/the-unfair-advantage.md
 updated-on: '2024-02-23T13:30:33.524Z'
 created-on: '2024-02-22T16:44:30.949Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://www.lakinassociates.com/nlp.html
+f_website-2: 'http://www.lakinassociates.com/nlp.html'
 layout: '[authors].html'
 tags: authors
 ---

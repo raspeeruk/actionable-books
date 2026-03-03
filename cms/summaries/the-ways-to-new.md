@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:13.705Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807f2a7f9d2c04d6eab9_the-ways-to-new-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-ways-to-new/
+  alt: The Ways to New book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-ways-to-new/'
 f_author-plain-text: Jean Marie Dru
 f_author: cms/authors/jean-marie-dru.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -51,7 +51,7 @@ f_big-idea: >-
   ways consumers can receive advertising messages from businesses, defining a
   strong brand vision that is communicated in conjunction with an innovative
   approach, may well be the new path to disruption you’ve been looking for.
-f_quote-reference: \- The Ways to New, page 10
+f_quote-reference: '\- The Ways to New, page 10'
 f_insight-2: >-
   ### What if
 
@@ -154,7 +154,7 @@ f_quote-2: >-
   work and insight. People need to understand exactly how and why their way of
   innovating is special, and thus grasp the key characteristic that defines
   their way of thinking and doing."
-f_amazon-url: https://www.amazon.com/dp/1119167973/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1119167973/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

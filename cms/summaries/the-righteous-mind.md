@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:09.260Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804481456d11fb060406_righteous-mind-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-righteous-mind/
+  alt: The Righteous Mind book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-righteous-mind/'
 f_author-plain-text: Jonathan Haidt
 f_author: cms/authors/jonathan-haidt.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -58,7 +58,7 @@ f_big-idea: >-
   Haidt also points out that western liberals are the outliers—strongly
   suggesting that liberals must see the broader palate to have greater influence
   in political discourse.
-f_quote-reference: \- The Righteous Mind, page xiv
+f_quote-reference: '\- The Righteous Mind, page xiv'
 f_insight-2: >-
   ### We are both chimp and bee
 
@@ -138,7 +138,7 @@ f_quote-2: >-
   "Politics and religion are both expressions of our underlying moral
   psychology, and an understanding of that psychology can help to bring people
   together."
-f_amazon-url: https://www.amazon.com/dp/0307455777/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0307455777/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

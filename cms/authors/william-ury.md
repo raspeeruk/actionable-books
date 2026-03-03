@@ -1,18 +1,18 @@
 ---
 title: William Ury
-f_original-url: https://www.actionablebooks.com/en-ca/authors/William-Ury/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/William-Ury/'
 f_unique-id: '253'
 f_image:
   url: /assets/external/65d77a64a859109b87e3fb3f_william-ury-180x220.png
-  alt: null
+  alt: William Ury
 f_summaries:
   - cms/summaries/getting-to-yes-with-yourself.md
 slug: william-ury
 updated-on: '2024-02-23T13:30:40.098Z'
 created-on: '2024-02-22T16:46:29.108Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/williamurygty/
-f_website-2: http://williamury.com
+f_twitter-2: 'http://twitter.com/williamurygty/'
+f_website-2: 'http://williamury.com'
 layout: '[authors].html'
 tags: authors
 ---

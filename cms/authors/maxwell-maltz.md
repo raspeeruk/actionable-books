@@ -1,11 +1,11 @@
 ---
 title: Maxwell Maltz
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Maxwell-Maltz/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Maxwell-Maltz/'
 f_unique-id: '476'
 slug: maxwell-maltz
 f_image:
   url: /assets/external/65d77a2e02f4de5f64d77f44_maxwell-maltz-180x220.jpeg
-  alt: null
+  alt: Maxwell Maltz
 f_summaries:
   - cms/summaries/psycho-cybernetics.md
 updated-on: '2024-02-23T13:31:13.322Z'

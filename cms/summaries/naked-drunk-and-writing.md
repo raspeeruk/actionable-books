@@ -1,6 +1,6 @@
 ---
 f_unique-number: 467
-title: Naked, Drunk and Writing
+title: 'Naked, Drunk and Writing'
 slug: naked-drunk-and-writing
 updated-on: '2024-02-27T20:30:22.258Z'
 created-on: '2024-02-22T16:06:28.118Z'
@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7804087289c3de69038c0_naked-drunk-and-writing-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/naked-drunk-and-writing/
+  alt: 'Naked, Drunk and Writing book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/naked-drunk-and-writing/'
 f_author-plain-text: Adair Lara
 f_author: cms/authors/adair-lara.md
 f_category-3: cms/summary-categories/self-management.md
@@ -47,7 +47,7 @@ f_big-idea: >-
   the telling of our stories unique. To get us going, Adair offers examples such
   as setting aside time every day for writing. Schedule it. Make it routine.
   Make it fun. Just like exercise, if it isn’t fun, we won’t want to do it.
-f_quote-reference: \- Naked, Drunk, and Writing, page 7
+f_quote-reference: '\- Naked, Drunk, and Writing, page 7'
 f_insight-2: >-
   ### Do you sound like you?
 
@@ -131,7 +131,7 @@ f_quote-2: >-
   "It’s called ‘Naked, Drunk, and Writing’ because I like that title, and
   because someone at a party once remarked to me over sushi that books with
   ‘naked’ in the title always sell."
-f_amazon-url: https://www.amazon.com/dp/158008480X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/158008480X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

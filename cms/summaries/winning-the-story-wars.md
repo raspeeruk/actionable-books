@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:23.671Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808798fda031132db5d2_story_wars.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/winning-the-story-wars/
+  alt: Winning the Story Wars book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/winning-the-story-wars/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/12/ActionableBooks-Audio-Winning-the-Story-Wars.mp3
 f_author-plain-text: Jonah Sachs
@@ -67,7 +67,7 @@ f_big-idea: >-
 
   To create story evangelists, these elements need to be embraced fully in order
   to write a story that stands the test of time.
-f_quote-reference: \- Winning the Story Wars, page 5
+f_quote-reference: '\- Winning the Story Wars, page 5'
 f_insight-2: >-
   ### Know Your Values
 
@@ -155,7 +155,7 @@ f_quote-2: >-
   about one thing: people reaching for their highest potential and struggling to
   create a better world. If the test of time is our judge, stories with this
   formula have a near-monopoly on greatness."
-f_amazon-url: https://www.amazon.com/dp/1422143562/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1422143562/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:23.136Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809b9b76cdf5e3a28745_linchpin.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/linchpin/
+  alt: Linchpin book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/linchpin/'
 f_author-plain-text: Seth Godin
 f_author: cms/authors/seth-godin.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -121,7 +121,7 @@ f_conclusion: >-
   easy. It takes effort, courage, and a certain degree of tenacity. And, as Seth
   says, “It’s possible that no one ever pushed you to be brave enough to go this
   far out on a limb.”
-f_amazon-url: https://www.amazon.com/dp/1591843162/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591843162/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

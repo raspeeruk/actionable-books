@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:55.958Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78048bf6c5df855b64534_everything_store.jpeg
-  alt: null
+  alt: 'The Everything Store: Jeff Bezos and the Age of Amazon book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-everything-store-jeff-bezos-and-the-age-of-amazon/
 f_author-plain-text: Brad Stone
@@ -45,7 +45,7 @@ f_big-idea: >-
   simple statement was meant to be an attainable goal which each employee could
   incorporate into practice and feel a sense of success, both on an individual
   and corporate level.
-f_quote-reference: \- The Everything Store, page 24
+f_quote-reference: '\- The Everything Store, page 24'
 f_insight-2: >-
   ### Reinventing Your Business Model Without Completely Renegotiating It
 
@@ -120,7 +120,7 @@ f_quote-2: >-
   everyone in the office would gather around to see if anyone knew the customer.
   (It was only a few weeks before it started ringing so often that they had to
   turn it off.)"
-f_amazon-url: https://www.amazon.com/dp/0316219266/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0316219266/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

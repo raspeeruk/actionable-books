@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:58.776Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806573685ce4f9a10f23_death-by-meeting-sm-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/death-by-meeting/
+  alt: Death By Meeting book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/death-by-meeting/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/01/ActionableBooks-Audio-Death-by-Meeting.mp3
 f_author-plain-text: Patrick Lencioni
@@ -34,7 +34,7 @@ f_big-idea: >-
   cast (you and your colleagues) and, if they’re set up properly, they can
   absolutely have the same level of conflict and structure that we find so
   engaging on the big screen.
-f_quote-reference: \- Death by Meeting, page 141
+f_quote-reference: '\- Death by Meeting, page 141'
 f_insight-2: >-
   ### Avoid Meeting Stew
 
@@ -116,7 +116,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The guy sitting down for a sitcom has very different expectations than he
   does when he's going to a movie. Or watching Headline News at the airport."
-f_amazon-url: https://www.amazon.com/dp/0787968056/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0787968056/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

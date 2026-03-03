@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:28.492Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78069589ec7f59357a1ee_new-sales-simplified.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/new-sales-simplified/
+  alt: New Sales. Simplified book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/new-sales-simplified/'
 f_author-plain-text: Mike Weinberg
 f_author: cms/authors/mike-weinberg.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -53,7 +53,7 @@ f_big-idea: >-
   confident in approaching prospects. You can make it a bigger initiative across
   your team or company but a small investment in fine tuning your story can pay
   off handsomely the next time you speak to a prospect.
-f_quote-reference: \- New Sales. Simplified, page xx
+f_quote-reference: '\- New Sales. Simplified, page xx'
 f_insight-2: >-
   ### Make the phone your best friend
 
@@ -127,7 +127,7 @@ f_conclusion: >-
 f_quote-2: >-
   "You can bring tremendous value to your business, your customers, and yourself
   by becoming proficient at bringing in new business."
-f_amazon-url: https://www.amazon.com/dp/0814431771/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0814431771/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

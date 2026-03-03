@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:09.510Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780536fb09c7aedcd3711_getting-change-right.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/getting-change-right/
+  alt: Getting Change Right book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/getting-change-right/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-Getting-Change-Right.mp3
 f_author-plain-text: Seth Kahan
@@ -64,7 +64,7 @@ f_big-idea: >-
 
   Without social construction, your communication is dusting off an old model,
   where your signal, transmitter, and receiver are just creating static.
-f_quote-reference: \- Getting Change Right, page 1
+f_quote-reference: '\- Getting Change Right, page 1'
 f_insight-2: >-
   ### Accelerate the Speed of Buy-In
 
@@ -160,7 +160,7 @@ f_quote-2: >-
   a new idea or application. Imposed value happens when one person or one group
   sends an idea out – as if all that is required is that others understand their
   intentions."
-f_amazon-url: https://www.amazon.com/dp/0470550481/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470550481/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

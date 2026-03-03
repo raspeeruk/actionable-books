@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:07:07.330Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780ad6d3d2478cfb3ff4f_9781609070090_p0_v2_s114x166.jpeg
-  alt: null
+  alt: The Power of Starting Something Stupid book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-power-of-starting-something-stupid/
 f_author-plain-text: Natalie Norton
@@ -80,7 +80,7 @@ f_big-idea: >-
 
   **Before things are considered normal, they’re new. And before they’re new,
   they’re just stupid.**
-f_quote-reference: \- The Power of Starting Something Stupid, page 80
+f_quote-reference: '\- The Power of Starting Something Stupid, page 80'
 f_insight-2: >-
   ### Service is the Greatest Evidence of Resolve
 
@@ -160,7 +160,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Stupid ideas come from a very powerful, creative space within our hearts and
   minds."
-f_amazon-url: https://www.amazon.com/dp/1609070097/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1609070097/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

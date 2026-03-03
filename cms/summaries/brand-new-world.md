@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:50.180Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780971c68aa62113b52da_brand-new-world-sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/brand-new-world/
+  alt: Brand New World book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/brand-new-world/'
 f_author-plain-text: Max Lenderman
 f_author: cms/authors/max-lenderman.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -43,7 +43,7 @@ f_big-idea: >-
   doing so, they build relationships. They connect with their customers, 1 on 1
   in real time. They provide an experience. They organically spread the Apple
   fever. And the brand is thriving as a result.
-f_quote-reference: \- Brand New World, page 223
+f_quote-reference: '\- Brand New World, page 223'
 f_insight-2: >-
   ### Be an Oligarch
 
@@ -123,7 +123,7 @@ f_quote-2: >-
   "More than half of all cell phone users now live in developing countries,
   making the mobile phone the first electronic technology to garner more users
   in the Third World than the First."
-f_amazon-url: https://www.amazon.com/dp/1554683963/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1554683963/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

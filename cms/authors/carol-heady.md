@@ -1,18 +1,18 @@
 ---
 title: Carol Heady
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Carol-Heady/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Carol-Heady/'
 f_unique-id: '810'
 f_image:
   url: /assets/external/65d779c7bb70bfffd2d4fde3_carol.jpeg
-  alt: null
+  alt: Carol Heady
 slug: carol-heady
 f_summaries:
   - cms/summaries/turning-rants-into-raves.md
 updated-on: '2024-02-23T13:30:42.865Z'
 created-on: '2024-02-22T16:43:51.293Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/rants2raves/
-f_website-2: http://turningrantsintoraves.com/
+f_twitter-2: 'http://twitter.com/rants2raves/'
+f_website-2: 'http://turningrantsintoraves.com/'
 layout: '[authors].html'
 tags: authors
 ---

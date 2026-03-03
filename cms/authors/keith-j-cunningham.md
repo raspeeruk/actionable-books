@@ -1,18 +1,18 @@
 ---
 title: Keith J. Cunningham
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Keith-J.-Cunningham/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Keith-J.-Cunningham/'
 f_unique-id: '764'
 slug: keith-j-cunningham
 f_image:
   url: /assets/external/65d77a1e336cf3351ac3f447_keith-j-cunningham-180x220.jpeg
-  alt: null
+  alt: Keith J. Cunningham
 f_summaries:
   - cms/summaries/the-ultimate-blueprint-for-an-insanely-successful-business.md
 updated-on: '2024-02-23T13:30:33.584Z'
 created-on: '2024-02-22T16:45:18.336Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/keystothevault/
-f_website-2: http://www.keystothevault.com/
+f_twitter-2: 'http://twitter.com/keystothevault/'
+f_website-2: 'http://www.keystothevault.com/'
 layout: '[authors].html'
 tags: authors
 ---

@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780838ab9c0e7829bbd28_a-million-miles-in-a-thousand-years-94x144.jpeg
-  alt: null
+  alt: A Million Miles in a Thousand Years book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/a-million-miles-in-a-thousand-years/
 f_author-plain-text: Donald Miller
@@ -40,7 +40,7 @@ f_big-idea: >-
   supportive people. The magic begins when we start doing things to achieve
   these goals. To start, we need to overcome our fear of failure and understand
   how adversity creates value in our lives.
-f_quote-reference: \- A Million Miles in a Thousand Years, page 29
+f_quote-reference: '\- A Million Miles in a Thousand Years, page 29'
 f_insight-2: >-
   ### Pain and suffering create meaning
 
@@ -113,7 +113,7 @@ f_quote-2: >-
   telling stories about. It never occurred to me that I could re-create my own
   story, my real life story, but in an evolution I had moved toward a better
   me."
-f_amazon-url: https://www.amazon.com/dp/1400202981/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1400202981/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

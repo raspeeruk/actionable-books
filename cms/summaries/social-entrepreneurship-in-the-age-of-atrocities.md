@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:42.213Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b748a50b1aa4e4575e_social_entrepreneurship.jpeg
-  alt: null
+  alt: Social Entrepreneurship in the Age of Atrocities book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/social-entrepreneurship-in-the-age-of-atrocities/
 f_podcast-url: >-
@@ -130,7 +130,7 @@ f_conclusion: >-
   For anyone looking to help create positive change in our world, this book
   offers a lot of practical advice from individuals that have gone before us and
   stepped out to create solutions to some of our biggest social challenges.
-f_amazon-url: https://www.amazon.com/dp/1781002134/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1781002134/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

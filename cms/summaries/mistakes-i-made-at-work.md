@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:27.541Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803b1e4002fac4522031_mistakes-i-made-at-work.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/mistakes-i-made-at-work/
+  alt: Mistakes I Made at Work book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/mistakes-i-made-at-work/'
 f_author-plain-text: Jessica Bacal
 f_author: cms/authors/jessica-bacal.md
 f_category-3: cms/summary-categories/self-management.md
@@ -36,7 +36,7 @@ f_big-idea: >-
   difficult to pull away from the cultural group-think, but when we define what
   we want for ourselves on our own terms, we can find a much deeper sense of
   satisfaction and happiness that exists beyond our work.
-f_quote-reference: \- Mistakes I Made At Work, page x
+f_quote-reference: '\- Mistakes I Made At Work, page x'
 f_insight-2: >-
   ### We don’t know everything. And that’s okay!
 
@@ -107,7 +107,7 @@ f_quote-2: >-
   from mistakes’ without actually describing any, to find that platitude
   helpful. It was advice served, like mediocre breakfast pastries, at just about
   every professional conference."
-f_amazon-url: https://www.amazon.com/dp/0142180572/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0142180572/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,14 +1,14 @@
 ---
 f_unique-number: 360
-title: Jab, Jab, Jab, Right Hook
+title: 'Jab, Jab, Jab, Right Hook'
 slug: jab-jab-jab-right-hook
 updated-on: '2024-02-27T20:30:02.299Z'
 created-on: '2024-02-22T16:06:18.200Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802373685ce4f9a0ef1f_jab-jab-right-hook.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/jab-jab-jab-right-hook/
+  alt: 'Jab, Jab, Jab, Right Hook book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/jab-jab-jab-right-hook/'
 f_author-plain-text: Gary Vaynerchuk
 f_author: cms/authors/gary-vaynerchuk.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -52,7 +52,7 @@ f_big-idea: >-
   exist; now they have their own culture and language.** It’s like new countries
   have emerged (bigger than most existing ones) and Gary is trying to teach us
   the language and local customs. He has become a native to them all.
-f_quote-reference: \- Jab, Jab, Jab, Right Hook, page 11
+f_quote-reference: '\- Jab, Jab, Jab, Right Hook, page 11'
 f_insight-2: >-
   ### Listen Well on Twitter
 
@@ -134,7 +134,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Your story isn’t powerful enough if all it does is lead the horse to water;
   it has to inspire the horse to drink, too."
-f_amazon-url: https://www.amazon.com/dp/006227306X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/006227306X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

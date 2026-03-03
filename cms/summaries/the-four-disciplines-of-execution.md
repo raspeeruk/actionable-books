@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:46.499Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803eef59090b11f88cc8_four_disciplines.jpeg
-  alt: null
+  alt: The 4 Disciplines of Execution book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-four-disciplines-of-execution/
 f_podcast-url: >-
@@ -46,7 +46,7 @@ f_big-idea: >-
 
   **How do you successfully deliver your day-to-day work while also
   concentrating on the WIGS?**
-f_quote-reference: \- The 4 Disciplines of Execution, page 6
+f_quote-reference: '\- The 4 Disciplines of Execution, page 6'
 f_insight-2: >-
   ### Hold a Weekly WIG Session to Drive Accountability
 
@@ -98,7 +98,7 @@ f_quote-2: >-
   going on a day-to-day basis; and ironically, it’s also the thing that makes it
   so hard to execute anything new. The whirlwind robs from you the focus
   required to move your team forward."
-f_amazon-url: https://www.amazon.com/dp/145162705X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/145162705X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

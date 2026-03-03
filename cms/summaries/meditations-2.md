@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:26.438Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805c029e815b3dc3aa88_meditations-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/meditations-2/
+  alt: Meditations book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/meditations-2/'
 f_author-plain-text: Marcus Aurelius
 f_author: cms/authors/marcus-aurelius.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -54,7 +54,7 @@ f_big-idea: >-
   *   Don’t fight the universe
 
   *   Everything comes to pass
-f_quote-reference: \- Meditations, page 62
+f_quote-reference: '\- Meditations, page 62'
 f_insight-2: >-
   ### The Importance of Karma
 
@@ -112,7 +112,7 @@ f_quote-2: >-
   "Retire into yourself. The rational governing centre is of such a nature that
   it finds its contentment in its own just conduct and the serenity that it
   gains from it."
-f_amazon-url: https://www.amazon.com/dp/0679642609/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0679642609/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

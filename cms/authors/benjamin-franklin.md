@@ -1,11 +1,11 @@
 ---
 title: Benjamin Franklin
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Benjamin-Franklin/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Benjamin-Franklin/'
 f_unique-id: '83'
 slug: benjamin-franklin
 f_image:
   url: /assets/external/65d779bad1c6852472144442_benjamin-franklin-lg-180x220.jpeg
-  alt: null
+  alt: Benjamin Franklin
 f_summaries:
   - cms/summaries/benjamin-franklin-the-autobiography.md
 updated-on: '2024-02-23T13:31:27.821Z'

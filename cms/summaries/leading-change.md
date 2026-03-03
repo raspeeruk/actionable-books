@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:20.283Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808913cdde318a641dc6_leading-change-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/leading-change/
+  alt: Leading Change book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/leading-change/'
 f_author-plain-text: John P. Kotter
 f_author: cms/authors/john-p-kotter.md
 f_category-3: cms/summary-categories/leadership.md
@@ -64,7 +64,7 @@ f_big-idea: >-
   leadership capacity at all levels is essential. Kotter describes successful
   organizations in the twenty-first century as becoming more like incubators of
   leadership – a concept that resonates well with me.
-f_quote-reference: \- Leading Change, location 56
+f_quote-reference: '\- Leading Change, location 56'
 f_insight-2: >-
   ### Empowerment
 
@@ -141,7 +141,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Speed of change is the driving force. Leading change competently is the only
   answer."
-f_amazon-url: https://www.amazon.com/dp/1422186431/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1422186431/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

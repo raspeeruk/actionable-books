@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:07.733Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d3ef2953d859f4deeb_procrastination_equation.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-procrastination-equation/
+  alt: The Procrastination Equation book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-procrastination-equation/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/ActionableBooks-Audio-The-Procrastination-Equation.mp3
 f_author-plain-text: Piers Steel
@@ -43,7 +43,7 @@ f_big-idea: >-
   you are; the more that you like to satisfy immediate needs and put off future
   enjoyment. Really when you think about it, that is why we procrastinate:
   because we are impulsive. **We trade short term pleasure for long term pain.**
-f_quote-reference: \- The Procrastination Equation, page 13
+f_quote-reference: '\- The Procrastination Equation, page 13'
 f_insight-2: >-
   ### Visualize and Contrast
 
@@ -105,7 +105,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The Achilles Heel of procrastination turns out to be impulsiveness; that is,
   living impatiently in the moment and wanting it all now."
-f_amazon-url: https://www.amazon.com/dp/B005CDTQ1O/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B005CDTQ1O/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

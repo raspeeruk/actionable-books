@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:46.579Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780bd1c0a370a82cc794c_anything_you_want.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/anything-you-want/
+  alt: Anything You Want book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/anything-you-want/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/01/ActionableBooks-Audio-Anything-You-Want.mp3
 f_author-plain-text: Derek Sivers
@@ -52,7 +52,7 @@ f_big-idea: >-
 
   _“Don’t try to impress an invisible jury of MBA professors. It’s OK to be
   casual.”_
-f_quote-reference: \- Anything You Want, inside flap
+f_quote-reference: '\- Anything You Want, inside flap'
 f_insight-2: >-
   ### Focus On Being, Not Having
 
@@ -144,7 +144,7 @@ f_conclusion: >-
 f_quote-2: >-
   "This is your one chance in life, you can have anything you want, what is
   worth doing?"
-f_amazon-url: https://www.amazon.com/dp/1936719118/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1936719118/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

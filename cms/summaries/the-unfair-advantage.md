@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:13.275Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806cef2953d859f4a902_the-unfair-advantage.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-unfair-advantage/
+  alt: The Unfair Advantage book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-unfair-advantage/'
 f_author-plain-text: Duane Lakin
 f_author: cms/authors/duane-lakin.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -50,7 +50,7 @@ f_big-idea: >-
   the email first so a catchy subject line may be needed.) Once you know their
   preferred language preference you can tailor future messages to them more
   accurately.
-f_quote-reference: \- The Unfair Advantage, page 2
+f_quote-reference: '\- The Unfair Advantage, page 2'
 f_insight-2: >-
   ### Past purchases
 
@@ -109,7 +109,7 @@ f_conclusion: >-
 f_quote-2: >-
   "So why do you see different results? The answer is found in your words and
   how you use them"
-f_amazon-url: https://www.amazon.com/dp/0967916240/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0967916240/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

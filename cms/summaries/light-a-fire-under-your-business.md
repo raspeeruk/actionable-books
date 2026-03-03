@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7803dcc2cced2a36e55a7_light-a-fire-under-your-business-94x144.jpeg
-  alt: null
+  alt: Light a Fire under Your Business book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/light-a-fire-under-your-business/
 f_author-plain-text: James W. Bird
@@ -44,7 +44,7 @@ f_big-idea: >-
 
   What does a Class 1 Culture look like for your organization? What can you do
   differently today to actively pursue that outcome?
-f_quote-reference: \- Light a Fire under Your Business, page 164
+f_quote-reference: '\- Light a Fire under Your Business, page 164'
 f_insight-2: >-
   ### Learn and Apply CPR for Business Success
 
@@ -141,7 +141,7 @@ f_quote-2: >-
   improves your organization but also ultimately enhances your brand by giving
   your leaders, your workforce, and your customers a good feeling about what you
   do and why you do it.”
-f_amazon-url: https://www.amazon.com/dp/144083458X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/144083458X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

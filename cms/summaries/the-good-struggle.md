@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:57.887Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808afa2506f22b8664f2_good-struggle.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-good-struggle/
+  alt: The Good Struggle book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-good-struggle/'
 f_author-plain-text: Joseph L. Badaracco
 f_author: cms/authors/joseph-l-badaracco.md
 f_category-3: cms/summary-categories/leadership.md
@@ -169,7 +169,7 @@ f_conclusion: >-
   The central question that propels this book is “Why do leaders choose the role
   of leadership?” Why do people choose this life? It is not because of money or
   position. Or, not these things alone.
-f_amazon-url: https://www.amazon.com/dp/1422191648/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1422191648/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

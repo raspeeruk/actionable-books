@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:07:21.503Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780bd6dbd28b39d94693f_what-to-do-when-its-your-turn.jpeg
-  alt: null
+  alt: What To Do When It’s Your Turn (And It’s Always Your Turn) book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/what-to-do-when-its-your-turn-and-its-always-your-turn/
 f_author-plain-text: Seth Godin
@@ -62,7 +62,7 @@ f_big-idea: >-
   Much of the book is focused on what holds us back from ‘taking our turn’.
   Although he does get into what we need to do, much of which is letting go of
   our fear of failure.
-f_quote-reference: \- What to do When It’s Your Turn, page 74
+f_quote-reference: '\- What to do When It’s Your Turn, page 74'
 f_insight-2: >-
   ### We have choices – we can be a giver or a taker
 
@@ -126,7 +126,7 @@ f_quote-2: >-
   "No wonder we don’t want to speak up or stand up or do anything much that
   matters. We’ve persuaded ourselves that good feelings aren’t even close to
   outweighing bad ones."
-f_amazon-url: https://www.amazon.com/dp/1936719312/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1936719312/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

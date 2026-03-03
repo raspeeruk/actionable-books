@@ -1,11 +1,11 @@
 ---
 title: Jim Noel
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Jim-Noel/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Jim-Noel/'
 f_unique-id: '670'
 slug: jim-noel
 f_image:
   url: /assets/external/65d77a108e15a167be1838c7_james-noel.png
-  alt: null
+  alt: Jim Noel
 f_summaries:
   - cms/summaries/the-leadership-pipeline.md
 updated-on: '2024-02-23T13:31:19.598Z'

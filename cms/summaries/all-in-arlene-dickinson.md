@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:46.051Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803ee4a0b87bccdf4f58_arlene-dickinson.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/all-in-arlene-dickinson/
+  alt: All In book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/all-in-arlene-dickinson/'
 f_author-plain-text: Arlene Dickinson
 f_author: cms/authors/arlene-dickinson.md
 f_category-3: cms/summary-categories/self-management.md
@@ -87,7 +87,7 @@ f_insight-1: >-
   path. Remember that you aren’t the only one on this wild and crazy
   rollercoaster ride. Be very sure you want it.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/144342062X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/144342062X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

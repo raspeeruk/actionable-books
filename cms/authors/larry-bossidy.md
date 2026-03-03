@@ -1,11 +1,11 @@
 ---
 title: Larry Bossidy
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Larry-Bossidy/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Larry-Bossidy/'
 f_unique-id: '207'
 slug: larry-bossidy
 f_image:
   url: /assets/external/65d77a2178a8c6764993a0a7_bossidy.jpeg
-  alt: null
+  alt: Larry Bossidy
 f_summaries:
   - cms/summaries/execution.md
 updated-on: '2024-02-23T13:31:19.591Z'

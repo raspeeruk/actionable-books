@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:53.228Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78023ef59090b11f87bff_confidence-code.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-confidence-code/
+  alt: The Confidence Code book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-confidence-code/'
 f_author-plain-text: Claire Shipman
 f_author: cms/authors/claire-shipman.md
 f_category-3: cms/summary-categories/self-management.md
@@ -44,7 +44,7 @@ f_big-idea: >-
   bad girl” actually boosts my credibility with people who assumed I was one
   way. It shows that I’m not afraid to take action when it is needed, and I’m
   not looking for approval.
-f_quote-reference: \- The Confidence Code, page 23
+f_quote-reference: '\- The Confidence Code, page 23'
 f_insight-2: >-
   ### Adopt a growth mind-set
 
@@ -91,7 +91,7 @@ f_conclusion: >-
 f_quote-2: >-
   "It is confidence that sways people. We may not realize it but we all give
   confidence inordinate weight and we respect people who project it"
-f_amazon-url: https://www.amazon.com/dp/006223062X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/006223062X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

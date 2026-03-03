@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:36.984Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a9f5fb99946848676d_refuse_to_choose.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/refuse-to-choose/
+  alt: Refuse to Choose! book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/refuse-to-choose/'
 f_category-3: cms/summary-categories/self-management.md
 f_team-2: cms/team/susan-gregory.md
 f_big-idea: >-
@@ -48,7 +48,7 @@ f_big-idea: >-
   may be best served by taking “Good Enough Jobs” that support them financially
   but leave time available to pursue other interests, such as casual or
   part-time positions.
-f_quote-reference: \- Refuse to Choose!, Book jacket
+f_quote-reference: '\- Refuse to Choose!, Book jacket'
 f_insight-2: >-
   ### Finish like a Scanner
 
@@ -156,7 +156,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Use ALL of your interests, passions, and hobbies to create the life and
   career of your dreams."
-f_amazon-url: https://www.amazon.com/dp/1594866260/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1594866260/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:07.280Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d8f232c4ec75c044a7_the-power-of-presence-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-power-of-presence/
+  alt: The Power of Presence book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-power-of-presence/'
 f_author-plain-text: Kristi Hedges
 f_author: cms/authors/kristi-hedges.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -58,7 +58,7 @@ f_big-idea: >-
   your actions convey the right message. Ask for feedback and accept it. First
   impressions are important; we do not often have the opportunity for others to
   get to know us.
-f_quote-reference: \- The Power of Presence, page 5
+f_quote-reference: '\- The Power of Presence, page 5'
 f_insight-2: >-
   ### Maintain trust with selflessness
 
@@ -131,7 +131,7 @@ f_quote-2: >-
   "My goals are to get you to reorient your beliefs about what makes a strong
   executive presence and rid yourself of limiting behaviors, while providing you
   with new ways of thinking and doing."
-f_amazon-url: https://www.amazon.com/dp/B0060LHDUS/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B0060LHDUS/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:27.105Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807023d6375759844c80_mindfire.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/mindfire/
+  alt: Mindfire book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/mindfire/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/04/ActionableBooks-Audio-Mindfire.mp3
 f_author-plain-text: Scott Berkun
@@ -61,7 +61,7 @@ f_big-idea: >-
   (What’s hilarious is that I started writing this section while watching a TV
   movie, and realized the grand irony. Of course, after a good laugh, I couldn’t
   continue, so I wrote the rest later.)
-f_quote-reference: \- Mindfire, back cover
+f_quote-reference: '\- Mindfire, back cover'
 f_insight-2: >-
   ### Creativity Is Being Fearless
 
@@ -158,7 +158,7 @@ f_conclusion: >-
   open to thinking new things and applying them in your life, then you’ll have a
   mind on fire and no one can stop you.
 f_quote-2: '"Passion means to pick something. Do it with all your heart. Repeat."'
-f_amazon-url: https://www.amazon.com/dp/0983873100/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0983873100/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

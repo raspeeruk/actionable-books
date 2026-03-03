@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:10.777Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780b3e997a36d750914a4_got-your-attention-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/got-your-attention/
+  alt: Got Your Attention? book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/got-your-attention/'
 f_author-plain-text: Sam Horn
 f_author: cms/authors/sam-horn.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -137,7 +137,7 @@ f_conclusion: >-
   range of people, not just writers, presenters or business CEOs making a pitch.
   With the stories Sam uses to illustrate her key messages, you are not only
   hooked in, but can easily grasp the point she wants to make.
-f_amazon-url: https://www.amazon.com/dp/1626562504/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1626562504/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,17 +1,17 @@
 ---
 title: Howard Stevens
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Howard-Stevens/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Howard-Stevens/'
 f_unique-id: '512'
 f_image:
   url: /assets/external/65d779ff3191f005ae2dee6d_stevens1.png
-  alt: null
+  alt: Howard Stevens
 slug: howard-stevens
 f_summaries:
   - cms/summaries/selling-the-wheel.md
 updated-on: '2024-02-23T13:31:07.808Z'
 created-on: '2024-02-22T16:44:47.697Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://chally.com/who-we-are/management/
+f_website-2: 'http://chally.com/who-we-are/management/'
 layout: '[authors].html'
 tags: authors
 ---

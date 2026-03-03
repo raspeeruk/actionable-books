@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:35.264Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78094b881391585a5a0f9_primary-greatness-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/primary-greatness/
+  alt: Primary Greatness book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/primary-greatness/'
 f_author-plain-text: Stephen Covey
 f_author: cms/authors/stephen-covey.md
 f_category-3: cms/summary-categories/self-management.md
@@ -105,7 +105,7 @@ f_conclusion: >-
   better than we are.” We can all be better and do better and if we live our
   lives striving to attain Primary Greatness, and at the end of our life, we’ll
   have done more good than we could have ever hoped.
-f_amazon-url: https://www.amazon.com/dp/1501106570/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1501106570/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

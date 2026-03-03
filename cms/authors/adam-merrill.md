@@ -1,11 +1,11 @@
 ---
 title: Adam Merrill
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Adam-Merrill/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Adam-Merrill/'
 f_unique-id: '644'
 slug: adam-merrill
 f_image:
   url: /assets/external/65d779a58a94f91b298574a4_adam-merrill-180x220.jpeg
-  alt: null
+  alt: Adam Merrill
 f_summaries:
   - cms/summaries/the-five-choices.md
 updated-on: '2024-02-23T13:31:17.940Z'

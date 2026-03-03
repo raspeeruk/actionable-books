@@ -1,18 +1,18 @@
 ---
 title: Vijay Govindarajan
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Vijay-Govindarajan/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Vijay-Govindarajan/'
 f_unique-id: '760'
 f_image:
   url: /assets/external/65d77a618628c88448365811_vijay-govindarajan.jpeg
-  alt: null
+  alt: Vijay Govindarajan
 f_summaries:
   - cms/summaries/the-three-box-solution.md
 slug: vijay-govindarajan
 updated-on: '2024-02-23T13:30:41.674Z'
 created-on: '2024-02-22T16:46:25.319Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/vgovindarajan/
-f_website-2: http://vijaygovindarajan.com
+f_twitter-2: 'http://twitter.com/vgovindarajan/'
+f_website-2: 'http://vijaygovindarajan.com'
 layout: '[authors].html'
 tags: authors
 ---

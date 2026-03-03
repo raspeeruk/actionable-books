@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:10.718Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780323eeb22463bc96ab1_good_to_great.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/good-to-great/
+  alt: Good to Great book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/good-to-great/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/02/AB-Audio-Good-to-Great.mp3
 f_author-plain-text: Jim Collins
@@ -20,7 +20,7 @@ f_quote-reference: ''
 f_insight-2: ''
 f_insight-1: ''
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0066620996/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0066620996/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

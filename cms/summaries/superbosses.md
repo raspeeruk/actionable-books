@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:44.841Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a5e7814865e30ffa49_superbosses-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/superbosses/
+  alt: Superbosses book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/superbosses/'
 f_author-plain-text: Sydney Finkelstein
 f_author: cms/authors/sydney-finkelstein.md
 f_category-3: cms/summary-categories/leadership.md
@@ -63,7 +63,7 @@ f_big-idea: >-
   6.  Take a punt on exceptional candidates even if no job exists.
 
   7.  Be constantly on the lookout for talent everywhere you go.
-f_quote-reference: \- Superbosses, page 14-15
+f_quote-reference: '\- Superbosses, page 14-15'
 f_insight-2: >-
   ### The Cohort Effect
 
@@ -151,7 +151,7 @@ f_quote-2: >-
   of leadership in most industries. In effect, superbosses have mastered
   something most bosses miss---a path to extraordinary success founded on making
   other people successful."
-f_amazon-url: https://www.amazon.com/dp/1591847834/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591847834/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

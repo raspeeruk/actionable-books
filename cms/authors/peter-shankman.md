@@ -1,16 +1,16 @@
 ---
 title: Peter Shankman
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Peter-Shankman/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Peter-Shankman/'
 f_unique-id: '406'
 slug: peter-shankman
 f_image:
   url: /assets/external/65d77a3e814eeaf90c720938_peter-shankman.jpeg
-  alt: null
+  alt: Peter Shankman
 updated-on: '2024-02-23T13:31:32.956Z'
 created-on: '2024-02-22T16:45:50.705Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: https://www.facebook.com/PeterShankman
-f_twitter-2: http://twitter.com/petershankman/
+f_facebook-2: 'https://www.facebook.com/PeterShankman'
+f_twitter-2: 'http://twitter.com/petershankman/'
 layout: '[authors].html'
 tags: authors
 ---

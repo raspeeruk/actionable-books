@@ -1,11 +1,11 @@
 ---
 title: Kathleen Mcchesney
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Kathleen-McChesney/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Kathleen-McChesney/'
 f_unique-id: '446'
 slug: kathleen-mcchesney
 f_image:
   url: /assets/external/65d77a1dba308546c5a7b003_mcchesney-180x220.jpeg
-  alt: null
+  alt: Kathleen Mcchesney
 f_summaries:
   - cms/summaries/pick-up-your-own-brass.md
 updated-on: '2024-02-23T13:31:27.142Z'

@@ -1,16 +1,16 @@
 ---
 title: Austin Kleon
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Austin-Kleon/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Austin-Kleon/'
 f_unique-id: '520'
 f_image:
   url: /assets/external/65d779b562300ba2b2062ac6_austin-kleon.jpeg
-  alt: null
+  alt: Austin Kleon
 slug: austin-kleon
 updated-on: '2024-02-23T13:31:09.773Z'
 created-on: '2024-02-22T16:43:34.196Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/austinkleon/
-f_website-2: http://austinkleon.com/
+f_twitter-2: 'http://twitter.com/austinkleon/'
+f_website-2: 'http://austinkleon.com/'
 layout: '[authors].html'
 tags: authors
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:00.717Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78055e7814865e30fcea7_leadership-challenge.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-leadership-challenge/
+  alt: The Leadership Challenge book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-leadership-challenge/'
 f_author-plain-text: Barry Z. Posner
 f_author: cms/authors/barry-z-posner.md
 f_category-3: cms/summary-categories/leadership.md
@@ -30,7 +30,7 @@ f_big-idea: >-
   that have not been reached. It can create situations where the organization
   and its leadership are not ordinary but extraordinary. Is that not what we all
   want, to leave our mark and be viewed as extraordinary?
-f_quote-reference: \- The Leadership Challenge, page 15
+f_quote-reference: '\- The Leadership Challenge, page 15'
 f_insight-2: >-
   ### Challenge with Purpose
 
@@ -83,7 +83,7 @@ f_conclusion: >-
   organization. You can even get inspirational daily quotes. Overall, it’s an
   engaging book and you can’t help but feel inspired after reading it.
 f_quote-2: '"Leadership is not about who you are; it’s about what you do. "'
-f_amazon-url: https://www.amazon.com/dp/0470651725/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470651725/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

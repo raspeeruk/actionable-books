@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:46.068Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802ef91f45c22806c956_tears-to-triumph-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/tears-to-triumph/
+  alt: Tears to Triumph book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/tears-to-triumph/'
 f_author-plain-text: Marianne Williamson
 f_author: cms/authors/marianne-williamson.md
 f_category-3: cms/summary-categories/self-management.md
@@ -35,7 +35,7 @@ f_big-idea: >-
   can have deeply sad days. The fact that we can be heartbroken is part of our
   humanity; it is not a weakness in our character. By avoiding our pain, we
   avoid our growth.
-f_quote-reference: \- Tears to Triumph, page xii
+f_quote-reference: '\- Tears to Triumph, page xii'
 f_insight-2: >-
   ### Changing Ourselves, Changing the World
 
@@ -132,7 +132,7 @@ f_conclusion: >-
 f_quote-2: >-
   “The pain you are going through is not what will determine your future; your
   future will be determined by who you are as you go through your pain.”
-f_amazon-url: https://www.amazon.com/dp/0062205447/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062205447/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

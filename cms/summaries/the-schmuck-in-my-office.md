@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:09.401Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803ae4a0b87bccdf4dae_schmuck-in-my-office-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-schmuck-in-my-office/
+  alt: The Schmuck in My Office book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-schmuck-in-my-office/'
 f_author-plain-text: Jody Foster
 f_author: cms/authors/jody-foster.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -77,7 +77,7 @@ f_big-idea: >-
   cause the stress and anxiety that creates the dysfunction. Therefore, before
   we assume the issues we may face are someone else’s fault, we need to turn
   inward and look in the mirror.
-f_quote-reference: \- The Schmuck in My Office, page 7
+f_quote-reference: '\- The Schmuck in My Office, page 7'
 f_insight-2: >-
   ### Communication is key
 
@@ -138,7 +138,7 @@ f_quote-2: >-
   "It’s easy to get angry and label someone a jerk or a schmuck. It’s much
   harder to try to understand the underpinnings of why he or she approaches the
   situation that way."
-f_amazon-url: https://www.amazon.com/dp/125007567X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/125007567X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

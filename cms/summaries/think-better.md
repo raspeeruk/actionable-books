@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:15.027Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78034540dd98b67c36b11_think-better-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/think-better/
+  alt: Think Better book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/think-better/'
 f_author-plain-text: Tim Hurson
 f_author: cms/authors/tim-hurson.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -50,7 +50,7 @@ f_big-idea: >-
   answer) 1001 questions in order to move beyond the obvious and open ourselves
   up to the wisdom that lies in exploring potentially wrong answers. Let’s try
   to be curious, absurd, bold, magical.
-f_quote-reference: \- Think Better, page 15
+f_quote-reference: '\- Think Better, page 15'
 f_insight-2: >-
   ### Make Time for Play
 
@@ -125,7 +125,7 @@ f_quote-2: >-
   "The power of productive thinking lies in its potential to increase your
   chances of finding, developing, and ultimately implementing unexpected
   connections."
-f_amazon-url: https://www.amazon.com/dp/0071494936/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071494936/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

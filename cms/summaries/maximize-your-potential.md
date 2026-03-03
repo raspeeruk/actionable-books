@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:26.484Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809248fff91cd3184c48_maximize-your-potential.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/maximize-your-potential/
+  alt: Maximize Your Potential book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/maximize-your-potential/'
 f_author-plain-text: Jocelyn K. Glei
 f_author: cms/authors/jocelyn-k-glei.md
 f_category-3: cms/summary-categories/self-management.md
@@ -46,7 +46,7 @@ f_big-idea: >-
   delineated an overall social media strategy nor developed a content calendar.
   Hmmmm! Embracing permanent BETA mode at work is not as reckless as I once
   imagined. Your turn. How are you embracing BETA mode?
-f_quote-reference: \- Maximize Your Potential, page 18
+f_quote-reference: '\- Maximize Your Potential, page 18'
 f_insight-2: >-
   ### Automate for Success
 
@@ -140,7 +140,7 @@ f_quote-2: >-
   "Your ability to realize your potential will depend upon your willingness to
   hone your skills, to take bold risks, and to put your ego on the line in
   pursuit of something greater."
-f_amazon-url: https://www.amazon.com/dp/1477800891/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1477800891/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

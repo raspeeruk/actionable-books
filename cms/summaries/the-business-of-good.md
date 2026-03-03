@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:51.457Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780aa813424c8d3a60ab7_business-of-good-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-business-of-good/
+  alt: The Business of Good book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-business-of-good/'
 f_author-plain-text: Jason Haber
 f_author: cms/authors/jason-haber.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -48,7 +48,7 @@ f_big-idea: >-
   organization that supports social entrepreneurs:) “Social entrepreneurs are
   not content just to give a fish or teach how to fish. They will not rest until
   they have revolutionized the fishing industry.”
-f_quote-reference: \- Martin Luther King, quoted in The Business of Good, location 1908
+f_quote-reference: '\- Martin Luther King, quoted in The Business of Good, location 1908'
 f_insight-2: >-
   ### Measurement Matters
 
@@ -138,7 +138,7 @@ f_quote-2: >-
   the fierce urgency of now. In this unfolding conundrum of life and history,
   there “is” such a thing as being too late. This is no time for apathy or
   complacency. This is a time for vigorous and positive action."
-f_amazon-url: https://www.amazon.com/dp/1599185865/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1599185865/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

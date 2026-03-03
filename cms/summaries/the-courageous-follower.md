@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:53.628Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780ac19f004f795e18e93_courageous-follower.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-courageous-follower/
+  alt: The Courageous Follower book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-courageous-follower/'
 f_author-plain-text: Ira Chaleff
 f_author: cms/authors/ira-chaleff.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -58,7 +58,7 @@ f_big-idea: >-
   follows them with a chapter on a kind of courage that the leader needs to
   exhibit in support of courageous followers — the courage to listen to
   followers.
-f_quote-reference: \- The Courageous Follow, page XVII
+f_quote-reference: '\- The Courageous Follow, page XVII'
 f_insight-2: >-
   ### Served "just right"
 
@@ -155,7 +155,7 @@ f_quote-2: >-
   will find the category ‘leadership’ and hundreds of books on the subject. You
   will not find a category 'followership,' and you will only find a handful of
   articles and books on the subject, tucked away under the leadership rubric."
-f_amazon-url: https://www.amazon.com/dp/1605092738/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1605092738/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

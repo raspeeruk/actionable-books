@@ -45,7 +45,7 @@ f_big-idea: >-
   Leadership – **true leadership** – is the ability to infuse those who report
   to you with an unshakeable trust in your intentions. Giving them zero reason
   to believe you have anything than your people’s best interests in mind.
-f_quote-reference: ''
+f_quote-reference: '- Leaders Eat Last, page 177'
 f_insight-2: >-
   ### You gotta love it
 
@@ -132,10 +132,16 @@ f_insight-1: >-
 
   If you want to develop your own leadership credibility, **give your people the
   gift of your time**; as much, and as often as you can.
-f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1591845327/?tag=actionableb08-20
+f_conclusion: >-
+  Simon is striving to create a new generation of men and women who create
+  success through leadership excellence instead of management acumen. And with
+  the lessons he’s sharing, he’s making it easy to understand not just **why**
+  we need to help people love their jobs, but **how** to do it and exactly
+  **what** we need to do.
+f_amazon-url: 'https://www.amazon.com/dp/1591845327/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: Creativity is not just something you think about – it is something you do.
 ---
 
 _“It is not the genius at the top giving directions that makes people great. It is great people that make the guy at the top look like a genius.”_

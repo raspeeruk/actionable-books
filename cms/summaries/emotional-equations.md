@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:04.285Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808dc32593873d997a08_140648325-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/emotional-equations/
+  alt: Emotional Equations book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/emotional-equations/'
 f_author-plain-text: Chip Conley
 f_author: cms/authors/chip-conley.md
 f_category-3: cms/summary-categories/self-management.md
@@ -54,7 +54,7 @@ f_big-idea: >-
 
   Negative emotions tend to grow in magnitude when left unchecked. The best way
   to put them into their proper context is through **action**.
-f_quote-reference: \- Emotional Equations, page 14
+f_quote-reference: '\- Emotional Equations, page 14'
 f_insight-2: >-
   ### Stay Curious
 
@@ -134,7 +134,7 @@ f_quote-2: >-
   makes up two-thirds of the likely success of business executives, compared
   with intellectual capacity (IQ), which, along with the amount of working
   experience, makes up only one-third."
-f_amazon-url: https://www.amazon.com/dp/1451607253/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1451607253/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

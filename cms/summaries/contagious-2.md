@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:54.551Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808e0fab8426e4496e6e_contagious.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/contagious-2/
+  alt: Contagious book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/contagious-2/'
 f_author-plain-text: Jonah Berger
 f_author: cms/authors/jonah-berger.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -51,7 +51,7 @@ f_big-idea: >-
   6.  **Stories.** People don’t just share information, they tell stories. Like
   the Trojan horse, we need to embed our products/ideas into stories people want
   to recount.
-f_quote-reference: \- Contagious, page 34
+f_quote-reference: '\- Contagious, page 34'
 f_insight-2: >-
   ### “Clean Ears Every Time”
 
@@ -121,7 +121,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Maybe instead of giving people a penny for their thoughts, we should get paid
   a penny for listening.”
-f_amazon-url: https://www.amazon.com/dp/1451686579/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1451686579/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

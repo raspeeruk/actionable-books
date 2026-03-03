@@ -1,18 +1,18 @@
 ---
 title: Patrick Thean
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Patrick-Thean/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Patrick-Thean/'
 f_unique-id: '495'
 slug: patrick-thean
 f_image:
   url: /assets/external/65d77a3a466118417dcfa88d_patrick-thean-180x220.jpeg
-  alt: null
+  alt: Patrick Thean
 f_summaries:
   - cms/summaries/rhythm.md
 updated-on: '2024-02-23T13:30:47.664Z'
 created-on: '2024-02-22T16:45:47.044Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/pthean/
-f_website-2: http://RhythmSystems.com
+f_twitter-2: 'http://twitter.com/pthean/'
+f_website-2: 'http://RhythmSystems.com'
 layout: '[authors].html'
 tags: authors
 ---

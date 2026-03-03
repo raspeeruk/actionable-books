@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780ac6632c78c3b6e0ec8_leading-from-the-emerging-future-94x144.jpeg
-  alt: null
+  alt: Leading from the Emerging Future book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/leading-from-the-emerging-future/
 f_author-plain-text: Katrin Kaufer
@@ -65,7 +65,7 @@ f_big-idea: >-
   the authors call “ego-system” to “eco-system.” At the core of the shift is a
   shift from “me” thinking—focused on the wellbeing of the self to “we”
   thinking—the wellbeing of the whole.
-f_quote-reference: \- Leading from the Emerging Future, page 67
+f_quote-reference: '\- Leading from the Emerging Future, page 67'
 f_insight-2: >-
   ### Listen Like You’ve Never Listened Before
 
@@ -127,7 +127,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The blind spot in the twentieth-century toolkit of economics and management
   can be summarized in a single word: consciousness."
-f_amazon-url: https://www.amazon.com/dp/1605099260/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1605099260/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

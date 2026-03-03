@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:52.937Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78056f40a70780ee9aebb_156539628-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-advantage/
+  alt: The Advantage book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-advantage/'
 f_author-plain-text: Patrick Lencioni
 f_author: cms/authors/patrick-lencioni.md
 f_category-3: cms/summary-categories/leadership.md
@@ -67,7 +67,7 @@ f_big-idea: >-
   Creating Clarity**, so you can get a sense of the type of content offered in
   the book. And, ideally, you can start putting something into practice
   immediately.
-f_quote-reference: \- The Advantage, page 16
+f_quote-reference: '\- The Advantage, page 16'
 f_insight-2: >-
   ### The Rallying Cry
 
@@ -183,7 +183,7 @@ f_conclusion: >-
 f_quote-2: >-
   "...any organization that really wants to maximize its success must come to
   embody two basic qualities: it must be smart, and it must be healthy."
-f_amazon-url: https://www.amazon.com/dp/0470941529/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470941529/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

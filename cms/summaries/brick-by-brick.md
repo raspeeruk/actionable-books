@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:51.092Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78046391413176f575195_brick-by-brick-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/brick-by-brick/
+  alt: Brick By Brick book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/brick-by-brick/'
 f_author-plain-text: Bill Breen
 f_author: cms/authors/bill-breen.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -47,7 +47,7 @@ f_big-idea: >-
   their goal on creating products that were “recognizably LEGO, but have never
   been seen before.” Acting authentically builds credibility that drives
   customer support and fosters an impactful, innovative company culture.
-f_quote-reference: \- Brick By Brick, page 46
+f_quote-reference: '\- Brick By Brick, page 46'
 f_insight-2: >-
   ### Shared Vision Binds the Organization
 
@@ -124,7 +124,7 @@ f_quote-2: >-
   driven. Practice disruptive innovation. Foster open innovation — heed the
   wisdom of the crowd. Explore the full spectrum of innovation. Build an
   innovation culture.”
-f_amazon-url: https://www.amazon.com/dp/0307951618/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0307951618/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

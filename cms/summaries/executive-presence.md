@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:05.666Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780348f07fe5dc44ca00b_executive_presence.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/executive-presence/
+  alt: Executive Presence book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/executive-presence/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/04/ActionableBooks-Audio-Executive-Presence.mp3
 f_author-plain-text: Harrison Monarth
@@ -50,7 +50,7 @@ f_big-idea: >-
   creating and maintaining a personal brand that broadcasts your positive
   reputation to a wide audience, and from managing and controlling your online
   reputation to performing effective damage control when things go wrong.
-f_quote-reference: \- Executive Presence, page 2
+f_quote-reference: '\- Executive Presence, page 2'
 f_insight-2: >-
   ### How to communicate for maximum impact
 
@@ -151,7 +151,7 @@ f_quote-2: >-
   know; it’s who you know.’ …this cliché isn’t quite on target, but if we adjust
   it to ‘it’s not only what you know but how you manage perception,’ we are
   taking the first steps on a life-altering journey."
-f_amazon-url: https://www.amazon.com/dp/0071632875/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071632875/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

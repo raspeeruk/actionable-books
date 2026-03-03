@@ -1,18 +1,18 @@
 ---
 title: Rolf Dobelli
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Rolf-Dobelli/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Rolf-Dobelli/'
 f_unique-id: '593'
 f_image:
   url: /assets/external/65d77a4aeb2a66fcb6f02e7a_rolf-dobelli.jpeg
-  alt: null
+  alt: Rolf Dobelli
 f_summaries:
   - cms/summaries/the-art-of-thinking-clearly.md
 slug: rolf-dobelli
 updated-on: '2024-02-23T13:30:36.819Z'
 created-on: '2024-02-22T16:46:02.291Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/dobelli/
-f_website-2: http://www.dobelli.com/
+f_twitter-2: 'http://twitter.com/dobelli/'
+f_website-2: 'http://www.dobelli.com/'
 layout: '[authors].html'
 tags: authors
 ---

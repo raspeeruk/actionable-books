@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780cef5fb999468487846_the-net-and-the-butterfly-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-net-and-the-butterfly/
+  alt: The Net and the Butterfly book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-net-and-the-butterfly/'
 f_author-plain-text: Judah Pollack
 f_author: cms/authors/judah-pollack.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -168,7 +168,7 @@ f_conclusion: >-
   thrive. The vital skills in the coming years will demand that we modernize our
   minds in order to sustain our future. _The Net and the Butterfly_ gives us a
   framework and toolbox to practice an evolved state of working and living.
-f_amazon-url: https://www.amazon.com/dp/B01EH1EKO4/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B01EH1EKO4/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

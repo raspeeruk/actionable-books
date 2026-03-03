@@ -1,11 +1,11 @@
 ---
 title: Edmund Morris
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Edmund-Morris/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Edmund-Morris/'
 f_unique-id: '738'
 slug: edmund-morris
 f_image:
   url: /assets/external/65d779f02544613a36abcd03_edmund_morris.jpeg
-  alt: null
+  alt: Edmund Morris
 f_summaries:
   - cms/summaries/the-rise-of-theodore-roosevelt.md
 updated-on: '2024-02-23T13:31:26.813Z'

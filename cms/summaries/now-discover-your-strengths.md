@@ -1,14 +1,14 @@
 ---
 f_unique-number: 479
-title: Now, Discover Your Strengths
+title: 'Now, Discover Your Strengths'
 slug: now-discover-your-strengths
 updated-on: '2024-02-27T20:30:47.242Z'
 created-on: '2024-02-22T16:06:29.684Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78060b881391585a58366_nowdiscover_sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/now-discover-your-strengths/
+  alt: 'Now, Discover Your Strengths book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/now-discover-your-strengths/'
 f_author-plain-text: Marcus Buckingham
 f_author: cms/authors/marcus-buckingham.md
 f_category-3: cms/summary-categories/leadership.md
@@ -18,7 +18,7 @@ f_quote-reference: ''
 f_insight-2: ''
 f_insight-1: ''
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0743201140/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0743201140/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

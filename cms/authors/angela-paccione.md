@@ -1,17 +1,17 @@
 ---
 title: Angela Paccione
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Angela-Paccione/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Angela-Paccione/'
 f_unique-id: '420'
 slug: angela-paccione
 f_image:
   url: /assets/external/65d779b07ae3a8760854d117_angela-paccione-180x220.jpeg
-  alt: null
+  alt: Angela Paccione
 f_summaries:
   - cms/summaries/one-team.md
 updated-on: '2024-02-23T13:30:38.998Z'
 created-on: '2024-02-22T16:43:29.022Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://www.angiepaccione.com/
+f_website-2: 'http://www.angiepaccione.com/'
 layout: '[authors].html'
 tags: authors
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:17.965Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78054e88f5f3f6bcbc5c1_trust_agents_sm.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/trust-agents/
+  alt: Trust Agents book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/trust-agents/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/08/ActionableBooks-Audio-Trust-Agents.mp3
 f_author-plain-text: Julien Smith and Chris Brogan
@@ -140,7 +140,7 @@ f_conclusion: >-
   is fair and compassionate with others, is passionate about their work, and has
   a clear sense of where they’re going, the Web is your friend. Just don’t
   forget that it’s there to work for you, and not the other way around.
-f_amazon-url: https://www.amazon.com/dp/0470635495/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470635495/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

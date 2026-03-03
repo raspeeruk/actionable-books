@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:41.344Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780da124d447bdbf71a4d_smarter-faster-better-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/smarter-faster-better-2/
+  alt: Smarter Faster Better book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/smarter-faster-better-2/'
 f_author-plain-text: Charles Duhigg
 f_author: cms/authors/charles-duhigg.md
 f_category-3: cms/summary-categories/self-management.md
@@ -45,7 +45,7 @@ f_big-idea: >-
 
   My big ah-ha? If you want to make smarter, faster, better decisions, you’ll
   need to strengthen your Bayesian thinking muscles!
-f_quote-reference: \- Smarter Faster Better, page 8
+f_quote-reference: '\- Smarter Faster Better, page 8'
 f_insight-2: >-
   ### Master the Art of Chunking
 
@@ -141,7 +141,7 @@ f_quote-2: >-
   "We’ve been staring at the tools of productivity – the gadgets and apps and
   complicated filing systems for keeping track of various to-do lists – rather
   than the lessons those technologies are trying to teach us."
-f_amazon-url: https://www.amazon.com/dp/B012089MSA/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B012089MSA/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

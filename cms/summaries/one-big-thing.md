@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:29.190Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78041eadf9e5ad1503ce4_one_big_thing.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/one-big-thing/
+  alt: One Big Thing book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/one-big-thing/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/08/ActionableBooks-Audio-One-Big-Thing.mp3
 f_author-plain-text: Phil Cooke
@@ -37,7 +37,7 @@ f_big-idea: >-
   command like no one else. The following two Insights will help you to identify
   your purpose, and what to do if what you thought was your purpose doesn’t
   really work out.
-f_quote-reference: \- One Big Thing, page 20
+f_quote-reference: '\- One Big Thing, page 20'
 f_insight-2: >-
   ### Know When To Move On
 
@@ -119,7 +119,7 @@ f_quote-2: >-
   calling, expertise, and brand, and what doesn’t? What will actually take you
   into the future? What could you potentially be the best in your field at
   accomplishing?"
-f_amazon-url: https://www.amazon.com/dp/159555484X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/159555484X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

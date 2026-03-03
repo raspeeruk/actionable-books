@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:05:53.879Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78066345fe67ffc98bba8_pyramid-of-success-94x144.jpeg
-  alt: null
+  alt: Coach Wooden’s Pyramid of Success book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/coach-woodens-pyramid-of-success/
 f_author-plain-text: Jay Carty
@@ -46,7 +46,7 @@ f_big-idea: >-
   meeting with the client instead of winging it. Even if the results are less
   than stellar, you will have the satisfaction of knowing you didn’t hold back –
   you gave it your all. That is the success Coach Wooden wishes for you.
-f_quote-reference: \- Coach Wooden’s Pyramid of Success, page 12
+f_quote-reference: '\- Coach Wooden’s Pyramid of Success, page 12'
 f_insight-2: >-
   ### Take Initiative
 
@@ -114,7 +114,7 @@ f_quote-2: >-
   "Success is peace of mind which is a direct result of self-satisfaction in
   knowing you did your best to become the best that you are capable of
   becoming."
-f_amazon-url: https://www.amazon.com/dp/0800726251/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0800726251/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

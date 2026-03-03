@@ -1,16 +1,16 @@
 ---
 title: Chris Anderson
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Chris-Anderson/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Chris-Anderson/'
 f_unique-id: '239'
 f_image:
   url: /assets/external/65d779ccf8540e9358628668_chris-anderson-lg-180x220.jpeg
-  alt: null
+  alt: Chris Anderson
 slug: chris-anderson
 updated-on: '2024-02-23T13:30:28.135Z'
 created-on: '2024-02-22T16:43:56.561Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/chr1sa/
-f_website-2: http://www.wired.com/
+f_twitter-2: 'http://twitter.com/chr1sa/'
+f_website-2: 'http://www.wired.com/'
 layout: '[authors].html'
 tags: authors
 ---

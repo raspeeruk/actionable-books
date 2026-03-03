@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:08.900Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d7f6702f0b878cbb83_free.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/free/
+  alt: Free book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/free/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/07/Actionabable-Books-Audio-Free.mp3
 f_author-plain-text: Chris Anderson
@@ -118,7 +118,7 @@ f_conclusion: >-
   some new rules, to be sure, and some people/companies that have enjoyed
   success in the past model may not be able or willing to make the switch. But
   for those who do, the world is truly your playground. I encourage you to play.
-f_amazon-url: https://www.amazon.com/dp/B0043RT912/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B0043RT912/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

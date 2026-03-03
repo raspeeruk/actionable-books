@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d78074be5355ca50904ae8_our-journey-to-corporate-sanity-94x144.jpeg
-  alt: null
+  alt: Our Journey to Corporate Sanity book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/our-journey-to-corporate-sanity/
 f_author-plain-text: Ayelet Baron
@@ -47,7 +47,7 @@ f_big-idea: >-
   lives. Where we can view our careers as an essential part of ourselves, take
   pride in what we do, and contribute to our organizations with enthusiasm and
   pride.
-f_quote-reference: \- Our Journey to Corporate Sanity, page 9
+f_quote-reference: '\- Our Journey to Corporate Sanity, page 9'
 f_insight-2: >-
   ### Put the Map Down
 
@@ -140,7 +140,7 @@ f_quote-2: >-
   acquiring more and more possessions does not actually fulfill us. In the
   frenzy to achieve success on this materialistic and achievement driven road,
   we have lost vital pieces of ourselves.”
-f_amazon-url: https://www.amazon.com/dp/0995030235/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0995030235/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:31.112Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780891c0a370a82cc6216_own-the-room.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/own-the-room/
+  alt: Own the Room book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/own-the-room/'
 f_author-plain-text: Amy Jen Su
 f_author: cms/authors/amy-jen-su.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -117,7 +117,7 @@ f_insight-1: >-
   write yourself a new bio that celebrates your uniqueness.** Use it as a
   motivator and guide as you work on your signature voice.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1422183939/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1422183939/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

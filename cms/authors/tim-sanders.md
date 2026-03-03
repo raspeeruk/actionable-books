@@ -1,16 +1,16 @@
 ---
 title: Tim Sanders
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Tim-Sanders/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Tim-Sanders/'
 f_unique-id: '362'
 f_image:
   url: /assets/external/65d77a5c8edbc07e760bbd9b_tim-sanders-lg-180x220.jpeg
-  alt: null
+  alt: Tim Sanders
 slug: tim-sanders
 updated-on: '2024-02-23T13:31:27.738Z'
 created-on: '2024-02-22T16:46:20.553Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_facebook-2: http://www.facebook.com/pages/Author-Tim-Sanders/328106042585
-f_twitter-2: http://twitter.com/sanderssays/
+f_facebook-2: 'http://www.facebook.com/pages/Author-Tim-Sanders/328106042585'
+f_twitter-2: 'http://twitter.com/sanderssays/'
 layout: '[authors].html'
 tags: authors
 ---

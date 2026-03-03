@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:17.763Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78066cc81e56affccfd45_true-north.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/true-north/
+  alt: True North book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/true-north/'
 f_author-plain-text: Bill George
 f_author: cms/authors/bill-george.md
 f_category-3: cms/summary-categories/leadership.md
@@ -95,7 +95,7 @@ f_conclusion: >-
   The authors encourage “us as the author of our own stories to connect the dots
   between our past and our future to find our inspiration to lead
   authentically.”
-f_amazon-url: https://www.amazon.com/dp/0787987514/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0787987514/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

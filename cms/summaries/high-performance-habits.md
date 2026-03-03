@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7808511e0ad2b62bf0d2d_high-performance-habits-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/high-performance-habits/
+  alt: High Performance Habits book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/high-performance-habits/'
 f_author-plain-text: Brendon Burchard
 f_author: cms/authors/brendon-burchard.md
 f_category-3: cms/summary-categories/self-management.md
@@ -82,7 +82,7 @@ f_big-idea: >-
   phone call, and before you start a new project, revisit these habits. You can
   also assess yourself using Burchard’s [High Performance Indicator
   test](https://brendon.mykajabi.com/p/hph-tools).
-f_quote-reference: \- High Performance Habits, page xiv
+f_quote-reference: '\- High Performance Habits, page xiv'
 f_insight-2: >-
   ### Develop Your Influence
 
@@ -180,7 +180,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Study high performers and you will see that they have systems built into
   their days that drive their success.”
-f_amazon-url: https://www.amazon.com/dp/1401952852/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1401952852/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

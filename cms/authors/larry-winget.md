@@ -1,18 +1,18 @@
 ---
 title: Larry Winget
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Larry-Winget/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Larry-Winget/'
 f_unique-id: '268'
 f_image:
   url: /assets/external/65d77a21c4926c38a1f66912_winget.jpeg
-  alt: null
+  alt: Larry Winget
 slug: larry-winget
 f_summaries:
   - cms/summaries/grow-a-pair.md
 updated-on: '2024-02-23T13:30:52.925Z'
 created-on: '2024-02-22T16:45:21.555Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/larrywinget‎/
-f_website-2: http://larrywinget.com
+f_twitter-2: 'http://twitter.com/larrywinget‎/'
+f_website-2: 'http://larrywinget.com'
 layout: '[authors].html'
 tags: authors
 ---

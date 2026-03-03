@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:22.507Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78037ae01b6ab310b7d17_living-forward-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/living-forward/
+  alt: Living Forward book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/living-forward/'
 f_author-plain-text: Daniel Harkavy
 f_author: cms/authors/daniel-harkavy.md
 f_category-3: cms/summary-categories/self-management.md
@@ -55,7 +55,7 @@ f_big-idea: >-
   things you can do daily, weekly and monthly to achieve that vision will make
   it easier to take the next step – eliminating the tasks and activities that
   don’t support your identified priorities to make room for those that do.
-f_quote-reference: \- Living Forward, page 106
+f_quote-reference: '\- Living Forward, page 106'
 f_insight-2: >-
   ### Accentuate the Positive
 
@@ -133,7 +133,7 @@ f_quote-2: >-
   "Life Planning is fundamentally about imagining a better future. It’s about
   breaking free of your limiting beliefs, tapping into your deepest desires, and
   standing in the realm of possibility."
-f_amazon-url: https://www.amazon.com/dp/080101882X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/080101882X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

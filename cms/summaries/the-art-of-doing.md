@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:48.855Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d5c32593873d99a6b2_art-of-doing.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-art-of-doing/
+  alt: The Art of Doing book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-art-of-doing/'
 f_author-plain-text: Camille Sweeney
 f_author: cms/authors/camille-sweeney.md
 f_category-3: cms/summary-categories/self-management.md
@@ -92,7 +92,7 @@ f_conclusion: >-
   encountered day-to-day struggles, just like you and I, and yet were able to
   find their own individual artistry to channel super achievements. Capes not
   required.
-f_amazon-url: https://www.amazon.com/dp/B008EXK6MM/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B008EXK6MM/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

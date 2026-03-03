@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7802ee997a36d7508c4cc_hard-thing-about-hard-things-94x144.jpeg
-  alt: null
+  alt: The Hard Thing About Hard Things book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-hard-thing-about-hard-things/
 f_author-plain-text: Ben Horowitz
@@ -60,7 +60,7 @@ f_big-idea: >-
   Terror removes secondary alternatives and input from marginally valuable
   sources. Terror provides clear focus and clear paths forward for those capable
   of using terror as a leadership tool.
-f_quote-reference: \- The Hard Thing About Hard Things, page x
+f_quote-reference: '\- The Hard Thing About Hard Things, page x'
 f_insight-2: >-
   ### How to Lead Even When You Don’t Know Where You’re Going
 
@@ -118,7 +118,7 @@ f_conclusion: >-
 f_quote-2: >-
   “That’s the hard thing about hard things – there is no formula for dealing
   with them”
-f_amazon-url: https://www.amazon.com/dp/0062273205/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0062273205/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

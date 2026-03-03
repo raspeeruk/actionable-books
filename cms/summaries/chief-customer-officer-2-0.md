@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7807e6a90cc1e85901e96_chief-customer-officer-2-0-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/chief-customer-officer-2-0/
+  alt: Chief Customer Officer 2.0 book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/chief-customer-officer-2-0/'
 f_author-plain-text: Jeanne Bliss
 f_author: cms/authors/jeanne-bliss.md
 f_category-3: cms/summary-categories/leadership.md
@@ -48,7 +48,7 @@ f_big-idea: >-
   out improvements. If the leadership team is not aligned and behind this goal,
   and working together to ensure its success, it will be impossible to get the
   rest of the company to do so.
-f_quote-reference: \- Chief Customer Officer 2.0, page 1
+f_quote-reference: '\- Chief Customer Officer 2.0, page 1'
 f_insight-2: >-
   ### Experience Needs to Be Consistent and Reliable
 
@@ -116,7 +116,7 @@ f_quote-2: >-
   "A Chief Customer Officer is successful when he or she can simplify how the
   organization works together to achieve customer-driven growth, engage the
   leadership team, and connect the work to a return on investment."
-f_amazon-url: https://www.amazon.com/dp/1119047609/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1119047609/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

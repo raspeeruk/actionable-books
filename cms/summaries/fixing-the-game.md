@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:07.472Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78088aed215aa0062e996_fixing_the_game-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/fixing-the-game/
+  alt: Fixing the Game book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/fixing-the-game/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/08/ActionableBooks-Audio-Fixing-the-Game.mp3
 f_author-plain-text: Roger Martin
@@ -146,7 +146,7 @@ f_conclusion: >-
   as the content is as dense as it is riveting. It’s truly been a long time
   since I’ve read something this mind expanding, and I look forward to seeing
   what Martin has up his sleeve in the future.
-f_amazon-url: https://www.amazon.com/dp/1422171647/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1422171647/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

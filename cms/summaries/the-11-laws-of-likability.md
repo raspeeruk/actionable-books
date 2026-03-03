@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:47.174Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78069e79b884267bd1be5_11-laws.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-11-laws-of-likability/
+  alt: The 11 Laws of Likability book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-11-laws-of-likability/'
 f_author-plain-text: Michelle Tillis Lederman
 f_author: cms/authors/michelle-tillis-lederman.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -18,7 +18,7 @@ f_quote-reference: ''
 f_insight-2: ''
 f_insight-1: ''
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/0814416373/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0814416373/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

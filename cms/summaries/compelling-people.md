@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:54.169Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803bd5383806327c6fff_compelling-people-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/compelling-people/
+  alt: Compelling People book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/compelling-people/'
 f_author-plain-text: John Neffinger
 f_author: cms/authors/john-neffinger.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -65,7 +65,7 @@ f_big-idea: >-
   authors say is to share feelings, good or bad, happy or sad. I know that’s
   easier for some of us than for others. Maybe it will help encourage you,
   knowing that it will help you connect.
-f_quote-reference: \- Compelling People, page xiv
+f_quote-reference: '\- Compelling People, page xiv'
 f_insight-2: >-
   ### Women just have to be perfect – that’s all
 
@@ -154,7 +154,7 @@ f_quote-2: >-
   "This book is the culmination of our research and experience helping clients
   connect with audiences in boardrooms, on K street, at cocktail parties and
   Sunday picnics."
-f_amazon-url: https://www.amazon.com/dp/0142181021/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0142181021/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

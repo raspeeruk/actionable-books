@@ -1,18 +1,18 @@
 ---
 title: Chris Grivas
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Chris-Grivas/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Chris-Grivas/'
 f_unique-id: '664'
 slug: chris-grivas
 f_image:
   url: /assets/external/65d779ce8c2c4eb282714311_chris_grivas.png
-  alt: null
+  alt: Chris Grivas
 f_summaries:
   - cms/summaries/the-innovative-team.md
 updated-on: '2024-02-23T13:31:07.578Z'
 created-on: '2024-02-22T16:43:58.346Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/ChrisGrivas/
-f_website-2: http://chrisgrivas.com
+f_twitter-2: 'http://twitter.com/ChrisGrivas/'
+f_website-2: 'http://chrisgrivas.com'
 layout: '[authors].html'
 tags: authors
 ---

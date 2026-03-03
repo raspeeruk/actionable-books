@@ -1,17 +1,17 @@
 ---
 title: Phil Jackson
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Phil-Jackson/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Phil-Jackson/'
 f_unique-id: '502'
 f_image:
   url: /assets/external/65d77a3f2acdcaa916a69530_philjacksoncblakelittle.jpeg
-  alt: null
+  alt: Phil Jackson
 f_summaries:
   - cms/summaries/sacred-hoops.md
 slug: phil-jackson
 updated-on: '2024-02-23T13:31:14.094Z'
 created-on: '2024-02-22T16:45:51.610Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/PhilJackson11/
+f_twitter-2: 'http://twitter.com/PhilJackson11/'
 layout: '[authors].html'
 tags: authors
 ---

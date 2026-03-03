@@ -1,18 +1,18 @@
 ---
 title: Richard Sheridan
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Richard-Sheridan/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Richard-Sheridan/'
 f_unique-id: '326'
 f_image:
   url: /assets/external/65d77a44dea862ebf3511ede_richard-sheridan.jpeg
-  alt: null
+  alt: Richard Sheridan
 slug: richard-sheridan
 f_summaries:
   - cms/summaries/joy-inc.md
 updated-on: '2024-02-23T13:30:51.308Z'
 created-on: '2024-02-22T16:45:56.989Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/menloprez/
-f_website-2: http://menloinnovations.com/joyinc
+f_twitter-2: 'http://twitter.com/menloprez/'
+f_website-2: 'http://menloinnovations.com/joyinc'
 layout: '[authors].html'
 tags: authors
 ---

@@ -146,8 +146,8 @@ f_insight-1: >-
 
 
   3.) **Stop asking for permission.** Permission is _so_ 20th century.
-f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1455520020/?tag=actionableb08-20
+f_conclusion: "The internet has opened up equal opportunity like nothing we’ve experienced before.\_ In a free and open internet, there are such small barriers to entry that all you need is a good idea that’s also something people want, and some dedicated time and energy to bring that idea to life. So just start. Or as Ohanian would say, “_Want to make the world a better place? Or, as I like to say, just make it suck less? What are you waiting for?_”"
+f_amazon-url: 'https://www.amazon.com/dp/1455520020/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

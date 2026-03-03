@@ -1,11 +1,11 @@
 ---
 title: Brian Cole Miller
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Brian-Cole-Miller/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Brian-Cole-Miller/'
 f_unique-id: '480'
 slug: brian-cole-miller
 f_image:
   url: /assets/external/65d779c28a94f91b298588ea_brian-cole-miller.jpeg
-  alt: null
+  alt: Brian Cole Miller
 f_summaries:
   - cms/summaries/quick-team-building-activities-for-busy-managers.md
 updated-on: '2024-02-23T13:31:29.184Z'

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:18.076Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d0f0b248a4671a6aa2_truth-at-work-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/truth-at-work/
+  alt: Truth at Work book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/truth-at-work/'
 f_author-plain-text: Mark Murphy
 f_author: cms/authors/mark-murphy.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -42,7 +42,7 @@ f_big-idea: >-
   skills shared below, you can face each opportunity to share your feedback. The
   benefits to you, the person receiving the information, and the organization
   will be immediate.
-f_quote-reference: \- The Truth at Work, page 7
+f_quote-reference: '\- The Truth at Work, page 7'
 f_insight-2: >-
   ### Create a picture of the behavior you want to see
 
@@ -115,7 +115,7 @@ f_quote-2: >-
   afraid of getting shot, divorce rates remain high, and parents still can’t
   find a way to communicate with their kids. Even our political disagreements
   have, in some cases, literally descended into violence."
-f_amazon-url: https://www.amazon.com/dp/B01NCNABXV/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B01NCNABXV/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

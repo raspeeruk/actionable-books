@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:44.223Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780da9b92e746e8689ada_succeed.jpeg
-  alt: null
+  alt: 'Succeed: How We Can Reach Our Goals book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/succeed-how-we-can-reach-our-goals/
 f_author-plain-text: Heidi Grant Halvorson
@@ -112,7 +112,7 @@ f_conclusion: >-
   opportunity. Reach for this invaluable book if you’re serious about achieving
   your goals and making this year count. “You can be more successful in reaching
   your goals than you have been in the past. Make success happen.”
-f_amazon-url: https://www.amazon.com/dp/B00475AYJG/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00475AYJG/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -1,18 +1,18 @@
 ---
 title: Niraj Dawar
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Niraj-Dawar/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Niraj-Dawar/'
 f_unique-id: '793'
 f_image:
   url: /assets/external/65d77a38dea862ebf3511996_niraj-dawar.jpeg
-  alt: null
+  alt: Niraj Dawar
 slug: niraj-dawar
 f_summaries:
   - cms/summaries/tilt.md
 updated-on: '2024-02-23T13:30:45.215Z'
 created-on: '2024-02-22T16:45:44.712Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/NirajDawar/
-f_website-2: http://strategytilt.com/
+f_twitter-2: 'http://twitter.com/NirajDawar/'
+f_website-2: 'http://strategytilt.com/'
 layout: '[authors].html'
 tags: authors
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:47.250Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809948fff91cd3184e7f_bad-leadership-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/bad-leadership/
+  alt: Bad Leadership book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/bad-leadership/'
 f_author-plain-text: Barbara Kellerman
 f_author: cms/authors/barbara-kellerman.md
 f_category-3: cms/summary-categories/leadership.md
@@ -59,7 +59,7 @@ f_big-idea: >-
   examples from my own career. Kellerman’s analysis of bad leadership helped me
   gain insights and perspective for my own situation. In that sense, reading the
   book was, surprisingly, personally therapeutic.
-f_quote-reference: \- Bad Leadership, location 193
+f_quote-reference: '\- Bad Leadership, location 193'
 f_insight-2: >-
   ### Lessons Learned
 
@@ -150,7 +150,7 @@ f_conclusion: >-
 f_quote-2: >-
   "How did leadership come to be synonymous with good leadership? Why are we
   afraid to acknowledge, much less admit to, the dark side?"
-f_amazon-url: https://www.amazon.com/dp/1591391660/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591391660/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

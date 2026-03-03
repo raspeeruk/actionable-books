@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:59.143Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78046eadf9e5ad15040ce_decisive.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/decisive/
+  alt: Decisive book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/decisive/'
 f_author-plain-text: Chip And Dan Heath
 f_author: cms/authors/chip-and-dan-heath.md
 f_category-3: cms/summary-categories/self-management.md
@@ -44,7 +44,7 @@ f_big-idea: >-
 
   We may be irrational, but we’re _predictably_ irrational. Forewarned is
   forearmed: knowing the villains means we can **learn coping strategies.**
-f_quote-reference: \- Decisive, page 8
+f_quote-reference: '\- Decisive, page 8'
 f_insight-2: >-
   ### Prepare to Be Wrong: Bookend the Future & Set a Tripwire
 
@@ -142,7 +142,7 @@ f_quote-2: >-
   in our thinking that doom the pros-and-cons model of decision making. If we
   aspire to make better choices, then we must learn how these biases work and
   how to fight them (with something more potent than a list of pros and cons.)"
-f_amazon-url: https://www.amazon.com/dp/0307956393/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0307956393/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

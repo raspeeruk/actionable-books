@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:33.810Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78033ab601995e06fa12b_positioning-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/positioning/
+  alt: Positioning book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/positioning/'
 f_author-plain-text: Al Ries
 f_author: cms/authors/al-ries.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -119,7 +119,7 @@ f_quote-2: >-
   advertising is to seriously overstate the potential effectiveness of your
   message. Advertising is not a sledgehammer. It’s more like a light fog, a very
   light fog that envelops your prospects."
-f_amazon-url: https://www.amazon.com/dp/0071373586/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071373586/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

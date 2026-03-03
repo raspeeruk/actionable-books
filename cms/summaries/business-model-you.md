@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:52.803Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78079f40a70780ee9bb30_bmo.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/business-model-you/
+  alt: Business Model You book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/business-model-you/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/05/ActionableBooks-Audio-Business-Model-You.mp3
 f_author-plain-text: Tim Clark
@@ -49,7 +49,7 @@ f_big-idea: >-
   _“Employees who care about the success of the enterprise as a whole (and know
   how to achieve it) are the most valuable workers — and candidates for better
   positions.”_
-f_quote-reference: \- Business Model You, page 84
+f_quote-reference: '\- Business Model You, page 84'
 f_insight-2: >-
   ### Transcend Your Mental Model
 
@@ -156,7 +156,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Dream jobs are more often created than found, so they're rarely attainable
   through conventional searches. Creating one requires strong self-knowledge."
-f_amazon-url: https://www.amazon.com/dp/1118156315/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118156315/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

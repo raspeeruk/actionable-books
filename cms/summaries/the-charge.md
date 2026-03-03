@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:52.228Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808e345fe67ffc98ceda_the_charge.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-charge/
+  alt: The Charge book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-charge/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/01/ActionableBooks-Audio-The-Charge.mp3
 f_author-plain-text: Brendon Burchard
@@ -73,7 +73,7 @@ f_big-idea: >-
   Burchard proposes that these drives shape everything you think, feel, and do
   in life; so understanding and mastering them is critical to your success and
   happiness.
-f_quote-reference: \- The Charge, page 240
+f_quote-reference: '\- The Charge, page 240'
 f_insight-2: >-
   ### Change Your Relationships Forever
 
@@ -171,7 +171,7 @@ f_quote-2: >-
   and engaged in pushing ourselves toward a brighter future, one which lights
   our hearts and souls with a brilliant enthusiasm unknown to the masses of the
   caged or comfortable."
-f_amazon-url: https://www.amazon.com/dp/1451667531/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1451667531/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

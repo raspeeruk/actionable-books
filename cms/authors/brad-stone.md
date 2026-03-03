@@ -1,17 +1,17 @@
 ---
 title: Brad Stone
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Brad-Stone/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Brad-Stone/'
 f_unique-id: '640'
 slug: brad-stone
 f_image:
   url: /assets/external/65d779c12609744d4631f74e_brad_stone.jpeg
-  alt: null
+  alt: Brad Stone
 f_summaries:
   - cms/summaries/the-everything-store-jeff-bezos-and-the-age-of-amazon.md
 updated-on: '2024-02-23T13:31:21.289Z'
 created-on: '2024-02-22T16:43:45.316Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/BradStone/
+f_twitter-2: 'http://twitter.com/BradStone/'
 layout: '[authors].html'
 tags: authors
 ---

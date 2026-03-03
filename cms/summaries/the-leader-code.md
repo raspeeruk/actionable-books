@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:00.328Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805a4b8c885f258cd60b_leader-code.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-leader-code/
+  alt: The Leader Code book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-leader-code/'
 f_author-plain-text: Daniel Blakeslee
 f_author: cms/authors/daniel-blakeslee.md
 f_category-3: cms/summary-categories/leadership.md
@@ -37,7 +37,7 @@ f_big-idea: >-
   assess the situation and determine which mode of leadership is most likely to
   achieve desirable results. To be an amazing leader all you need is some PEP
   and a little STP!
-f_quote-reference: \- The Leader Code, page 5
+f_quote-reference: '\- The Leader Code, page 5'
 f_insight-2: >-
   ### High Performers use STP!
 
@@ -131,7 +131,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Leaders are not born, they are taught; in fact leadership skills are more
   caught than even taught."
-f_amazon-url: https://www.amazon.com/dp/0615743684/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0615743684/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

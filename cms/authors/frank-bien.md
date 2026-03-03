@@ -1,18 +1,18 @@
 ---
 title: Frank Bien
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Frank-Bien/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Frank-Bien/'
 f_unique-id: '845'
 slug: frank-bien
 f_image:
   url: /assets/external/65d779f3e29cdc69d415b0ab_frank-bien-180x220.jpeg
-  alt: null
+  alt: Frank Bien
 f_summaries:
   - cms/summaries/winning-with-data.md
 updated-on: '2024-02-23T13:30:27.303Z'
 created-on: '2024-02-22T16:44:36.046Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/frankbien/
-f_website-2: https://looker.com/
+f_twitter-2: 'http://twitter.com/frankbien/'
+f_website-2: 'https://looker.com/'
 layout: '[authors].html'
 tags: authors
 ---

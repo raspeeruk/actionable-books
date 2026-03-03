@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:48.230Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780ceb0003bf0734ded0d_art-of-authenticity-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-art-of-authenticity/
+  alt: The Art of Authenticity book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-art-of-authenticity/'
 f_author-plain-text: Karissa Thacker
 f_author: cms/authors/karissa-thacker.md
 f_category-3: cms/summary-categories/leadership.md
@@ -46,7 +46,7 @@ f_big-idea: >-
   Authentic leaders (and remember, you are the CEO of YOU!) recognize that every
   choice, every action creates an outcome. They consciously choose to pursue
   positive outcomes achieved through proactive, win-win choices and behaviours.
-f_quote-reference: \- The Art of Authenticity, page 83
+f_quote-reference: '\- The Art of Authenticity, page 83'
 f_insight-2: >-
   ### Hold Curious Conversations
 
@@ -152,7 +152,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Authentic leadership is about inventing and developing yourself with
   intention in the trenches of your day-to-day work."
-f_amazon-url: https://www.amazon.com/dp/B01BLW706M/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B01BLW706M/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

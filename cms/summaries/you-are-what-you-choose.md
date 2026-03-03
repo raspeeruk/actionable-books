@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:25.354Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809ab974b768d91c3e31_you-are-what-you-choose.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/you-are-what-you-choose/
+  alt: You Are What You Choose book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/you-are-what-you-choose/'
 f_author-plain-text: James T. Hamilton
 f_author: cms/authors/james-t-hamilton.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -127,7 +127,7 @@ f_insight-1: >-
   allows you to better identify patterns that are intrinsic to that individual’s
   decision-making process.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1591842867/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591842867/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

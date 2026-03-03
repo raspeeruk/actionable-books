@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:01.492Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78035cf344b81908daf14_disrupting_class.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/disrupting-class/
+  alt: Disrupting Class book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/disrupting-class/'
 f_author-plain-text: Clayton M. Christensen
 f_author: cms/authors/clayton-m-christensen.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -37,7 +37,7 @@ f_big-idea: >-
   collaborate, and create – except in education.** Our schools, in contrast,
   have adapted technology to existing models, rather than disrupting how they
   deliver and measure teaching and learning.
-f_quote-reference: \- Disrupting Class, page 6
+f_quote-reference: '\- Disrupting Class, page 6'
 f_insight-2: >-
   ### Disrupting Toward Student-centric Learning
 
@@ -102,7 +102,7 @@ f_quote-2: >-
   its public schools are sending the best potential technologists to U.S.
   colleges. The United States is clinging to its advantage because it has
   continued to be a magnet for the best talent in the world."
-f_amazon-url: https://www.amazon.com/dp/0071749101/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071749101/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780bec35d7f017dedec33_miracle-morning-salespeople-94x144.jpeg
-  alt: null
+  alt: The Miracle Morning for Salespeople book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-miracle-morning-for-salespeople/
 f_author-plain-text: Hal Elrod
@@ -50,7 +50,7 @@ f_big-idea: >-
   This sounds like a big time commitment, so I was surprised when the authors
   stated that most of these can be done in 5-10 minutes. This has proven to be a
   great framework to follow to start my day on the right foot!
-f_quote-reference: \- The Miracle Morning for Salespeople, page 1
+f_quote-reference: '\- The Miracle Morning for Salespeople, page 1'
 f_insight-2: >-
   ### The Miracle Equation: Unwavering Faith + Extraordinary Effort = Miracles
 
@@ -133,7 +133,7 @@ f_conclusion: >-
 f_quote-2: >-
   "How you start each morning sets your mindset, and the context, for the rest
   of your day."
-f_amazon-url: https://www.amazon.com/dp/1942589026/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1942589026/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

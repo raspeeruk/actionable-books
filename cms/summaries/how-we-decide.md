@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:14.527Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780586c1a1ebc9b549cc9_39105286-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/how-we-decide/
+  alt: How We Decide book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/how-we-decide/'
 f_author-plain-text: Jonah Lehrer
 f_author: cms/authors/jonah-lehrer.md
 f_category-3: cms/summary-categories/self-management.md
@@ -52,7 +52,7 @@ f_big-idea: >-
   If your memory fails you, do this test going forward. Tune into your emotional
   intuitive decision-making ability. Recognizing that it exists is the first
   step toward training it as a powerful business and life tool.
-f_quote-reference: \- How We Decide, page 259
+f_quote-reference: '\- How We Decide, page 259'
 f_insight-2: >-
   ### Think LESS About Those Items You Care A Lot About
 
@@ -158,7 +158,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The first step to making better decisions is to . . . honestly assess our
   flaws and talents, our strengths and shortcomings."
-f_amazon-url: https://www.amazon.com/dp/0547247990/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0547247990/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

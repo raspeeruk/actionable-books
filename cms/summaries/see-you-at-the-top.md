@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:39.117Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78097f91f45c228071a21_seeyouatthetop_sm-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/see-you-at-the-top/
+  alt: See You At The Top book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/see-you-at-the-top/'
 f_author-plain-text: Zig Ziglar
 f_author: cms/authors/zig-ziglar.md
 f_category-3: cms/summary-categories/self-management.md
@@ -104,7 +104,7 @@ f_insight-1: >-
   By doing small things every day to work towards your goal, you will be amazed
   at the progress you will see in a short period of time.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1565547063/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1565547063/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

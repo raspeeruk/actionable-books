@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:53.731Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78067bc56df19f3aed123_culture-code-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-culture-code/
+  alt: The Culture Code book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-culture-code/'
 f_author-plain-text: Daniel Coyle
 f_author: cms/authors/daniel-coyle.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
@@ -70,7 +70,7 @@ f_big-idea: >-
   5.  Measure what really matters
 
   6.  Focus on bar-setting behaviors
-f_quote-reference: \- The Culture Code, page xvii
+f_quote-reference: '\- The Culture Code, page xvii'
 f_insight-2: >-
   ### A Story of Culture Done Right
 
@@ -181,7 +181,7 @@ f_conclusion: >-
   in never-ending, intentional efforts. What culture do you want and what steps
   will you take to create it?
 f_quote-2: “Group culture is one of the most powerful forces on the planet.”
-f_amazon-url: https://www.amazon.com/dp/0804176981/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0804176981/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

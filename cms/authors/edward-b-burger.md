@@ -1,11 +1,11 @@
 ---
 title: Edward B. Burger
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Edward-B.-Burger/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Edward-B.-Burger/'
 f_unique-id: '570'
 slug: edward-b-burger
 f_image:
   url: /assets/external/65d779ef17fd1b2d4af6d846_edward-burger-180x150.jpeg
-  alt: null
+  alt: Edward B. Burger
 f_summaries:
   - cms/summaries/the-5-elements-of-effective-thinking.md
 updated-on: '2024-02-23T13:31:14.963Z'

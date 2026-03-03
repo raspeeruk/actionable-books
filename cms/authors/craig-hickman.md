@@ -1,18 +1,18 @@
 ---
 title: Craig Hickman
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Craig-Hickman/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Craig-Hickman/'
 f_unique-id: '703'
 f_image:
   url: /assets/external/65d779d23aad56f892557583_craig-hickman-1-180x220.jpeg
-  alt: null
+  alt: Craig Hickman
 f_summaries:
   - cms/summaries/the-oz-principle.md
 slug: craig-hickman
 updated-on: '2024-02-23T13:30:49.132Z'
 created-on: '2024-02-22T16:44:02.648Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/hickmancraig/
-f_website-2: http://ozprinciple.com
+f_twitter-2: 'http://twitter.com/hickmancraig/'
+f_website-2: 'http://ozprinciple.com'
 layout: '[authors].html'
 tags: authors
 ---

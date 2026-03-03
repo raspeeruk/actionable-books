@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780af2ea4a5ee78409236_power-subconscious-mind-94x144.jpeg
-  alt: null
+  alt: The Power of Your Subconscious Mind book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-power-of-your-subconscious-mind/
 f_author-plain-text: Dr. Joseph Murphy
@@ -61,7 +61,7 @@ f_big-idea: >-
   you can create it. To apply this, create a vivid mental picture of yourself
   successfully performing a task. Repeat this frequently to effectively imprint
   it on your subconscious.
-f_quote-reference: \- The Power of Your Subconscious Mind, page 8
+f_quote-reference: '\- The Power of Your Subconscious Mind, page 8'
 f_insight-2: >-
   ### Your Subconscious Mind as a Partner in Success
 
@@ -161,7 +161,7 @@ f_quote-2: >-
   thought is a cause, and every condition is an effect. This is the reason it is
   so essential that you take charge of your thoughts. In that way, you can bring
   forth only desirable conditions.”
-f_amazon-url: https://www.amazon.com/dp/1614270198/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1614270198/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

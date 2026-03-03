@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:09.681Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805b4563120af428e39e_sense-of-style-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-sense-of-style/
+  alt: The Sense of Style book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-sense-of-style/'
 f_author-plain-text: Steven Pinker
 f_author: cms/authors/steven-pinker.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -46,7 +46,7 @@ f_big-idea: >-
 
   Missteps are part of the journey. Let’s enjoy the process of bettering our
   writing with each new attempt.
-f_quote-reference: \- The Sense of Style, page 7
+f_quote-reference: '\- The Sense of Style, page 7'
 f_insight-2: >-
   ### Good Writing Is an Exercise in Discernment
 
@@ -136,7 +136,7 @@ f_quote-2: >-
   guide for badly educated students who have yet to master the mechanics of a
   sentence. Like the classic guides, it is designed for people who know how to
   write and want to write better."
-f_amazon-url: https://www.amazon.com/dp/0670025852/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0670025852/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

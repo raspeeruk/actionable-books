@@ -1,14 +1,14 @@
 ---
 f_unique-number: 10
-title: 20,000 Days and Counting
+title: '20,000 Days and Counting'
 slug: 20000-days-and-counting
 updated-on: '2024-02-27T20:30:53.818Z'
 created-on: '2024-02-22T16:05:43.606Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806b3b62b64863dbf954_20000_days_and_counting.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/20000-days-and-counting/
+  alt: '20,000 Days and Counting book cover'
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/20000-days-and-counting/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/ActionableBooks-Audio-20000-Days.mp3
 f_author-plain-text: Robert D. Smith
@@ -55,7 +55,7 @@ f_big-idea: >-
   generations. At the same time, always consider and integrate Lens Six, which
   is respecting life and nature; Lens Five, helping those in need; Lens Four,
   respecting others; and Lens Three, aligning your thoughts, words, and deeds.
-f_quote-reference: \- 7 Lenses, page 7
+f_quote-reference: '\- 7 Lenses, page 7'
 f_insight-2: >-
   ### Leadership for the greater good
 
@@ -169,7 +169,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Think beyond ourselves in all of the scope and complexity that 'beyond
   ourselves' represents."
-f_amazon-url: https://www.amazon.com/dp/0849948541/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0849948541/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

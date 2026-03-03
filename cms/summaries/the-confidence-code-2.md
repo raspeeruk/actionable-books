@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:53.292Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78023ef59090b11f87bff_confidence-code.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-confidence-code-2/
+  alt: The Confidence Code book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-confidence-code-2/'
 f_author-plain-text: Claire Shipman
 f_author: cms/authors/claire-shipman.md
 f_category-3: cms/summary-categories/self-management.md
@@ -43,7 +43,7 @@ f_big-idea: >-
 
   This is also a remarkably effective way to eliminate a key confidence
   destroyer: negative habitual thought. Speaking of which…
-f_quote-reference: \- Winston Churchill, The Confidence Code, page 43
+f_quote-reference: '\- Winston Churchill, The Confidence Code, page 43'
 f_insight-2: >-
   ### Star in Our Own Production
 
@@ -122,7 +122,7 @@ f_conclusion: ''
 f_quote-2: >-
   "A pessimist sees the difficulty in every opportunity; an optimist sees the
   opportunity in every difficulty."
-f_amazon-url: https://www.amazon.com/dp/006223062X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/006223062X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

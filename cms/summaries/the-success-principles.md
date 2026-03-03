@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:11.557Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7802699395c41bc210217_success-principles.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-success-principles/
+  alt: The Success Principles book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-success-principles/'
 f_author-plain-text: Jack Canfield
 f_author: cms/authors/jack-canfield.md
 f_category-3: cms/summary-categories/self-management.md
@@ -53,7 +53,7 @@ f_big-idea: >-
   to be a success. Again, this is a way to celebrate what has been accomplished
   and then to use that as a tool to motivate you and assist in planning your
   next steps.
-f_quote-reference: \- The Success Principles, page 147
+f_quote-reference: '\- The Success Principles, page 147'
 f_insight-2: >-
   ### Create Community
 
@@ -118,7 +118,7 @@ f_quote-2: >-
   "If you are committed to a cause that evokes your passion and commitment, you
   keep learning from your experiences, and you stay the course to the end, you
   will eventually create your desired outcome."
-f_amazon-url: https://www.amazon.com/dp/0060594896/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0060594896/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

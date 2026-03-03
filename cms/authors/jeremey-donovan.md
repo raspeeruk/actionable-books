@@ -1,17 +1,17 @@
 ---
 title: Jeremey Donovan
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Jeremey-Donovan/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Jeremey-Donovan/'
 f_unique-id: '284'
 f_image:
   url: /assets/external/65d77a0dc76de5d596274e64_jeremey-donovan.jpeg
-  alt: null
+  alt: Jeremey Donovan
 slug: jeremey-donovan
 f_summaries:
   - cms/summaries/how-to-deliver-a-ted-talk.md
 updated-on: '2024-02-23T13:31:29.458Z'
 created-on: '2024-02-22T16:45:01.500Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/SpeakingSherpa/
+f_twitter-2: 'http://twitter.com/SpeakingSherpa/'
 layout: '[authors].html'
 tags: authors
 ---

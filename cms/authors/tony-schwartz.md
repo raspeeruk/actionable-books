@@ -1,16 +1,16 @@
 ---
 title: Tony Schwartz
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Tony-Schwartz/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Tony-Schwartz/'
 f_unique-id: '73'
 slug: tony-schwartz
 f_image:
   url: /assets/external/65d77a5f9dd4a722889e5c94_headshot_tony-180x200.jpeg
-  alt: null
+  alt: Tony Schwartz
 updated-on: '2024-02-23T13:30:29.142Z'
 created-on: '2024-02-22T16:46:24.124Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/tonyschwartz/
-f_website-2: http://www.theenergyproject.com/
+f_twitter-2: 'http://twitter.com/tonyschwartz/'
+f_website-2: 'http://www.theenergyproject.com/'
 layout: '[authors].html'
 tags: authors
 ---

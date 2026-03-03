@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:33.559Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78098fa2506f22b866b70_play.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/play/
+  alt: Play book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/play/'
 f_author-plain-text: Stuart Brown
 f_author: cms/authors/stuart-brown.md
 f_category-3: cms/summary-categories/self-management.md
@@ -42,7 +42,7 @@ f_big-idea: >-
   And whenever we feel depleted or lacking purpose, we can trace this type of
   depression to an ongoing state of work without joy, creativity, or play. So,
   what do we do about it?
-f_quote-reference: \- Play, page 5
+f_quote-reference: '\- Play, page 5'
 f_insight-2: >-
   ### Heart Play
 
@@ -119,7 +119,7 @@ f_conclusion: >-
 f_quote-2: >-
   "When we play, we are engaged in the purest expression of our humanity, the
   truest expression of our individuality."
-f_amazon-url: https://www.amazon.com/dp/1583333789/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1583333789/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

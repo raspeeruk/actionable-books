@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:12.374Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804871f7aab80c3123da_tipping_point-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-tipping-point/
+  alt: The Tipping Point book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-tipping-point/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/05/ActionableBooks-Audio-The-Tipping-Point.mp3
 f_author-plain-text: Malcolm Gladwell
@@ -61,7 +61,7 @@ f_big-idea: >-
   _“Epidemics are a function of the people who transmit the infectious agents,
   the infectious agents itself and the environment in which the infectious agent
   is operating.”_
-f_quote-reference: \- The Tipping Point, page 7
+f_quote-reference: '\- The Tipping Point, page 7'
 f_insight-2: >-
   ### The Stickiness Factor and the Power of Context
 
@@ -247,7 +247,7 @@ f_insight-1: >-
   two groups.”_
 f_conclusion: ''
 f_quote-2: '"Ideas and products and messages and behaviors spread just like viruses do."'
-f_amazon-url: https://www.amazon.com/dp/0316346624/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0316346624/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

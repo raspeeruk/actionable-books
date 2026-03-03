@@ -1,10 +1,10 @@
 ---
 title: Dale Carnegie
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Dale-Carnegie/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Dale-Carnegie/'
 f_unique-id: '294'
 f_image:
   url: /assets/external/65d779d4f26fc2ba2dfaef58_dale_carnegie.jpeg
-  alt: null
+  alt: Dale Carnegie
 slug: dale-carnegie
 updated-on: '2024-02-23T13:31:14.650Z'
 created-on: '2024-02-22T16:44:04.411Z'

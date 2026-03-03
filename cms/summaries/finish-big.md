@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:07.267Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c1fa2506f22b86849b_finish-big.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/finish-big/
+  alt: Finish Big book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/finish-big/'
 f_author-plain-text: Bo Burlingham
 f_author: cms/authors/bo-burlingham.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -63,7 +63,7 @@ f_big-idea: >-
   four stages exist and you **will** go through them, whether it’s on your terms
   or through the lens of regret as you analyze stage 1 or 2 after the deal is
   done. So why wait?
-f_quote-reference: \- Finish Big, page 25
+f_quote-reference: '\- Finish Big, page 25'
 f_insight-2: >-
   ### Strange Bedfellows
 
@@ -147,7 +147,7 @@ f_quote-2: >-
   "I have some advice for anyone who owns a business or is planning to launch
   one: If you haven’t already begun thinking about your eventual exit, now is
   the time to start."
-f_amazon-url: https://www.amazon.com/dp/B00AMOO9VK/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00AMOO9VK/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

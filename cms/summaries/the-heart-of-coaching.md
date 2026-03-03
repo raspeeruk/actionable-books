@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:58.880Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806cae01b6ab310ba156_the-heart-of-coaching-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-heart-of-coaching/
+  alt: The Heart of Coaching book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-heart-of-coaching/'
 f_author-plain-text: Thomas G. Crane
 f_author: cms/authors/thomas-g-crane.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
@@ -55,7 +55,7 @@ f_big-idea: >-
   are treated with honesty and coaches both challenge and support
   accomplishments. Wow! I want to work for an organization that follows these
   coaching guidelines!
-f_quote-reference: \- The Heart of Coaching, page 15
+f_quote-reference: '\- The Heart of Coaching, page 15'
 f_insight-2: >-
   ### Words really do make a difference!
 
@@ -131,7 +131,7 @@ f_quote-2: >-
   performance coaching discussions in ways that open up communications and build
   trust. It also creates a powerful commitment to mutual learning and
   partnership for discovering the next best steps."
-f_amazon-url: https://www.amazon.com/dp/0966087437/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0966087437/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

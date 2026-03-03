@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:07:09.288Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78083d05b1686bfb9d1f0_theodore_roosevelt.jpeg
-  alt: null
+  alt: The Rise of Theodore Roosevelt book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-rise-of-theodore-roosevelt/
 f_author-plain-text: Edmund Morris
@@ -46,7 +46,7 @@ f_big-idea: >-
   diary to help you discover yourself – every hour spent on these activities,
   even if late at night, can generate untraceable yet potentially powerful
   personal and professional returns down the road in your career.
-f_quote-reference: \- The Rise of Theodore Roosevelt, book jacket
+f_quote-reference: '\- The Rise of Theodore Roosevelt, book jacket'
 f_insight-2: >-
   ### Travel, experience, find yourself
 
@@ -128,7 +128,7 @@ f_quote-2: >-
   "This is the story of seven men – a naturalist, a writer, a lover, a hunter, a
   ranchman, a soldier, and a politician – who merged at age forty-two to become
   the youngest President in history."
-f_amazon-url: https://www.amazon.com/dp/1400069653/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1400069653/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:37.345Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780bf6fb09c7aedcd7fb5_retain-and-gain-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/retain-and-gain/
+  alt: Retain and Gain book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/retain-and-gain/'
 f_author-plain-text: Lisa Taylor
 f_author: cms/authors/lisa-taylor.md
 f_category-3: cms/summary-categories/leadership.md
@@ -54,7 +54,7 @@ f_big-idea: >-
   for their work, or being given opportunities to work on challenging new
   projects are all highly motivating tactics to keep employees engaged and
   progressing toward their goals.
-f_quote-reference: \- Retain and Gain, page 14
+f_quote-reference: '\- Retain and Gain, page 14'
 f_insight-2: "### Recognize that Employees are People\n\n> \"Employee engagement is a way to express how invested your staff\L> are, personally, in the success of the business. We assert that there is nothing more personal than each employee’s individual career. More than one-off rewards or team-building exercises, focusing on your team’s careers ensures that your business will succeed because they’ve succeeded.\"- Retain and Gain, page 7\n\nBusiness owners and team leaders are rightly focused on deliverables—there’s a lot to manage in the day-to-day hustle. However, to nurture engaged employees, you also need to recognize your team members as humans, who have more going on in their lives than you are aware of. Taylor offers some great insight into how to handle career management for organizations that have lost staff, are worried about succession planning, and for staff dealing with large life events that require leaves of absence.\n\nThe key to managing these circumstances is to have regular, candid conversations with your team about what’s going on in their lives and how you can support them. Having an ill parent is difficult enough—adding in an employer or manager who is unsympathetic can be unbearable. Recognizing that your teams are people, with complex struggles and desires, is a great first step to creating engaged and loyal employees. Supporting a team member through a personal crisis isn’t just the decent thing to do—it’s a sound investment that will help you retain top performers (to include a personal example, a former manager once told me that the death of my grandmother was “really bad timing for her.” I can say with certainty that I was less engaged, and less loyal after that). Be supportive and understanding of difficult circumstances—your employees are sure to appreciate it."
 f_insight-1: >-
   ### Stop Trying to Provide Stairs
@@ -99,7 +99,7 @@ f_quote-2: >-
   Owners and Managers need to motivate, challenge and support employees as they
   grow. How these needs are identified, met and measured in large part defines
   the culture of your company.”
-f_amazon-url: https://www.amazon.com/dp/1988066174/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1988066174/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

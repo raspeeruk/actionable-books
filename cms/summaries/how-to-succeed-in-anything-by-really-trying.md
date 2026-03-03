@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:13.992Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780db4295a22ea4519087_lmacinnis09cover-sm-94x144.jpeg
-  alt: null
+  alt: How to Succeed in Anything by Really Trying book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/how-to-succeed-in-anything-by-really-trying/
 f_author-plain-text: Lyman Macinnis
@@ -77,7 +77,7 @@ f_conclusion: >-
   poignant insights into what truly makes us successful in our day to day lives.
   It’s a fun read, with something for everyone, and the kind of book you’ll want
   to reference again and again.
-f_amazon-url: https://www.amazon.com/dp/B00338076S/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00338076S/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

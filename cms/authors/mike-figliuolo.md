@@ -1,18 +1,18 @@
 ---
 title: Mike Figliuolo
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Mike-Figliuolo/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Mike-Figliuolo/'
 f_unique-id: '417'
 slug: mike-figliuolo
 f_image:
   url: /assets/external/65d77a3278a8c6764993ae8e_mike-figliuolo-.jpeg
-  alt: null
+  alt: Mike Figliuolo
 f_summaries:
   - cms/summaries/one-piece-of-paper.md
 updated-on: '2024-02-23T13:30:28.751Z'
 created-on: '2024-02-22T16:45:38.968Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/Figliuolo/
-f_website-2: http://www.thoughtleadersllc.com/team/mike-figliuolo/
+f_twitter-2: 'http://twitter.com/Figliuolo/'
+f_website-2: 'http://www.thoughtleadersllc.com/team/mike-figliuolo/'
 layout: '[authors].html'
 tags: authors
 ---

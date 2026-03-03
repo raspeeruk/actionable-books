@@ -1,17 +1,17 @@
 ---
 title: Howard Behar
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Howard-Behar/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Howard-Behar/'
 f_unique-id: '320'
 f_image:
   url: /assets/external/65d779fe192430f52a09108a_howard-behar.jpeg
-  alt: null
+  alt: Howard Behar
 slug: howard-behar
 f_summaries:
   - cms/summaries/its-not-about-the-coffee.md
 updated-on: '2024-02-23T13:30:35.434Z'
 created-on: '2024-02-22T16:44:46.952Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_website-2: http://www.howardbehar.com/
+f_website-2: 'http://www.howardbehar.com/'
 layout: '[authors].html'
 tags: authors
 ---

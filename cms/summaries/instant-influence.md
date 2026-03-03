@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:17.487Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c113d1e7c4be6eadf8_instant_influence.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/instant-influence/
+  alt: Instant Influence book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/instant-influence/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/ActionableBooks-Audio-Instant-Influence.mp3
 f_author-plain-text: Michael V. Pantalon
@@ -38,7 +38,7 @@ f_big-idea: >-
   have wanted to.”** Intuitively, we know this to be true of ourselves and
   others we interact with. Why then, do we continually barrage people with
   reasons why they should do something? This is related to reverse psychology.
-f_quote-reference: \- Instant Influence, page 63
+f_quote-reference: '\- Instant Influence, page 63'
 f_insight-2: >-
   ### The Dead Man's Rule
 
@@ -97,7 +97,7 @@ f_quote-2: >-
   "If they say ‘I see what you’re doing. You’re trying to get me to talk myself
   into this,’ a possible response might be 'No, only if there’s some genuine
   benefit to you. But since we’ve never talked about it, how would you know?'"
-f_amazon-url: https://www.amazon.com/dp/B00A19YND0/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00A19YND0/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

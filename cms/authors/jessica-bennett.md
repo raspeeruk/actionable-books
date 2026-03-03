@@ -1,10 +1,10 @@
 ---
 title: Jessica Bennett
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Jessica-Bennett/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Jessica-Bennett/'
 f_unique-id: '219'
 f_image:
   url: /assets/external/65d77a0e18cded8270bc47df_jessica-bennett-180x220.jpeg
-  alt: null
+  alt: Jessica Bennett
 slug: jessica-bennett
 f_summaries:
   - cms/summaries/feminist-fight-club.md

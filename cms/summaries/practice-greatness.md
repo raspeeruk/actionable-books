@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:34.576Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780738f07fe5dc44cd025_practice-greatness-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/practice-greatness/
+  alt: Practice Greatness book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/practice-greatness/'
 f_author-plain-text: Amiel Handelsman
 f_author: cms/authors/amiel-handelsman.md
 f_category-3: cms/summary-categories/leadership.md
@@ -66,7 +66,7 @@ f_big-idea: >-
   having participants answer four questions that assess meeting effectiveness.
   It holds us all accountable for identifying and changing poor meeting
   behaviours so we better utilize our time and achieve our desired outcomes.
-f_quote-reference: \- Practice Greatness, page 29
+f_quote-reference: '\- Practice Greatness, page 29'
 f_insight-2: >-
   ### Uni-Task for Multiple Purposes
 
@@ -144,7 +144,7 @@ f_conclusion: >-
 f_quote-2: >-
   "People in twenty-first century organizations don’t practice. They just
   perform. Working for nine hours means performing. Practice is not included."
-f_amazon-url: https://www.amazon.com/dp/0989589528/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0989589528/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

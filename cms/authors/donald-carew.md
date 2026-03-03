@@ -1,11 +1,11 @@
 ---
 title: Donald Carew
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Donald-Carew/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Donald-Carew/'
 f_unique-id: '696'
 slug: donald-carew
 f_image:
   url: /assets/external/65d779a49c49c73f41478f48_author-large.png
-  alt: null
+  alt: Donald Carew
 f_summaries:
   - cms/summaries/the-one-minute-manager-builds-high-performing-teams.md
 updated-on: '2024-02-23T13:31:30.609Z'

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:34.159Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78041a2b1b79752109b08_power-of-2-tiny-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/power-of-2/
+  alt: Power of 2 book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/power-of-2/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2010/11/Actionable-Books-Audio-the-Power-of-2.mp3
 f_author-plain-text: Rodd Wagner And Gale Muller
@@ -57,7 +57,7 @@ f_big-idea: >-
   cancer, scale Everest or send tourists into space, across all disciplines and
   genres, the insights gained from the research into these successful
   partnerships allow us to make the most out of our collaborative relationships.
-f_quote-reference: \- Power of 2, page 10
+f_quote-reference: '\- Power of 2, page 10'
 f_insight-2: >-
   ### Forgiveness
 
@@ -127,7 +127,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Ultimately, if you can harness the same cooperative instincts that allowed
   your distant ancestors to survive, you will enjoy greater happiness."
-f_amazon-url: https://www.amazon.com/dp/159562029X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/159562029X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

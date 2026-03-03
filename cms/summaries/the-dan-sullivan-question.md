@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:54.080Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780baf5fb999468487144_dan-sullivan-question-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-dan-sullivan-question/
+  alt: The Dan Sullivan Question book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-dan-sullivan-question/'
 f_author-plain-text: Dan Sullivan
 f_author: cms/authors/dan-sullivan.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -52,7 +52,7 @@ f_big-idea: >-
 
   *   Feelings of powerlessness transform into feelings of being capable as a
   result of their new clarity and confidence.
-f_quote-reference: \- The Dan Sullivan Question, page 9
+f_quote-reference: '\- The Dan Sullivan Question, page 9'
 f_insight-2: >-
   ### Demonstrate Power
 
@@ -170,7 +170,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Answers are a dime a dozen. What's rare in this world is a really great
   question. What's yours?"
-f_amazon-url: https://www.amazon.com/dp/1897239173/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1897239173/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

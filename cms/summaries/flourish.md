@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:07.993Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808b73685ce4f9a11dbd_flourish-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/flourish/
+  alt: Flourish book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/flourish/'
 f_author-plain-text: Martin E. P. Seligman
 f_author: cms/authors/martin-e-p-seligman.md
 f_category-3: cms/summary-categories/self-management.md
@@ -48,7 +48,7 @@ f_big-idea: >-
   Seligman believes that by the year 2051, 51 percent of the world’s population
   will be flourishing. What a lovely thought – imagine what life will be like in
   the future when more than half of us are flourishing!
-f_quote-reference: \- Flourish, page 1
+f_quote-reference: '\- Flourish, page 1'
 f_insight-2: >-
   ### Half full?
 
@@ -181,7 +181,7 @@ f_conclusion: >-
   to be the person building and spreading well-being. It’s a conscious choice
   and effort but well worth it – for everyone!
 f_quote-2: '"This book will help you flourish."'
-f_amazon-url: https://www.amazon.com/dp/1439190755/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1439190755/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

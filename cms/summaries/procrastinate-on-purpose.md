@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7804d1e4002fac452264c_procrastinate-on-purpose-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/procrastinate-on-purpose/
+  alt: Procrastinate on Purpose book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/procrastinate-on-purpose/'
 f_author-plain-text: Rory Vaden
 f_author: cms/authors/rory-vaden.md
 f_category-3: cms/summary-categories/self-management.md
@@ -33,7 +33,7 @@ f_big-idea: >-
   selective on where and how we choose to spend our time. And while being
   efficient and effective are still useful, they cannot create more time, so
   focusing on results—as multipliers do—is something we can all benefit from.
-f_quote-reference: \- Procrastinate on Purpose, page 29
+f_quote-reference: '\- Procrastinate on Purpose, page 29'
 f_insight-2: >-
   ### Wait for the Right Time
 
@@ -108,7 +108,7 @@ f_quote-2: >-
   "Once you admit to yourself that you can’t manage time and that you can only
   manage yourself, and you accept that there is more to do than you can ever
   possibly do, a new strategy emerges: prioritizing."
-f_amazon-url: https://www.amazon.com/dp/0399170626/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0399170626/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

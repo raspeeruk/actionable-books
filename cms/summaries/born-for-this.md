@@ -91,7 +91,7 @@ f_big-idea: >-
   *   Believe in yourself. Look at your options from a new viewpoint.
 
   *   Don’t be afraid to quit.
-f_quote-reference: ''
+f_quote-reference: '- Born for This, page 9'
 f_insight-2: >-
   ### Question your future
 
@@ -171,10 +171,20 @@ f_insight-1: >-
   Embracing failure and quitting a job that’s not a good fit allows us to
   reframe everything. This is Guillebeau’s mantra and within the book he cites
   several examples of people hitting the career lottery after quitting.
-f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1101903988/?tag=actionableb08-20
+f_conclusion: >-
+  Chris Guillebeau’s _Born for This_ encourages personal responsibility for our
+  own careers and is a valuable take charge manual for finding what you were
+  born to do. So figure out what makes you happy and create a side hustle. What
+  were you born to do?
+f_amazon-url: 'https://www.amazon.com/dp/1101903988/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  There is little necessity on this occasion to speak at length and critically
+  of this great and good man, and of his high mission in the world. That ground
+  has been fully occupied... The whole field of fact and fancy has been gleaned
+  and garnered. Any man can say things that are true of Abraham Lincoln, but no
+  man can say anything that is new of Abraham Lincoln.
 ---
 
 _Born for This_ addresses the old age problem of finding your perfect career and the work that you were “born to do”. Many of us struggle to find rewarding jobs or careers that make us happy, and a large percentage of people remain in unrewarding jobs because they don’t feel they have any alternatives. Chris Guillebeau enters a complicated arena and simplifies the solutions to finding meaningful work with a wry sense of humour, whilst also promoting and encouraging implementation of change against long term dogma. He gives us a road map to find our dream job, as well as the inspiration to allow us to live with more purpose and meaning, as well as being paid handsomely to do what you love.

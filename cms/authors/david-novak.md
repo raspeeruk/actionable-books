@@ -1,11 +1,11 @@
 ---
 title: David Novak
-f_original-url: https://www.actionablebooks.com/en-ca/authors/David-Novak/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/David-Novak/'
 f_unique-id: '556'
 slug: david-novak
 f_image:
   url: /assets/external/65d779e5bbcc62c98c61cd87_novak1.jpeg
-  alt: null
+  alt: David Novak
 f_summaries:
   - cms/summaries/taking-people-with-you.md
 updated-on: '2024-02-23T13:31:28.414Z'

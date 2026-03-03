@@ -1,18 +1,18 @@
 ---
 title: John R. Bell
-f_original-url: https://www.actionablebooks.com/en-ca/authors/John-R.-Bell/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/John-R.-Bell/'
 f_unique-id: '181'
 f_image:
   url: /assets/external/65d77a15600f96a54c6b4b7c_john-r-bell-180x220.jpeg
-  alt: null
+  alt: John R. Bell
 slug: john-r-bell
 f_summaries:
   - cms/summaries/do-less-better.md
 updated-on: '2024-02-23T13:31:01.443Z'
 created-on: '2024-02-22T16:45:09.684Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/JohnRichardBell/
-f_website-2: http://dolessbetter.ca
+f_twitter-2: 'http://twitter.com/JohnRichardBell/'
+f_website-2: 'http://dolessbetter.ca'
 layout: '[authors].html'
 tags: authors
 ---

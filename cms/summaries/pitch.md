@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:33.341Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d7e997a36d75092390_pitch-94x144.png
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/pitch/
+  alt: Pitch book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/pitch/'
 f_author-plain-text: Hamish Mckenzie
 f_author: cms/authors/hamish-mckenzie.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -57,7 +57,7 @@ f_big-idea: >-
   compelling pitch is no different. And the easiest way to stay focused is to
   follow the advice outlined in Insights #1 and #2 – leverage the power of three
   and keep it simple!
-f_quote-reference: \- Pitch, page 4
+f_quote-reference: '\- Pitch, page 4'
 f_insight-2: >-
   ### Keep it Simple
 
@@ -138,7 +138,7 @@ f_quote-2: >-
   to craft a pitch, learning how to distinguish between what’s important and
   what isn’t when you do craft one, and training yourself to focus on the parts
   that matter."
-f_amazon-url: https://www.amazon.com/dp/B011P7OI8G/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B011P7OI8G/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780910c32dc84c9a548a5_employee-engagement-2-0-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/employee-engagement-2-0/
+  alt: Employee Engagement 2.0 book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/employee-engagement-2-0/'
 f_author-plain-text: Kevin Kruse
 f_author: cms/authors/kevin-kruse.md
 f_category-3: cms/summary-categories/leadership.md
@@ -58,7 +58,7 @@ f_big-idea: >-
 
 
   Think about the ripple effect of your efforts to create employee engagement!
-f_quote-reference: \- Employee Engagement 2.0, page 4
+f_quote-reference: '\- Employee Engagement 2.0, page 4'
 f_insight-2: >-
   ### Eight weeks to engagement
 
@@ -146,7 +146,7 @@ f_conclusion: >-
   statistic from Kevin’s book is that only 10% of adults say thank you to a
   colleague each day. Only 7% express gratitude to a boss.
 f_quote-2: '"Only 34% of employees are engaged at work."'
-f_amazon-url: https://www.amazon.com/dp/1469996138/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1469996138/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

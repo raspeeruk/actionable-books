@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780a3b4b3d748708add17_how-to-fair-at-almost-everything.jpeg
-  alt: null
+  alt: How to Fail at Almost Everything and Still Win Big book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/how-to-fail-at-almost-everything-and-still-win-big/
 f_author-plain-text: Scott Adams
@@ -90,7 +90,7 @@ f_insight-1: >-
   complacency in a system.** You are always striving for something beyond where
   you find yourself today. Something better.
 f_conclusion: ''
-f_amazon-url: https://www.amazon.com/dp/1591846919/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591846919/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

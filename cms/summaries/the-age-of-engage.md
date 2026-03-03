@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:47.844Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806ed1a6d45f96b0271d_age_of_engage.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-age-of-engage/
+  alt: The Age of Engage book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-age-of-engage/'
 f_author-plain-text: Denise Shiffman
 f_author: cms/authors/denise-shiffman.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -119,7 +119,7 @@ f_conclusion: >-
   and, if they aren’t, engage in a plan of catch-up that will lead them to more
   meaningful and profitable relationships with the people that use their
   products and services.
-f_amazon-url: https://www.amazon.com/dp/0979802806/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0979802806/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

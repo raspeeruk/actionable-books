@@ -1,10 +1,10 @@
 ---
 title: Chet Richards
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Chet-Richards/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Chet-Richards/'
 f_unique-id: '122'
 f_image:
   url: /assets/external/65d779cc806eaeecba7c1aab_chet_richards.jpeg
-  alt: null
+  alt: Chet Richards
 slug: chet-richards
 f_summaries:
   - cms/summaries/certain-to-win.md

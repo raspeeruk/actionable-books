@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:35.701Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804d1a3802ce7ed1cb5c_psycho-cybernetics-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/psycho-cybernetics/
+  alt: Psycho-Cybernetics book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/psycho-cybernetics/'
 f_author-plain-text: Maxwell Maltz
 f_author: cms/authors/maxwell-maltz.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -55,7 +55,7 @@ f_big-idea: >-
   impossible to think positive with negative feelings. You have a “Success
   Mechanism” within you, a self-serving mechanism that will steer your mind to a
   productive goal—if you let it.
-f_quote-reference: \- Psycho-Cybernetics, page xii
+f_quote-reference: '\- Psycho-Cybernetics, page xii'
 f_insight-2: >-
   ### Victory by surrender
 
@@ -131,7 +131,7 @@ f_conclusion: >-
 f_quote-2: >-
   “You can be happy now as well as every single day you are working toward
   achieving your goals.”
-f_amazon-url: https://www.amazon.com/dp/0399176136/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0399176136/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

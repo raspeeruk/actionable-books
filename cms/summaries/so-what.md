@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:41.871Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803ab0003bf0734d9d42_so_what.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/so-what/
+  alt: So What? book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/so-what/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/12/ActionableBooks-Audio-So-What.mp3
 f_author-plain-text: Mark Magnacca
@@ -42,7 +42,7 @@ f_big-idea: >-
   connect to that emotion. Move away from the benefit that seems like the reason
   people buy your product and move to the so what benefit that causes them to
   say “I love it, I want it, I’ll buy it.”
-f_quote-reference: \- So What?, page 5
+f_quote-reference: '\- So What?, page 5'
 f_insight-2: >-
   ### It's about them, not you
 
@@ -109,7 +109,7 @@ f_quote-2: >-
   "The net result of reading this book is that you will instinctively know the
   best way to communicate your message to engage your audience so that they want
   to follow you."
-f_amazon-url: https://www.amazon.com/dp/0137158262/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0137158262/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

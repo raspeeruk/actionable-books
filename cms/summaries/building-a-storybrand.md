@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:51.077Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805fb3b818ca436c5aa4_building-a-storybrand-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/building-a-storybrand/
+  alt: Building a StoryBrand book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/building-a-storybrand/'
 f_author-plain-text: Donald Miller
 f_author: cms/authors/donald-miller.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -58,7 +58,7 @@ f_big-idea: >-
   Different”_ which appeared on billboards everywhere. Today, Apple continues to
   excel in creating marketing stories that engage the imagination of customers
   everywhere.
-f_quote-reference: \- Building a StoryBrand, page 16
+f_quote-reference: '\- Building a StoryBrand, page 16'
 f_insight-2: >-
   ### Ask for the sale, repeatedly
 
@@ -105,7 +105,7 @@ f_conclusion: >-
 f_quote-2: >-
   “Story is the greatest weapon we have to combat noise, because it organizes
   information in such a way that people are compelled to listen.”
-f_amazon-url: https://www.amazon.com/dp/0718033329/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0718033329/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

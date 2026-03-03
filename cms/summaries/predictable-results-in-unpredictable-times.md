@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:34.598Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d31a3802ce7ed2090a_predictable-results-94x144.jpeg
-  alt: null
+  alt: Predictable Results in Unpredictable Times book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/predictable-results-in-unpredictable-times/
 f_author-plain-text: Bob Whitman
@@ -51,7 +51,7 @@ f_big-idea: >-
 
   These four simple principles can help to eliminate complexity and help you and
   your organization focus on the most important items within your business.
-f_quote-reference: \- Predictable Results in Unpredictable Times, page vi
+f_quote-reference: '\- Predictable Results in Unpredictable Times, page vi'
 f_insight-2: >-
   ### Building Customer and Employee Loyalty
 
@@ -120,7 +120,7 @@ f_conclusion: “So what about your team?” ask the authors.
 f_quote-2: >-
   "This small book is about getting predictable results in good times and
   bad—whether you believe ‘this time is different’ or not."
-f_amazon-url: https://www.amazon.com/dp/B004N3AZDM/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B004N3AZDM/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

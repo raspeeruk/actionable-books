@@ -1,16 +1,16 @@
 ---
 title: Christopher Ireland
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Christopher-Ireland/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Christopher-Ireland/'
 f_unique-id: '496'
 f_image:
   url: /assets/external/65d779d1916323b57a5f5523_christopher-ireland.jpeg
-  alt: null
+  alt: Christopher Ireland
 slug: christopher-ireland
 updated-on: '2024-02-23T13:30:47.313Z'
 created-on: '2024-02-22T16:44:01.222Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/RiseoftheDEO/
-f_website-2: http://riseofthedeo.com
+f_twitter-2: 'http://twitter.com/RiseoftheDEO/'
+f_website-2: 'http://riseofthedeo.com'
 layout: '[authors].html'
 tags: authors
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:44.346Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780515c25189781027173_success-built-to-last.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/success-built-to-last/
+  alt: Success Built to Last book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/success-built-to-last/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-Success-Built-to-Last.mp3
 f_author-plain-text: Jerry Porras
@@ -42,7 +42,7 @@ f_big-idea: >-
   that I had that I find something, something that sparked me, something that
   was for me and I didn’t do it?’ You have to go back, just recount every moment
   in life, what it was, what was that one thing that I did that I loved.”
-f_quote-reference: \- Success Built to Last, page 4
+f_quote-reference: '\- Success Built to Last, page 4'
 f_insight-2: >-
   ### Builders harvest their failures and successes as data they can use to
   improve their effectiveness
@@ -123,7 +123,7 @@ f_conclusion: >-
   because of the length of time it may take to achieve the mission that matters,
   because of the new directions you may need to go in order to achieve.
 f_quote-2: '"Success has to do with… discovering what matters to us as individuals."'
-f_amazon-url: https://www.amazon.com/dp/0452288703/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0452288703/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

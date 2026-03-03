@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:01.308Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804565dcec8f6914c745_139471064.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-lean-startup/
+  alt: The Lean Startup book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-lean-startup/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/05/ActionableBooks-Audio-The-Lean-Startup.mp3
 f_author-plain-text: Eric Ries
@@ -51,7 +51,7 @@ f_big-idea: >-
   target market group. Watch them use it. Listen to their feedback on it. Then
   improve. Ries calls this process BUILD-MEASURE-LEARN. It’s iterative, it’s
   eternal, and it radically improves your chances of success.
-f_quote-reference: \- Scott Cook, founder of Intuit, quoted in The Lean Startup, page 66
+f_quote-reference: '\- Scott Cook, founder of Intuit, quoted in The Lean Startup, page 66'
 f_insight-2: >-
   ### A Science Project with Purpose
 
@@ -131,7 +131,7 @@ f_conclusion: ''
 f_quote-2: >-
   "Success is not delivering a feature; success is learning how to solve a
   customer's problem."
-f_amazon-url: https://www.amazon.com/dp/0307887898/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0307887898/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:09.522Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780921de9c6d7938eb9ed_rise-of-superman-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-rise-of-superman/
+  alt: The Rise of Superman book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-rise-of-superman/'
 f_author-plain-text: Steven Kotler
 f_author: cms/authors/steven-kotler.md
 f_category-3: cms/summary-categories/self-management.md
@@ -49,7 +49,7 @@ f_big-idea: >-
   me and how do I get into that state? While the consequences for us may not be
   as severe, there are some common conditions and triggers for entering a flow
   state which I’ll explain below.
-f_quote-reference: \- The Rise of Superman, page x
+f_quote-reference: '\- The Rise of Superman, page x'
 f_insight-2: >-
   ### Two flow hacks
 
@@ -108,7 +108,7 @@ f_insight-1: >-
   you are on your way to entering your peak flow state.
 f_conclusion: _“What the world needs most is Superman. What the worlds needs most is us.”_
 f_quote-2: '"The data is clear. Flow is the very thing that makes us come alive."'
-f_amazon-url: https://www.amazon.com/dp/1477800832/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1477800832/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

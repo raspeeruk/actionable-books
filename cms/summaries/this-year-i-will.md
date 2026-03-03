@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:15.538Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806309562db31847de0d_this_year_i_will.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/this-year-i-will/
+  alt: This Year I Will book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/this-year-i-will/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-This-Year-I-Will.mp3
 f_author-plain-text: Mj Ryan
@@ -39,7 +39,7 @@ f_big-idea: >-
   pain, no fun, or fear to the desired change. **The more you can find what’s
   fun and enjoyable about what you want, the more your emotional brain will
   cooperate.**
-f_quote-reference: \- This Year I Will, page 13
+f_quote-reference: '\- This Year I Will, page 13'
 f_insight-2: >-
   ### What's at your core?
 
@@ -120,7 +120,7 @@ f_conclusion: >-
   alternative). They need to compel you on multiple levels in order for you to
   persist and work through your emotional sticking points.
 f_quote-2: '"Each of us holds the potential for our unique form of greatness."'
-f_amazon-url: https://www.amazon.com/dp/0767920082/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0767920082/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

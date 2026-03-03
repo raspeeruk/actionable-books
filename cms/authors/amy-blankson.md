@@ -1,18 +1,18 @@
 ---
 title: Amy Blankson
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Amy-Blankson/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Amy-Blankson/'
 f_unique-id: '651'
 slug: amy-blankson
 f_image:
   url: /assets/external/65d779ade1933dfafaa596fb_amy-blankson-180x200.jpeg
-  alt: null
+  alt: Amy Blankson
 f_summaries:
   - cms/summaries/the-future-of-happiness.md
 updated-on: '2024-02-23T13:31:10.946Z'
 created-on: '2024-02-22T16:43:25.229Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/amyblankson/
-f_website-2: http://amyblankson.com
+f_twitter-2: 'http://twitter.com/amyblankson/'
+f_website-2: 'http://amyblankson.com'
 layout: '[authors].html'
 tags: authors
 ---

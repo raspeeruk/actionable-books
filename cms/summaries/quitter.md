@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:36.068Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806f759822d957043158_quitter.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/quitter/
+  alt: Quitter book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/quitter/'
 f_author-plain-text: Jon Acuff
 f_author: cms/authors/jon-acuff.md
 f_category-3: cms/summary-categories/self-management.md
@@ -34,7 +34,7 @@ f_big-idea: >-
   spirit that lives in each of us while steadily reinforcing the fact that that
   you cannot truly quit your day job without a precise outline and the inclusion
   of a decisive plan to fall back on.
-f_quote-reference: \- Quitter, page 240
+f_quote-reference: '\- Quitter, page 240'
 f_insight-2: >-
   ### Create Our Own Definition of Success
 
@@ -84,7 +84,7 @@ f_conclusion: >-
 f_quote-2: >-
   "I don't want you to wake up at sixty-five and realize, 'I spend forty of my
   best years doing something that just funded my life.'"
-f_amazon-url: https://www.amazon.com/dp/0982986270/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0982986270/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

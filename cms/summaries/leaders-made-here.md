@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:19.980Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d2cec14bdda493f08f_leaders-made-here-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/leaders-made-here/
+  alt: Leaders Made Here book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/leaders-made-here/'
 f_author-plain-text: Mark Miller
 f_author: cms/authors/mark-miller.md
 f_category-3: cms/summary-categories/leadership.md
@@ -47,7 +47,7 @@ f_big-idea: >-
   Does everyone in your organization share and act on a common definition of
   leadership? Randomly ask five people what leadership looks like in your
   company. If you get conflicting definitions, you know where you need to start.
-f_quote-reference: \- Leaders Made Here, page 1
+f_quote-reference: '\- Leaders Made Here, page 1'
 f_insight-2: >-
   ### Five Steps to Building Culture
 
@@ -142,7 +142,7 @@ f_quote-2: >-
   "A leadership culture exists when leaders are routinely and systematically
   developed, and you have a surplus of leaders ready for the next opportunity or
   challenge."
-f_amazon-url: https://www.amazon.com/dp/B01LYKB5Y2/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B01LYKB5Y2/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

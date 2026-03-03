@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:50.991Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807ce4a0b87bccdf660d_brief.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/brief/
+  alt: Brief book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/brief/'
 f_author-plain-text: Joseph Mccormack
 f_author: cms/authors/joseph-mccormack.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -41,7 +41,7 @@ f_big-idea: >-
   one details. Use level two sparingly and avoid level three details altogether.
   For instance, I used only level one details when I told my wife about the
   spider. Only when I added some second level details did she relax.
-f_quote-reference: \- Brief, page 216
+f_quote-reference: '\- Brief, page 216'
 f_insight-2: >-
   ### Start by listening
 
@@ -103,7 +103,7 @@ f_conclusion: >-
   Though I am tempted to go on and on, the book is about being BRIEF! Say more
   by saying less.
 f_quote-2: '"If you want to make a bigger impact, decide to give your audience less."'
-f_amazon-url: https://www.amazon.com/dp/1118704967/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118704967/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

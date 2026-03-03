@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:53.189Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780a6540dd98b67c3a31e_compound_effect.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-compound-effect/
+  alt: The Compound Effect book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-compound-effect/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/05/ActionableBooks-Audio-The-Compound-Effect.mp3
 f_author-plain-text: Darren Hardy
@@ -66,7 +66,7 @@ f_big-idea: >-
 
 
   By the way, did you see yourself in the friends? Which one are you?
-f_quote-reference: \- The Compound Effect, page 1
+f_quote-reference: '\- The Compound Effect, page 1'
 f_insight-2: >-
   ### Don't Want More. Become More!
 
@@ -126,7 +126,7 @@ f_insight-1: >-
   gratitude for the things that are right; pushing out any room for complaining.
 f_conclusion: ''
 f_quote-2: '"This book is about success and what it really takes to earn it."'
-f_amazon-url: https://www.amazon.com/dp/1593157134/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1593157134/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

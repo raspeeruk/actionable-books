@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:17.990Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78053029e815b3dc3a4bc_invaluable-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/invaluable/
+  alt: Invaluable book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/invaluable/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/05/Actionablebooks-Audio-Invaluable.mp3
 f_author-plain-text: Dave Crenshaw
@@ -33,7 +33,7 @@ f_big-idea: >-
   can improve to make themselves Invaluable. (And once you’ve purchased this
   book, you’re entitled to a free light version of your personal Invaluable
   Score, see [www.InvaluableScore.com](http://www.invaluablescore.com/).)
-f_quote-reference: \- Invaluable, page 27
+f_quote-reference: '\- Invaluable, page 27'
 f_insight-2: >-
   ### Valuable Contribution
 
@@ -122,7 +122,7 @@ f_quote-2: >-
   "The amount of money you make will always be in direct proportion to: number
   one, the demand for what you do; number two, your ability to do it; and number
   three, the difficulty of replacing you."
-f_amazon-url: https://www.amazon.com/dp/0470553235/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470553235/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:03.284Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807cbf6c5df855b659c0_disciplined-entrepreneurship.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/disciplined-entrepreneurship/
+  alt: Disciplined Entrepreneurship book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/disciplined-entrepreneurship/'
 f_author-plain-text: Bill Aulet
 f_author: cms/authors/bill-aulet.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -51,7 +51,7 @@ f_big-idea: >-
 
   Knowing what you can do for your customer lies at the heart of your business.
   When you’ve nailed your value, the other parts will come naturally.
-f_quote-reference: \- Disciplined Entrepreneurship, page 2
+f_quote-reference: '\- Disciplined Entrepreneurship, page 2'
 f_insight-2: >-
   ### Define Your Core
 
@@ -139,7 +139,7 @@ f_insight-1: >-
   deliver.
 f_conclusion: ''
 f_quote-2: '"All the other factors that influence success are nothing without a product."'
-f_amazon-url: https://www.amazon.com/dp/1118692284/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118692284/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

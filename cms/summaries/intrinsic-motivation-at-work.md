@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d7809773685ce4f9a122c1_intrinsic-motivation-at-work-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/intrinsic-motivation-at-work/
+  alt: Intrinsic Motivation at Work book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/intrinsic-motivation-at-work/'
 f_author-plain-text: Kenneth W. Thomas
 f_author: cms/authors/kenneth-w-thomas.md
 f_category-3: cms/summary-categories/self-management.md
@@ -79,7 +79,7 @@ f_big-idea: >-
   23.  Access to customers
 
   24.  Measurement of improvement
-f_quote-reference: \- Intrinsic Motivation at Work, page 84
+f_quote-reference: '\- Intrinsic Motivation at Work, page 84'
 f_insight-2: >-
   ### Think Partner—Not Control
 
@@ -170,7 +170,7 @@ f_quote-2: >-
   “…a disturbing number of the managers they see are running on empty - low in
   intrinsic rewards and approaching burnout. I don’t want this to happen to
   you.”
-f_amazon-url: https://www.amazon.com/dp/1576752380/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1576752380/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

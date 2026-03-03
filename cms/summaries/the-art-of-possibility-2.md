@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:49.315Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803a9b92e746e8685524_art-of-possibility.gif
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-art-of-possibility-2/
+  alt: The Art of Possibility book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-art-of-possibility-2/'
 f_author-plain-text: Benjamin Zander
 f_author: cms/authors/benjamin-zander.md
 f_category-3: cms/summary-categories/leadership.md
@@ -45,7 +45,7 @@ f_big-idea: >-
   To create a vision that says, “_We can create the conditions for the emergence
   of anything that is missing. We are living in the land of our dreams”,_ we
   must build an effective framework. To learn how read on to the Insights.
-f_quote-reference: \- The Art of Possibility, Page 10
+f_quote-reference: '\- The Art of Possibility, Page 10'
 f_insight-2: >-
   ### Imagine Grace
 
@@ -127,7 +127,7 @@ f_quote-2: >-
   "We perceive only the sensations we are programmed to receive, and our
   awareness is further restricted by the fact that we recognize only those for
   which we have mental maps or categories."
-f_amazon-url: https://www.amazon.com/dp/0142001104/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0142001104/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

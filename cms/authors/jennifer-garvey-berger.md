@@ -1,19 +1,19 @@
 ---
 title: Jennifer Garvey Berger
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Jennifer-Garvey-Berger/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Jennifer-Garvey-Berger/'
 f_unique-id: '521'
 f_image:
   url: >-
     /assets/external/65d77a0ce303a77ff77b918e_jennifer-garvey-berger-180x220.jpeg
-  alt: null
+  alt: Jennifer Garvey Berger
 slug: jennifer-garvey-berger
 f_summaries:
   - cms/summaries/simple-habits-for-complex-times.md
 updated-on: '2024-02-23T13:31:06.154Z'
 created-on: '2024-02-22T16:45:00.609Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/jgberger/
-f_website-2: http://cultivatingleadership.co.nz
+f_twitter-2: 'http://twitter.com/jgberger/'
+f_website-2: 'http://cultivatingleadership.co.nz'
 layout: '[authors].html'
 tags: authors
 ---

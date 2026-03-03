@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:10.884Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780ba38000e5dc756b455_grasp_the_solution.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/grasp-the-solution/
+  alt: GRASP The Solution book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/grasp-the-solution/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/08/ActionableBooks-Audio-GRASP-The-Solution.mp3
 f_author-plain-text: Chris Griffiths
@@ -150,7 +150,7 @@ f_conclusion: >-
   it. He believes that the value of the book is that it will make it easier for
   you to apply this knowledge systematically in a world that’s becoming more
   complex and fast-paced.
-f_amazon-url: https://www.amazon.com/dp/1905493959/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1905493959/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

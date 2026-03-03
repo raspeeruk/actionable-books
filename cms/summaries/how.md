@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:12.432Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78077d4a4ec8cc91f3cd3_how.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/how/
+  alt: HOW book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/how/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/11/ActionableBooks-Audio-HOW.mp3
 f_author-plain-text: Dov Seidman
@@ -40,7 +40,7 @@ f_big-idea: >-
   fairness, honesty, humility, transparency, purpose – have become the hard
   currency of achievement in a connected world – the drivers of efficiency,
   productivity and profitability.
-f_quote-reference: \- HOW, page 55
+f_quote-reference: '\- HOW, page 55'
 f_insight-2: >-
   ### Create a Personal WAVE!
 
@@ -148,7 +148,7 @@ f_quote-2: >-
   company or an individual – to make Waves throughout evanescing networks of
   association, to reach out to others and enlist them in endeavors larger than
   yourself, and to do so while everyone watches you."
-f_amazon-url: https://www.amazon.com/dp/1118106377/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118106377/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

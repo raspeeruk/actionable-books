@@ -1,10 +1,10 @@
 ---
 title: Dave Mckinsey
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Dave-McKinsey/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Dave-McKinsey/'
 f_unique-id: '541'
 f_image:
   url: /assets/external/65d779a49c49c73f41478f48_author-large.png
-  alt: null
+  alt: Dave Mckinsey
 slug: dave-mckinsey
 f_summaries:
   - cms/summaries/strategic-storytelling.md

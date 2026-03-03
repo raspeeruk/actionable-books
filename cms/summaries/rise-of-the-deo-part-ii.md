@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:37.780Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780492a2994bbba9dc23a_rise-of-the-deo.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/rise-of-the-deo-part-ii/
+  alt: Rise of the DEO (Part II) book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/rise-of-the-deo-part-ii/'
 f_author-plain-text: Christopher Ireland
 f_author: cms/authors/christopher-ireland.md
 f_category-3: cms/summary-categories/leadership.md
@@ -58,7 +58,7 @@ f_big-idea: >-
 
   Each chapter has a few pages that elaborates on each topic. When one of those
   ingredients is missing, just imagine the consequences.
-f_quote-reference: \- Rise of the DEO, page 16
+f_quote-reference: '\- Rise of the DEO, page 16'
 f_insight-2: >-
   ### Crafting Towards Originality
 
@@ -151,7 +151,7 @@ f_quote-2: >-
   time that requires new leadership. We live in a time that requires people who
   look at every business challenge as a design problem solvable with the right
   mix of imagination and metrics."
-f_amazon-url: https://www.amazon.com/dp/0321934393/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0321934393/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

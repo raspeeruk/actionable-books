@@ -1,18 +1,18 @@
 ---
 title: Stacy Hanke
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Stacy-Hanke/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Stacy-Hanke/'
 f_unique-id: '308'
 slug: stacy-hanke
 f_image:
   url: /assets/external/65d779a49c49c73f41478f48_author-large.png
-  alt: null
+  alt: Stacy Hanke
 f_summaries:
   - cms/summaries/influence-redefined.md
 updated-on: '2024-02-23T13:30:27.081Z'
 created-on: '2024-02-22T16:46:09.794Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/StaceyHankeInc/
-f_website-2: https://staceyhankeinc.com/
+f_twitter-2: 'http://twitter.com/StaceyHankeInc/'
+f_website-2: 'https://staceyhankeinc.com/'
 layout: '[authors].html'
 tags: authors
 ---

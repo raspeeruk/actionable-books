@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:09.380Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780384ca49428b751420f_road-to-character-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-road-to-character/
+  alt: The Road to Character book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-road-to-character/'
 f_author-plain-text: David Brooks
 f_author: cms/authors/david-brooks.md
 f_category-3: cms/summary-categories/self-management.md
@@ -41,7 +41,7 @@ f_big-idea: >-
   ourselves right now? And what does life want from us in these somewheres? It’s
   a refreshingly unorthodox way of looking at (and perhaps reordering) today’s
   to-do list.
-f_quote-reference: \- The Road to Character, page xiv
+f_quote-reference: '\- The Road to Character, page xiv'
 f_insight-2: >-
   ### Cultivate humility
 
@@ -117,7 +117,7 @@ f_quote-2: >-
   really am...I wrote this book not sure I could follow the road to character,
   but I wanted at least to know what the road looks like and how other people
   have trodden it."
-f_amazon-url: https://www.amazon.com/dp/081299325X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/081299325X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:43.920Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78064ab601995e06fb90d_complaint-free-world.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/a-complaint-free-world/
+  alt: A Complaint Free World book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/a-complaint-free-world/'
 f_author-plain-text: Will Bowen
 f_author: cms/authors/will-bowen.md
 f_category-3: cms/summary-categories/self-management.md
@@ -52,7 +52,7 @@ f_big-idea: >-
 
   4.  **Unconscious Competence.** It has now become unconscious (you don’t
   notice) for you to be competent (not complain).
-f_quote-reference: \- Maya Angelou, as quoted in Complaint Free World, page 1
+f_quote-reference: '\- Maya Angelou, as quoted in Complaint Free World, page 1'
 f_insight-2: >-
   ### Say “Of Course”
 
@@ -133,7 +133,7 @@ f_conclusion: ''
 f_quote-2: >-
   "If you don’t like something, change it. If you can’t change it, change your
   attitude. Don’t complain."
-f_amazon-url: https://www.amazon.com/dp/0770436390/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0770436390/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

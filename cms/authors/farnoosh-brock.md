@@ -1,18 +1,18 @@
 ---
 title: Farnoosh Brock
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Farnoosh-Brock/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Farnoosh-Brock/'
 f_unique-id: '572'
 slug: farnoosh-brock
 f_image:
   url: /assets/external/65d779f357779173a8b67e24_farnoosh1.jpeg
-  alt: null
+  alt: Farnoosh Brock
 f_summaries:
   - cms/summaries/the-8-pillars-of-motivation.md
 updated-on: '2024-02-23T13:30:31.424Z'
 created-on: '2024-02-22T16:44:35.765Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/prolificliving/
-f_website-2: http://www.prolificliving.com
+f_twitter-2: 'http://twitter.com/prolificliving/'
+f_website-2: 'http://www.prolificliving.com'
 layout: '[authors].html'
 tags: authors
 ---

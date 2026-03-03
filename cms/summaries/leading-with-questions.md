@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:20.569Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78065899573618576b689_leading_with_questions.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/leading-with-questions/
+  alt: Leading with Questions book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/leading-with-questions/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/ActionableBooks-Audio-Leading-with-Questions.mp3
 f_author-plain-text: Michael J. Marquardt
@@ -39,7 +39,7 @@ f_big-idea: >-
   know everything. We may be afraid to admit we don’t know everything. But, if
   we’re afraid to ask questions, how will we learn what others can share in
   terms of new market information, fresh perspectives, or innovative ideas?
-f_quote-reference: \- Leading with Questions, page 1
+f_quote-reference: '\- Leading with Questions, page 1'
 f_insight-2: >-
   ### The art of questions
 
@@ -150,7 +150,7 @@ f_quote-2: >-
   Astute leaders use questions to encourage full participation and teamwork, to
   spur innovation and outside the box thinking, to empower others, to build
   relationships with customers, to solve problems and more."
-f_amazon-url: https://www.amazon.com/dp/0787977462/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0787977462/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

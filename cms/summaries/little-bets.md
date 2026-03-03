@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:22.458Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7808b345fe67ffc98ce0c_little_bets.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/little-bets/
+  alt: Little Bets book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/little-bets/'
 f_author-plain-text: Peter Sims
 f_author: cms/authors/peter-sims.md
 f_category-3: cms/summary-categories/self-management.md
@@ -65,7 +65,7 @@ f_big-idea: >-
 
   To help you do just that I have two suggestions: learning a little from a lot,
   and setting up guard rails.
-f_quote-reference: \- Little Bets, page 154
+f_quote-reference: '\- Little Bets, page 154'
 f_insight-2: >-
   ### Set Up Guard Rails
 
@@ -123,7 +123,7 @@ f_conclusion: >-
 f_quote-2: >-
   "...ingenious ideas rarely spring into people's minds fully formed; they
   emerge through a rigorous experimental discovery approach."
-f_amazon-url: https://www.amazon.com/dp/1439170428/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1439170428/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

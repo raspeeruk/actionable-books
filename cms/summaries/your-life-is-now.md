@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:26.032Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780db2d3147c9543b1daf_your-life-is-now-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/your-life-is-now/
+  alt: Your Life is Now! book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/your-life-is-now/'
 f_author-plain-text: Marlene George
 f_author: cms/authors/marlene-george.md
 f_category-3: cms/summary-categories/self-management.md
@@ -47,7 +47,7 @@ f_big-idea: >-
 
   9.  Smile more. Laugh more. Dance more. Your body will mirror that back to
   you!
-f_quote-reference: \- Your Life is Now!, page 173
+f_quote-reference: '\- Your Life is Now!, page 173'
 f_insight-2: >-
   ### Healing Your Relationships
 
@@ -137,6 +137,7 @@ f_conclusion: ''
 f_quote-2: '"This is your life and you get to choose how you want to feel."'
 layout: '[summaries].html'
 tags: summaries
+f_amazon-url: 'https://www.amazon.com/dp/Trafford/?tag=actionableb08-20'
 ---
 
 > "This is your life and you get to choose how you want to feel." _\- Your Life is Now!, page 173_

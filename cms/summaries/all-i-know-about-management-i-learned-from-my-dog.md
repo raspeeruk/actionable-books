@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:05:45.844Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780afa8157b6a5246c1b9_about_management-94x144.jpeg
-  alt: null
+  alt: All I Know About Management I Learned From My Dog book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/all-i-know-about-management-i-learned-from-my-dog/
 f_podcast-url: >-
@@ -47,7 +47,7 @@ f_big-idea: >-
   understandably, was not quick to trust. For Levin the answer to making any
   sort of headway with Angel came from his six decades of management, and how he
   dealt with the teams he worked with.
-f_quote-reference: \- All I Know About Management I Learned from My Dog, page 10
+f_quote-reference: '\- All I Know About Management I Learned from My Dog, page 10'
 f_insight-2: >-
   ### Communication is Key
 
@@ -136,7 +136,7 @@ f_quote-2: >-
   "It soon became clear that my best resource for managing Angel would be,
   unexpectedly, the six decades of experience I had in a variety of management
   positions and the principles I had learned in the process."
-f_amazon-url: https://www.amazon.com/dp/1616083247/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1616083247/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

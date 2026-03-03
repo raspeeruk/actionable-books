@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:49.297Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780592ebc9b7d62b33350_the-art-of-people-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-art-of-people/
+  alt: The Art of People book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-art-of-people/'
 f_author-plain-text: Dave Kerpen
 f_author: cms/authors/dave-kerpen.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -42,7 +42,7 @@ f_big-idea: >-
   “Imagine what you can achieve with this new machine.” Imagine what it will be
   like when you have the power to motivate people through more powerful
   language!
-f_quote-reference: \- The Art of People, page 6
+f_quote-reference: '\- The Art of People, page 6'
 f_insight-2: >-
   ### Validation
 
@@ -155,7 +155,7 @@ f_quote-2: >-
   "You may think that the hard-driving, take no prisoners self-promoter is the
   person who ends up on top, but today it is actually the person with the best
   people skills who gets everything she wants at home, at work and in life."
-f_amazon-url: https://www.amazon.com/dp/0553419404/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0553419404/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:55.954Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780bbb974b768d91c557e_entrepreneurs_trap.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-entrepreneurs-trap/
+  alt: The Entrepreneur’s Trap book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-entrepreneurs-trap/'
 f_author-plain-text: Tina Forsyth
 f_author: cms/authors/tina-forsyth.md
 f_category-3: cms/summary-categories/leadership.md
@@ -36,7 +36,7 @@ f_big-idea: >-
   run your business”. Most often your why will be related to freedom, money or
   meaning. After you establish what’s important to you, it is far easier to
   determine a business model and offers that support this.
-f_quote-reference: \- The Entrepreneur’s Trap, page ii
+f_quote-reference: '\- The Entrepreneur’s Trap, page ii'
 f_insight-2: >-
   ### Do the Work You Love
 
@@ -103,7 +103,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Running the business is not the fun and sexy side of entrepreneurship, but it
   is essential to your success and sanity."
-f_amazon-url: https://www.amazon.com/dp/1934509620/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1934509620/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

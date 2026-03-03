@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:08.550Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78058ef2953d859f4996b_focusing.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/focusing/
+  alt: Focusing book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/focusing/'
 f_author-plain-text: Eugene T. Gendlin
 f_author: cms/authors/eugene-t-gendlin.md
 f_category-3: cms/summary-categories/self-management.md
@@ -74,7 +74,7 @@ f_big-idea: >-
   problem and develop it beyond your current declarative understanding** of it.
   I can’t speak to this yet myself, but it strikes me as a huge potential source
   of value for creative professionals and knowledge workers.
-f_quote-reference: \- Focusing, page 29
+f_quote-reference: '\- Focusing, page 29'
 f_insight-2: >-
   ### Facing Truth
 
@@ -145,7 +145,7 @@ f_quote-2: >-
   might be expected that this would make you feel worse. After all, you now know
   something bad that you didn’t know before. Logically, you should feel worse.
   Yet you don’t. You feel better."
-f_amazon-url: https://www.amazon.com/dp/0553278339/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0553278339/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

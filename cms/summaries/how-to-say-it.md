@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:13.885Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78060d58945232eeb8cf3_how-to-say-it.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/how-to-say-it/
+  alt: How to Say It book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/how-to-say-it/'
 f_author-plain-text: Geoffrey James
 f_author: cms/authors/geoffrey-james.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -133,7 +133,7 @@ f_conclusion: >-
   of this book. All professional sales pros need the occasional booster shot of
   theory, so they’ll find something in this book that is a reminder of what had
   been learned and forgotten at past sales training classes.
-f_amazon-url: https://www.amazon.com/dp/0735204586/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0735204586/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

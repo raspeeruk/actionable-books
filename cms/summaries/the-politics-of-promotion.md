@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:06.273Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7807e99395c41bc2135cc_politics-of-promotion-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-politics-of-promotion/
+  alt: The Politics of Promotion book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-politics-of-promotion/'
 f_author-plain-text: Bonnie Marcus
 f_author: cms/authors/bonnie-marcus.md
 f_category-3: cms/summary-categories/self-management.md
@@ -47,7 +47,7 @@ f_big-idea: >-
   him make decisions more quickly. Once she recognized this and started giving
   him status reports from this perspective, he appreciated her and her value to
   him much more, and their relationship improved drastically.
-f_quote-reference: \- The Politics of Promotion, page xi
+f_quote-reference: '\- The Politics of Promotion, page xi'
 f_insight-2: >-
   ### Network Strategically
 
@@ -116,7 +116,7 @@ f_quote-2: >-
   not based on performance alone. Our naïve assumption that our performance will
   guarantee a successful career is a dangerous one. This assumption results in
   thousands of women being blindsided. And it happens every day."
-f_amazon-url: https://www.amazon.com/dp/1118997425/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118997425/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

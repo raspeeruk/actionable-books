@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:36.604Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780bbac76a184445c9aca_reconciliation.jpeg
-  alt: null
+  alt: 'Reconciliation: Healing the Inner Child book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/reconciliation-healing-the-inner-child/
 f_author-plain-text: Thich Nhat Hanh
@@ -47,7 +47,7 @@ f_big-idea: >-
   spend a few moments daily contemplating that life contains not only fear of
   the dark but also peace from the light, our sense of well-being would
   ironically increase.
-f_quote-reference: \- Reconciliation, page 22
+f_quote-reference: '\- Reconciliation, page 22'
 f_insight-2: >-
   ### The Karma of Thought, Speech and Action
 
@@ -124,7 +124,7 @@ f_insight-1: >-
   the power of mindfulness and concentration.
 f_conclusion: ''
 f_quote-2: '"We produce ourselves. We produce our future."'
-f_amazon-url: https://www.amazon.com/dp/1935209647/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1935209647/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

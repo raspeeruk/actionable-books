@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:23.944Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805e345fe67ffc98b901_women-on-board-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/women-on-board/
+  alt: Women on Board book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/women-on-board/'
 f_author-plain-text: Nancy Calderon
 f_author: cms/authors/nancy-calderon.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
@@ -149,7 +149,7 @@ f_quote-2: >-
   be – multi-gender, multi-skilled, multi-national, multi-ethnic, and
   multi-generational. That’s how we’ll make a difference around the table, in
   the world, and for the world."
-f_amazon-url: https://www.amazon.com/dp/0692262946/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0692262946/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

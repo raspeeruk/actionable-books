@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:40.889Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780aea1ca3470eb5aa9ff_simply-managing-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/simply-managing/
+  alt: Simply Managing book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/simply-managing/'
 f_author-plain-text: Henry Mintzberg
 f_author: cms/authors/henry-mintzberg.md
 f_category-3: cms/summary-categories/leadership.md
@@ -67,7 +67,7 @@ f_big-idea: >-
   narcissistic leading.**”** Thus, he broadens our perception of managing, and
   explains the interconnectedness and messiness of managing effectively, and how
   it must be practiced holistically.
-f_quote-reference: \- Simply Managing, location 2091
+f_quote-reference: '\- Simply Managing, location 2091'
 f_insight-2: >-
   ### Culture as Decision Shaping
 
@@ -133,7 +133,7 @@ f_quote-2: >-
   "What could be more natural than to treat our organizations, not as mystical
   hierarchies of authority, but as communities of engagement, where every member
   is respected and so returns that respect?"
-f_amazon-url: https://www.amazon.com/dp/1609949234/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1609949234/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

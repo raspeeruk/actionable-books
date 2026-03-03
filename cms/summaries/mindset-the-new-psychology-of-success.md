@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:06:27.165Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780493cf2f7d756cf02e0_mindset.jpeg
-  alt: null
+  alt: 'Mindset: The New Psychology of Success book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/mindset-the-new-psychology-of-success/
 f_podcast-url: >-
@@ -54,7 +54,7 @@ f_big-idea: >-
   for life. **There are two choices: embrace the art of success and learn to
   master its components and the process involved (growth) or wait for something
   magical to happen (fixed).**
-f_quote-reference: \- Mindset, page 5
+f_quote-reference: '\- Mindset, page 5'
 f_insight-2: >-
   ### Beware of the words you use: Failure is not an adjective!
 
@@ -118,7 +118,7 @@ f_conclusion: >-
 f_quote-2: >-
   "It’s not always the people who start out the smartest who end up the
   smartest."
-f_amazon-url: https://www.amazon.com/dp/0345472322/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0345472322/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

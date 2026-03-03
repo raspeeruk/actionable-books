@@ -1,13 +1,13 @@
 ---
 f_unique-number: 478
-title: Nothing to Lose, Everything to Gain
+title: 'Nothing to Lose, Everything to Gain'
 slug: nothing-to-lose-everything-to-gain
 updated-on: '2024-02-27T20:31:20.305Z'
 created-on: '2024-02-22T16:06:28.867Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809d68efe795c9dd8d34_ntletg-94x144.jpeg
-  alt: null
+  alt: 'Nothing to Lose, Everything to Gain book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/nothing-to-lose-everything-to-gain/
 f_podcast-url: >-
@@ -50,7 +50,7 @@ f_big-idea: >-
   wasn’t actually responsibly for the success of the business he’s referencing.”
   (23) Asking this level of detail will help you in trusting your own instincts,
   as well, as you will see below.
-f_quote-reference: \- Nothing to Lose, Everything to Gain, page 1-2
+f_quote-reference: '\- Nothing to Lose, Everything to Gain, page 1-2'
 f_insight-2: >-
   ### The Path Is All Math
 
@@ -122,7 +122,7 @@ f_quote-2: >-
   "From the outside it looks as if I have this great, easy lifestyle. The truth
   is I’ve never made a million dollars easily, and I’ve made many millions of
   dollars."
-f_amazon-url: https://www.amazon.com/dp/1591844037/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1591844037/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

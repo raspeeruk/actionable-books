@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:47.482Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803be71bbdd1f523143b_bargaining-for-advantage.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/bargaining-for-advantage/
+  alt: Bargaining for Advantage book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/bargaining-for-advantage/'
 f_author-plain-text: G. Richard Shell
 f_author: cms/authors/g-richard-shell.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -54,7 +54,7 @@ f_big-idea: >-
   strategy for those types of negotiations changes accordingly. With a better
   understanding of negotiation situations, it becomes less intimidating and the
   process looks more like a dance – even to novice negotiators.
-f_quote-reference: \- Bargaining for Advantage, page xviii
+f_quote-reference: '\- Bargaining for Advantage, page xviii'
 f_insight-2: >-
   ### Set an optimistic – but justifiable – target
 
@@ -148,7 +148,7 @@ f_quote-2: >-
   solid planning and preparation before you start, careful listening so you can
   find out what the other side really wants, and attending to the ‘signals’ the
   other party sends through his or her conduct once bargaining gets under way. "
-f_amazon-url: https://www.amazon.com/dp/0143036971/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0143036971/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

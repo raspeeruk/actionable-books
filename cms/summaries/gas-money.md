@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:08.934Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7809696d29f515b364ab4_gas-money-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/gas-money/
+  alt: Gas Money book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/gas-money/'
 f_author-plain-text: Troy Lewis
 f_author: cms/authors/troy-lewis.md
 f_category-3: cms/summary-categories/self-management.md
@@ -44,7 +44,7 @@ f_big-idea: >-
   What gas money were you given? Did you use it to propel you or did it derail
   you? Troy teaches us that it is up to us to choose. How can you turn those
   lessons into a positive force?
-f_quote-reference: \- Gas Money, page 2
+f_quote-reference: '\- Gas Money, page 2'
 f_insight-2: >-
   ### Random interactions can have a lasting effect
 
@@ -120,7 +120,7 @@ f_quote-2: >-
   "Perhaps you’ll recall how others have shaped your life and all the gas money
   you’ve been given – the angels and the achievements, the devils and
   derailments that possibly influenced your life choices."
-f_amazon-url: https://www.amazon.com/dp/1514135949/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1514135949/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

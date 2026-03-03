@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:24.311Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780241de9c6d7938e9180_9780137142347_p0_v2_s114x166.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/wired-to-care/
+  alt: Wired to Care book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/wired-to-care/'
 f_author-plain-text: Dev Patnaik
 f_author: cms/authors/dev-patnaik.md
 f_category-3: cms/summary-categories/leadership.md
@@ -56,7 +56,7 @@ f_big-idea: >-
   hidden difficulties and obscure opportunities.** Finding solutions where none
   existed previously can open up new markets, make work meaningful and
   ultimately improve the bottom line.
-f_quote-reference: \- Wired to Care, page 4
+f_quote-reference: '\- Wired to Care, page 4'
 f_insight-2: >-
   ### Stories Not Statistics
 
@@ -137,7 +137,7 @@ f_quote-2: >-
   "This is the story of how companies, and indeed organizations of all kinds,
   prosper when they tap into a power that every one of us already has: the
   ability to reach inside ourselves and connect with other people."
-f_amazon-url: https://www.amazon.com/dp/013714234X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/013714234X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

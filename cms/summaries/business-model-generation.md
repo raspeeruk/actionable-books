@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d78055e79b884267bd158c_business-model-generation-94x93.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/business-model-generation/
+  alt: Business Model Generation book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/business-model-generation/'
 f_author-plain-text: Alexander Osterwalder
 f_author: cms/authors/alexander-osterwalder.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -140,7 +140,7 @@ f_conclusion: >-
   the rationalization for embracing business modeling as a continuous process.
   This book provides valuable material for making business modeling a practical
   part of managing business for success.
-f_amazon-url: https://www.amazon.com/dp/0470876417/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0470876417/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

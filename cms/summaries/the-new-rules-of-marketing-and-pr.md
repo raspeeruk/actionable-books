@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:07:04.024Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78076b4b3d748708acd1e_new_rules_of_marketing_and_pr.jpeg
-  alt: null
+  alt: The New Rules of Marketing and PR book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-new-rules-of-marketing-and-pr/
 f_author-plain-text: David Meerman Scott
@@ -36,7 +36,7 @@ f_big-idea: >-
   customers to see your abilities at a time when they are most likely to make a
   purchase decision, but the trick is to develop the type of “information your
   buyers want to consume”.
-f_quote-reference: \- The New Rules of Marketing and PR, page 13
+f_quote-reference: '\- The New Rules of Marketing and PR, page 13'
 f_insight-2: >-
   ### Become a Thought Leader with Content
 
@@ -97,7 +97,7 @@ f_insight-1: >-
   [here](http://www.hubspot.com/free-template-creating-buyer-personas/).
 f_conclusion: ''
 f_quote-2: '"Learn to ignore the old rules."'
-f_amazon-url: https://www.amazon.com/dp/1118026985/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1118026985/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:00.338Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803f96d29f515b361db3_9780486486079_p0_v1_s114x166.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-law-of-success/
+  alt: The Law of Success book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-law-of-success/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-The-Law-of-Success.mp3
 f_author-plain-text: Napoleon Hill
@@ -103,7 +103,7 @@ f_conclusion: >-
   Despite the fact that _The Law of Success_ was first published in 1928, the 15
   laws described are still as relevant as ever, proving that there are some
   universal truths that do not change regardless of how many years pass.
-f_amazon-url: https://www.amazon.com/dp/158542689X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/158542689X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

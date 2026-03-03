@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:53.731Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7806848fff91cd318392e_the-cubs-way-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-cubs-way/
+  alt: The Cubs Way book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-cubs-way/'
 f_author-plain-text: Tom Verducci
 f_author: cms/authors/tom-verducci.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
@@ -38,7 +38,7 @@ f_big-idea: >-
   in professional sports. What Epstein had learned over the previous 10 years is
   that without character, talent isn’t enough to win out and if it somehow does,
   it’s temporary and not sustainable.
-f_quote-reference: \- The Cubs Way, page 76
+f_quote-reference: '\- The Cubs Way, page 76'
 f_insight-2: >-
   ### Flipping the Culture
 
@@ -94,7 +94,7 @@ f_conclusion: >-
 f_quote-2: >-
   "We are not going to compromise character for talent. We’re the Cubs. We’re
   going to have both. Talent and character."
-f_amazon-url: https://www.amazon.com/dp/0804190011/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0804190011/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

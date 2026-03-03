@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:49.180Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7804edb928dde1f0f1822_67832435-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-art-of-non-conformity/
+  alt: The Art of Non-Conformity book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-art-of-non-conformity/'
 f_author-plain-text: Chris Guillebeau
 f_author: cms/authors/chris-guillebeau.md
 f_category-3: cms/summary-categories/self-management.md
@@ -70,7 +70,7 @@ f_big-idea: >-
   eliminating what’s unnecessary. You’ll find that sometimes things like formal
   qualifications and intelligence aren’t necessary prerequisites, but just
   purpose and determination to make it happen.
-f_quote-reference: \- The Art of Non-Conformity, page 24
+f_quote-reference: '\- The Art of Non-Conformity, page 24'
 f_insight-2: >-
   ### Fear of Change
 
@@ -185,7 +185,7 @@ f_insight-1: >-
   without asking for forgiveness or permission.
 f_conclusion: ''
 f_quote-2: '"There''s nothing wrong with thinking ahead, but life does not start at 65."'
-f_amazon-url: https://www.amazon.com/dp/0399536108/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0399536108/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

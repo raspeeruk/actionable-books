@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:37.049Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803265dcec8f6914c0b0_redefining_success.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/redefining-success/
+  alt: Redefining Success book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/redefining-success/'
 f_author-plain-text: W. Brett Wilson
 f_author: cms/authors/w-brett-wilson.md
 f_category-3: cms/summary-categories/leadership.md
@@ -103,7 +103,7 @@ f_big-idea: >-
   6\. **Community** – “We all have opportunities to give back in whatever way we
   choose, be it through time, money, or the combination of time money and
   creativity”, Wilson says. More on this in insight #1.
-f_quote-reference: \- Redefining Success, Chapter 3
+f_quote-reference: '\- Redefining Success, Chapter 3'
 f_insight-2: >-
   ### Get Checked
 
@@ -195,7 +195,7 @@ f_quote-2: >-
   because it truly forced me to slow down and think about how I was living.
   Cancer may have saved my life. Cancer allowed me to say no to every request
   for my time."
-f_amazon-url: https://www.amazon.com/dp/067006694X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/067006694X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

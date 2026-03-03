@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:45.175Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c257e639fa01dc1e72_take-the-stairs.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/take-the-stairs/
+  alt: Take the Stairs book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/take-the-stairs/'
 f_author-plain-text: Rory Vaden
 f_author: cms/authors/rory-vaden.md
 f_category-3: cms/summary-categories/self-management.md
@@ -42,7 +42,7 @@ f_big-idea: >-
   to develop the discipline to take the stairs.** Vaden quotes Dave Ramsey as
   saying, “Discipline is not a microwave; it’s a Crock-Pot.” Taking the stairs
   will invariably take more time but in the long run you’ll be better off.
-f_quote-reference: \- Take the Stairs, page 191
+f_quote-reference: '\- Take the Stairs, page 191'
 f_insight-2: >-
   ### Law of diminishing intent
 
@@ -126,7 +126,7 @@ f_quote-2: >-
   while it may not be what we want to hear about success, it is the only
   guaranteed method of high performance in any endeavor. It can all be summed up
   in one simple word... discipline."
-f_amazon-url: https://www.amazon.com/dp/B00B1L85VI/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00B1L85VI/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

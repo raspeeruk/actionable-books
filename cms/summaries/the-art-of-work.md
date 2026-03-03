@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:49.984Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805fa26ae26393f21b67_the-art-of-work-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-art-of-work/
+  alt: The Art of Work book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-art-of-work/'
 f_author-plain-text: Jeff Goins
 f_author: cms/authors/jeff-goins.md
 f_category-3: cms/summary-categories/self-management.md
@@ -34,7 +34,7 @@ f_big-idea: >-
   project that needs them. This creates the proverbial win-win situation. I get
   to do some of the things I enjoy, and the organization benefits from having a
   more efficiently managed project.
-f_quote-reference: \- The Art of Work, back cover
+f_quote-reference: '\- The Art of Work, back cover'
 f_insight-2: >-
   ### Generalist or Specialist?
 
@@ -93,7 +93,7 @@ f_conclusion: >-
   is not so much about what we do or accomplish during our life as much as it is
   about the legacy we leave behind. What is your legacy?
 f_quote-2: '"Don''t settle for the status quo. Live a life that matters."'
-f_amazon-url: https://www.amazon.com/dp/0718022076/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0718022076/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

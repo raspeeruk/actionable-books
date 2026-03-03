@@ -1,18 +1,18 @@
 ---
 title: Cyndi Maxey
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Cyndi-Maxey/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Cyndi-Maxey/'
 f_unique-id: '216'
 slug: cyndi-maxey
 f_image:
   url: /assets/external/65d779d56669606bb68ae449_cyndi-maxey.jpeg
-  alt: null
+  alt: Cyndi Maxey
 f_summaries:
   - cms/summaries/fearless-facilitation.md
 updated-on: '2024-02-23T13:31:08.533Z'
 created-on: '2024-02-22T16:44:08.107Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/CyndiMaxeySpk/
-f_website-2: http://cyndimaxey.com/
+f_twitter-2: 'http://twitter.com/CyndiMaxeySpk/'
+f_website-2: 'http://cyndimaxey.com/'
 layout: '[authors].html'
 tags: authors
 ---

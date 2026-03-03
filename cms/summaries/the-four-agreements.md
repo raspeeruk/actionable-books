@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:57.021Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780ba73685ce4f9a132ab_the-four-agreements.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-four-agreements/
+  alt: The Four Agreements book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-four-agreements/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2010/12/ActionableBooks-Audio-The-Four-Agreements.mp3
 f_author-plain-text: Don Miguel Ruiz
@@ -102,7 +102,7 @@ f_conclusion: >-
   is that the four agreements are collectively a powerful set of tools for
   setting you down the right path, your path. As I said, not for everyone, but
   powerful stuff for the spiritually inclined.
-f_amazon-url: https://www.amazon.com/dp/1878424505/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1878424505/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

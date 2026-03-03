@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:05.116Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d35b95979f7943fbcd9911_organized-mind-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-organized-mind/
+  alt: The Organized Mind book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-organized-mind/'
 f_author-plain-text: Daniel J. Levitin
 f_author: cms/authors/daniel-j-levitin.md
 f_category-3: cms/summary-categories/self-management.md
@@ -70,7 +70,7 @@ f_big-idea: >-
 
   Please share below your ideas to reduce the number of decisions you need to
   process each day.
-f_quote-reference: \- The Organized Mind, page 16
+f_quote-reference: '\- The Organized Mind, page 16'
 f_insight-2: >-
   ### Winning the productivity battle
 
@@ -181,7 +181,7 @@ f_quote-2: >-
   "A funny thing happened on the way to the twenty-first century: The plethora
   of information and the technologies that serve it changed the way we use our
   brains."
-f_amazon-url: https://www.amazon.com/dp/0147516315/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0147516315/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:01.007Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c8ba0ab2be8afa678d_difference.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/difference/
+  alt: Difference book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/difference/'
 f_author-plain-text: Bernadette Jiwa
 f_author: cms/authors/bernadette-jiwa.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -37,7 +37,7 @@ f_big-idea: >-
   real go at this Etsy business, I need to be the best for the people I serve.
   Still working on how to do that…but it’s helpful to have a “be the best”
   mandate instead of a “slash the prices and copy everyone else” attitude.
-f_quote-reference: \- Difference, page 9
+f_quote-reference: '\- Difference, page 9'
 f_insight-2: >-
   ### Different, not quirky
 
@@ -85,7 +85,7 @@ f_quote-2: >-
   "You can’t begin to tell a story without understanding why that story should
   matter to the people you want to serve. You can’t build a great business just
   by being different"
-f_amazon-url: https://www.amazon.com/dp/B00I8W7HYO/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00I8W7HYO/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:05:50.539Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78042f232c4ec75c00453_brand-thinking.jpeg
-  alt: null
+  alt: Brand Thinking and Other Noble Pursuits book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/brand-thinking-and-other-noble-pursuits/
 f_author-plain-text: Debbie Millman
@@ -56,7 +56,7 @@ f_big-idea: >-
 
   Margaret Youngblood, Principal at Trinity Brand Group, says that brands become
   a “shorthand for who you are, what you’re like and what you value”.
-f_quote-reference: \- Brand Thinking, page 4
+f_quote-reference: '\- Brand Thinking, page 4'
 f_insight-2: >-
   ### Feeling good and doing good – a powerful combination
 
@@ -127,7 +127,7 @@ f_conclusion: 'To summarize what a brand is, let’s end with a puzzle:'
 f_quote-2: >-
   "Perhaps our motivation to brand, and to be branded, comes from our hardwired
   instinct to connect."
-f_amazon-url: https://www.amazon.com/dp/162153247X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/162153247X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:05:54.322Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d4589ec7f59357d475_157343305-94x144.jpeg
-  alt: null
+  alt: Confessions of a Reformed Control Freak book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/confessions-of-a-reformed-control-freak/
 f_author-plain-text: B.R. Smith
@@ -159,7 +159,7 @@ f_conclusion: >-
 f_quote-2: >-
   "The real impediment to producing a higher quality product more efficiently
   aren’t the workers, union or nonunion, it’s management."
-f_amazon-url: https://www.amazon.com/dp/B005IXSR36/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B005IXSR36/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

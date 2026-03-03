@@ -1,10 +1,10 @@
 ---
 title: Dorothy Grover Bolton
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Dorothy-Grover-Bolton/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Dorothy-Grover-Bolton/'
 f_unique-id: '824'
 f_image:
   url: /assets/external/65d779ebeea708c700f64830_what-great-trainers-do.jpeg
-  alt: null
+  alt: Dorothy Grover Bolton
 slug: dorothy-grover-bolton
 f_summaries:
   - cms/summaries/what-great-trainers-do.md

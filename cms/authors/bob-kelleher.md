@@ -1,10 +1,10 @@
 ---
 title: Bob Kelleher
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Bob-Kelleher/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Bob-Kelleher/'
 f_unique-id: '303'
 f_image:
   url: /assets/external/65d779bf86d44ea319675765_bob-kelleher-180x220.jpeg
-  alt: null
+  alt: Bob Kelleher
 f_summaries:
   - cms/summaries/i-engage.md
 slug: bob-kelleher

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:38.138Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780bf72efaa845898c9a3_rulesofengagement-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/rules-of-engagement/
+  alt: Rules of Engagement book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/rules-of-engagement/'
 f_author-plain-text: Carolyn Swora
 f_author: cms/authors/carolyn-swora.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -75,7 +75,7 @@ f_big-idea: >-
   higher up the org chart, the more learning and development invested, the more
   authority, the more gravitas. But VUCA isn’t a management issue, it’s an
   everyone issue. Everyone can be a leader if you treat them equally.
-f_quote-reference: \- Rules of Engagement, page 18
+f_quote-reference: '\- Rules of Engagement, page 18'
 f_insight-2: >-
   ### Honor the Psychological Contract
 
@@ -156,7 +156,7 @@ f_quote-2: >-
   “In other words, you can’t engage your higher functions while your Reptile
   Brain perceives that you’re in danger. It’s a phenomenon I once heard summed
   up perfectly as ‘you can’t write a symphony when you’re drowning.’“
-f_amazon-url: https://www.amazon.com/dp/1988179351/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1988179351/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

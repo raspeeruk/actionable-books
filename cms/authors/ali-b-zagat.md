@@ -1,18 +1,18 @@
 ---
 title: Ali B. Zagat
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Ali-B.-Zagat/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Ali-B.-Zagat/'
 f_unique-id: '251'
 f_image:
   url: /assets/external/65d779aa6b36d24a0a1862a9_ali-b-zagat-180x220.jpeg
-  alt: null
+  alt: Ali B. Zagat
 f_summaries:
   - cms/summaries/getting-to-like.md
 slug: ali-b-zagat
 updated-on: '2024-02-23T13:30:27.744Z'
 created-on: '2024-02-22T16:43:22.730Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: http://twitter.com/alibzagat/
-f_website-2: https://alibzagat.contently.com/
+f_twitter-2: 'http://twitter.com/alibzagat/'
+f_website-2: 'https://alibzagat.contently.com/'
 layout: '[authors].html'
 tags: authors
 ---

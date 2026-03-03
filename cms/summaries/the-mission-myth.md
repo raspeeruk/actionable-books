@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:02.951Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78070da244ed58b683a28_mission_myth.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-mission-myth/
+  alt: The Mission Myth book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-mission-myth/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/08/ActionableBooks-Audio-The-Mission-Myth.mp3
 f_author-plain-text: Deirdre Maloney
@@ -56,7 +56,7 @@ f_big-idea: >-
   industry, or even the love of helping your customers or clients. Have you ever
   witnessed a business that conducts “business as usual?” Where the mission
   statement taped to their office walls seems lifeless and phony?
-f_quote-reference: \- The Mission Myth, page 25
+f_quote-reference: '\- The Mission Myth, page 25'
 f_insight-2: >-
   ### Forest People vs. Tree People
 
@@ -152,7 +152,7 @@ f_quote-2: >-
   "The things that cause a nonprofit organization's success are often the very
   same things we couldn't stand about the for-profit world when we worked
   there."
-f_amazon-url: https://www.amazon.com/dp/0984027300/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0984027300/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

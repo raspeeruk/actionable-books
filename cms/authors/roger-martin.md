@@ -1,11 +1,11 @@
 ---
 title: Roger Martin
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Roger-Martin/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Roger-Martin/'
 f_unique-id: '228'
 f_image:
   url: >-
     /assets/external/65d77a491a2f737b196affd2_roger_martin_headshot-lg-180x220.jpeg
-  alt: null
+  alt: Roger Martin
 slug: roger-martin
 updated-on: '2024-02-23T13:30:26.135Z'
 created-on: '2024-02-22T16:46:01.325Z'

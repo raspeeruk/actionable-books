@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:00.961Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78076ab601995e06fc314_the-leadership-gao-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-leadership-gap/
+  alt: The Leadership Gap book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-leadership-gap/'
 f_author-plain-text: Lolly Daskal
 f_author: cms/authors/lolly-daskal.md
 f_category-3: cms/summary-categories/leadership.md
@@ -61,7 +61,7 @@ f_big-idea: >-
 
   *   The **Knight**, who lives for loyalty becomes the **Mercenary** and
   becomes self-serving.
-f_quote-reference: \- The Leadership Gap, page 4
+f_quote-reference: '\- The Leadership Gap, page 4'
 f_insight-2: >-
   ### Question everything
 
@@ -192,7 +192,7 @@ f_quote-2: >-
   there comes a time when they must rethink everything and ask themselves: What
   is the gap between who I am and who I want to be, and do I know what it is I
   still need to learn?"
-f_amazon-url: https://www.amazon.com/dp/1101981350/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1101981350/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

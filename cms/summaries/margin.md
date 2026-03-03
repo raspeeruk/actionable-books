@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:25.608Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780983b62b64863dc09f5_margin.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/margin/
+  alt: Margin book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/margin/'
 f_author-plain-text: Richard A. Swenson
 f_author: cms/authors/richard-a-swenson.md
 f_category-3: cms/summary-categories/self-management.md
@@ -43,7 +43,7 @@ f_big-idea: >-
   Once we have come to peace with a new measure (or realistically I’ll start
   with a portion of that new measure), then we can subjugate the world’s measure
   of progress to our greater goals and our relationships.
-f_quote-reference: \- Margin, page 43
+f_quote-reference: '\- Margin, page 43'
 f_insight-2: >-
   ### Health in the form of margin comes from contentment
 
@@ -135,7 +135,7 @@ f_conclusion: >-
 f_quote-2: >-
   Now that we have exceeded our limits—personal, emotional, relational,
   physical, financial—we have no margin at all.
-f_amazon-url: https://www.amazon.com/dp/1576836827/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1576836827/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:46.061Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780512ebc9b7d62b33034_alone-together-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/alone-together/
+  alt: Alone Together book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/alone-together/'
 f_author-plain-text: Sherry Turkle
 f_author: cms/authors/sherry-turkle.md
 f_category-3: cms/summary-categories/effective-communication.md
@@ -43,7 +43,7 @@ f_big-idea: >-
   just accept these changes I think we need to make a conscious effort to keep
   the human and personal aspect in our lives, both in our personal relationships
   and our workplaces.
-f_quote-reference: \- Alone Together, page 17
+f_quote-reference: '\- Alone Together, page 17'
 f_insight-2: >-
   ### Always On
 
@@ -127,7 +127,7 @@ f_quote-2: >-
   its promise to give us more control over human relationships, and tomorrow’s
   story of sociable robots, which promise relationships where we will be in
   control, even if that means not being in relationships at all."
-f_amazon-url: https://www.amazon.com/dp/0465031463/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0465031463/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

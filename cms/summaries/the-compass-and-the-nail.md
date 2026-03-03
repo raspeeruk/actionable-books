@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:53.029Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780bff91f45c2280729e3_compass-and-the-nail-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-compass-and-the-nail/
+  alt: The Compass and the Nail book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-compass-and-the-nail/'
 f_author-plain-text: Craig Wilson
 f_author: cms/authors/craig-wilson.md
 f_category-3: cms/summary-categories/leadership.md
@@ -47,7 +47,7 @@ f_big-idea: >-
   steps because the company’s values resonate with the customer. Straying from
   that identity undermines customer confidence, and the group will not form a
   strong fan base.
-f_quote-reference: \- The Compass and the Nail, page 33
+f_quote-reference: '\- The Compass and the Nail, page 33'
 f_insight-2: >-
   ### You Have to Earn Loyalty
 
@@ -127,7 +127,7 @@ f_quote-2: >-
   relationship between an organization of any kind and the people it serves;
   applied to politics, economic strategies, causes, businesses, etcetera. It’s a
   universal truth.”
-f_amazon-url: https://www.amazon.com/dp/1942600062/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1942600062/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

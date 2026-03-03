@@ -1,11 +1,11 @@
 ---
 title: Robert E. Quinn
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Robert-E.-Quinn/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Robert-E.-Quinn/'
 f_unique-id: '166'
 slug: robert-e-quinn
 f_image:
   url: /assets/external/65d77a459f19c44713b9d675_robert-e-quinn1.jpeg
-  alt: null
+  alt: Robert E. Quinn
 f_summaries:
   - cms/summaries/deep-change.md
 updated-on: '2024-02-23T13:31:30.611Z'

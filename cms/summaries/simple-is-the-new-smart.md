@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780b6b881391585a5afc0_simple-is-the-new-smart-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/simple-is-the-new-smart/
+  alt: Simple is the New Smart book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/simple-is-the-new-smart/'
 f_author-plain-text: Rob Fazio
 f_author: cms/authors/rob-fazio.md
 f_category-3: cms/summary-categories/self-management.md
@@ -51,7 +51,7 @@ f_big-idea: >-
   or mastering the art of delegation, changing a ‘can’t do’ to a ‘_can do_’ will
   take repeated effort and practice before you feel confident and competent. The
   two Insights that follow should help improve your success rate.
-f_quote-reference: \- Simple is the New Smart, page 20
+f_quote-reference: '\- Simple is the New Smart, page 20'
 f_insight-2: >-
   ### What Would Edison Do?
 
@@ -160,7 +160,7 @@ f_quote-2: >-
   "The premise of this book is to help you take a direct path toward success
   through applying simple strategies that work. The best strategies are the ones
   you apply."
-f_amazon-url: https://www.amazon.com/dp/1632650290/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1632650290/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

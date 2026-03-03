@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:54.849Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78084445c05ffe5991d0c_the-dream-manager.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-dream-manager/
+  alt: The Dream Manager book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-dream-manager/'
 f_author-plain-text: Matthew Kelly
 f_author: cms/authors/matthew-kelly.md
 f_category-3: cms/summary-categories/self-management.md
@@ -93,7 +93,7 @@ f_conclusion: >-
   accomplishment of those dreams are so simple to do, provided you just allow
   yourself a little regular time to do so. Give it a shot this week and see what
   happens.
-f_amazon-url: https://www.amazon.com/dp/1401303706/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1401303706/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

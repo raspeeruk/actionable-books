@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:13.989Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780376fb09c7aedcd277b_whole-brain-book-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-whole-brain-business-book/
+  alt: The Whole Brain Business Book book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-whole-brain-business-book/'
 f_author-plain-text: Ann Herrmann Nehdi
 f_author: cms/authors/ann-herrmann-nehdi.md
 f_category-3: cms/summary-categories/team-optimization.md
@@ -56,7 +56,7 @@ f_big-idea: >-
   align with those other thinking styles. Whole Brain thinking can reveal
   possibilities we may inadvertently overlook if we rely too heavily on our
   dominant thinking patterns.
-f_quote-reference: \- The Whole Brain Business Book, page 7
+f_quote-reference: '\- The Whole Brain Business Book, page 7'
 f_insight-2: >-
   ### No One Is Smarter than Everyone
 
@@ -148,7 +148,7 @@ f_conclusion: >-
 f_quote-2: >-
   "Because every business runs on its thinking, optimizing thinking is the key
   to better performance and better results."
-f_amazon-url: https://www.amazon.com/dp/0071843825/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0071843825/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

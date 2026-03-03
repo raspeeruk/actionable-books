@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:53.960Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c6899573618576e6b4_coherence.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/coherence/
+  alt: Coherence book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/coherence/'
 f_author-plain-text: Alan Watkins
 f_author: cms/authors/alan-watkins.md
 f_category-3: cms/summary-categories/self-management.md
@@ -188,7 +188,7 @@ f_insight-1: >-
 f_conclusion: >-
   By getting to know ourselves better, managing ourselves better, we have the
   opportunity to perform at our best. We can become Enlightened Leaders.
-f_amazon-url: https://www.amazon.com/dp/B00FYYTRT2/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00FYYTRT2/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

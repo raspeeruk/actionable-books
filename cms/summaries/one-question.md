@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:29.629Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803e23d6375759843370_one-question.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/one-question/
+  alt: One Question book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/one-question/'
 f_author-plain-text: Ken Coleman
 f_author: cms/authors/ken-coleman.md
 f_category-3: cms/summary-categories/self-management.md
@@ -52,7 +52,7 @@ f_big-idea: >-
 
   We need to be a lot more like children. Be curious. Don’t take things at face
   value. Ask more questions.
-f_quote-reference: \- One Question, Introduction
+f_quote-reference: '\- One Question, Introduction'
 f_insight-2: >-
   ### Ask Ourselves
 
@@ -138,7 +138,7 @@ f_quote-2: >-
   real advance in science. What is true of science, I’m convinced, is true in
   all of life. Great questions are often the keys that unlock possibilities for
   human advancement.'"
-f_amazon-url: https://www.amazon.com/dp/145167502X/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/145167502X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

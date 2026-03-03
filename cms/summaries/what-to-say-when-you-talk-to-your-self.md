@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:07:22.061Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7805c48fff91cd31830be_what-to-say.jpeg
-  alt: null
+  alt: What To Say When You Talk To Your Self book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/what-to-say-when-you-talk-to-your-self/
 f_author-plain-text: Shad Helmstetter
@@ -50,7 +50,7 @@ f_big-idea: >-
 
   So how do you go about changing your programming? It all starts with Self-Talk
   and changing the way your brain is currently wired.
-f_quote-reference: \- What to Say When You Talk to Your Self, page 25
+f_quote-reference: '\- What to Say When You Talk to Your Self, page 25'
 f_insight-2: >-
   ### Create Self-Talk recordings
 
@@ -143,7 +143,7 @@ f_quote-2: >-
   "Your success or failure in anything, large or small, will depend on your
   programming – what you accept from others, and what you say when you talk to
   yourself."
-f_amazon-url: https://www.amazon.com/dp/0671708821/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0671708821/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

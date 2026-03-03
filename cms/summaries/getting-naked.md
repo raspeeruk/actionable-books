@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:09.613Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78065899573618576b690_getting_naked-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/getting-naked/
+  alt: Getting Naked book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/getting-naked/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/06/Actionablebooks-Audio-Getting-Naked.mp3
 f_author-plain-text: Patrick Lencioni
@@ -50,7 +50,7 @@ f_big-idea: >-
   time and overcoming these three fears can dramatically improve your
   professional life. The following two Insights are but a taste of all the
   practical solutions found in _Getting Naked_.
-f_quote-reference: \- Getting Naked, page 199
+f_quote-reference: '\- Getting Naked, page 199'
 f_insight-2: >-
   ### Tell the Kind Truth
 
@@ -133,7 +133,7 @@ f_conclusion: >-
 f_quote-2: >-
   "...transparency and modesty - qualities that are immensely more attractive
   than intelligence."
-f_amazon-url: https://www.amazon.com/dp/0787976393/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0787976393/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

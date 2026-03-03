@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:05:45.599Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780c90c32dc84c9a564ca_ageless-entrepreneur-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/ageless-entrepreneur/
+  alt: Ageless Entrepreneur book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/ageless-entrepreneur/'
 f_author-plain-text: Fred Dawkins
 f_author: cms/authors/fred-dawkins.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -37,7 +37,7 @@ f_big-idea: >-
   Looking at entrepreneurship through this lens allows us to consider less
   overwhelming opportunities to start a business or as Steve Jobs famously said,
   “make a dent in the universe”.
-f_quote-reference: \- Ageless Entrepreneur, page 17
+f_quote-reference: '\- Ageless Entrepreneur, page 17'
 f_insight-2: >-
   ### The Mentoring Mind
 
@@ -98,7 +98,7 @@ f_conclusion: “Not all of us can be entrepreneurs. Every one of us can think l
 f_quote-2: >-
   "The most important skill we can learn today is the ability to create and
   manage our own career. It is never too early to start or too late to achieve."
-f_amazon-url: https://www.amazon.com/dp/B00L4JZJ7U/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B00L4JZJ7U/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

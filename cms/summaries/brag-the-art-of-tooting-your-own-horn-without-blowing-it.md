@@ -7,7 +7,7 @@ created-on: '2024-02-22T16:05:49.858Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78050e79b884267bd13ed_144307024.jpeg
-  alt: null
+  alt: 'Brag!: The Art of Tooting Your Own Horn without Blowing It book cover'
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/brag-the-art-of-tooting-your-own-horn-without-blowing-it/
 f_podcast-url: >-
@@ -56,7 +56,7 @@ f_big-idea: >-
   becoming more of who you already are and bringing forth your best parts with
   pride and enthusiasm – telling your story in a way that showcases your
   strengths.
-f_quote-reference: \- BRAG, page 61
+f_quote-reference: '\- BRAG, page 61'
 f_insight-2: >-
   ### Create a Bragologue
 
@@ -125,7 +125,7 @@ f_quote-2: >-
   that you do it all the time or that you do it at inappropriate times or
   places. You do it when it feels comfortable. And learning how to make it feel
   more comfortable is what this book is all about."
-f_amazon-url: https://www.amazon.com/dp/0446692786/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0446692786/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

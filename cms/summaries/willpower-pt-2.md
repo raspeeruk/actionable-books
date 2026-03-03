@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:23.486Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d7803d4f1f96a38b497fcc_willpower2.png
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/willpower-pt-2/
+  alt: Willpower book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/willpower-pt-2/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/09/Actionablebooks-Audio-Willpower-2.wav
 f_author-plain-text: John Tierney
@@ -30,7 +30,7 @@ f_big-idea: >-
   self-control gives us the ability to exert willpower in many aspects of our
   lives. This becomes particularly important if the goals you set require
   persistence and dedication, as it can be too easy to get off track.
-f_quote-reference: \- Willpower, page 13
+f_quote-reference: '\- Willpower, page 13'
 f_insight-2: >-
   ### Routine and Good Habits
 
@@ -114,7 +114,7 @@ f_conclusion: >-
   tools you need to accomplish any of those major goals on your list. Just make
   sure you only tackle one goal at a time. Oh, and bring a snack.
 f_quote-2: '"Self-control is a vital strength and a key to success in life."'
-f_amazon-url: https://www.amazon.com/dp/0143122231/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0143122231/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

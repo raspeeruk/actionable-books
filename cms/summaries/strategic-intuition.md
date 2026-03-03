@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:43.460Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d78042b881391585a56f80_strategic_intuition.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/strategic-intuition/
+  alt: Strategic Intuition book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/strategic-intuition/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/ActionableBooks-Audio-Strategic-Intuition.mp3
 f_author-plain-text: William R. Duggan
@@ -73,7 +73,7 @@ f_big-idea: >-
   The extensive documentation, research, and examples given make a very strong
   case for the theory of strategic intuition and flashes of insight as a serious
   model to use for anyone looking for more innovation and creative ideas.
-f_quote-reference: \- Strategic Intuition, Preface, page x
+f_quote-reference: '\- Strategic Intuition, Preface, page x'
 f_insight-2: >-
   ### Welcome to the Matrix (team tool)
 
@@ -176,7 +176,7 @@ f_quote-2: >-
   "Behind every story of major advance is a turning point where someone has a
   useful idea that changes the field or starts a new one. Strategic intuition
   explains what happens in the mind of whoever has that idea."
-f_amazon-url: https://www.amazon.com/dp/0231142684/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/0231142684/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

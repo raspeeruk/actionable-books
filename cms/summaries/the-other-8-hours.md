@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:07:05.329Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780d29cdbb081a5798586_the-other-8-hours-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-other-8-hours/
+  alt: The Other 8 Hours book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-other-8-hours/'
 f_author-plain-text: Robert Pagliarini
 f_author: cms/authors/robert-pagliarini.md
 f_category-3: cms/summary-categories/self-management.md
@@ -41,7 +41,7 @@ f_big-idea: >-
   to begin work on. He offers suggestions for dealing with setbacks such as
   anticipating as many roadblocks as you can to prepare yourself for obstacles.
   Brainstorm solutions before being confronted with them.
-f_quote-reference: \- The Other 8 Hours, page 59
+f_quote-reference: '\- The Other 8 Hours, page 59'
 f_insight-2: >-
   ### Become a Creator and Monetize your Passions
 
@@ -114,7 +114,7 @@ f_quote-2: >-
   highest returns—w whether the returns are financial, physical or spiritual.
   How you invest your other 8 hours determines your happiness and financial
   success."
-f_amazon-url: https://www.amazon.com/dp/B003H4I5Q2/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/B003H4I5Q2/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -46,7 +46,7 @@ f_big-idea: >-
   fired by Google. The company invests in its people to succeed or a poor fit
   will find meaningful work in another company earlier than might otherwise be
   expected.
-f_quote-reference: ''
+f_quote-reference: '- Work Rules!, page 6'
 f_insight-2: >-
   ### Checklist mentality
 
@@ -148,9 +148,14 @@ f_conclusion: >-
   There are probably 25 The Big Ideas I could have included. If you employ
   people, read this book. You will be astounded at the simplicity behind the
   concepts.
-f_amazon-url: https://www.amazon.com/dp/1455554790/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1455554790/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  This book is the distillation of the eight master lessons on greatness that I
+  (Lewis) have discovered on my journey, with help of my network of mentors and
+  coaches, colleagues and teachers. By studying greatness this way, we will
+  learn that it is a process of continuous education and self-realization.
 ---
 
 _Work Rules!_ is unique in many ways. The author, Laszlo Bock, is the senior vice president of People Operations at one of the most innovative and successful companies in the modern world, Google. Bock is genuinely transparent about the company’s success in an extremely competitive market and shares intricate details of Google’s management policies, both pros and cons. The book is a stimulating and exciting read that would be beneficial to any employee or CEO. It is enlightening to learn that Bock has no issue in sharing many of Google’s success policies with the expectation that other workplaces can initiate changes for the better and constantly strive for excellence.

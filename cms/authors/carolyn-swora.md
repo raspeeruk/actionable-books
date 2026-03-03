@@ -1,18 +1,18 @@
 ---
 title: Carolyn Swora
-f_original-url: https://www.actionablebooks.com/en-ca/authors/Carolyn-Swora/
+f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Carolyn-Swora/'
 f_unique-id: '499'
 slug: carolyn-swora
 f_image:
   url: /assets/external/65d779c89230a02f00d092c5_carolynswora-180x220.jpeg
-  alt: null
+  alt: Carolyn Swora
 f_summaries:
   - cms/summaries/rules-of-engagement.md
 updated-on: '2024-02-23T13:30:48.591Z'
 created-on: '2024-02-22T16:43:52.321Z'
 published-on: '2024-02-23T13:42:23.311Z'
-f_twitter-2: https://twitter.com/PinnacleCarolyn/
-f_website-2: http://pinnacleculture.ca/
+f_twitter-2: 'https://twitter.com/PinnacleCarolyn/'
+f_website-2: 'http://pinnacleculture.ca/'
 layout: '[authors].html'
 tags: authors
 ---

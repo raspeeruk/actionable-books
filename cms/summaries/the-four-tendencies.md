@@ -7,8 +7,8 @@ created-on: '2024-02-22T16:06:57.597Z'
 published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: /assets/external/65d780964df109592f03e4ab_four-tendencies-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/the-four-tendencies/
+  alt: The Four Tendencies book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-four-tendencies/'
 f_author-plain-text: Gretchen Rubin
 f_author: cms/authors/gretchen-rubin.md
 f_category-3: cms/summary-categories/self-management.md
@@ -48,7 +48,7 @@ f_big-idea: >-
 
 
   **Rebels**: 17% of people—resist all expectations, outer and inner alike
-f_quote-reference: \- The Four Tendencies, page 16
+f_quote-reference: '\- The Four Tendencies, page 16'
 f_insight-2: >-
   ### Applying your Knowledge
 
@@ -150,12 +150,12 @@ f_insight-1: >-
   expectations (inner and outer)? In short, **Upholders** want to know what
   should be done. **Questioners** want justifications. **Obligers** need
   accountability. **Rebels** want freedom to do something their own way.
-f_conclusion: In closing, how would you influence each Tendency to change a lightbulb?
+f_conclusion: 'In closing, how would you influence each Tendency to change a lightbulb?'
 f_quote-2: >-
   “The fact is, if we want to communicate, we must speak the right language-not
   the message that would work most effectively with us but the message that will
   persuade the listener.”
-f_amazon-url: https://www.amazon.com/dp/1524760919/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1524760919/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---

@@ -8,8 +8,8 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_image:
   url: >-
     /assets/external/65d780800408dd3494675fb9_designabetterbusiness_booksize-copy-94x144.jpeg
-  alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/summaries/design-a-better-business/
+  alt: Design a Better Business book cover
+f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/design-a-better-business/'
 f_author-plain-text: Justin Lokitz
 f_author: cms/authors/justin-lokitz.md
 f_category-3: cms/summary-categories/innovative-thinking.md
@@ -54,7 +54,7 @@ f_big-idea: >-
   and Design is believed by the authors to provide an ideal mix of disciplines
   to give business executives the right mindset to succeed in a world of
   ambiguity and accelerated pace of change.
-f_quote-reference: \- Design a Better Business, page 9
+f_quote-reference: '\- Design a Better Business, page 9'
 f_insight-2: >-
   ### Your Customer Will Tell you What to Design—If you are Willing to Listen
 
@@ -130,7 +130,7 @@ f_conclusion: >-
 f_quote-2: >-
   “This book will provide you with new tools, skills, and a mindset to harness
   new opportunities…”
-f_amazon-url: https://www.amazon.com/dp/1119272114/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1119272114/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
 ---
