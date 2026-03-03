@@ -8,3 +8,40 @@ functions = "functions"
   to = "/.netlify/functions/:splat"
   status = 200
   force = true
+
+# WordPress migration redirects — /en-ca/ prefix removal
+[[redirects]]
+  from = "/en-ca/summaries/*"
+  to = "/summaries/:splat"
+  status = 301
+
+[[redirects]]
+  from = "/en-ca/authors/*"
+  to = "/authors/:splat"
+  status = 301
+
+[[redirects]]
+  from = "/en-ca/blog/*"
+  to = "/blog/:splat"
+  status = 301
+
+[[redirects]]
+  from = "/en-ca/*"
+  to = "/:splat"
+  status = 301
+
+# Dead sections
+[[redirects]]
+  from = "/news/*"
+  to = "/blog/"
+  status = 301
+
+[[redirects]]
+  from = "/wp-admin/*"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/wp-content/*"
+  to = "/"
+  status = 301
