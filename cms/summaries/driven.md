@@ -40,7 +40,7 @@ f_big-idea: >-
   Robert believes that, at its core, selling consists of relating to another
   person and persuading that person to go somewhere he or she perhaps did not
   plan to go.
-f_quote-reference: ''
+f_quote-reference: '- Driven, page 192'
 f_insight-2: >-
   ### REAL Leadership
 
@@ -97,6 +97,9 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/155468708X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Selling isn’t always about convincing the other person to hand over money in
+  exchange for a product or service.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/01/ActionableBooks-Audio-Driven.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/01/ActionableBooks-Audio-Driven.mp3)

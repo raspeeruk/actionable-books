@@ -50,7 +50,7 @@ f_big-idea: >-
   just like the rest of us, and proceed regardless of it. They rise above the
   lizard brain and do their art for the benefit of those around them. Regularly
   and repeatedly, they ship.
-f_quote-reference: ''
+f_quote-reference: '- Linchpin, page 235'
 f_insight-2: >-
   ### Get Productive. Not Busy.
 
@@ -124,6 +124,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1591843162/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: 'We don’t have a talent shortage, we have a shipping shortage.'
 ---
 
 Your job is in jeopardy. The societal system we’ve been following for the last 150 years has expired. Like milk a week past its expiry, it doesn’t smell terrible yet, but it’s no longer a safe bet. We’ve been raised to believe that as long as we followed direction, did what was expected, and didn’t make a scene, we’d be taken care of. We’d be offered a good job, paid a decent wage, and have a retirement package waiting for us at the end. There are two basic truths that made that system work: 1) labour was fairly scarce and geographically based, providing us with a reasonable amount of job security, and 2) competition was fairly limited, due (again) to geography, as well as the significant cost to starting a rival factory. The rules have changed.

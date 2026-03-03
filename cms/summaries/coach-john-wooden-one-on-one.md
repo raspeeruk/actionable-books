@@ -52,7 +52,7 @@ f_big-idea: >-
 
 
   Here are two methods to always focus on to ensure your best.
-f_quote-reference: ''
+f_quote-reference: '- Coach Wooden One-on-One, Day 18: Cake & Frosting'
 f_insight-2: >-
   ### Follow The 2 Sets of 3 & The 7-Point Creed
 
@@ -156,6 +156,11 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/9780830732/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  I’m fiercely competitive, so the games were important. However, the best
+  competition I have is against myself – to become better. I did this with my
+  teams, too. The competition was not so much against other teams as it was
+  against ourselves – making us better.
 ---
 
 _“While many rank Wooden as the greatest sports coach of the twentieth century – his record and acclaim speak for themselves – he considers himself first a teacher. He was obviously peerless as a professor of basketball, but his lessons stretched far beyond the court. He did not consider himself a success unless his students were mentored in physical, mental and emotional disciples that applied to all aspects of life.”_

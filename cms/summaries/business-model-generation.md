@@ -61,7 +61,7 @@ f_big-idea: >-
   importantly, the book suggests that the same tools and techniques can be used
   proactively to create strategic plans with sufficient flexibility to be
   resilient to most change through consistent re-evaluation.
-f_quote-reference: ''
+f_quote-reference: '- Business Model Generation, page 136'
 f_insight-2: >-
   ### Business Model Generation as an Ongoing Process
 
@@ -143,6 +143,11 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0470876417/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Mapping an existing business model is one thing; designing a new and
+  innovative business model is another. What’s needed is a creative process for
+  generating a large number of business model ideas and successfully isolating
+  the best ones.
 ---
 
 For many executives, business model generation is a difficult but necessary activity, to be endured on rare occasions. Typically the only times business models would be generated would be when the business started, when significant change is anticipated (i.e. the sale of some subset of the business), or when refinancing is required. These models were created using massive spreadsheets with several poorly documented assumptions. They often did not provide a holistic view of the business and focussed primarily on the numbers specific to one aspect of the business.

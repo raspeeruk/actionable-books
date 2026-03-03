@@ -35,7 +35,7 @@ f_big-idea: >-
   and be truly remarkable,”** explains the author. “That requires an ability to
   tap into creativity, break the mold, introduce **disruptive change**, and
   dislodge the status quo”.
-f_quote-reference: ''
+f_quote-reference: '- Seth Godin, quoted on the front cover of Disciplined Dreaming'
 f_insight-2: >-
   ### Build Creative Cultures
 
@@ -120,6 +120,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0470922222/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: "The creativity gap is real and it’s getting worse.\_ Josh Linkner challenges you to become a disruptive force for change, and I hope you will."
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/ActionableBooks-Audio-Disciplined-Dreaming.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/ActionableBooks-Audio-Disciplined-Dreaming.mp3)

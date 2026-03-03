@@ -69,7 +69,7 @@ f_big-idea: >-
   All successful relationships online (and off) are about trust. Once you
   realize that, and handle yourself accordingly, there are some pretty neat
   things you can do to harness the Web fairly simply.
-f_quote-reference: ''
+f_quote-reference: '- Trust Agents, page 14'
 f_insight-2: >-
   ### Create Idea Handles
 
@@ -143,6 +143,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0470635495/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  We are currently living in a communications environment where there is a trust
+  deficit.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/08/ActionableBooks-Audio-Trust-Agents.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/08/ActionableBooks-Audio-Trust-Agents.mp3)

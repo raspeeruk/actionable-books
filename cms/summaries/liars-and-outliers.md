@@ -57,7 +57,7 @@ f_big-idea: >-
 
   But, before we get to that, let’s look at the four main societal pressures
   that exist in all circumstances…
-f_quote-reference: ''
+f_quote-reference: '- Liars and Outliers, page 245'
 f_insight-2: >-
   ### David beats Goliath
 
@@ -158,6 +158,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1118143302/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: 'No matter how much societal pressure you deploy, there will be defectors.'
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/06/ActionableBooks-Audio-Liars-and-Outliers.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/06/ActionableBooks-Audio-Liars-and-Outliers.mp3)

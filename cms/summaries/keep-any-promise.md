@@ -45,7 +45,7 @@ f_big-idea: >-
   because unimaginable results started to unfold in front of us. **By setting a
   huge goal one is able to begin to really leverage the power of this book and
   get clear on what is needed.**
-f_quote-reference: ''
+f_quote-reference: '- Keep Any Promise, page 85'
 f_insight-2: >-
   ### What Is Your Timeframe?
 
@@ -130,6 +130,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0595467059/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: "When we set huge\_goals, especially ones beyond our current capabilities, we often create\_unintended, unpredictable, and sometimes more valuable results."
 ---
 
 **I often say the best way to get anything done is to go out and do it.** In fact this very phrase came from a mentor of mine, Ted Manziaris, who built a recycling empire from next to nothing.

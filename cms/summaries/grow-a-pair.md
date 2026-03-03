@@ -48,7 +48,7 @@ f_big-idea: >-
   others walk all over you. He wants you to be in charge of your life, and he
   wants you to do so without being a jerk, He wants you to fail, then get back
   up, and get at it again until you succeed.
-f_quote-reference: ''
+f_quote-reference: '- Grow a Pair, page 46'
 f_insight-2: >-
   ### It’s all about Personal Responsibility!
 
@@ -127,6 +127,10 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/B00CB1CM52/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  When I grew a pair, the way the world is didn’t bother me nearly as much
+  because I was suddenly in control.  I was not in control of the world (damn
+  it!) but I was in control of my world.
 ---
 
 You’re either a Larry Winget fan or not. Not many people sit on the fence when it comes to the New York Times bestselling author and the Pitbull of Personal Development®, one of the most opinionated speakers and authors around. He’s spoken to 400 of the Fortune 500 companies, so there must be something to his message that appeals even to corporate America.

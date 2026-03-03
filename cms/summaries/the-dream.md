@@ -79,7 +79,7 @@ f_big-idea: >-
   While he was busy making money hand over fist, “reality reared its ugly head”
   (page 78). Turns out it wasn’t the crash of the dotcom bubble that he had to
   worry about – it was a shabby partnership.
-f_quote-reference: ''
+f_quote-reference: '- The Dream, page 252'
 f_insight-2: >-
   ### Death From Above - Always Occupy the Higher Ground and Defend It
 
@@ -163,6 +163,13 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/B005DI894I/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  You will have bad days. There will be setbacks. You will have more than your
+  fair share of failures. But at the end of the day, you pick yourself up and
+  keep going. That’s the Big Secret of Life. You fall down, you get up… Fight
+  like hell. Defy the odds… Some people think success is the best revenge, and
+  they may be right, but for me it’s much simpler than that: Success is its own
+  reward.
 ---
 
 Reading Gurbaksh Chahal’s _The Dream_ nearly left me in an existential panic. At the age of twenty-nine, he’s done almost everything. He’s dropped out of school (age 16), started his first company (17), sold it for $40 million (18), started his second company (22), sold it for $300 million to Yahoo! (25), published an autobiography (26), appeared on _The Oprah Winfrey Show_ (26), started his third company (27), received an honorary university degree (28) and shaken hands with President Barack Obama (29).

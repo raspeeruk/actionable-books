@@ -41,7 +41,7 @@ f_big-idea: >-
   those with whom we feel we share something. In _Never Eat Alone_, Ferrazzi
   shares dozens of tips and insights into how to promote your commonalities with
   those you’d like to connect with. Two of the best tips are as follows…
-f_quote-reference: ''
+f_quote-reference: '- Never Eat Alone, page 102'
 f_insight-2: >-
   ### Adjust Your Johari Window
 
@@ -115,6 +115,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0385512058/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Contrary to popular business wisdom, I don’t believe there has to be a rigid
+  line between our  private and public lives.
 ---
 
 What images does the word “networking” conjure up for you?

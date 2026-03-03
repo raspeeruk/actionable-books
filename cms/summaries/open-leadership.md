@@ -64,7 +64,7 @@ f_big-idea: >-
   especially if it is a negative comment. Consumers respect companies that admit
   when they have made a mistake –means the company is being transparent, open
   and authentic! It is not a failure, especially when you learn from it.
-f_quote-reference: ''
+f_quote-reference: '- Open Leadership, page 9'
 f_insight-2: >-
   ### The Open Leadership Mindset
 
@@ -146,6 +146,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0470597267/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: "Leadership is a relationship between those who aspire to lead and those who choose to follow. \_At a time when customers and employees are redefining how they make and maintain relationships with social technologies, it’s high time that organizations rethink the foundations of business relationships as well."
 ---
 
 _Open Leadership_ is a must read for organizations that wish to succeed in the years to come. The social technology revolution is here. It’s growing in leaps and bounds and companies can either jump on board or watch as their competitors blow by them – and yet, many companies out there are afraid to jump into the social media arena. They are afraid because they are not sure what the first step is and they are afraid of failure. The important point these companies are missing is that Social Media is not a “tactic” or “project”. Social Media, and all that it entails, at its core is a fundamental shift in thinking about business relationships.

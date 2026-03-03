@@ -79,7 +79,7 @@ f_big-idea: >-
   Pink has distilled six essential aptitudes for employees in the 21st century:
   Design. Story. Symphony. Empathy. Play. Meaning. Or, as Pink further
   categorizes them, “high concept and high touch” aptitudes.
-f_quote-reference: ''
+f_quote-reference: '- A Whole New Mind, page 59'
 f_insight-2: >-
   ### Develop Your Female Grey Matter
 
@@ -167,6 +167,11 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1594481717/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  'If you don't do well on {the SAT},' Sternberg says, 'everywhere you turn the
+  access routes to success in our society are blocked." But as more educators
+  are recognizing, those roadblocks can exclude people with aptitudes that the
+  SAT doesn't measure.'
 ---
 
 Originally, I thought Chris Anderson started it. His 2006 landmark book, _The Long Tail_ is a complete and compelling look at business in the twenty-first century; a discussion as to how the internet changed the competitive landscape by increasing choice and accessibility and democratizing production to the masses. And then I found Dan Pink’s _A Whole New Mind_. Published a whole year before The Long Tail, _A Whole New Mind_ is a truly groundbreaking look at how Abundance, Automation and Asia are forever changing the role of North American “knowledge workers”… and what we can do about it.

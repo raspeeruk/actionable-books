@@ -41,7 +41,7 @@ f_big-idea: >-
   differentiator between the “good” and the “great” in the professional services
   world.) **The threats to our professional services businesses are real,
   present, and need to be often considered.**
-f_quote-reference: ''
+f_quote-reference: '- Clients for Life, page 27'
 f_insight-2: >-
   ### On Your Honor
 
@@ -94,6 +94,10 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0684870304/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  …expertise sold by professionals is becoming easily replicable, more widely
+  available, and increasingly cheaper in our internet-speed, technology-driven
+  economy.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-Clients-for-Life.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-Clients-for-Life.mp3)

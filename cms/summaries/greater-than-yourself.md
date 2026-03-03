@@ -38,7 +38,7 @@ f_big-idea: >-
   few people who seem determined to be miserable. GTY, for me, is about looking
   for specific ways to empower others with the knowledge, skills and contacts
   that I have developed over the years (and continue to develop, daily).
-f_quote-reference: ''
+f_quote-reference: '- Cat Cassidy, Greater Than Yourself, page 127'
 f_insight-2: >-
   ### GTY tithing
 
@@ -113,6 +113,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0385522614/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: "The vast majority of people want to grow, to thrive, to contribute, to make a difference. \_Those are the people I want to encourage, to cultivate, to build and expand my company around. \_I'm not going to operate my business based on the lowest common denominator. \_I'm going to do whatever I can to cultivate the philanthropic impulse that exists in most people."
 ---
 
 Friday night I had plans to go to a friend’s rooftop BBQ and potentially a late night poker game. I bailed on both and spent the night on the couch reading Steve Farber’s latest masterpiece _Greater Than Yourself_. Contrary to my original plans, Farber’s characters, rapid fire dialogue and slightly mysterious plot took priority over burgers, beer and pocket aces.

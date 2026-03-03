@@ -62,7 +62,7 @@ f_big-idea: >-
   coveting their neighbours’ possessions; it’s not because they fear for
   peoples’ neighbours, but rather it’s because they fear for what we could do to
   ourselves when we try to head for the greener grass of the neighbours’ lawn.
-f_quote-reference: ''
+f_quote-reference: '- Predictably Irrational, page 21'
 f_insight-2: >-
   ### The True Cost of Nothing
 
@@ -160,6 +160,9 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/0061353248/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  That’s a lesson we can all learn: the more we have, the more we want. And the
+  only cure is to break the cycle of relativity.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/03/ActionableBooks-Audio-Predictably-Irrational.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/03/ActionableBooks-Audio-Predictably-Irrational.mp3)

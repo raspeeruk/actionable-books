@@ -2,16 +2,30 @@
 <html data-wf-page="65d339a8602fc178140871a0" data-wf-site="65b90e48644abf11ecd45c6d" lang="en"><head>
   <meta charset="utf-8">
   <title>{{ title }} | Actionable Books</title>
+  {% if f_meta-description %}<meta content="{{ f_meta-description | escape }}" name="description">{% endif %}
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta content="google-site-verification=Fp7hIuy11CPQtpYEojBnAJU6F94T3xwmL2HoUVt4Q7s" name="google-site-verification">
+  <link rel="preconnect" href="https://www.googletagmanager.com">
+  <link rel="dns-prefetch" href="https://assets.mailerlite.com">
   <link href="/assets/css/normalize.css" rel="stylesheet" type="text/css">
   <link href="/assets/css/webflow.css" rel="stylesheet" type="text/css">
   <link href="/assets/css/actionable-books.webflow.css" rel="stylesheet" type="text/css">
   <link href="{{ settings.site.apple_touch_icon | default: "/assets/images/webclip.png" }}" rel="apple-touch-icon">
-  <link href="https://www.actionablebooks.com{{page.url}}" rel="canonical">
+  <link href="https://www.actionablebooks.com{{ page.url }}" rel="canonical">
   <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-6N54GH6FGL"></script>
   <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3649517228913627" crossorigin="anonymous"></script>
-{{ settings.site.header_additional_content }}{%- include "partials/_site-css-variables" -%}<meta property="og:title" content="{{ title }} | Actionable Books"><meta property="twitter:title" content="{{ title }} | Actionable Books"><style>.w-video.w-embed {
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.actionablebooks.com/" },
+      { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.actionablebooks.com/blog/" },
+      { "@type": "ListItem", "position": 3, "name": "{{ title | escape }}" }
+    ]
+  }
+  </script>
+{{ settings.site.header_additional_content }}{%- include "partials/_site-css-variables" -%}<meta property="og:title" content="{{ title }} | Actionable Books"><meta content="https://www.actionablebooks.com{{ page.url }}" property="og:url"><meta property="og:type" content="article"><meta property="twitter:title" content="{{ title }} | Actionable Books"><meta content="summary_large_image" name="twitter:card"><style>.w-video.w-embed {
             aspect-ratio: 16 / 9;
         }</style></head>
 {%- assign blog-categoryOfBlog_f_category-3 = f_category-3 | resolveReference -%}{%- assign teamOfBlog_f_team = f_team | resolveReference -%}{%- assign ref = f_category-3 | resolveReference -%}{%- assign ref = f_team | resolveReference -%}<body>

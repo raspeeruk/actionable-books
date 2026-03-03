@@ -30,7 +30,7 @@ f_big-idea: >-
   to invest. The key here is building something people want or need in a way
   that will make lives easier, more enjoyable or just more fun. And to build
   something people want, you just have to start.
-f_quote-reference: ''
+f_quote-reference: '- Without Their Permission, page 243'
 f_insight-2: >-
   ### Knowledge Is (Almost) Free
 
@@ -97,9 +97,13 @@ f_conclusion: >-
   dedicated time and energy to bring that idea to life. So just start. Or as
   Ohanian would say, “_Want to make the world a better place? Or, as I like to
   say, just make it suck less? What are you waiting for?_”
-f_amazon-url: https://www.amazon.com/dp/1455520020/?tag=actionableb08-20
+f_amazon-url: 'https://www.amazon.com/dp/1455520020/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  The open Internet is not a magic wand, but as a technology it has the
+  potential to do tremendous things – to allow awesome people to reach their
+  full potential.
 ---
 
 Alexis Ohanian has done it all when it comes to the online world. First, he and a buddy started an online business and built it to sell, where it was indeed sold to Condé Nast sixteen months later for an undisclosed sum of money. Undisclosed sum! As in, too much money to talk about! Then, he started another company with this same buddy, as well as another partner who was skilled in sales and made that company into something huge and successful. Now, when he’s not advising to this second company, Hipmunk, he’s a venture capitalist and advising to many, many entrepreneurial ventures around the world. And he’s also petitioning government on behalf of the internet, campaigning to maintain a free and open internet so other people have the opportunity to build and grow other online businesses like he has. Seriously, this guy is my latest role model.

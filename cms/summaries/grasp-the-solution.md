@@ -41,7 +41,7 @@ f_big-idea: >-
   And Griffiths lays out principles and a system for training your mind to
   generate solutions to any problem or need. Innovation blooms from the soil of
   your mind.
-f_quote-reference: ''
+f_quote-reference: '- GRASP The Solution, page 36'
 f_insight-2: >-
   ### Daydream Productively
 
@@ -153,6 +153,10 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1905493959/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  The killer ideas and solutions that drive your business forward don't just
+  simply fall from the sky. They come from using the power of your mind - your
+  thinking.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/08/ActionableBooks-Audio-GRASP-The-Solution.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/08/ActionableBooks-Audio-GRASP-The-Solution.mp3)

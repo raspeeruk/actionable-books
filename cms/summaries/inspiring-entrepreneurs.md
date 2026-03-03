@@ -45,7 +45,7 @@ f_big-idea: >-
   actionable and measurable goal for the next 365 days, and then work your butt
   off to make it happen. Everyone needs a plan, but it doesn’t have to be
   complicated.
-f_quote-reference: ''
+f_quote-reference: '- Inspiring Entrepreneurs, page 105'
 f_insight-2: >-
   ### Time Out with a Newbie
 
@@ -117,6 +117,10 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0981089704/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Five-year strategy sessions are good – but not ultimately effective because
+  without a tangible,  actionable, measurable plan, people’s wheels start to
+  spin.
 ---
 
 Hopefully, if you’re considering a new venture, a new job or a new project of any kind, you’re excited about it. If not, you’re beaten before you begin. Any truly successful person is so because they’re passionate about what they do. Chances are if you’ve read even a couple our Actionable summaries, you’ve picked up on our passion for passion. It’s a crucial first step.

@@ -44,7 +44,7 @@ f_big-idea: >-
   service. Looking at how you save your customers money, or hours, or hassle –
   or all three – will be a light bulb moment for your business design. But that
   design should not remain static…
-f_quote-reference: ''
+f_quote-reference: '- The Profit Zone, page 20-21'
 f_insight-2: >-
   ### Ask Yourself, "What Am I Afraid Of Finding Out?"
 
@@ -115,6 +115,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0812933044/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  To begin customer-centric thinking, managers must reverse the traditional
+  value chain…so that the customer is the first link in the chain.
 ---
 
 For a book that’s been around for over 15 years, _The Profit Zone_ reads as though it was written yesterday – and in this day of instant-everything, that’s saying something.

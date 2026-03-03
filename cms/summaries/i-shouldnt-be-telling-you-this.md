@@ -46,7 +46,7 @@ f_big-idea: >-
   that labels go on the inside and creating her iconic look for purses.
   **Whether it’s rethinking an assumption or going forward with a crazy idea, go
   big or go home!**
-f_quote-reference: ''
+f_quote-reference: '- I Shouldn’t Be Telling You This, page 6'
 f_insight-2: >-
   ### Drain the Swamp as You Slay the Aligators
 
@@ -120,6 +120,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0062122126/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: "…success is most often the result of doing the bold extra something that no one else has thought of or dared to try...\_ doing a job well is not enough. The key is to do more than what's expected, power it up, go balls to the wall."
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/01/ActionableBooks-Audio-I-shouldnt-be-telling-you-this.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/01/ActionableBooks-Audio-I-shouldnt-be-telling-you-this.mp3)

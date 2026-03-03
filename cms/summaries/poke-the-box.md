@@ -39,7 +39,7 @@ f_big-idea: >-
   Forget what the others have to say about it. Go, do it, now. If you fail,
   fine, do it again and be prepared to succeed. If you fail again, iterate –
   until you succeed.
-f_quote-reference: ''
+f_quote-reference: '- Poke the Box, Seth Godin, Preface (Kindle version)'
 f_insight-2: >-
   ### No Shortcuts
 
@@ -119,6 +119,9 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/1936719002/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  The job isn’t to catch up to the status quo. The job is to invent the status
+  quo.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/04/ActionableBooks-Audio-Poke-the-Box.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/04/ActionableBooks-Audio-Poke-the-Box.mp3)

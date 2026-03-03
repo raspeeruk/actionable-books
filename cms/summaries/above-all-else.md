@@ -40,7 +40,7 @@ f_big-idea: >-
   well‚Äù, and remind ourselves of why we‚Äôre putting in all the effort in the
   first place. Just like cars need regular oil changes, we need to take the
   occasional time out.
-f_quote-reference: ''
+f_quote-reference: '- Above All Else, page 19'
 f_insight-2: >-
   ### Go Solo
 
@@ -117,6 +117,13 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0981951236/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Michael began again. ‘What I realized was that my heart was stale. It had
+  grown cold and hard. There was no life in it. It had been robbed of the joy
+  and wonder that had been in it as a child. To further the metaphor, it was an
+  empty well. There was no water to draw from, so to speak, to provide life for
+  me. There was a well there, but it was dry. I realized that everyone has  a
+  well, but we determine whether it is dry or full.
 ---
 
 There’s a lot of emphasis in personal development and business books on “making it”. Most every “growth” book you read is full of thoughts, attitudes and insights into achieving success. And that’s great. There’s nothing wrong with wanting to reach your own personal definition of greatness. However, in _Above All Else_ (the follow up book to [**_Twelve Pillars_)**,](http://actionablebooks.com/summaries/twelve-pillars/) bestselling author Chris Widener uses the fable of King Solomon, the wealthiest man in history, to remind us that achieving it, maintaining it, and being content with success are three very different animals.

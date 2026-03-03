@@ -72,7 +72,7 @@ f_big-idea: >-
   As we rise out of the hypnopompic state, it’s vital to capture the
   breakthroughs before we move into the EN mode. The EN will use its on-task
   processes to move a breakthrough forward.
-f_quote-reference: ''
+f_quote-reference: '- The Net and The Butterfly, page 26'
 f_insight-2: >-
   ### Practice makes discomfort perfect
 
@@ -171,6 +171,10 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/B01EH1EKO4/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Neuroscientists have recently discovered that the secret to breakthroughs lies
+  in our ability to switch between these two modes, the focused and the
+  meandering.
 ---
 
 Most of us believe that breakthroughs are reserved for a few with top-shelf talents. In _The Net and The Butterfly_, Olivia Fox Cabane and Judah Pollack make a strong case that all humans are capable of breakthrough thinking.

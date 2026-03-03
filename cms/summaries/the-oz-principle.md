@@ -52,7 +52,7 @@ f_big-idea: >-
   See It, Own It, Solve It, Do It model provides us with steps to follow to
   bring ourselves and our teams “Above the Line” to get results through
   increased accountability.
-f_quote-reference: ''
+f_quote-reference: '- The OZ Principle, page 14'
 f_insight-2: >-
   ### Holding People Accountable
 
@@ -126,6 +126,10 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1591843480/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Accountability for results rests at the very core of the continuous
+  improvement, innovation, customer satisfaction, team performance, talent
+  development and corporate governance movements so popular today.
 ---
 
 All organizations have core values or outlined competencies that define who they are and who they want to be. I would venture to guess that 9 out 10 times the word accountability is in those values or on that list.

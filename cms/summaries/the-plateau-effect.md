@@ -42,7 +42,7 @@ f_big-idea: >-
   harder you work applying your tried and true methods, the faster you’ll sink.
   **Understanding that you’ve hit a plateau can help you realize that you need
   to change something, and maybe even do something entirely different.**
-f_quote-reference: ''
+f_quote-reference: '- The Plateau Effect, prologue'
 f_insight-2: >-
   ### Don't Freeze
 
@@ -127,6 +127,10 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/0525952802/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Understanding why we reach a plateau can help us stop wasting time on things
+  that we’ve stopped getting value from and focus on other things that leverage
+  our time and energy better.
 ---
 
 _“You don’t have problems in your life. You have plateaus. Plateaus rob you of early successes. They make hard work worthless. They turn beginner’s luck into sophomore slumps. They can even make you look lazy, dumb, careless, or unloving. You aren’t any of these things. You’ve just been fighting an invisible enemy.”_

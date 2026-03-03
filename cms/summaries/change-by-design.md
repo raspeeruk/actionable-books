@@ -53,7 +53,7 @@ f_big-idea: >-
   process. The iterative, nonlinear nature of the approach can feel
   uncomfortable to some, but it embodies one of the favorite sayings at IDEO,
   “Fail early to succeed sooner.”
-f_quote-reference: ''
+f_quote-reference: '- Change By Design, page 4'
 f_insight-2: >-
   ### The Power of Prototyping
 
@@ -142,6 +142,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0061766089/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: "Design Thinking taps into capacities we all have but that are overlooked by more conventional problem-solving practices. \_It is not only human-centered; it is deeply human in and of itself."
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/01/ActionableBooks-Audio-Change-by-Design.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/01/ActionableBooks-Audio-Change-by-Design.mp3)

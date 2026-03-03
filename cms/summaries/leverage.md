@@ -60,7 +60,7 @@ f_big-idea: >-
   to be ‘grooved’ in the mind, and that only happens through repetition. John
   rails on consultants who think an exercise in a workshop will cause people to
   change.
-f_quote-reference: ''
+f_quote-reference: '- Leverage, page 221'
 f_insight-2: >-
   ### Change the culture without calling it ‘culture change’
 
@@ -138,6 +138,9 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/B00HAMKVBO/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  It is easier to act your way to a new way of thinking than to think your way
+  to a new way of acting.
 ---
 
 _“Few concepts in business contain so many powerful truths, and at the same time so much crap, as corporate culture.”_

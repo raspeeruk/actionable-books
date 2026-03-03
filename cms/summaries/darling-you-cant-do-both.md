@@ -51,7 +51,7 @@ f_big-idea: >-
 
 
   Let’s take a closer look at two of these rules and why they should be broken.
-f_quote-reference: ''
+f_quote-reference: '- Darling, You Can’t Do Both, page 10'
 f_insight-2: >-
   ### Network without an agenda
 
@@ -140,6 +140,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/B00G98R09Q/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  You don’t have to follow the old rules. You can bend them, break them, ignore
+  them.
 ---
 
 If you have ever seen a Dove commercial featuring real women and their real bodies, curves and all, you have seen the advertising work of Janet Kestin and Nancy Vonk.

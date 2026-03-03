@@ -32,7 +32,7 @@ f_big-idea: >-
   are things you can do to make the process easier on the rider and the
   elephant. Simply, articulately and with a great sense of humour, the Heaths’
   outline many of those tactics. We’ve chosen a couple for you:
-f_quote-reference: ''
+f_quote-reference: '- Switch, page 12'
 f_insight-2: >-
   ### It's not a people problem...
 
@@ -93,6 +93,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0385528752/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: "Change is hard because people wear themselves out. \_And that's the second surprise about change: What looks like laziness is often exhaustion."
 ---
 
 In _Switch_, brothers Dan and Chip Heath have done it again; they’ve taken a complex and grossly over complicated issue and made it easy to understand and (better still) simple to integrate into your daily life. In Made to Stick, they tackled “The stickiness factor” – how to make your messages memorable and impactful. In Switch, they’re simplifying and making actionable the nature of change; why some things are hard to change… and what to do about it.

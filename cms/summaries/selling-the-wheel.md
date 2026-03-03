@@ -68,7 +68,7 @@ f_big-idea: >-
   of sales that you’re exploring. If you’ve hit a plateau in your sales, it
   could be because your style and focus isn’t aligned with your company’s
   (current) needs. Try moving to an earlier or later stage of the process.
-f_quote-reference: ''
+f_quote-reference: '- Selling the Wheel, page 9'
 f_insight-2: >-
   ### The Power of Focus
 
@@ -125,6 +125,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0684856018/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  For one thing, we learned that there is no such thing as the perfect
+  salesperson who is universally effective with all customers.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/11/ActionableBooks-Audio-Selling-the-Wheel.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/11/ActionableBooks-Audio-Selling-the-Wheel.mp3)

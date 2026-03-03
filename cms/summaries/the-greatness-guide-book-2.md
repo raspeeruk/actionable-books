@@ -41,7 +41,7 @@ f_big-idea: >-
   Just like the farmer, there is a time for work, and there are the times you
   just need to relax, slow down and enjoy the moment. There will be time to work
   hard again soon, promise.
-f_quote-reference: ''
+f_quote-reference: '- The Greatness Guide: Book 2, page 98'
 f_insight-2: >-
   ### Love the Journey
 
@@ -105,6 +105,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/155468403X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: It can take years to become an overnight sensation.
 ---
 
 If there’s one word that can sum up the thoughts and insights of Robin Sharma, it would be simple. His chapters are clean and concise, relying on real world examples and basic life experiences to teach one fundamental lesson; life is meant to be enjoyed.

@@ -37,7 +37,7 @@ f_big-idea: >-
 
   It doesn’t matter if you work for a major corporation like General Electric,
   or a start up of 5 people. The key to success in any business is passion.
-f_quote-reference: ''
+f_quote-reference: '- Jack: Straight from the Gut, page 267'
 f_insight-2: >-
   ### Set the Drumbeat
 
@@ -99,6 +99,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0446690686/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: 'After all, business is a game.'
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/05/ActionableBooks-Audio-Jack-Straight-from-the-Gut.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/05/ActionableBooks-Audio-Jack-Straight-from-the-Gut.mp3)

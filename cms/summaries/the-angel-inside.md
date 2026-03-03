@@ -51,7 +51,7 @@ f_big-idea: >-
   picture, and regularly remind ourselves of our missions. Know that there’s a
   time for planning, a time for sharp deliberate action and, mostly, a time for
   growing through experience.
-f_quote-reference: ''
+f_quote-reference: '- The Angel Inside, page 44'
 f_insight-2: >-
   ### Embrace the Process
 
@@ -131,6 +131,13 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0307719537/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Thomas, most people live in one or the other. They either conceive of amazing
+  things – they dream – but it never goes beyond that. They live only in their
+  minds. Still others do just the  opposite. They are filled with action, but
+  not action that is well thought out. It is movement that takes them nowhere.
+  The secret is this: Let your mind conceive it and then let your hand  create
+  it. True accomplishment requires both.
 ---
 
 Who knew a five hundred year old statue could teach so much?

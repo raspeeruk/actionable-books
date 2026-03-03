@@ -40,7 +40,7 @@ f_big-idea: >-
   Customer service means generating more revenue when the actions and attitudes
   you take are building loyalty and repeat business. What actions and attitudes
   does your company show your customers?
-f_quote-reference: ''
+f_quote-reference: '- Scott Jordan, CEO of Scottevest, quoted in B-A-M!, page 134'
 f_insight-2: >-
   ### The Customer is NOT always right. (Then again, neither are you.)
 
@@ -123,6 +123,7 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/1449007945/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: "...there used to be a time when by using technology, companies wanted to seem big. \_Now, using technology, companies want to seem small and personal to their customer."
 ---
 
 Forget “because it’s the right thing to do”. Dismiss the notion that “we do it because we love our customers”. Altruism has nothing to do with it. Businesses engage in customer service because doing so generates more revenue than if they didn’t. And if it doesn’t, then the program needs an overhaul. Period.

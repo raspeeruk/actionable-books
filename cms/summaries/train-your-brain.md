@@ -48,7 +48,7 @@ f_big-idea: >-
   lazy, but _now I am getting more_ disciplined at (transition statement)
   walking every day.” **A reason, no matter how flimsy, is all you need to begin
   to believe yourself**
-f_quote-reference: ''
+f_quote-reference: '- Train Your Brain, page 52'
 f_insight-2: >-
   ### Interrupt the Cycle
 
@@ -133,6 +133,7 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/1452571589/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: What you’re ‘feeling’ always reflects what you’re ‘thinking.’
 ---
 
 _“Intentional Action—combining thoughts and feelings with action—is the bread and butter of_ Train Your Brain_—providing you with a ‘stronger, quicker method’ for success.”_

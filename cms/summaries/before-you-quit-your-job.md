@@ -43,7 +43,7 @@ f_big-idea: >-
   We know we need to try (and fail) at new things in order to grow, and yet our
   current work environment may not be the best place to fail in a spectacular
   way. So what’s the solution?
-f_quote-reference: ''
+f_quote-reference: '- Before You Quit Your Job, page 50'
 f_insight-2: >-
   ### Fail Faster
 
@@ -128,6 +128,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0446696374/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  There are actually two primary aspects to the fear of making a mistake – fear
+  of the consequence of making a mistake and fear of looking bad (perception).
 ---
 
 When I picked _Before You Quit Your Job_ as my recreational reading material for a two week trip to Southeast Asia, I certainly hoped it would be of benefit to Actionable. I truly never imagined it would be the topic of focus for a summary, however. Yet, in devouring the 259 pages of Robert Kiyosaki’s little known gem, I found a wide range of morals and messages that went far beyond the scope of entrepreneurship. The lessons found in this books are easily applicable to anyone pursuing a new venture, be it new job, new promotion, new relationship and so on. I love books like this; books that are written for a specific audience and yet contain a universal message. Some of our best ideas can come from resources just beyond our supposed field of interest or expertise.

@@ -70,7 +70,7 @@ f_big-idea: >-
   many strategies and tactics that fit inside each category, but just knowing
   these six influences can help you be aware of what is affecting your actions,
   and thus build a robust plan for change.
-f_quote-reference: ''
+f_quote-reference: '- Change Anything, page 5'
 f_insight-2: >-
   ### Deploy Deliberate Practice
 
@@ -167,6 +167,10 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/0446573906/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  When people believe that their ability to make good choices stems from nothing
+  more than their willpower - and that willpower is a quality they're either
+  born with or they're not - they eventually stop trying altogether.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/01/ActionableBooks-Audio-Change-Anything.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/01/ActionableBooks-Audio-Change-Anything.mp3)

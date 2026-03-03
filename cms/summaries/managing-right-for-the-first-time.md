@@ -72,7 +72,7 @@ f_big-idea: >-
   Hopeful people are facing the challenges and still moving forward eagerly” (pg
   48). You need to stay genuine as you begin to not just manage the team of
   direct reports but also the stakeholders around you.
-f_quote-reference: ''
+f_quote-reference: '- Managing Right for the First Time, page 23'
 f_insight-2: >-
   ### Building the Next Manager
 
@@ -148,6 +148,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1605440027/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: Great managers are generally great managers before they ever have the title.
 ---
 
 Are you managing now? Do you want to get into managing people? Then David C Baker’s _Managing Right for the First Time_ is for you. From personal experience I can tell you that I wish this book on management had been put into my hands as I was promoted from the skilled individual contributor ranks to the management ranks! David Baker put together a book—no, a field guide—to help the new manager learn the ropes and the veteran manager make changes for the better.

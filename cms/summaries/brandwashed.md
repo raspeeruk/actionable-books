@@ -46,7 +46,7 @@ f_big-idea: >-
   research and glean valuable knowledge. With this information, they’re able to
   sell to you without you realizing that you’ve been sold. That’s pretty
   powerful… and scary!
-f_quote-reference: ''
+f_quote-reference: '- Brandwashed, page 93'
 f_insight-2: >-
   ### With Great Power Comes Great Responsibility
 
@@ -129,6 +129,10 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0385531737/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  This now-legendary Axe campaign […] is a fascinating example of just how
+  deeply companies and marketers probe the depths of our inner psyches – our
+  hopes, dreams, and daydreams.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/09/ActionableBooks-Audio-Brandwashed.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/09/ActionableBooks-Audio-Brandwashed.mp3)

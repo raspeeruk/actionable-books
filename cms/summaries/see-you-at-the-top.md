@@ -20,7 +20,7 @@ f_big-idea: >-
   > "Unless you have definite, precise, clearly set goals, you are not going to
   realize the maximum potential that lies within you."- See You at the Top, page
   150
-f_quote-reference: ''
+f_quote-reference: '- See You at the Top, page 150'
 f_insight-2: >-
   ### Keep at it!
 
@@ -107,6 +107,9 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/1565547063/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Unless you have definite, precise, clearly set goals, you are not going to
+  realize the maximum potential that lies within you.
 ---
 
 Zig Ziglar lived a difficult life. Born in 1926, he was the 10th of 12 children. His father died when he was 6 years old, leaving his mother to raise him and his siblings alone during the worst depression the world had ever seen. Zig’s mother did not have much of a formal education but what she lacked in training she made up for with a hard work ethic and strong morals which she taught to her children.

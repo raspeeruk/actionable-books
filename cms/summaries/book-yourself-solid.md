@@ -36,7 +36,7 @@ f_big-idea: >-
   Port recommends pruning your current client list and getting rid of anyone who
   does not meet this criteria. It’s a radical step, but one that will put you on
   the path to long-term prosperity and happiness.
-f_quote-reference: ''
+f_quote-reference: '- Book Yourself Solid, page 8'
 f_insight-2: >-
   ### Become and Establish Yourself as an Authority
 
@@ -100,6 +100,9 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/0470643471/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  There’s nothing wrong with your dud clients, of course. They’re just not right
+  for you.
 ---
 
 _“The personal checks that I cashed were not the most valuable part of my business. The real heart of what I was creating was a turnkey system that propelled my business and income every month.”_

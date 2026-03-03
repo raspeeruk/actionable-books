@@ -49,7 +49,7 @@ f_big-idea: >-
   programming and peer expectation. While we don’t have time to go into all four
   agreements in detail, here are a couple key thoughts for mastering these
   agreements.
-f_quote-reference: ''
+f_quote-reference: '- The Four Agreements, page 121'
 f_insight-2: >-
   ### Just For Today
 
@@ -105,6 +105,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1878424505/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  [The goal] is to be like a child – to be wild and free, but with a difference.
+  The difference is that we have freedom with wisdom instead of innocence.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2010/12/ActionableBooks-Audio-The-Four-Agreements.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2010/12/ActionableBooks-Audio-The-Four-Agreements.mp3)

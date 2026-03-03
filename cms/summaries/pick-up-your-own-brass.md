@@ -49,7 +49,7 @@ f_big-idea: >-
   you are CEO of a corporation or President of a NGO, if you act in your truest
   nature and show authenticity and humility, your ability to lead will resonate
   with those you serve.
-f_quote-reference: ''
+f_quote-reference: '- Pick Up Your Own Brass, Preface, page xii'
 f_insight-2: >-
   ### Find the Best Talent
 
@@ -157,6 +157,7 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/1597976830/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: A good leader always picks up his or her own brass.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/03/ActionableBooks-Audio-Pick-Up-Your-Own-Brass.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/03/ActionableBooks-Audio-Pick-Up-Your-Own-Brass.mp3)

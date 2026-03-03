@@ -38,7 +38,7 @@ f_big-idea: >-
   idea, why haven’t others done it before? In other words, why will you succeed
   where others have failed?” He suggests that unless you have a strong answer to
   this question, you may want to proceed with caution.
-f_quote-reference: ''
+f_quote-reference: '- Mission in a Bottle, page 9'
 f_insight-2: >-
   ### Seize every opportunity
 
@@ -97,6 +97,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/B00BRUQ3WG/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  We were thirsty. We couldn’t find anything we wanted to drink, so we started a
+  company to make bottled iced tea that actually tasted like tea.
 ---
 
 If I was remotely talented at drawing or doodling I would illustrate this book review. I was inspired and surprised when I cracked open _Mission in a Bottle_ to see it was in graphic novel format. Think comic strip. Even the font is a style of handwriting/printing that borders on crazy cursive. Being smitten with handwritten anything, I was charmed from the get go. But, not to lose all sight of objectivity, it did take a bit of getting used to.

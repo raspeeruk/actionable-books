@@ -33,7 +33,7 @@ f_big-idea: >-
   common pattern that emerges is that your talk will fall short—no matter how
   polished you are as a speaker—unless your idea comes from your heart. It is
   then that your idea will be inspiringly contagious.
-f_quote-reference: ''
+f_quote-reference: '- How to Deliver a TED Talk, page viii'
 f_insight-2: >-
   ### Speaking is about giving to your audience
 
@@ -88,6 +88,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/B00EHIELXS/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: Speaking does not inspire people; content inspires people.
 ---
 
 I recently attended my first TEDxTalk.\* I had always hoped to go to one of these Technology, Education, and Design inspired events. Maybe it was the mission “to spread ideas worth sharing” that intrigued me, or maybe it was the line-up of fascinating speakers. Regardless, I was full of anticipation as I walked through the ticket line and into the auditorium.

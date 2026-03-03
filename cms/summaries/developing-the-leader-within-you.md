@@ -38,7 +38,7 @@ f_big-idea: >-
   on tasks and activities that are working towards your key objectives. Ten
   years from now, how much of your activity will matter? Focus on the stuff that
   matters, minimize or eliminate that which doesn’t.
-f_quote-reference: ''
+f_quote-reference: '- Developing the Leader Within You, page 32'
 f_insight-2: >-
   ### “Planned Neglect”
 
@@ -117,6 +117,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0785281126/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  All true leaders have learned to say ‘No’ to the good in order to say ‘Yes’ to
+  the best.
 ---
 
 _Developing the Leader Within Yo_u is truly _the_ landmark book on leadership. Rather than boring readers with cliché management tips and tricks, bestselling author John Maxwell dives into the heart of leadership, showing us early on in the book that true leadership has very little to do with title, salary or the corner office. Instead, he teaches what it takes to become a leader that people want to follow; a leader that captures the hearts, minds and actions of his or her followers. Leadership, says Maxwell, is about who you become, not what you’re given or proclaimed to be.

@@ -24,7 +24,7 @@ f_big-idea: >-
   Throughout the book, the theme that scientific studies have shown, is even
   though there is always an element of risk associated with trust, it is in our
   best interests as human beings to trust each other than not.
-f_quote-reference: ''
+f_quote-reference: '- The Truth About Trust, page 3'
 f_insight-2: >-
   ### Trust and the internet
 
@@ -73,6 +73,9 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/1594631239/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  More can be achieved by working together than by working alone. That’s why we
+  trust — plain and simple.
 ---
 
 I was reading this book when the Jian Ghomeshi scandal broke in Toronto, Canada.

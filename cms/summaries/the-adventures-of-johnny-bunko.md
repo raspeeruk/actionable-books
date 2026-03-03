@@ -41,7 +41,7 @@ f_big-idea: >-
   and the values that you wish to be remembered for… not the exact route to get
   there. In a time of flux, such as we’re in, our values, long term objectives,
   and enjoyment of our current work is more important than ever.
-f_quote-reference: ''
+f_quote-reference: '- The Adventures of Johnny Bunko'
 f_insight-2: >-
   ### The Right Kind of Mistake
 
@@ -123,6 +123,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1594482918/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: "It’s nice to believe that you can map out every step ahead of time and end up where you want. \_But that’s a fantasy. \_The world changes. \_Ten years from now, your job might be in India. \_Your industry might not even exist."
 ---
 
 I had a serendipitous encounter last week that, for me, expounded the value of this week’s article content. Wednesday night, I had the pleasure of sitting down for drinks with two new friends, Dan and Amanda. Dan and Amanda are just entering their final year of their respective undergraduate degrees and, like most soon-to-be-graduates, are looking forward to their launch into the “real world” with a healthy balance of excitement and trepidation. It’s a fascinating time of life, when 16 years of educational structure are suddenly replaced by a “fend for yourself and hope for the best” freedom.

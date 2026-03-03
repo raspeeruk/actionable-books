@@ -50,7 +50,7 @@ f_big-idea: >-
   rather a group of committed, passionate, and often young people who saw that
   the world needed changing and gave themselves permission to come up with and
   act upon solutions.
-f_quote-reference: ''
+f_quote-reference: '- Margaret Meade'
 f_insight-2: >-
   ### Collaboration is Key
 
@@ -133,6 +133,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1781002134/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Never doubt that a small group of thoughtful committed citizens can change the
+  world; indeed it’s the only thing that ever has.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/Actionable-Books-Audio-Social-Entrepreneurship-in-the-Age-of-Atrocities.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/Actionable-Books-Audio-Social-Entrepreneurship-in-the-Age-of-Atrocities.mp3)

@@ -61,7 +61,7 @@ f_big-idea: >-
   more and make the other person feel valued. Lastly any information we provide
   needs to be relevant and useful and we can use stories to demonstrate our
   point.
-f_quote-reference: ''
+f_quote-reference: '- Got Your Attention?, page 4'
 f_insight-2: >-
   ### Interaction is key. Don’t be a lone ranger.
 
@@ -140,6 +140,11 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1626562504/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  What does it take to really connect with people in a culture of impatience and
+  alienation? Well, there has to be two-way attention for our interactions to be
+  mutually rewarding. How do we do that? We stop trying to get attention and
+  start giving attention.
 ---
 
 I was excited to read Sam Horn’s new book _Got Your Attention?: How to Create Intrigue and Connect with Anyone._ I have been a fan and follower for years, after reading her book _POP_ and with her latest book, she doesn’t disappoint. And full disclosure, she is also my keynote speaker at my May 26 conference so I was keen to read what she had to say.

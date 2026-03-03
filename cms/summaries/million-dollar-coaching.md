@@ -32,7 +32,7 @@ f_big-idea: >-
   it). It’s all about outcomes, based on how greatly your client improves. That
   is what a great coach should focus on. The first step is to get the client’s
   agreement on what the result of all this coaching is to do.
-f_quote-reference: ''
+f_quote-reference: '- Million Dollar Coaching, page 150'
 f_insight-2: >-
   ### Perfectionism is Overrated
 
@@ -141,6 +141,9 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/0071743790/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Never focus on the methodologies of coaching.  Focus on the salutary result of
+  successful coaching
 ---
 
 So you want to be a millionaire?

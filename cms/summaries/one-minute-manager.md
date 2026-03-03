@@ -44,7 +44,7 @@ f_big-idea: >-
   Regardless of the relationship, and whether you’re in a senior role or are on
   a level playing field, keep one fact in mind; People want one thing – to feel
   valued.
-f_quote-reference: ''
+f_quote-reference: '- The One Minute Manager, page 19'
 f_insight-2: >-
   ### The Nature of Complaint
 
@@ -88,6 +88,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0688014291/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: People Who Feel Good About Themselves Produce Good Results.
 ---
 
 Despite the title, _The One Minute Manager_ is not a book simply for managers. Certainly, it has brilliant strategy on how to effectively (and efficiently) work with employees. However, the reason for this book’s tremendous global success is the universally applicable nature of the message. This is a book for managers and employees, parents with children, co-workers, housemates, classmates and married couples. And I mean that quite sincerely. So the question is –

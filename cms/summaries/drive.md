@@ -53,7 +53,7 @@ f_big-idea: >-
   probably know what I’m talking about, but when was the last time you
   experienced it? Children live in this state every day. And so can we, if we
   can just work a little Motivation 3.0 back into our lives.
-f_quote-reference: ''
+f_quote-reference: '- Drive, page 89'
 f_insight-2: >-
   ### Choose Your Porridge
 
@@ -135,6 +135,10 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1594488843/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Perhaps management isn’t responding to our supposedly natural state of passive
+  inertia. Perhaps management is one of the forces that’s switching our default
+  setting and  producing that state.
 ---
 
 The subtitle of Dan Pink’s latest bestseller, _Drive_, is “The Surprising Truth About What Motivates Us”. After having read this riveting and timely book, I don’t know that Pink’s truths are “surprising” so much as they are “surprisingly disregarded with age”. At an early stage in our lives, we all know inherently (and naturally gravitate towards) that which motivates us. _Drive_ is sharp reminder of that which we appear to have forgotten. Here’s the theory:

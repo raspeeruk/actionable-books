@@ -1,26 +1,69 @@
 <!DOCTYPE html>
 <html data-wf-page="65d75188d994cb820a6e7a7a" data-wf-site="65b90e48644abf11ecd45c6d" lang="en"><head>
   <meta charset="utf-8">
-  <title>{{ title }} | Actionable Books</title>
+  <title>{{ title }} by {{ f_author-plain-text }} - Summary | Actionable Books</title>
   <meta content="{{ f_quote-2 | escape }} by {{ f_author-plain-text | escape }}" name="description">
-  <meta content="{{ title }} | Actionable Books" property="og:title">
+  <meta content="{{ title }} by {{ f_author-plain-text }} - Summary | Actionable Books" property="og:title">
   <meta content="{{ f_quote-2 | escape }} by {{ f_author-plain-text | escape }}" property="og:description">
-  <meta content="{{ title }} | Actionable Books" property="twitter:title">
+  <meta content="https://www.actionablebooks.com{{ page.url }}" property="og:url">
+  <meta content="{{ title }} by {{ f_author-plain-text }} - Summary | Actionable Books" property="twitter:title">
   <meta content="{{ f_quote-2 | escape }} by {{ f_author-plain-text | escape }}" property="twitter:description">
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="article">
   <meta content="summary_large_image" name="twitter:card">
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta content="google-site-verification=Fp7hIuy11CPQtpYEojBnAJU6F94T3xwmL2HoUVt4Q7s" name="google-site-verification">
+  <link rel="preconnect" href="https://www.googletagmanager.com">
+  <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin>
+  <link rel="dns-prefetch" href="https://assets.mailerlite.com">
   <link href="/assets/css/normalize.css" rel="stylesheet" type="text/css">
   <link href="/assets/css/webflow.css" rel="stylesheet" type="text/css">
   <link href="/assets/css/actionable-books.webflow.css" rel="stylesheet" type="text/css">
   <link href="{{ settings.site.apple_touch_icon | default: "/assets/images/webclip.png" }}" rel="apple-touch-icon">
-  <link href="https://www.actionablebooks.com{{page.url}}" rel="canonical">
+  <link href="https://www.actionablebooks.com{{ page.url }}" rel="canonical">
   <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-6N54GH6FGL"></script>
   <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3649517228913627" crossorigin="anonymous"></script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Review",
+    "name": "{{ title | escape }} Summary",
+    "author": {
+      "@type": "Organization",
+      "name": "Actionable Books",
+      "url": "https://www.actionablebooks.com"
+    },
+    "url": "https://www.actionablebooks.com{{ page.url }}",
+    "itemReviewed": {
+      "@type": "Book",
+      "name": "{{ title | escape }}",
+      "author": {
+        "@type": "Person",
+        "name": "{{ f_author-plain-text | escape }}"
+      }{% if f_image.url %},
+      "image": "{{ f_image.url }}"{% endif %}{% if f_amazon-url %},
+      "url": "{{ f_amazon-url | escape }}"{% endif %}
+    }{% if f_big-idea %},
+    "reviewBody": {{ f_big-idea | strip_html | truncate: 500 | jsonify }}{% endif %}
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.actionablebooks.com/" },
+      { "@type": "ListItem", "position": 2, "name": "Summaries", "item": "https://www.actionablebooks.com/summaries/" },
+      { "@type": "ListItem", "position": 3, "name": "{{ title | escape }}" }
+    ]
+  }
+  </script>
 {{ settings.site.header_additional_content }}{%- include "partials/_site-css-variables" -%}<style>.w-video.w-embed {
             aspect-ratio: 16 / 9;
-        }</style></head>
+        }
+        .breadcrumb-nav { font-size: 0.875rem; color: #667085; margin-bottom: 0.5rem; }
+        .breadcrumb-nav a { color: #667085; text-decoration: none; }
+        .breadcrumb-nav a:hover { color: #344054; text-decoration: underline; }
+        .breadcrumb-sep { margin: 0 0.375rem; }</style></head>
 {%- assign teamOfSummaries_f_team-2 = f_team-2 | resolveReference -%}{%- assign authorsOfSummaries_f_author = f_author | resolveReference -%}{%- assign ref = f_author | resolveReference -%}<body>
   <div data-animation="default" class="uui-navbar07_component w-nav" data-easing2="ease" data-easing="ease" data-collapse="medium" data-w-id="518bc1f9-39db-98ee-d3d4-4c063ac7ba34" role="banner" data-duration="400">
     <div class="uui-navbar07_container">
@@ -125,6 +168,7 @@
         <div class="uui-padding-vertical-xhuge-6 summaries">
           <div class="w-layout-grid uui-blogpost05_header-2">
             <div id="w-node-ee033256-53c8-8467-077e-fd1c657e7137-0a6e7a7a" class="div-block-6">
+              <nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="/">Home</a> <span class="breadcrumb-sep">/</span> <a href="/summaries/">Summaries</a> <span class="breadcrumb-sep">/</span> <span>{{ title }}</span></nav>
               <h1 class="uui-heading-large-2">{{ title }}</h1>
               <a href="{{ teamOfSummaries_f_team-2.url }}" class="div-block-5 w-inline-block">
                 <div class="html-embed w-embed">Summary Written by <b>{{ teamOfSummaries_f_team-2.data.title }}</b></div>
@@ -206,7 +250,7 @@
               </section>
             </div>
             <div id="w-node-_5137200e-2b9f-e93c-1a74-e0208ff349a3-0a6e7a7a" class="uui-blogpost05_title-wrapper-2">
-              <div class="w-layout-grid grid-2"><img src="{{ f_image.url }}" loading="lazy" alt="{{ images.-3cbca8bd.alt | escape }}" class="image-2">
+              <div class="w-layout-grid grid-2"><img src="{{ f_image.url }}" loading="eager" fetchpriority="high" alt="{{ f_image.alt | escape }}" class="image-2">
                 <a id="w-node-d6f94877-f366-5dff-3925-dbdb523eca34-0a6e7a7a" href="{{ f_amazon-url }}" class="uui-button-3 w-button">{{ texts.60fec62b }}</a>
               </div>
               <a href="{{ authorsOfSummaries_f_author.url }}" class="w-inline-block">

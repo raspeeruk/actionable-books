@@ -64,7 +64,7 @@ f_big-idea: >-
   our physiological control rests in having power over our breathing and heart
   rates. By learning to breathe properly, and to control our emotions, we can
   enter into any situation with a clear and logical mind.
-f_quote-reference: ''
+f_quote-reference: '- Coherence, page 33'
 f_insight-2: >-
   ### Learning to Listen is the Key to Relationships
 
@@ -191,6 +191,10 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/B00FYYTRT2/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  ... align and synchronize our physiology, emotions, feelings, thoughts,
+  behaviour and relationships, [and] we will massively elevate our results and
+  our performance without expending more effort, sweat or tears.
 ---
 
 Whether we do work that we love, or do not love, all of our lives run pretty much the same way. We press through the day to get to the end. We press through the weekdays to get to Friday; through weeks and months, to get to vacation, all for relaxation. And it is in these times of relaxation that we feel renewed, refreshed, ready to face the world with all engines firing and cylinders cranking. We feel unstoppable. **What if we could bring that sense of renewal to our everyday lives and to every situation?** This is the premise that fuels, Dr. Alan Watkins new book, _Coherence_.

@@ -16,13 +16,16 @@ f_author: cms/authors/chris-guillebeau.md
 f_category-3: cms/summary-categories/innovative-thinking.md
 f_team-2: cms/team/bryann-alexandros.md
 f_big-idea: ''
-f_quote-reference: ''
+f_quote-reference: '- The $100 Startup, page 8'
 f_insight-2: ''
 f_insight-1: ''
 f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/0307951529/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: |-
+  It's not an elitist club; it's a middle-class leaderless movement."
+                  - The $100 Startup, page 8
 ---
 
 > "It's not an elitist club; it's a middle-class leaderless movement." _\- The $100 Startup, page 8_

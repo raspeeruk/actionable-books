@@ -47,7 +47,7 @@ f_big-idea: >-
   to focus on. The point is that your brain likes making sense of the world;
   you’ll typically find supporting details for your beliefs. So shift your
   beliefs.
-f_quote-reference: ''
+f_quote-reference: '- Think or Sink, page 14'
 f_insight-2: >-
   ### Reality (Big ‘R’)
 
@@ -126,6 +126,10 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0982139217/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  …we can process about 7 x 18 = 126 bits of information per second. It is
+  estimated that there are millions of bits of information available to you in
+  any given second.
 ---
 
 Assuming you haven’t been hiding under a rock for the last decade, you’ve probably heard of the uber-successful franchise _The Secret_. One of the largest criticisms of the book/movie is its (apparently) highly controversial thesis that you can manifest anything in life simply by visualizing it. This over simplification of the concept misses the point. In her new best seller _Think or Sink_, Gina Mollicone-Long dives deeper into the issue and teaches us the science behind _The Secret_.

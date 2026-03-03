@@ -41,7 +41,7 @@ f_big-idea: >-
   “If you give in to fear, you won’t create, you won’t take responsible risks,
   you won’t innovate, and you won’t make space for new talent. All you’ll do is
   cover your ass. And you will not achieve anything meaningful.”
-f_quote-reference: ''
+f_quote-reference: '- Love Leadership, page 6'
 f_insight-2: >-
   ### Leaders give – followers take!
 
@@ -123,6 +123,7 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/0470428783/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: 'What you don’t love, you fear.'
 ---
 
 Despite all the change, growth and innovation over the past fifty years, one area has remained sadly out of date. For many managers and leaders fear is still an accepted leadership style. Here’s the truth: Fear is crippling. Fear causes irrational behavior. Fear makes people do stupid things. “Fear based leadership” can destroy an individual, a department of people or an entire organization.

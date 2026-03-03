@@ -55,7 +55,7 @@ f_big-idea: >-
   My actionable take away is to spend more time thinking about how my ideas can
   have contrast and then bouncing them against the market to see what works (and
   doesn’t.)
-f_quote-reference: ''
+f_quote-reference: "- The Impact Equation,\_Page 65"
 f_insight-2: >-
   ### Get Emotional
 
@@ -139,6 +139,7 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/1591844908/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: 'When everyone has a tattoo, tattoos cease to stand out and we need more.'
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/12/ActionableBooks-Audio-The-Impact-Equation.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/12/ActionableBooks-Audio-The-Impact-Equation.mp3)

@@ -40,7 +40,7 @@ f_big-idea: >-
   unethical manipulation. They are naturally occurring principles, and by
   understanding them we can leverage them to increase the performance of others
   and ourselves.
-f_quote-reference: ''
+f_quote-reference: '- BrainShift, page 73'
 f_insight-2: >-
   ### Discover Limiting Beliefs
 
@@ -90,6 +90,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0978052706/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Persuasion is the process of getting people to do things that they would not
+  normally do on their own.
 ---
 
 Do you believe in magic?

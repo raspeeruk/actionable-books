@@ -52,7 +52,7 @@ f_big-idea: >-
   hear more. Once you get comfortable telling familiar stories without reading
   from a book, you can tackle the next challenge of storytelling: crafting your
   own story.
-f_quote-reference: ''
+f_quote-reference: '- Lead with a Story, page 54'
 f_insight-2: >-
   ### Draw your audience into your story
 
@@ -151,6 +151,10 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/0814420303/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Every adult is a natural born storyteller. You’ve been studying the art of
+  storytelling ever since your parents read you bedtime stories. You already
+  know what the structure of a good story is. All you need is to be reminded.
 ---
 
 _“Long before the first formal business was established…the six most powerful words in any language were_ Let me tell you a story.”

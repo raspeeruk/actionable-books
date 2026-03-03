@@ -81,7 +81,7 @@ f_big-idea: >-
   choose to see. This must be followed by executing well-thought out processes
   of advancement. Being able to change is what keep us in the game, in business,
   and a step ahead of our competition.
-f_quote-reference: ''
+f_quote-reference: '- Hacking Leadership, page 63'
 f_insight-2: >-
   ### Who You Are Is Infinitely More Important Than What You Do
 
@@ -136,6 +136,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1118817419/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Any individual who holds responsibility for any person, aspect, function, or
+  task within an organization [including family], is in fact a leader."
 ---
 
 **“What do you want to be when you grow up?”**

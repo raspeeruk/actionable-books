@@ -49,7 +49,7 @@ f_big-idea: >-
   you through understanding why promises are important, offer some examples, but
   more importantly, help you make and keep the promises that are important in
   your life (in other words, all of them).
-f_quote-reference: ''
+f_quote-reference: '- The Promise Doctrine, page 10'
 f_insight-2: >-
   ### The Promise Doctrine
 
@@ -131,6 +131,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0984259007/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Relationships, families, businesses and organizations are defined by the
+  promises people keep, break, and renegotiate.
 ---
 
 What was the last promise you made?

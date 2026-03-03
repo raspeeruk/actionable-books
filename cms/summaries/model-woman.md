@@ -43,7 +43,7 @@ f_big-idea: >-
   In the moment, and from the outside, it may have looked like she should relax
   her standards. But her high standards are part of what built the business that
   she built and changed the industry for the better.
-f_quote-reference: ''
+f_quote-reference: '- Model Woman, page 94'
 f_insight-2: >-
   ### Find the right partner
 
@@ -119,6 +119,11 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/0062108077/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Eileen could pick out the best… From the very beginning… the title 'Ford
+  model' carried a cachet all its own. Ford models were seen as the aristocrats
+  of their profession… stature in every sense of the word, including mental
+  discipline and punctuality.
 ---
 
 I chose _Model Woman: Eileen Ford and the Business of Beauty_, because I wanted to learn what one woman did to create a business by women, in many ways for women, in a time when women weren’t prominent business leaders. Before picking this book up, I didn’t know much about Eileen Ford or modeling as an industry. I’m a woman so it’s fair to say that I have lived my life as a target of the modeling industry! But I do know a lot about entrepreneurship, so this made for an interesting and insightful read.

@@ -47,7 +47,7 @@ f_big-idea: >-
   clients is a different skill, sometimes called being a sales hunter as
   compared to being a sales farmer, where you look after and nurture established
   accounts.
-f_quote-reference: ''
+f_quote-reference: '- How to Say It, page xvi'
 f_insight-2: >-
   ### Rejection = Success
 
@@ -136,6 +136,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0735204586/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: 'B2B selling is not complicated, if you know how the process works.'
 ---
 
 If you’re looking for a concise yet comprehensive book on business to business (B2B) sales, this is it. Geoffrey James stumbled onto the world of sales and he’s a “sales fanboy”. He finds “the behaviors and concepts involved in selling to be endlessly fascinating” and is “especially intrigued by B2B selling”, which he considers to be “the heart and soul of the business world”. Me too. We are kindred spirits, though I have sold a lot of stuff over the 35+ years of sales experience, while he has only written about sales, but that too takes some sales talent to get the kind of exposure that he has.

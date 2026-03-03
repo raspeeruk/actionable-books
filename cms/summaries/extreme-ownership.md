@@ -45,7 +45,7 @@ f_big-idea: >-
   accelerated rate. When leaders set this precedent, this mindset of “Extreme
   Ownership” starts to permeate into the culture of the team and the
   organization. When this starts to happen, look out!
-f_quote-reference: ''
+f_quote-reference: '- Extreme Ownership, page 30'
 f_insight-2: >-
   ### Discipline Equal Freedom – The Dichotomy of Leadership
 
@@ -144,6 +144,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1250067057/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: The leader must own everything in his or her world.
 ---
 
 _Extreme Ownership_ is about the principles of leadership that are used within the US Navy Seals. This gem was written by Jocko Willink and Leif Babin, former Navy Seal officers for SEAL Task Unit Bruiser. Both are decorated combat veterans who now run a leadership training and consulting firm called Echelon Front. The book was written with the belief that “how Navy SEALs train and prepare their leaders, how they mold and develop high-performance teams, and how they lead in combat – are directly application to success in any group, organization, corporation, business, and, to a broader degree, life”.

@@ -41,7 +41,7 @@ f_big-idea: >-
   We bent the rules this week and are bringing you three Insights (mostly
   because the The Big Idea of “Get Clear, Get Current, Get Creative” lends
   itself so nicely to three action points!) So here you go:
-f_quote-reference: ''
+f_quote-reference: '- Making It All Work, page 192'
 f_insight-2: >-
   ### Eyes On the Horizon(s)
 
@@ -140,6 +140,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0143116622/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: "There are times when slowing down and retreating into a more reflective mode is called for. \_That’s actually not slowing down, however; it’s slowing the body down, so that the mind can continue to be active at a more dynamic level."
 ---
 
 Today our attention is on Perspective, one of two major components of David Allen’s _Making It All Work._

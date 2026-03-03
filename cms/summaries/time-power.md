@@ -42,7 +42,7 @@ f_big-idea: >-
   It’s been often stated that “While efficiency is doing things right,
   effectiveness is doing the right things. Applying “zero based thinking” helps
   you identify the right things.
-f_quote-reference: ''
+f_quote-reference: '- Time Power, page 75'
 f_insight-2: >-
   ### Maximize your mobile time
 
@@ -120,6 +120,9 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/0814474705/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  If I were not doing this job today, knowing what I now know, would I get into
+  it again today?
 ---
 
 Sometimes you find a book that you just keep diving back into. For me, Brian Tracy’s _Time Power_ is one such book. Brian Tracy is possibly THE most published and re-published business author in the world, and this is one of his most readable and actionable books.

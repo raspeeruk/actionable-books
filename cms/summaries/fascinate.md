@@ -38,7 +38,7 @@ f_big-idea: >-
 
   As you can imagine the variations of “quantity” of each of the seven triggers
   makes for a virtually endless supply of unique fascinations.
-f_quote-reference: ''
+f_quote-reference: '- Fascinate, page 163'
 f_insight-2: >-
   ### The Long Term Fascination
 
@@ -95,6 +95,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0061714704/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Rather than focusing solely on vice, use it as one ingredient in an overall
+  strategy.
 ---
 
 While I can comfortably say that I find value in all the books we review here at The Goose, not all of them are what you might call “entertaining reads”. For the last few weeks then, I have been fortunate. From the Heath brothers’Switch to Robin Sharma’s latest, The Leader Who Had No Title the books we’ve been discussing lately have not only provided poignant insights and actionable skills, but they’ve been fun to boot. Maybe it’s the beginning of the summer blockbuster series, who knows. All that can be said for sure is that the streak of insightful-yet-entertaining-books is alive and well, as I polished off _Fascinate_ by Sally Hogshead this past week, which may be one of the most entertaining yet.

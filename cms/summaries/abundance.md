@@ -58,7 +58,7 @@ f_big-idea: >-
   global conversation, and contributing to the global economy. Their ideas –
   ideas we’ve never before had access to – will result in new discoveries,
   products, and inventions that will benefit us all.
-f_quote-reference: ''
+f_quote-reference: '- Abundance, introduction'
 f_insight-2: >-
   ### The Power of Incentive Prizes
 
@@ -173,6 +173,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1451614217/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Our days of isolation are behind us. In today’s world, what happens 'over
+  there' impacts 'over here.'
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/11/ActionableBooks-Audio-Abundance.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/11/ActionableBooks-Audio-Abundance.mp3)

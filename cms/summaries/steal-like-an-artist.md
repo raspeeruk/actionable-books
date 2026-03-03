@@ -30,7 +30,7 @@ f_big-idea: >-
   out to develop the next best viral sensation? Trying to figure out what to
   write about next? No pressure. It has already been done before. So, go look at
   the best of what has been done before and steal from it.
-f_quote-reference: ''
+f_quote-reference: '- Steal Like an Artist, page 7'
 f_insight-2: >-
   ### School yourself
 
@@ -103,6 +103,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0761169253/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: All creative work builds on what came before. Nothing is completely original.
 ---
 
 I’m a thief. At least I want to be a thief. Since reading this _New York Times_ Best Seller by Austin Kleon, I have been stealing like crazy. Don’t worry, the author clarifies the difference between plagiarism and stealing and rest assured I am all out stealing. The concept behind _Steal Like An Artist: 10 Things Nobody Told You About Being Creative_ is that we learn by copying. As Mr.Kleon reminds us, even as youngsters we learn how to talk and walk by copying those older people around us. The more we copy the more practice we get doing what we love. Eventually the final version is our own. The fact that we were inspired and influenced by the work of others leads us to our own discoveries and creations. This is what stealing is all about. If you are looking for a book to take with you on vacation, you won’t go wrong with packing this little treasure in your suitcase. The graphics, photos and easy to read format are engaging on all levels. You will find yourself flipping from page to page and back again preparing for your new assignment as thief in training.

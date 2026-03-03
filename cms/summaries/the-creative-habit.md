@@ -45,7 +45,7 @@ f_big-idea: >-
   same way transforms it into a habit, so that you don’t even have to think
   about it. It becomes a discipline. This ritual of preparation gives us
   confidence that enables us to generate creativity.
-f_quote-reference: ''
+f_quote-reference: '- The Creative Habit, page 6'
 f_insight-2: >-
   ### Ideas don’t just happen
 
@@ -122,6 +122,7 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/0743235266/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: Being creative is a full-time job with its own daily patterns.
 ---
 
 I’ve just gotten out of my ‘Egg’ position. This involves sitting on the floor, knees up to my chest, curling my head down to my knees and making myself as small as possible. You should try it.

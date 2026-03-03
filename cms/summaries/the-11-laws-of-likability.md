@@ -14,13 +14,17 @@ f_author: cms/authors/michelle-tillis-lederman.md
 f_category-3: cms/summary-categories/effective-communication.md
 f_team-2: cms/team/jill-donahue.md
 f_big-idea: ''
-f_quote-reference: ''
+f_quote-reference: '- The 11 Laws of Likability, page 4'
 f_insight-2: ''
 f_insight-1: ''
 f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/0814416373/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  …here is the essential truth about meaningful connections: It’s not about you
+  – it’s about the relationship."
+                  - The 11 Laws of Likability, page 4
 ---
 
 > "…here is the essential truth about meaningful connections: It’s not about you – it’s about the relationship." _\- The 11 Laws of Likability, page 4_

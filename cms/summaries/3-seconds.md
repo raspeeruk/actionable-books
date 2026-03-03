@@ -43,7 +43,7 @@ f_big-idea: >-
   which to make educated decisions that resonate in harmony with our core
   values. The same framework gives us an easily understandable way in which to
   explain our decisions as well.
-f_quote-reference: ''
+f_quote-reference: '- 3 Seconds, page 13'
 f_insight-2: >-
   ### Frame of Reference
 
@@ -109,6 +109,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0310272491/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  3 seconds stands between those who settle for ‘whatever’, and those who settle
+  for nothing less than ‘whatever it takes.’
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/09/ActionableBooks-Audio-3-Seconds.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/09/ActionableBooks-Audio-3-Seconds.mp3)

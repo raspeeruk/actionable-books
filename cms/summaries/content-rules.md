@@ -38,7 +38,7 @@ f_big-idea: >-
   experts in their field while developing know, like and trust with their
   audience. These days business is about more than just the monetary transaction
   and Handley and Chapman urge businesses to embrace the change.
-f_quote-reference: ''
+f_quote-reference: '- Content Rules, page xviii'
 f_insight-2: >-
   ### Listen and Learn
 
@@ -106,6 +106,11 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/0470648287/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  …creating and delivering relevant, valuable information to people will drive
+  new business to you. Figuring out what your prospective customers are
+  interested in, creating stuff that meets those needs and delivering it to them
+  is what you need to do.
 ---
 
 _“The inherent tension in marketing is that companies always want to talk about themselves and what their products or services can do. Everyone else, meanwhile, wants to know only what those products or services can do_ for them_.”_

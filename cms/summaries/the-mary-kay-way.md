@@ -35,7 +35,7 @@ f_big-idea: >-
   with. Yet, in the fast paced work environment where so many of us exist, it
   can be difficult to slow down long enough to remember to treat people
   properly. Here are a couple valuable suggestions from Ms. Ash herself…
-f_quote-reference: ''
+f_quote-reference: '- The Mary Kay Way, page 1'
 f_insight-2: >-
   ### Build your team
 
@@ -115,6 +115,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0470379952/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: Do unto others as you would have them do unto you.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/03/ActionableBooks-Audio-The-Mary-Kay-Way.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/03/ActionableBooks-Audio-The-Mary-Kay-Way.mp3)

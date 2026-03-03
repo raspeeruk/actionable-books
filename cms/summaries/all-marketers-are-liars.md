@@ -45,7 +45,7 @@ f_big-idea: >-
   telling a story that appeals specifically to them. Stories – specifically
   stories that connect on a personal level – are the fastest way to reach a new
   potential customer.
-f_quote-reference: ''
+f_quote-reference: '- All Marketers Are Liars, page 32'
 f_insight-2: >-
   ### Be sneeze-worthy
 
@@ -130,6 +130,9 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/B002BWQ57W/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Worldview is the term I use to refer to the rules, values, beliefs and biases
+  that an individual consumer brings to a situation.
 ---
 
 _All Marketers Are Liars_ is an aggressive title. It’s edgy. For some, it’s offensive. It’s Seth Godin’s way of making a point. He was lying when he named the title of the book (by his own admittance). But he gets your attention, doesn’t he? Godin’s point is that when it comes to spreading ideas, facts matter very little compared to story. The truth is that all good marketers are good storytellers. They can create an image for you of how life could be and, in doing so, evoking emotions that make you more likely to want to purchase whatever they’re selling. But Some Marketers Are Good Storytellers isn’t a very catchy title. So it matters very little that _All Marketers Are Liars_ is an inaccurate title. It captured your attention by telling a story and tapping into preconceived notions already floating in your brain. Story trumps fact.

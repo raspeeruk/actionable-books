@@ -51,7 +51,7 @@ f_big-idea: >-
   slower than someone who can focus their attention on one task at a time. The
   true skill is in learning to operate effectively in our ADHD world and, in
   fact, to minimize the amount of time we spend multitasking.
-f_quote-reference: ''
+f_quote-reference: "- Rene Marois, Ph.D., Department of Psychology, Vanderbilt University,\_as quoted in The Myth of Multitasking, page 18"
 f_insight-2: >-
   ### Open for Business
 
@@ -123,6 +123,9 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/0470372257/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Our… research offers neurological evidence that the brain can not effectively
+  do two things at once.
 ---
 
 Multitasking has become a completely acceptable and, in fact, enviable skill of the 21st century. As Crenshaw points out in his book _The Myth of Multitasking_ however, multitasking is not only inefficient, it’s also humanly impossible.

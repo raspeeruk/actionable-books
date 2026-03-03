@@ -36,7 +36,7 @@ f_big-idea: >-
 
   Lasting success requires hard work. How much hard work? Oh, say… 10,000 hours
   worth.
-f_quote-reference: ''
+f_quote-reference: '- Outliers, page 129'
 f_insight-2: >-
   ### Avoiding Prison
 
@@ -107,6 +107,11 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0316017922/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  The lucky part was the unwillingness of the WASP firms to step into takeover
+  law. But that word luck fails to capture the work and the efforts and the
+  imagination and the acting on opportunities that might have been hidden and
+  not so obvious.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/01/ActionableBooks-Audio-Outliers.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/01/ActionableBooks-Audio-Outliers.mp3)

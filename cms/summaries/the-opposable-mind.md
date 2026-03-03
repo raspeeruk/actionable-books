@@ -71,7 +71,7 @@ f_big-idea: >-
 
   It is Martin’s belief that we can expand our own capacity for integrative
   thinking through constant experience and reflection.
-f_quote-reference: ''
+f_quote-reference: '- The Opposable Mind, page 9'
 f_insight-2: >-
   ### Get Messy
 
@@ -147,6 +147,12 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1422139778/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Integrative thinking shows us a way past the binary limits of either-or. It
+  shows us that there’s a way to integrate the advantages of one solution
+  without cancelling out the advantages of an alternative solution. Integrative
+  thinking affords us, in the words of the poet Wallace Stevens,  ‘the choice
+  not between, but of.’
 ---
 
 Think of a Rubik’s cube. Those who can complete one (i.e. put all the coloured tiles where they belong) will tell you that one of the keys to accomplishment is keeping all the other tiles in mind while focusing on completing a certain placement. It’s not simply a matter of completing one side to the exclusion of the others, but rather the process of building one side while maintaining or building the others as well. Author/professor Roger Martin explains this process to be “integrative thinking”; the ability to face constructively the tension of opposing ideas and, instead of choosing one at the expense of the other, generate a creative resolution of the tension in the form of a new idea that contains elements of the opposing ideas but is superior to each.

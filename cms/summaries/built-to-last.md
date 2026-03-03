@@ -42,7 +42,7 @@ f_big-idea: >-
   In short, ideology is king. “What,” “who,” and “how” lack purpose, direction,
   and clarity without “why.” Careful articulation and consistent application of
   “why” form the foundation of visionary companies.
-f_quote-reference: ''
+f_quote-reference: '- Built to Last, page 8'
 f_insight-2: >-
   ### Walk the Talk
 
@@ -125,6 +125,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0060516402/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Visionary companies do not ask, 'What should we value?' They ask, “What do we
+  actually value deep down to our toes?
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/11/AxctionableBooks-Audio-Built-to-Last1.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/11/AxctionableBooks-Audio-Built-to-Last1.mp3)

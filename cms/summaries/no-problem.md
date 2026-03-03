@@ -42,7 +42,7 @@ f_big-idea: >-
 
   If you find that rewording a challenge as “How to” is proving to be a
   challenge, here’s a couple tips on other ways to find the root of your issue…
-f_quote-reference: ''
+f_quote-reference: '- No Problem, page xxi'
 f_insight-2: >-
   ### Separation Anxiety
 
@@ -113,6 +113,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1425996019/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  When we are able to distinguish between problems, we can make better choices
+  about how to respond.
 ---
 
 _No Problem_ is about understanding, simplifying and resolving three fundamentally different categories of problem. Lowy defines those three as:

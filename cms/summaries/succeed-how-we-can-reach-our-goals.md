@@ -54,7 +54,7 @@ f_big-idea: >-
   their self-control reserve. Knowing this, we can plan ahead for these
   potential self-control traps and set-up a strategy such as If-Then plans to
   alleviate such bad influences.
-f_quote-reference: ''
+f_quote-reference: '- Succeed, page 194'
 f_insight-2: >-
   ### Focus on improvement not perfection
 
@@ -115,6 +115,12 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/B00475AYJG/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Use it or lose it. Your self-control muscle is just like the other muscles in
+  your body. When it doesn’t get much exercise it becomes weaker over time. But
+  when you give it regular workouts by putting it to good use, it will grow
+  stronger and stronger and better able to help you successfully reach your
+  goals.
 ---
 
 Who hasn’t set a New Year’s resolution at the beginning of the year, only to be disappointed a few weeks later at the difficulty and challenges involved in following through? We’d like to believe that this year will be different and we’ll be more committed and persevere through the temptations of skipping a workout or having that extra slice of stuffed pizza. Well, after reading Heidi Grant Halverson’s book, _Succeed: How We Can Reach Our Goals_, this time really can be different.

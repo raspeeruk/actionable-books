@@ -29,7 +29,7 @@ f_big-idea: >-
   office. You thrive on living and breathing the business you are building. It
   is a whole package deal. Your business is your life and your life is your
   business, and most entrepreneurs wouldn’t want it any other way.
-f_quote-reference: ''
+f_quote-reference: '- All In, page 245'
 f_insight-2: >-
   ### There is no work/life balance
 
@@ -90,6 +90,9 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/144342062X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Entrepreneurship isn’t a job; it’s an identity, a way of life, and a powerful
+  guiding instinct.
 ---
 
 To read a book by an author who lives in the same city as you brings with it an element of familiarity. Perhaps unwarranted, but somehow this physical proximity allows for a connection to be established right off the get go. You have something in common; you know many of the references or local haunts they mention in their work. This is not to say, however, that just because you don’t live in Calgary, Alberta, Canada, the city both Ms. Dickinson and I call home, that you shouldn’t read her book, _All In_. Quite the contrary, actually, as you hear her voice, resonating from the pages in a very down to earth, straight to the point style, it makes you feel that you have had coffee with her recently, wherever you call home.

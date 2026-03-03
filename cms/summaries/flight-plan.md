@@ -34,7 +34,7 @@ f_big-idea: >-
   it. Tracy highlights that this must be the same mindset that is required to
   ensure that we stay on track. Failure to draw out a plan may result in the
   eventual arrival at an unintended outcome, or worse, a full blown disaster.
-f_quote-reference: ''
+f_quote-reference: '- Flight Plan, page 4'
 f_insight-2: >-
   ### Take off at full throttle
 
@@ -99,6 +99,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1605092754/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: "In life you will be off course most of the time.\_ No matter how carefully you plan and organize in advance, your life will be a series of two steps forward and one step back."
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-Flight-Plan.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-Flight-Plan.mp3)

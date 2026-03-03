@@ -51,7 +51,7 @@ f_big-idea: >-
 
   Staying focused on not only your everyday tasks, but on the direction of your
   life is the key to getting better.
-f_quote-reference: ''
+f_quote-reference: '- Your Best Just Got Better, page 187'
 f_insight-2: >-
   ### If you can track it, you can change it
 
@@ -136,6 +136,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1118121988/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Do as much as you can, with as much of your focus as you can, toward
+  completion, in the next few minutes.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/06/ActionableBooks-Audio-Your-Best-Just-Got-Better.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/06/ActionableBooks-Audio-Your-Best-Just-Got-Better.mp3)

@@ -57,7 +57,7 @@ f_big-idea: >-
   shown to impair the processing of glucose, which produces immediate
   consequences for self-control – and, over the long term, a higher risk for
   diabetes.”
-f_quote-reference: ''
+f_quote-reference: '- Willpower, page 42'
 f_insight-2: >-
   ### Outsmarting Yourself
 
@@ -139,6 +139,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0143122231/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Chips and circuit boards are useless without a source of energy. So is the
+  brain.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/09/ActionableBooks-Audio-Willpower.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/09/ActionableBooks-Audio-Willpower.mp3)

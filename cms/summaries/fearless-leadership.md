@@ -65,7 +65,7 @@ f_big-idea: >-
 
   6.  Set the organisation goals as a priority. Don’t wander off into your own
   silos, but achieve alignment of team members with committed partnerships.
-f_quote-reference: ''
+f_quote-reference: '- Fearless Leadership, page 150'
 f_insight-2: >-
   ### The Five Levels of Alignment
 
@@ -164,6 +164,10 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0071624643/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  In the model of 100%-zero accountability, it does not matter what others
+  choose. Accountability is viewed as owning the problem or situation. It's
+  irrelevant who is to blame or what caused the problem.
 ---
 
 As aspiring leaders we must become aware of our internal strengths but also recognize our blind spots. Blind spots are hidden in people’s lives, we are completely unaware of this behaviour and its damaging effects on both ourselves and more importantly, to our coworkers and colleagues who are prudently aware of those things we can’t see ourselves. Dr. Loretta Milandro, author of _Fearless Leadership_, brilliantly describes ten blind spots within us all and provides insight into first recognizing this behaviour and then challenging ourselves to allow others to coach our behaviour around these blind spots.

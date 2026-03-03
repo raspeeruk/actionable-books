@@ -41,7 +41,7 @@ f_big-idea: >-
   that strategy, independently solving the inevitable obstacles that will arise
   along the way. As co-creators we win, faster and more thoroughly than our
   competitors.
-f_quote-reference: ''
+f_quote-reference: '- The New How, page 46'
 f_insight-2: >-
   ### Speak Up
 
@@ -115,6 +115,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0596156251/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Being a co-creator is a new way of characterizing yourself, one that lets you
+  focus on the value you can create, independent of the formal role you have.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/02/Actionable\_Books\_Audio\_-\_The\_New\_How.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/02/Actionable_Books_Audio_-_The_New_How.mp3)

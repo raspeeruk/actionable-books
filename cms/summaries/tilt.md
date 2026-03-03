@@ -34,7 +34,7 @@ f_big-idea: >-
   sustainable competitive advantage. You want to build a great team, but the
   team alone won’t make your company great. You need something more, some
   downstream activities that create value for existing and potential customers…
-f_quote-reference: ''
+f_quote-reference: '- Tilt, page 93'
 f_insight-2: >-
   ### Sharing your Knowledge
 
@@ -108,6 +108,10 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/1422187179/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  But when this account rep left to join the competition, the company realized
+  that its efforts had made the customers loyal to the frontline salespeople,
+  not to the company
 ---
 
 _“By now, your business knows what it takes to make and move stuff. The problem is, so does everybody else”_

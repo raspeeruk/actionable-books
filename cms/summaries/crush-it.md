@@ -41,7 +41,7 @@ f_big-idea: >-
   it or not, whether you’re conscious of it or not), the sooner you can start
   taking ownership for it and making sure the right message is being portrayed.
   There’s a couple key points that can help you do that effectively:
-f_quote-reference: ''
+f_quote-reference: '- Crush It, page 9'
 f_insight-2: >-
   ### Give ‘Em A Wagon To Jump On
 
@@ -113,6 +113,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0061914177/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: "Everyone - EVERYONE - needs to start thinking of themselves as a brand. \_It is no longer an option; it is a necessity."
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/04/ActionableBooks-Audio-Crush-It.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/04/ActionableBooks-Audio-Crush-It.mp3)

@@ -51,7 +51,7 @@ f_big-idea: >-
 
 
   So how do you avoid decline in the first place?
-f_quote-reference: ''
+f_quote-reference: '- How the Mighty Fall, page 89'
 f_insight-2: >-
   ### Stay humble
 
@@ -120,6 +120,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0977326411/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Stage 4 begins when an organization reacts to a downturn by lurching for a
+  silver bullet.
 ---
 
 Jim Collins’ (bestselling author of [**_Built to Last_**](http://actionablebooks.com/summaries/built-to-last/) and [**_Good to Great_**)](http://actionablebooks.com/summaries/good-to-great/) most recent product, a powerful little book called _How the Mighty Fall_ is an intriguing look into the Fortune 500 companies that had it all – a strong brand, global recognition and a seemingly immoveable presence on all the global stock exchanges. They had it, and then they lost it. In the recent past of our global economy, I can think of no better book to learn the secrets to their rapid descent from greatness. Secrets that, if learned from and remembered in our daily activity, may help to stave off our own eventual demise. In this book, as in most business books, the lessons are applicable to our individual lives as much as they are to business. They say that “art mimics life”. That may be true, but I would suggest that business mimics life pretty readily as well.

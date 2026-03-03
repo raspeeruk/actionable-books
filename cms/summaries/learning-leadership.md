@@ -51,7 +51,7 @@ f_big-idea: >-
 
 
   As the authors remind us: “The best leaders are the best learners.”
-f_quote-reference: ''
+f_quote-reference: '- Learning Leadership, page 49'
 f_insight-2: >-
   ### Connection conundrums
 
@@ -151,6 +151,11 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1119144280/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Learning is the master skill. When you fully engage in learning—when you throw
+  yourself wholeheartedly into experimenting, reflecting or getting
+  coaching—you’re going to experience improvement. When it comes to getting
+  great at leading or anything for that matter, you have to keep on learning.
 ---
 
 How many of us are told that they are not a leader and never could be, either because you lack charisma, or because you are introverted and don’t fit the preconceived, misconstrued model of the perfect leader. The authors of _Learning Leadership_ provide a model that gives profound guidance and self-coaching techniques for any of us to lead—starting right now. The focus is on the five fundamentals of exemplary leadership which are: believe you can, aspire to excel, challenge yourself, engage support and commit to becoming the best. These five fundamentals are discussed in individual chapters, but the most powerful aspect of this book is the self-coaching exercises included at the end of each chapter. Implementing these alone will drastically change your leadership skills.

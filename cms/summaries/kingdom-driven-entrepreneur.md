@@ -30,7 +30,7 @@ f_big-idea: >-
   customers. Entrepreneurship is a tool that can be used to challenge the
   strongholds some people may have such as limiting beliefs, procrastination and
   mediocre living.
-f_quote-reference: ''
+f_quote-reference: '- Kingdom Driven Entrepreneur, page 24'
 f_insight-2: >-
   ### You cannot do it alone!
 
@@ -96,6 +96,12 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/B009V61F1W/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  When we view our business through the lens of a change agent, the manner in
+  which we conduct business, embark upon collaborations, and create product or
+  service offerings become more strategic. Strategic because the end result of
+  everything we do as Kingdom Driven Entrepreneurs is to bring honor to God and
+  to bring transformation to those we serve through our businesses.
 ---
 
 Recently, I started taking yoga classes. As my yoga instructor focuses our breathing through the different poses, he gently weaves tiny bite-sized life lessons into his yoga instruction. He talks often about the flow of energy throughout the body; the attainment of your greatest self through compassion and spiritual awareness. The messages can be summed up into: **love**, **inner peace** and **working toward a greater purpose** rather than personal survival or the attainment of power.

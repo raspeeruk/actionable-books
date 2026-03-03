@@ -40,7 +40,7 @@ f_big-idea: >-
   else; so, I certainly want to make sure those ten people in my organization
   have better ideas than I do! And I can influence this by who I acquire, who I
   develop and who I deploy….where and when.
-f_quote-reference: ''
+f_quote-reference: '- Talent Mindset, page 13'
 f_insight-2: >-
   ### The Secret Sauce
 
@@ -132,6 +132,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0990866408/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  The people you surround yourself with in your organization make or break your
+  success
 ---
 
 Although _Talent Mindset: The Business Owner’s Guide to Building Bench Strength_ was written for business owners, the concepts are transferable to other types of “owned” businesses and lend themselves well to the talent challenges experienced by CEOs, Vice Presidents, Heads of HR and functional leaders within any organization. The realm of talent management is a fundamental focus point for HR and traditionally much of the responsibility rests on the shoulders of leaders in this function; however, Stacy Feiner has deliberately explained these topics in the language of business and not HR speak. The end of each chapter has a “Talent Insight” that serves as a little nugget you can pull and ponder from each section.

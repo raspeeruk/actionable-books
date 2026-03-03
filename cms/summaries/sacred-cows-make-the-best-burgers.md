@@ -41,7 +41,7 @@ f_big-idea: >-
   won’t help you nearly as much as a genuine desire to create a better solution.
   While experts thrive in a static environment, it’s those who think like
   beginners that will lead the charge into the future.
-f_quote-reference: ''
+f_quote-reference: '- Sacred Cows Make the Best Burgers, page 39'
 f_insight-2: >-
   ### Trainee Practice
 
@@ -149,6 +149,9 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/B000LP66SE/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  The key to keeping ahead in a changing environment is to think not like an
+  expert, but like a beginner.
 ---
 
 CHANGE. For most of us, change in a work context means more – more work, more uncertainty, more mistakes, more anxiety and a more emotionally-charged work environment. And for good reason! Change brings about times of flux. Times when the future is uncertain, and the payoff unknown. But here’s the ultimate truth – change is one of two things: either reactive or proactive. Change is not an option. It hasn’t been in over 25 years. Change is the lifeblood of your business. To keep ahead of the competition – both as an individual and as a part of an organization – you must be changing; as quickly and as intelligently as you can. Competition is fierce like never before. For those who resist change – those who feel the anxiety and uncertainty of change weighing down on them – these are unhappy times. Business landscapes are changing at breakneck speeds, and show no signs of slowing down. In fact, the rate of change seems to be speeding up.

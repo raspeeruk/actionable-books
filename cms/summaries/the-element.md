@@ -65,7 +65,7 @@ f_big-idea: >-
   Whether it becomes our full time career, or a recreational activity, Robinson
   believes passionately (as do I) that finding your Element and deliberately
   including it in your life will lead to a happier, fuller existence.
-f_quote-reference: ''
+f_quote-reference: '- The Element, page 43'
 f_insight-2: >-
   ### Find Your Tribe
 
@@ -133,6 +133,7 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/0143116738/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: "Howard Gardner has argued to wide acclaim that we have not one but multiple intelligences. \_They include linguistic, musical, mathematical, spatial, kinesthetic, interpersonal (relationships with others), and intra-personal (knowledge and understanding of the self) intelligence."
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2010/12/ActionableBooks-Audio-The-Element.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2010/12/ActionableBooks-Audio-The-Element.mp3)

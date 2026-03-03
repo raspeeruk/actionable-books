@@ -51,7 +51,7 @@ f_big-idea: >-
   traditional education system does a reasonably good job of teaching the first
   two types of education, it completely leaves off the third. Which leaves it up
   to us to educate ourselves.
-f_quote-reference: ''
+f_quote-reference: '- Conspiracy of the Rich, page 13'
 f_insight-2: >-
   ### SELL is Not a Four Letter Word
 
@@ -133,6 +133,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0446559806/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  In today's world, you can be an academic genius but still be a financial
+  imbecile.
 ---
 
 Fact: the vast majority of us have been trained to follow a very specific road map to our lives; go to school and get good grades so you can get a good job, buy a house, get married and have kids. Work hard at that good job so you can earn a promotion, buy a bigger house and send your kids to university so that they can get a good job, get married, have kids… and so on, as the cycle repeats itself. We do it almost on autopilot, going through the motions and pursuing that vague ideal of “happiness”. Has anyone ever bothered to stop and ask “WHY”? Who created this cycle, this rat race? And for what purpose?

@@ -44,7 +44,7 @@ f_big-idea: >-
 
   His theory is simple – invest in what you know, and know what you know
   extremely well. We can all take a lesson from his book.
-f_quote-reference: ''
+f_quote-reference: '- The Warren Buffett Way, page 26'
 f_insight-2: >-
   ### Avoid the Institutional Imperative
 
@@ -117,6 +117,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0471743674/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  ‘You are neither right nor wrong because the crowd disagrees with you,’ he
+  wrote. ‘You are  right because your data and reasoning are right.’
 ---
 
 Warren Buffett is considered by most to be the greatest investor of all time. Having started his foray into the investment world with $100 in 1957, he is now worth over 40 billion dollars, with major interests in Coca Cola and Gillette, to name a few. Not too shabby for the man from Tennessee. Perhaps what makes Buffett such an icon in the investment world is his laid back, down to earth approach to investing and life in general. While his memorable line, “there is nothing different between you and me” is often re-quoted with some irony, the truth of the matter is that his approach to investing is one we can all learn from, whether we choose to apply it to the world of finance or beyond.

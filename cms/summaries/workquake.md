@@ -44,7 +44,7 @@ f_big-idea: >-
   employees are – especially when times are tough. **Your _physical_ presence by
   the water cooler shows that you’re not hiding out** – you’re on the front
   lines just like them.
-f_quote-reference: ''
+f_quote-reference: '- WorkQuake, page 6'
 f_insight-2: >-
   ### Learn to Delegate
 
@@ -105,6 +105,11 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1610660226/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Many bosses believe employees who interact with them to get work done are
+  telepathic... because employees have learned that most bosses react adversely
+  when asked to clarify or explain the incoherent request or order they just
+  issued, most employees don't ask for any clarification or expectation...
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/04/ActionableBooks-Audio-WorkQuake.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/04/ActionableBooks-Audio-WorkQuake.mp3)

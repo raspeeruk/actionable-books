@@ -45,7 +45,7 @@ f_big-idea: >-
 
   4.  **The Crime of Outshining**: I must not expand to my full success because
   if I did it would outshine \_\_\_ and make him or her look bad.
-f_quote-reference: ''
+f_quote-reference: '- The Big Leap, page 17'
 f_insight-2: >-
   ### Locating Your Zone of Genius
 
@@ -141,6 +141,9 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/0061735361/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  There’s only one way to get through the fog of fear, and that’s to transform
+  it into the clarity of exhilaration.
 ---
 
 _“If I argue for my limitations, I get to keep them.”_

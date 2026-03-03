@@ -55,7 +55,7 @@ f_big-idea: >-
 
   The point of the email becomes clear from the beginning, with a brief
   explanation to follow.
-f_quote-reference: ''
+f_quote-reference: '- The Pyramid Principle, page 9'
 f_insight-2: >-
   ### Introduce Your Idea
 
@@ -159,6 +159,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/B000LWMRSK/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Controlling the sequence in which you present your ideas is the single most
+  important act necessary to clear writing.
 ---
 
 Have you ever read a document and wondered “what’s the point?” How often have you given up reading an email because it’s too long?

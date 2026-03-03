@@ -49,7 +49,7 @@ f_big-idea: >-
   to build more sustaining trust “by reshaping audience interactions”, create
   more impactful persuasive value, extend the influence of your efforts in
   social media and deploy new, more effective marketing tactics.
-f_quote-reference: ''
+f_quote-reference: '- The Age of Engage, pages 10-11'
 f_insight-2: >-
   ### In An Interactive, Social Marketplace, Voice Has Legs
 
@@ -122,6 +122,12 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0979802806/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  The Live Web offers small companies an advantage previously only found in
+  large companies, the ability to communicate with strangers, customers, and
+  partners no matter where they may be located…(it) drives us to reinvent our
+  organizational behavior, our product development process and design, our
+  partnerships, and of course, our marketing.
 ---
 
 Written from the platform of a consultant speaking to ‘old world corporations’ still dabbling with the repercussions and reverberating waves of change that the internet has wrought, _The Age of Engage_ by Denise Shiffman exhorts the reader who may be stuck in old paradigms to, essentially, wake up and embrace what she calls ‘The Live Web’, another term for the internet. The application of ‘the live web’ to all industries and any kind of business is a call to engage more purposefully with their customers and build deeper, more meaningful relationships with them. It’s a once in a millenium opportunity for business to minimize risk, bring more value and a stronger voice for all aspects of engagement with your customer.

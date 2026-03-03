@@ -62,7 +62,7 @@ f_big-idea: >-
   drift away from your heart’s desire. As long as you’re clear, confident, and
   at peace with your goal and the timeframe within which you will achieve it,
   riches will make their way to you.
-f_quote-reference: ''
+f_quote-reference: '- You Are a Badass at Making Money, page 101'
 f_insight-2: >-
   ### Investigate your BS… Then use it to scare the shit out of yourself
 
@@ -150,6 +150,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0735222975/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Vague aspirations lead to vague results; specific aspirations lead to kicking
+  ass.
 ---
 
 I’m broke. And before you ask, no, I don’t have an avocado toast addiction. I have a giant student loan that needs to get paid off ASAP, but I also really enjoy eating food and leaving my apartment and living my life. Unfortunately, this involves me spending money on things other than my debt.

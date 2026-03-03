@@ -32,7 +32,7 @@ f_big-idea: >-
 
 
   The animals tie in like this…
-f_quote-reference: ''
+f_quote-reference: '- Gung Ho!, page 54'
 f_insight-2: >-
   ### No Boss Beaver
 
@@ -101,6 +101,11 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/068815428X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Customers came right after the team members. The work of an organization is to
+  look after customers, but the reason the organization exists in the first
+  place is to serve the people who  work there, as well as the community they
+  live in.
 ---
 
 I really like well written business fables. In fact, the more of them I read, the more I like them. The messages are concise and easily remembered. The “story” element makes for a quick read. In simple terms, a good business fable has all the “sticky” elements that make a message last. _Gung Ho!_ by Ken Blanchard and Sheldon Bowles (of Raving Fans fame) is a shining example of a good fable at work.

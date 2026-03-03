@@ -35,7 +35,7 @@ f_big-idea: >-
   to get the full effect of the GTD approach. Having said that, the following
   are a couple quick things to keep in mind on a daily basis that can make a
   noticeable improvement:
-f_quote-reference: ''
+f_quote-reference: '- Making it All Work, Page 35'
 f_insight-2: >-
   ### Make Everyone Special
 
@@ -116,6 +116,10 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/0143116622/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  ...more often than not, it seems that people are having thoughts, though not
+  really thinking about what they’re thinking about – at least not in an
+  effective way that resolves, advances, or manages the content.
 ---
 
 In _Making it all Work_, the long awaited follow up to the national best seller, [_Getting Things Done_](https://www.actionablebooks.com/en-ca/summaries/getting-things-done/), author David Allen brings a whole new level of depth and clarity to the already wildly popular GTD model. As he puts it, _“what I teach is actually not a system but a systematic approach.” (Making it All Work_, page 17)

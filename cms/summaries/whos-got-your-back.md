@@ -66,7 +66,7 @@ f_big-idea: >-
 
 
   So how do we establish these kinds of relationships?
-f_quote-reference: ''
+f_quote-reference: '- Who’s Got Your Back, page 10'
 f_insight-2: >-
   ### Sparring to Lose
 
@@ -143,6 +143,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0385521332/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Behind every great leader, at the base of every great tale of success, you
+  will find an indispensable circle of trusted advisors, mentors and colleagues.
 ---
 
 There’s a lie in popular society today, a lie that we embrace and endure because it’s sexy, inspiring and makes for a great story. It’s a lie epitomized in the likes of Steve Jobs, Martha Stewart, Richard Branson, Bono and virtually every other great name of our time. We look at these leaders, these captains of industry and we see individualism. We celebrate the “lone ranger”, the maverick who apparently went solo and overcame all obstacles to achieve wild success. Those who show weaknesses _are_ weak, and those who look to others for support and guidance are lesser people. Right?

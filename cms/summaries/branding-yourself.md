@@ -39,7 +39,7 @@ f_big-idea: >-
   idea of self-promotion, it is important to realize that **self-promotion is
   really just another way of telling our story to the world**, and keeping our
   contacts updated on what is going on in our lives.
-f_quote-reference: ''
+f_quote-reference: '- Branding Yourself, page 6'
 f_insight-2: >-
   ### Let your personality shine through
 
@@ -109,6 +109,10 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0789749726/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  ...but if you want to make a name for yourself, establish a good reputation,
+  finally get that corner office, or even own your own successful business, you
+  need to promote yourself.
 ---
 
 Did you know that there is a continuous party going on right now? It’s never-ending, and provides unlimited opportunities to connect, share and grow. **Welcome to the world of social media, where you have the chance to make your dreams come true**, all detailed in _Branding Yourself: How to Use Social Media to Invent or Reinvent Yourself_ by Erik Deckers and Kyle Lacey.

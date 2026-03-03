@@ -63,7 +63,7 @@ f_big-idea: >-
   In the business world, we call this expectations market “The Stock Market”.
   And, as Martin brilliantly illustrates, the business world could do with some
   of the legislation that the professional football world has adopted.
-f_quote-reference: ''
+f_quote-reference: '- Fixing the Game, page 34'
 f_insight-2: >-
   ### Who are you trying to impress?
 
@@ -149,6 +149,10 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1422171647/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  In short, a real-market orientation creates individual and societal good,
+  while an expectations orientation creates a downward spiral that threatens
+  both individual well-being and the health of our economy.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/08/ActionableBooks-Audio-Fixing-the-Game.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/08/ActionableBooks-Audio-Fixing-the-Game.mp3)

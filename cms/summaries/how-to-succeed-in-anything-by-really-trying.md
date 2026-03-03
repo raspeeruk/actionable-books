@@ -33,7 +33,7 @@ f_big-idea: >-
   ‘A’s that he mentions: Ability, Ambition and Attitude. His reminders allow us
   to refocus. His tips and suggestions help us grow. And his insights allow us
   to realize that maybe not everything is as big a deal as it seems.
-f_quote-reference: ''
+f_quote-reference: '- How to Succeed in Anything by Really Trying, page 59'
 f_insight-2: >-
   ### The Fountain of Youth
 
@@ -80,6 +80,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/B00338076S/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: "...the three A’s of a career are Ability, Ambition, and Attitude. \_… ability earns you your paycheque, ambition gets you your raises, and attitude usually determines the amount of both."
 ---
 
 No matter how common “common sense” may be, we all need reminders if its validity every now and then. Thankfully when it comes to the basics of living successfully, author Lyman MacInnis has compiled 31 refreshers for us. He’s personalized it, added some new insight, and conveniently bundled it all up into 212 pages titled _How to Succeed in Anything by Really Trying_.

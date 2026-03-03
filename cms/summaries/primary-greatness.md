@@ -34,7 +34,7 @@ f_big-idea: >-
   Since Primary Greatness is based on our character, those core principles act
   as our guiding compass. No matter what we face throughout our lives, our
   decisions should leverage those principles in order to guide our decisions.
-f_quote-reference: ''
+f_quote-reference: '- Primary Greatness, page 13'
 f_insight-2: >-
   ### How to Align Yourself to Principles
 
@@ -108,6 +108,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1501106570/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Character, what you are, is ultimately more important than competence, what
+  you can do.
 ---
 
 What does greatness mean to you? I bet each of us would answer that question differently. _Primary Greatness_ is by the late, great Stephen R. Covey. This book is a collection of some of Dr. Covey’s essays and articles that aren’t as well known and haven’t appeared in book form until now.

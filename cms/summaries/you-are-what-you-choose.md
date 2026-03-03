@@ -52,7 +52,7 @@ f_big-idea: >-
 
   Uncovering where an individuals falls within a TRAIT’s spectrum can lead to
   developing a model that predicts the choices each individual will make.
-f_quote-reference: ''
+f_quote-reference: '- You Are What You Choose, page 30'
 f_insight-2: >-
   ### Using Traits to Predict Choices
 
@@ -130,6 +130,10 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/1591842867/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  We believe that habits of the mind that people use to make decisions is
+  essentially the same across many types of choices, reflecting what they value
+  and how they reach decisions
 ---
 
 “_The approach most social scientists rely on in studying human choice doesn’t hold up.”_

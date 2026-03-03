@@ -41,7 +41,7 @@ f_big-idea: >-
   existing MP3 players but it was different; different enough to get people to
   sit up and take notice. _Purple Cow_ is about being wildly different in a way
   that perfectly appeals to a unique section of the population.
-f_quote-reference: ''
+f_quote-reference: '- Purple Cow, page 67'
 f_insight-2: >-
   ### Why not?
 
@@ -107,6 +107,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1591843170/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: …this is not a discussion about quality at all.
 ---
 
 The concept behind _Purple Cow_ came from author Seth Godin’s family trip to France many years ago. For the first twenty minutes of their drive through the countryside, the whole family were struck by the beauty of the landscape and the magnificence of the countless brown and white cows that dotted the countryside. Within twenty minutes, however, the cows became part of the background, never worth mentioning again. Even the “best” brown cow they may have seen later in the trip was not worth mentioning. BUT. As Godin suggests, had they suddenly driven by a purple cow… that would have been worth talking about.

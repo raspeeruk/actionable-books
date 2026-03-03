@@ -37,7 +37,7 @@ f_big-idea: >-
 
   There are six fundamental principles to creating a blue ocean strategy, the
   first two of which are explained in the following Insights.
-f_quote-reference: ''
+f_quote-reference: '- Blue Ocean Strategy, page 4'
 f_insight-2: >-
   ### Focus On the Big Picture, Not the Numbers
 
@@ -247,6 +247,11 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1591396190/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Blue oceans, in contrast, are defined by untapped market space, demand
+  creation, and the opportunity for highly profitable growth. Although some blue
+  oceans are created well beyond existing industry boundaries, most are created
+  within red oceans by expanding existing boundaries, as Cirque du Soleil did.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/11/ActionableBooks-Audio-Blue-Ocean-Strategy.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/11/ActionableBooks-Audio-Blue-Ocean-Strategy.mp3)

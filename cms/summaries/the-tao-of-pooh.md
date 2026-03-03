@@ -65,7 +65,7 @@ f_big-idea: >-
   then great – at it. Soon you’ll build excitement and buzz, people will take
   notice, follow you, rave about you and trip over themselves to be part of your
   tribe.
-f_quote-reference: ''
+f_quote-reference: '- The Tao of Pooh, page 12 & 20'
 f_insight-2: >-
   ### Go
 
@@ -147,6 +147,14 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/014095144X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  No matter how he may seem to others, especially to those fooled by
+  appearances, Pooh, the Uncarved Block, is able to accomplish what he does
+  because he is simpleminded. As any old Taoist walking out of the woods can
+  tell you, simpleminded does not necessarily mean stupid…When you discard
+  arrogance, complexity, and a few other things that get in the way, sooner or
+  later you will discover that simple childlike and mysterious secret known to
+  those of the Uncarved Block…
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2010/12/ActionableBooks-Audio-The-Tao-of-Pooh.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2010/12/ActionableBooks-Audio-The-Tao-of-Pooh.mp3)

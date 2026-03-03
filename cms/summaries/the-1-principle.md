@@ -42,7 +42,7 @@ f_big-idea: >-
   It could be, for example, to go for two ten-minute walks twice a week or
   phoning up about a class you are interested in. In other words, stuff that is
   probably on your to-do list.
-f_quote-reference: ''
+f_quote-reference: '- The 1% Principle, page 1'
 f_insight-2: >-
   ### Moment making
 
@@ -126,6 +126,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1775540235/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  The vast majority of people spend more time planning their wedding day or
+  buying a second-hand car than they do planning their life and their career.
 ---
 
 Like many busy people, I am always looking at ways that I can move forward in a time efficient way, so I was keen to summarize Tom O’Neil’s _The 1% Principle: How Small Steps Can Dramatically Improve Your Life and Potential_ to see if it would give me the tools and impetus to adopt some of the strategies he recommends.

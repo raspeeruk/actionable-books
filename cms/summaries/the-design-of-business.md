@@ -37,7 +37,7 @@ f_big-idea: >-
   designers day. For the rest of us, though, we need to realize the importance
   of embracing this style of thinking and incorporating it into our daily
   functions. We need to proactively work to embrace our innovative tendencies.
-f_quote-reference: ''
+f_quote-reference: '- The Design of Business, page 25'
 f_insight-2: >-
   ### Ask the Right Question
 
@@ -86,6 +86,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1422177807/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  At the time a heuristic is first tentatively proposed, no one can prove
+  whether it is useful or valid at all.
 ---
 
 

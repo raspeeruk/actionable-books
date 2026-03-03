@@ -60,7 +60,7 @@ f_big-idea: >-
 
   For the sake of our sense of self, and for the good of our careers and our
   companies, we need to engage in more great work. So how do we do that?
-f_quote-reference: ''
+f_quote-reference: '- Do More Great Work, page 13'
 f_insight-2: >-
   ### When You Can't Say No
 
@@ -171,6 +171,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0761156445/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  When I say 'Great Work,' I'm not talking about a standard of delivery. I'm
+  talking about a standard of impact and meaning.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/06/ActionableBooks-Audio-Do-More-Great-Work.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/06/ActionableBooks-Audio-Do-More-Great-Work.mp3)

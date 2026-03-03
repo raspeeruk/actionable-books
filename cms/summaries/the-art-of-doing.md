@@ -33,7 +33,9 @@ f_big-idea: >-
   Centre Towers, but always central to their method was this unrelenting
   dedication to do whatever it takes “to overcome the day-to-day struggle for
   achievement.”
-f_quote-reference: ''
+f_quote-reference: >-
+  - Constance Rice (civil rights lawyer and activist), as quoted in The Art of
+  Doing, page 97
 f_insight-2: >-
   ### Prepare, prepare, prepare
 
@@ -95,6 +97,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/B008EXK6MM/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Okay, this is how life is. Now, how should it be? And go out and make that
+  happen.
 ---
 
 Can you imagine being called a superachiever? Capes and lightning bolts immediately came to my mind when I heard the term. However, the authors do not shy away from bestowing this title to a myriad of interesting people featured in this book. I soon discovered that the moniker fits and the 36 people we meet in this book have indeed accomplished some completely superachievements.

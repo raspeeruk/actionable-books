@@ -41,7 +41,7 @@ f_big-idea: >-
   you’re a client looking for a supplier, go to the experts you know. And, if
   you’re the supplier, build a reputation of knowing your stuff, then get to
   know your clients.
-f_quote-reference: ''
+f_quote-reference: '- UnMarketing, page 93-4'
 f_insight-2: >-
   ### Where’s your focus?
 
@@ -122,6 +122,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/047061787X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  It’s not just knowledge people buy from you, it’s the application of the
+  knowledge for their specific situation.
 ---
 
 If you buy _UnMarketing_ (on sale today – September 7th) through Amazon.ca, it’ll cost you $18.77. Which begs the question why I paid $63 to read it.

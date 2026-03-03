@@ -48,7 +48,7 @@ f_big-idea: >-
   recommendations on products and services? Our friends and family. Keep in mind
   the _“ultimate goal of expanding the boundaries of delightful extremes”_ (page
   140) and you’ll have a winner every time.
-f_quote-reference: ''
+f_quote-reference: '- POW! Profiting from the Power of Surprise, page 19'
 f_insight-2: >-
   ### Keep those Surprises coming!
 
@@ -118,6 +118,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0470405503/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Putting faith in Surprise can turn yesterday’s fish-wrapped news into today’s
+  neon headlines
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2010/11/ActionableBooke-Audio-POW-by-Andy-Nulman.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2010/11/ActionableBooke-Audio-POW-by-Andy-Nulman.mp3)

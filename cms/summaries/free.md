@@ -36,7 +36,7 @@ f_big-idea: >-
   can monetize attention and reputation. Better still, he points to countless
   examples of companies that have done just that – monetized attention through
   creative methods.
-f_quote-reference: ''
+f_quote-reference: '- Free, page 39'
 f_insight-2: >-
   ### Embrace a Max Strategy
 
@@ -121,6 +121,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/B0043RT912/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: Money was how we kept score.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/07/Actionabable-Books-Audio-Free.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/07/Actionabable-Books-Audio-Free.mp3)

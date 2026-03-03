@@ -31,7 +31,7 @@ f_big-idea: >-
   everything you do should be done with excellence and a sense of purpose.
   Life’s too short to be spent focused on the ultimately unimportant and
   mundane.
-f_quote-reference: ''
+f_quote-reference: '- Who Will Cry When You Die?, page 221'
 f_insight-2: >-
   ### The Personal Legacy Statement
 
@@ -80,6 +80,9 @@ f_conclusion: _“Too many of us die at twenty and are buried at eighty.”_
 f_amazon-url: 'https://www.amazon.com/dp/8179922324/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  One of the greatest lessons for living a highly fulfilling life is to rise
+  from a life spent chasing success to one dedicated to finding significance.
 ---
 
 _Who Will Cry When You Die?_ looks at life from a unique perspective. So many of us get caught up in what’s happened, what’s happening, or what might happen in the immediate future. _Who Will Cry When You Die?_ is a gentle reminder to look forward, to the end of your life, and imagine what you will want the “whole package” of your life to look like. It encourages us to ask not only “What did I accomplish?”, but also “What impact did I make?”, and “What am I leaving behind?”

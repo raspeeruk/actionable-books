@@ -62,7 +62,7 @@ f_big-idea: >-
   benefits, doing so reduces stress, provides focus and makes us more effective.
   He gives a 4 step process for setting limits on various areas of our life.
   Each limit should be considered a new habit to build into our lives.
-f_quote-reference: ''
+f_quote-reference: '- The Power of Less, page ix'
 f_insight-2: >-
   ### Follow the One Goal System
 
@@ -124,6 +124,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1848501161/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: "Simplicity boils down to two steps:\_1) Identify the essential,\_2) Eliminate the rest."
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/01/ActionableBooks-Audio-The-Power-of-Less-Babauta.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/01/ActionableBooks-Audio-The-Power-of-Less-Babauta.mp3)

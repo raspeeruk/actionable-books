@@ -59,7 +59,7 @@ f_big-idea: >-
   into play. If we fall behind, everyone will pay. So, a mental shift has to
   occur from, “It’s not my responsibility,” to “How can we make this better for
   everyone?” **How do we get from so-so, to good, to great work?**
-f_quote-reference: ''
+f_quote-reference: '- Great Work, page 3'
 f_insight-2: >-
   ### Act Differently
 
@@ -177,6 +177,7 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/B00D86G246/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: The role of a difference maker is available to everyone.
 ---
 
 At work, we just went through a massive software upgrade. With each of the upgrades more and more of our colleagues, physicians, nurses, everyone, fall further and further behind, despite the many man-hours devoted to training. At one of our Informatics Committee meetings, while discussing this issue, someone said, “If they aren’t opening their emails and reading the memos, that’s not our problem.” This is a situation David Sturt’s book, _Great Work_, asks us to focus on.

@@ -56,7 +56,7 @@ f_big-idea: >-
   people you work with. Think about and watch yourself interact with them. Are
   you using more “I” sentences, or do you listen and offer support? This is
   likely the voice you would fall back on in stressful situations.
-f_quote-reference: ''
+f_quote-reference: '- Own the Room, page 35'
 f_insight-2: >-
   ### Don’t copy. Create.
 
@@ -120,6 +120,10 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/1422183939/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  The challenge all individuals face is to adaptively use both voices: to speak
+  for yourself, your team, and your function and to know when to do the same for
+  others, their teams, and their functions
 ---
 
 _“Presence requires alignment between your mind, body, and words – to walk the talk, you need a simultaneous focus on all three levers: mental, skill, and physical”_

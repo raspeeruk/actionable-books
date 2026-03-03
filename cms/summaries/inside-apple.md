@@ -54,7 +54,7 @@ f_big-idea: >-
   how to improve it:** for example, if it’s you negotiating on your own behalf,
   how can you make yourself more productive or creative? How can you make
   yourself more valuable to a client or employer?
-f_quote-reference: ''
+f_quote-reference: '- Inside Apple, page 143'
 f_insight-2: >-
   ### Own Your Message
 
@@ -145,6 +145,12 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/145551215X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Time and again, Apple has made being fed at a special table part of its
+  business model, whether it is dealing with dinosaurs of old media in the
+  music, movie and publishing industries, partners in the telecommunications
+  world, or suppliers who provide it with raw materials to manufacture their
+  goods.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/01/ActionableBooks-Audio-Inside-Apple.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/01/ActionableBooks-Audio-Inside-Apple.mp3)

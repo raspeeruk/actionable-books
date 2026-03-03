@@ -62,7 +62,7 @@ f_big-idea: >-
   the way will be far less tempting. If you have a clear body image in mind,
   that extra slice of cheesecake will suddenly lose some of its appeal. Say no,
   by having a deeper yes.
-f_quote-reference: ''
+f_quote-reference: '- The Rhythm of Life, page 70'
 f_insight-2: >-
   ### A Thousand Wrong Answers
 
@@ -120,6 +120,7 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/0743265254/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: The only way to say no to anything is to have a deeper yes.
 ---
 
 Not all books deserve a second study. In some cases we can find one great lesson, and in the application of that lesson, we can grow as individuals beyond the teachings that book has to offer. Occasionally though, in some rare and wonderful cases, we find a book that plays more of a role than a “single lesson” text, and instead moves to a higher plane. That is to say, some books can be more of a guide on how to live our entire lives than a lesson on one particular aspect. _The Rhythm of Life_, in my opinion, is one such book. In [a previous summary](https://www.actionablebooks.com/summaries/the-rhythm-of-life-part-1/), we discussed the importance of taking time – ideally a day per week – to recharge and re-prioritize. This week’s thought, again from _The Rhythm of Life_, is about the other 6 days of the week, and how to ensure that they are filled with purpose, passion and fulfillment.

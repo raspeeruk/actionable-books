@@ -47,7 +47,7 @@ f_big-idea: >-
   down your dreams. It may sound silly, but I can assure you it’s going to be
   one of the best hours of your week. Here’s a couple other tips to help you out
   with the specifics…
-f_quote-reference: ''
+f_quote-reference: '- The Dream Manager, page 26'
 f_insight-2: >-
   ### Tag team dreams
 
@@ -96,6 +96,11 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1401303706/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  …people stop dreaming because they got caught up in the hustle and bustle of
+  surviving. And once we stop dreaming, we start to lead lives of quiet
+  desperation, and little by little the passion and energy begin to disappear
+  from our lives.
 ---
 
 What are your dreams? How often do you think about them? As children we all have dreams. Dreams of what we want to become, of what we want to have, of the places we want to go and the things we want to see. In many ways, our dreams define us – they speak to the impact we want to have on the world, and the life we want to lead. In his third book, _The Dream Manager_, Kelly explores the power of articulating and pursuing your dreams. To do so, he uses a fable about a janitorial company and its incredible transformation from a place of high turn-over and low company morale to one of the most sought after places to work in America. The message is simple, clear and timely: by acknowledging, sharing and working proactively to achieve our dreams, we enrich our own lives and the lives of those around us.

@@ -40,7 +40,7 @@ f_big-idea: >-
   driving force was never money. The motivation behind Google’s success has
   always been (and continues to be) curiosity, passion and a constant, never
   ending pursuit of a product that completely fills the needs of its audience.
-f_quote-reference: ''
+f_quote-reference: '- Planet Google, page 51'
 f_insight-2: >-
   ### Embrace the Critics (Some of Them, Anyway)
 
@@ -117,6 +117,10 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1416546960/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Mastering the entire Web interested them not because it offered the greatest
+  likelihood of future profits, which did not seem to be the case at all in
+  1998, but because it was an absorbing  technical challenge.
 ---
 
 In 1998, two Ph. D. students set out to change the world with a small startup company; a company we now know as Google. _Planet Google_ is a history and insight into the rapid rise of the global juggernaut, and the various challenges founders Sergey Brin and Larry Page have faced along the way.

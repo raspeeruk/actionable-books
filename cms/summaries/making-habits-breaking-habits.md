@@ -36,7 +36,7 @@ f_big-idea: >-
   possible to bend habits to your will — and become happier, more creative, and
   more productive.” And so, I stepped back from the dinner table and continued
   reading.
-f_quote-reference: ''
+f_quote-reference: '- Making Habits, Breaking Habits, page 190'
 f_insight-2: >-
   ### Breaking a bad habit requires a replacement habit
 
@@ -111,6 +111,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0738215988/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: Habit change isn’t a sprint; it’s a marathon.
 ---
 
 I began reading _Making Habit, Breaking Habits_ the Tuesday after a long weekend of overindulgence at the Thanksgiving table. Think turkey, pumpkin pie, mashed potatoes, and more pumpkin pie. I didn’t need anyone to tell me to get my eating habits back in check. How fortuitous that this book, by Jeremy Dean, about habits, was my next Actionable read.

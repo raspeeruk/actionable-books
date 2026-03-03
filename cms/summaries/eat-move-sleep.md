@@ -58,7 +58,7 @@ f_big-idea: >-
   At one year, none of the mice that exercised had died from natural causes. In
   contrast, all of the non-exercisers had died before the one-year mark.
   **Exercise simply alters the course of aging.** Start now!
-f_quote-reference: ''
+f_quote-reference: '- Eat Move Sleep, page 21'
 f_insight-2: >-
   ### Lose weight while you sleep!
 
@@ -163,6 +163,7 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/1939714001/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: 'On a global level, inactivity now kills more people than smoking.'
 ---
 
 _“The sum of your habits determines your life span.”_

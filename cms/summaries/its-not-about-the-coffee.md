@@ -38,7 +38,7 @@ f_big-idea: >-
   **Challenge**, **Crisis** and **Catastrophe**. Two out of the three, it turns
   out, are directly tied to the timeless balancing act of **Action** and
   **Thought**.
-f_quote-reference: ''
+f_quote-reference: '- It’s Not About the Coffee, page 123'
 f_insight-2: >-
   ### Creating Crisis
 
@@ -132,6 +132,11 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1591842727/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  The Greeks worshipped both Apollo, the god of reason, and Dionysus, the god of
+  the activity of life. The two forces have forever been linked in a paradox:
+  nothing happens unless you do  something, yet whatever you do needs to be
+  thoughtfully considered.
 ---
 
 In 1987, Howard Schultz took over Starbucks, a single location coffee house in Seattle, Washington. Over the next 20 years, in an industry fraught with competition and against all odds, Schultz built Starbucks into a global player: the most recognized and geographically stable coffee house in the world. For several consecutive years in the late 1990s and into the new millennium, Starbucks was opening a new location every single workday.

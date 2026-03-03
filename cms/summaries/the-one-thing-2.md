@@ -45,7 +45,7 @@ f_big-idea: >-
   What is your company’s ONE Thing? If you don’t know, then your company’s ONE
   Thing is to find out! **What if there was just one thing that could move you
   from ordinary to extraordinary?**
-f_quote-reference: ''
+f_quote-reference: '- The One Thing, page 13'
 f_insight-2: >-
   ### Easier or Unnecessary
 
@@ -156,6 +156,7 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/1885167776/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: 'When one thing, the right thing, is set in motion, it can topple many things.'
 ---
 
 _“The ONE Thing sits at the heart of success and is the starting point for achieving extraordinary results.”_

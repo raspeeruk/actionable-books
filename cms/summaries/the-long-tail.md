@@ -51,7 +51,7 @@ f_big-idea: >-
   people online worldwide, there’s a market for just about anything. All those
   markets are hiding under the Long Tail, and all of them are waiting for
   someone to capitalize on them. So long as you follow a couple golden rules…
-f_quote-reference: ''
+f_quote-reference: '- The Long Tail, page 88'
 f_insight-2: >-
   ### Whatever You Do, Do It Well
 
@@ -122,6 +122,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1401309666/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  That’s the root calculus of The Long Tail: The lower the costs of selling, the
+  more you can sell.
 ---
 
 

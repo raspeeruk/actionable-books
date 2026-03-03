@@ -53,7 +53,7 @@ f_big-idea: >-
   (most of them free) is levelling the playing field. For the first time in
   centuries, those with passion can compete with those with money. And they
   often win.
-f_quote-reference: ''
+f_quote-reference: '- Referencing Christopher S. Penn, Six Pixels of Separation, page 114'
 f_insight-2: >-
   ### Pick Your Battles
 
@@ -137,6 +137,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0446548227/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  He's taken his passion for the industry he serves and mixed it with his
+  interest in new media and expanded his job description.
 ---
 
 I had the pleasure of meeting Mitch Joel in Calgary a couple weeks ago backstage at The Art of Marketing. While I was chagrined at the fact I hadn’t read his book yet, I took the time to complement him on his accomplishments so far and let him know that _Six Pixels of Separation_ was next on my list. I laughed politely when he told me that _Six Pixels_ was the kind of book you would read, highlight, write in and reference for years to come. (I think a lot of authors would like to think that.) Having now completed the book I’m chagrined again, this time at having skepticism in his comment. He was absolutely right – _Six Pixels of Separation_ is so chock full of resources, checklists and references that I can guarantee it will be close at hand for years to come.

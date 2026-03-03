@@ -50,7 +50,7 @@ f_big-idea: >-
 
   The two following Insights will help you answer those questions and create a
   brand that will be remembered.
-f_quote-reference: ''
+f_quote-reference: '- Brand Real, page 30'
 f_insight-2: >-
   ### Stack Your Brand
 
@@ -149,6 +149,12 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/B0076YH5NS/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  How well a brand is retrieved from memory is a critically important factor
+  when you play the memory game. We forget about a lot of brands we encounter,
+  but that doesn’t mean they don’t get stored in memory. It just means they
+  aren’t top of mind. An effective brand is easy for us to store in memory and
+  hard to forget.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/05/ActionableBooks-Audio-Brand-Real.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/05/ActionableBooks-Audio-Brand-Real.mp3)

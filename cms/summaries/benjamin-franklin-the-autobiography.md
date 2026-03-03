@@ -36,7 +36,7 @@ f_big-idea: >-
   really mattered anyway. In his constant, daily determination to make himself
   and his world better, he accomplished more than most of us could ever imagine.
   And he did so with a sense of humility, service, and adventure.
-f_quote-reference: ''
+f_quote-reference: '- Benjamin Franklin: The Autobiography, page 90'
 f_insight-2: >-
   ### Social Insulation
 
@@ -107,6 +107,11 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1936594099/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  But on the whole, tho’ I never arrived at the Perfection I had been so
+  ambitious in obtaining, but fell far short of it, yet I was by the Endeavor a
+  better and happier Man than I otherwise should have been if I had not
+  attempted it
 ---
 
 One of the great icons of American history, Benjamin Franklin is a fascinating and timeless individual. Through the pages of his autobiography, he teaches the value of character, the satisfaction of constant improvement and basic financial lessons that are as applicable in today’s world as they were in the eighteenth century.

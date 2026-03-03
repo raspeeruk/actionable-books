@@ -42,7 +42,7 @@ f_big-idea: >-
 
 
   Where in the web should you start?
-f_quote-reference: ''
+f_quote-reference: '- Without Their Permission, page 39'
 f_insight-2: >-
   ### Find people who give a damn
 
@@ -150,6 +150,10 @@ f_conclusion: "The internet has opened up equal opportunity like nothing we’ve
 f_amazon-url: 'https://www.amazon.com/dp/1455520020/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  To be reading this book, thinking about how to use this great platform, the
+  Internet, to share your world-changing ideas, ideally from a comfortable seat
+  somewhere, is itself a great luxury.
 ---
 
 Let’s kick this party off with a Tweet from the co-founder of Reddit, Alexis Ohanian.

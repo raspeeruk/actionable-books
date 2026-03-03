@@ -32,7 +32,7 @@ f_big-idea: >-
   tell ourselves to excuse inaction. In each case, he shows us that while it’s
   easier to invoke the myth than do the work, **the solution** is to turn that
   around: do the work, and invoke the Muse – _you._
-f_quote-reference: ''
+f_quote-reference: '- The Myths of Creativity, pages 6 & 8'
 f_insight-2: >-
   ### Brainstorming Done Right is One of 8 Stages
 
@@ -233,6 +233,12 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/1118611144/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  [Harvard Business School professor Teresa] Amabile's assertion is that
+  creativity is influenced by four separate components: domain-relevant skills,
+  creativity-relevant processes, task motivation, and the surrounding social
+  environment….The final influencer, social environment, is the only component
+  that exists entirely outside the individual.
 ---
 
 _“We must rewrite the myths.”_

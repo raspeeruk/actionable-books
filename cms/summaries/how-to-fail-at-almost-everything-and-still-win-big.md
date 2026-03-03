@@ -33,7 +33,7 @@ f_big-idea: >-
   geek of computer games. In fact, Mr. Adams encourages us to **“invite failure,
   survive it, and even appreciate it, because failure always brings something of
   value with it.”**
-f_quote-reference: ''
+f_quote-reference: '- How to Fail at Almost Everything, page 16'
 f_insight-2: >-
   ### Passion is overrated
 
@@ -93,6 +93,9 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/1591846919/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Failure is where success likes to hide in plain sight. Everything you want out
+  of life is in that huge, bubbling vat of failure.
 ---
 
 I have always been a Dilbert ™ fan. Maybe it’s because professionally I consort with HR professionals, being one myself. That evil HR Director makes me laugh out loud every time. So, when I had the chance to read Scott Adams latest book offering, _How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life,_ I grabbed it and didn’t look back.

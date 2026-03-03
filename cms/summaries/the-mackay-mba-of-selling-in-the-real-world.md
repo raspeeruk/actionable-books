@@ -38,7 +38,7 @@ f_big-idea: >-
   to do. Vince Lombardi, legendary coach of the Green Bay Packers once said,
   “It’s not whether you get knocked down. It’s whether you get up again” and a
   hungry fighter always gets back up.
-f_quote-reference: ''
+f_quote-reference: '- Selling in the Real World, page 1'
 f_insight-2: >-
   ### Embrace failure and learn from it
 
@@ -122,6 +122,9 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/B005GSYYWQ/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  If I had to name only three traits that make a great sales representative,
+  they would be: hungry fighter, hungry fighter, hungry fighter.
 ---
 
 _“Look at yourself in the mirror. If you like what you see, capture the same positive energy every morning of your life.”_

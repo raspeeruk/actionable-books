@@ -38,7 +38,7 @@ f_big-idea: >-
   character, you trust them as an integral part of your life. That being said,
   if you value integrity as a redeeming quality in your heroes, who’s valuing
   integrity in you?
-f_quote-reference: ''
+f_quote-reference: '- Better, page 164'
 f_insight-2: >-
   ### Simple intention
 
@@ -101,6 +101,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0312427654/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  When someone comes to you for your expertise and your expertise has failed,
+  what do you have left? You only have your character to fall back on.
 ---
 
 _Better_, by Dr. Atul Gawande, doesn’t really fit the mold of “standard business or personal development book”. Known for his work in the field of medicine, Dr. Gawande is rapidly revealing himself to be a well respected business author (most recently having written The Checklist Manifesto: How to Get Things Right). Dr. Gawande is creating a niche, by tackling the issues of general medicine and paralleling them with issues existing in most other industries. In _Better_, Dr. Gawande talks specifically about performance and how – through three core requirements for success (diligence, doing right and ingenuity) – the medical field is setting new standards of performance.

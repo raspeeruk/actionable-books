@@ -126,7 +126,7 @@ f_big-idea: >-
 
 
   The appropriate leadership style is delegating.
-f_quote-reference: ''
+f_quote-reference: '- The One Minute Manager Builds High Performing Teams, page 15'
 f_insight-2: >-
   ### Empowerment
 
@@ -190,6 +190,7 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/0061741205/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: None of us is as smart as all of us.
 ---
 
 In order for an organization to function at a high level, the concept of teamwork and managing the people in the team is one of the most important keys to success.

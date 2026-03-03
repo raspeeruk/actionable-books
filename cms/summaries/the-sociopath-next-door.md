@@ -45,7 +45,7 @@ f_big-idea: >-
 
 
   **Like Bernie, the overwhelming majority chooses conscience.**
-f_quote-reference: ''
+f_quote-reference: '- The Sociopath Next Door, page 45'
 f_insight-2: >-
   ### Avoidance is your trump card
 
@@ -148,6 +148,10 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0767915828/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  I believe that all people of conscience should learn what the everyday
+  behavior of these people looks like, so they can recognize and deal
+  effectively with the morally weak and the ruthless.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-The-Sociopath-Next-Door.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-The-Sociopath-Next-Door.mp3)

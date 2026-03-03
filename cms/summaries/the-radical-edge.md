@@ -44,7 +44,7 @@ f_big-idea: >-
   Don’t “think you know” what’s about to happen. Slow down your thoughts for a
   moment and work to appreciate the idiosyncrasies that make the people, places
   and experiences around you one-of-a-kind.
-f_quote-reference: ''
+f_quote-reference: '- William “Pops” Maritime, as quoted in  The Radical Edge, page 22'
 f_insight-2: >-
   ### Your Impact
 
@@ -109,6 +109,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1427797935/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: 'The only way to change the world is to be fully in it, my young friend.'
 ---
 
 _The Radical Edge_ is my favourite type of book. As author Steve Farber writes in his introduction, “I’ve jumbled the made-up stuff with the ‘real’ to the point that I’m not even sure where the facts end and the fiction begins. But that’s what made writing it so damn fun.”

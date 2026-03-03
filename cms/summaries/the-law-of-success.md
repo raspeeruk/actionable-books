@@ -43,7 +43,7 @@ f_big-idea: >-
   without first using their imagination and having enthusiasm about what the
   future holds? **And is it possible to have a definite chief aim without the
   self-confidence that you can do whatever you put your mind to?**
-f_quote-reference: ''
+f_quote-reference: '- The Law of Success, page 81'
 f_insight-2: >-
   ### Surround yourself with people that won’t let you fail
 
@@ -106,6 +106,11 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/158542689X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  A thousand electric dry batteries, when properly organized and connected
+  together with wires, will produce enough power to run a good-sized piece of
+  machinery for several hours, but take those same cells singly, disconnected,
+  and not one of them would exert enough energy to turn the machinery over once.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-The-Law-of-Success.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-The-Law-of-Success.mp3)

@@ -55,7 +55,7 @@ f_big-idea: >-
   can be and just how small you must go to get there._”[  
 
   ](file:///C:/Users/Kim/Downloads/The%20ONE%20Thing%20Summary-%203rd%20draft%20.docx#_msocom_1)
-f_quote-reference: ''
+f_quote-reference: '- The ONE Thing, page 105'
 f_insight-2: >-
   ### Protect your time, nobody else will
 
@@ -150,6 +150,9 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/1885167776/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  One of the most empowering moments of my life came when I realized that life
+  is a question and how we live it is our answer.
 ---
 
 _“We sense intuitively that the path to more is through less but the question is, where to begin? From all that life had to offer, how do you choose? How do you make the best decisions possible, experience life at an extraordinary level, and never look back?”_

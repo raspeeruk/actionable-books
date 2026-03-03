@@ -53,7 +53,7 @@ f_big-idea: >-
 
 
   5\. Why have I chosen this life?
-f_quote-reference: ''
+f_quote-reference: '- The Good Struggle, page 53'
 f_insight-2: >-
   ### Bright Lines Guide the Path
 
@@ -172,6 +172,10 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1422191648/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  ...intellectual honesty about this world and its full implication for an
+  organization is the first, essential, inescapable step toward responsible,
+  successful leadership.
 ---
 
 As the world of business becomes increasingly complex and global, the roles of leadership changes accordingly to follow suit. In his new book, _The Good Struggle_, Joseph L. Badaracco explores the fundamentals of leadership in a world filled with increasing uncertainty and market pressures to perform.

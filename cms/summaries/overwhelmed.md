@@ -51,7 +51,7 @@ f_big-idea: >-
   leisure being up to me became clear. I had to deliberately choose it. As she
   quotes Carl Sandburg, “time is the coin of your life. You spend it. Do not
   allow others to spend it for you.”
-f_quote-reference: ''
+f_quote-reference: '- Overwhelmed, page 51'
 f_insight-2: >-
   ### Just 'be' in the moment
 
@@ -119,6 +119,10 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/B00D5TOGZS/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  The 'miracle of now' is to choose to do something with no other aim that it
+  refreshes the soul, or to choose to do nothing at all. To just BE and feel
+  fully alive.
 ---
 
 When I first picked up this book I had no time to read it. The school year was wrapping up which meant I had multiple kid related things to manage, I was in the middle of planning a vacation, had several blog related deadlines, an article submission due, my fridge broke, and my son came down with strep throat. Sound familiar?

@@ -38,7 +38,7 @@ f_big-idea: >-
   decision making, to be a benchmark for the choices you make in your company
   and your personal life. If you know it is the right thing, even in the face of
   adversity, you are following your internal compass.
-f_quote-reference: ''
+f_quote-reference: '- True North, page xxv'
 f_insight-2: >-
   ### Your life story defines your leadership
 
@@ -98,6 +98,10 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0787987514/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  The purpose of this book, True North, is to enable you to discover your
+  authentic leadership so that you can step up and lead while remaining true to
+  who you are.
 ---
 
 I like to hike. I try to get out to the nearby mountains at least once a week. One of the first things I was told upon joining a hiking group was that I needed to carry certain hiking gear: Bear spray, proper hiking boots, a whistle and a compass were all recommended.

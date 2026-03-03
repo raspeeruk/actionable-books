@@ -56,7 +56,7 @@ f_big-idea: >-
   employees – than they could possibly manage. Which is to say, the opportunity
   to find your dream job (and dream employee) is greater than ever. But it takes
   some planning.
-f_quote-reference: ''
+f_quote-reference: '- The Anti-Resume Revolution, page 52'
 f_insight-2: >-
   ### Be tangible
 
@@ -133,6 +133,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0557139554/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Don't just ambush HR managers' desks with resumes. Keep your search targeted,
+  and know what you're aiming for.
 ---
 
 _The Anti-Resume Revolutio_n, Angela Lussier’s entrance into the literary world, is a wonderful little book that touches on a major shift taking place in the work world today, the gist of which is this:

@@ -30,7 +30,7 @@ f_big-idea: >-
   be the scientist. In the face of adversity and challenge, we need to evaluate
   our goals and, if worth pursuing, tackle them with everything we have. The
   balance is to dream like a child and commit like a driven adult.
-f_quote-reference: ''
+f_quote-reference: '- The Last Lecture, page 79'
 f_insight-2: >-
   ### The clock is ticking…
 
@@ -92,6 +92,7 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/1401323251/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: Brick walls are there for a reason.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2010/11/The-Last-Lecture-audio.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2010/11/The-Last-Lecture-audio.mp3)

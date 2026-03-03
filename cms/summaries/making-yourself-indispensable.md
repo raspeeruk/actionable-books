@@ -65,7 +65,7 @@ f_big-idea: >-
   **Valuing others or disregarding others** – Indispensable people acknowledge
   others’ contributions while helping others grow and develop. Dispensable
   people are threatened by the growth and success of others.
-f_quote-reference: ''
+f_quote-reference: '- Making Yourself Indispensable, pages 19-20'
 f_insight-2: >-
   ### The power of taking ownership
 
@@ -162,6 +162,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/159184469X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  We make an infinite number of choices each day, but there are six fundamental
+  choices that will dictate our life experience.
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-Making-Yourself-Indispensable.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-Making-Yourself-Indispensable.mp3)

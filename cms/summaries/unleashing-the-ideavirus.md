@@ -57,7 +57,7 @@ f_big-idea: >-
   And ultimately, the spread of the idea through the hive can be affected by its
   Vector; that is, whether the idea thrives as it trickles from person to person
   in the hive, down the path of least resistance – and quickest acceptance.
-f_quote-reference: ''
+f_quote-reference: '- Unleashing the Ideavirus, page 14'
 f_insight-2: >-
   ### Bigger than Word of Mouth
 
@@ -134,6 +134,12 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0786887176/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  What’s an ideavirus? It’s a big idea that runs amok across the target
+  audience. It’s a fashionable idea that propagates through a section of the
+  population, teaching and changing and influencing everyone it touches. And in
+  our rapidly/instantly changing world, the art and science of building,
+  launching and profiting from ideaviruses is the next frontier.
 ---
 
 An indispensable item in the marketers arsenal, Seth Godin’s _Unleashing the Ideavirus_ is a follow-up to his wildly successful Permission Marketing. Evangelizing the concept of marketing your products and services only to the consumers who have given you permission to do so, _Unleashing the Ideavirus_ furnishes a solution to actually earning that permission in the first place.

@@ -32,7 +32,7 @@ f_big-idea: >-
   let ourselves believe to be fact. _Secrets of the Millionaire Mind_ is a book
   about re-writing that story; creating productive mental “files” that can be
   used to replace our current beliefs.
-f_quote-reference: ''
+f_quote-reference: '- Mark Twain, as quoted in Secrets of the Millionaire Mind, page 174'
 f_insight-2: >-
   ### Leaving Port, Anyway
 
@@ -96,6 +96,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0060763280/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  I’ve had thousands of problems in my life, most of which never actually
+  happened.
 ---
 
 Money is a wonderfully complex topic, one that raises a wide range of emotional responses. You’ve most likely heard the old adage that you should “never discuss money, politics, sex or religion when in a social setting”. Do you know why that is? The advice is based on the belief that we (in the broadest sense of the word) are so emotionally attached to our beliefs on all four subjects that discussing them in mixed company could easily lead to confrontation. Fair enough, most of us would probably agree with that. The real question though, is “when and how did we become so emotional about money?”

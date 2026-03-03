@@ -38,7 +38,7 @@ f_big-idea: >-
   relationships and, as we’ll discuss in insight #2, there are some wonderful
   advantages to having true relationships with your customers and employees,
   beyond a financial transaction.
-f_quote-reference: ''
+f_quote-reference: '- Start with WHY, page 28'
 f_insight-2: >-
   ### Find Your Tribe
 
@@ -105,6 +105,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1591842808/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: "I cannot dispute that manipulations work… But there are trade-offs.\_Not a single one of them breeds loyalty."
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/05/ActionableBooks-Audio-Start-with-WHY2.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/05/ActionableBooks-Audio-Start-with-WHY2.mp3)

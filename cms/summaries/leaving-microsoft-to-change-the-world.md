@@ -40,7 +40,7 @@ f_big-idea: >-
   your own way. Think “blue sky” with no limitations such as time, money or
   other resources. Imagine what is possible… then we’ll figure out a way to make
   it happen.
-f_quote-reference: ''
+f_quote-reference: "- Leaving Microsoft to Change the World,\_page 44"
 f_insight-2: >-
   ### It’s time
 
@@ -111,6 +111,9 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/B000OFOUJI/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  Right now what I need is to think about what would be possible, not all the
+  reasons I can’t make a change.
 ---
 
 I’m easily inspired. Tell me the story of an 8 year old that raises $1,000 for earthquake victims during a penny drive at her school and I’m inspired to make a donation. Introduce me to a teenager who broke his back in a drinking-and-driving incident and now tours high schools telling his story, and I’ll be inspired to share his message. But give me a book such as John Wood’s _Leaving Microsoft to Change the World_, and I’m inspired to actively participate in a movement that’s making a difference in the lives of those who need it most.

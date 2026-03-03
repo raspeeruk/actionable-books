@@ -37,7 +37,7 @@ f_big-idea: >-
   think more about the root cause and systemic issues that create this
   “sideways” scenario. A more critical look at my failures may present
   opportunities to avoid making the same mistakes in the future.
-f_quote-reference: ''
+f_quote-reference: '- Monday Morning Choices, page 89'
 f_insight-2: >-
   ### Optimism and Passion
 
@@ -76,6 +76,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/0061451916/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: "Successful people learn from failure.\_ In fact, most successful people fail faster and more often than the average person.\_ They learn from failure to become successful."
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-Monday-Morning-Choices.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-Monday-Morning-Choices.mp3)

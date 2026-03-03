@@ -35,7 +35,7 @@ f_big-idea: >-
   stores or companies, it was enough that they treated me well. They didn’t go
   overboard, and I didn’t even Tweet about my experience. But it went well, I
   was happy, and I will buy more from them in future.
-f_quote-reference: ''
+f_quote-reference: '- Nice Companies Finish First, page 156'
 f_insight-2: >-
   ### Be Nice, But Don’t Be Taken Advantage Of.
 
@@ -110,6 +110,9 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/113727915X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: >-
+  All you have to do is simply make sure you and your team treats each customer
+  one level above ‘crap’.
 ---
 
 Great news – you don’t have to be a jerk to get ahead in business. Even better news – if you are a jerk, it will do damage that can never be recovered from. Best news of all – nice guys finish first, after all. (And gals.)

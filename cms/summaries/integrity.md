@@ -48,7 +48,7 @@ f_big-idea: >-
   with the demands of reality (have integrity) and perform at our very best. The
   more clearly we analyze and understand that wake, the more quickly and
   precisely we can improve our character.
-f_quote-reference: ''
+f_quote-reference: '- Integrity, page 16'
 f_insight-2: >-
   ### The Choice
 
@@ -115,6 +115,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/006084969X/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: 'As a person goes through a company, he or she leaves a wake behind.'
 ---
 
 Most of us go through life believing we are good people. We don’t lie, we don’t cheat and we try to work hard. Most leaders are people who go the extra mile and do everything in their power to do the right thing. Yet every leader faces challenges, has things go wrong and suffers consequences of their decisions. Every leader has moments where they sit back and wonder how things could have possibly gone so wildly off base. I used to ask myself how I could care so much, work so hard and want to do good for others so badly and somehow have things still end up in a state of disaster. As many others feel, I felt like I was a good person with bad things happening to me. Then, I read _Integrity: the Courage to Meet the Demands of Reality_.

@@ -33,7 +33,7 @@ f_big-idea: >-
 
   Whatever it is you want out of your blog, design it with that mind and you’ll
   get the response you want.
-f_quote-reference: ''
+f_quote-reference: '- My Blog Traffic Sucks, chapter 2'
 f_insight-2: >-
   ### Guest posting is the #1 source of traffic
 
@@ -95,6 +95,7 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/B009WUKTXW/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: Traffic generation means nothing without conversions!
 ---
 
 _“…many sites are popular only because the owner worked hard to get attention.”_

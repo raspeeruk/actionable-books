@@ -51,7 +51,7 @@ f_big-idea: >-
   wealth. It has to do with being a person that people want to look up to. In
   The Leader Who Had No Title, Sharma shares some very practical tools on how to
   be that person.
-f_quote-reference: ''
+f_quote-reference: '- The Leader Who Had No Title, page 162'
 f_insight-2: >-
   ### Leadership Vocabulary
 
@@ -109,6 +109,7 @@ f_conclusion: >-
 f_amazon-url: 'https://www.amazon.com/dp/1439109125/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_quote-2: "The time to think about your legacy and how you want to be remembered is not on your last day, but now. \_That way you can live your life backward and make certain that you have a good ending."
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/03/ActionableBooks-Audio-The-Leader-Who-Had-No-Title.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/03/ActionableBooks-Audio-The-Leader-Who-Had-No-Title.mp3)
