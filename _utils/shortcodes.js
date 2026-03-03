@@ -1,4 +1,10 @@
-const Image = require("@11ty/eleventy-img");
+let Image;
+try {
+    Image = require("@11ty/eleventy-img");
+} catch (e) {
+    // eleventy-img/sharp not available — image shortcode will fall back to plain <img>
+    Image = null;
+}
 const path = require('path');
 const {formatPrice, ecommerceFormat, convertPrice} = require('./money/utils');
 const fetch = require('node-fetch');
@@ -146,6 +152,10 @@ module.exports = function (eleventyConfig) {
         if (!src.startsWith("http")) {
             src = "theme" + src;
         } else {
+            return `<img src="${src}" alt="${alt}" ${attributes}>`;
+        }
+
+        if (!Image) {
             return `<img src="${src}" alt="${alt}" ${attributes}>`;
         }
 
