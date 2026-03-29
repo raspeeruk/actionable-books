@@ -35,6 +35,18 @@ From I Will Teach You to Be Rich and Your Money or Your Life to The Simple Path 
 **[The 20 Best Marketing Books Every Marketer Should Read](/guides/best-marketing-books/)**
 Influence, Positioning, Breakthrough Advertising, $100M Offers, Contagious — the books that explain why people buy things, how ideas spread, and how to build marketing that produces results rather than impressions.
 
+**[Best Psychology Books: 15 Must-Reads That Explain Human Behaviour](/guides/best-psychology-books/)**
+Thinking Fast and Slow, Influence, The Power of Habit, The Body Keeps the Score — the books that actually explain why people think, feel, and behave the way they do. Essential reading for anyone who works with, sells to, or manages other human beings.
+
+**[Best History Books: 15 Essential Reads to Understand the World](/guides/best-history-books/)**
+Sapiens, Guns Germs and Steel, Band of Brothers, The Devil in the White City — history that reads like a thriller and permanently changes how you see the forces that shaped the present.
+
+**[Best Biographies: 15 Life Stories That Will Change How You Think](/guides/best-biography-books/)**
+Steve Jobs, Long Walk to Freedom, Alexander Hamilton, Born a Crime — the life stories that illuminate not just exceptional individuals but what separates ordinary lives from remarkable ones.
+
+**[Best Science Books: 15 Reads That Make Complex Ideas Simple](/guides/best-science-books/)**
+A Brief History of Time, The Gene, The Selfish Gene, The Demon-Haunted World — science writing that makes the most complex ideas in physics, genetics, and biology genuinely accessible without dumbing them down.
+
 ---
 
 Every book mentioned in these guides has a full summary available on Actionable Books. Read the key ideas, decide which books deserve your full attention, and spend your reading hours where they matter most.
