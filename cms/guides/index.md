@@ -23,6 +23,18 @@ Not self-help fluff — evidence-based, practical books that address mindset, ha
 **[How to Read More Books: 15 Strategies That Actually Work](/guides/how-to-read-more-books/)**
 Building a reading habit is more about removing friction than finding motivation. This guide covers the systems, environments, and mindsets that turn sporadic reading into a daily practice.
 
+**[The 15 Best Investing Books, Ranked by Actual Investors](/guides/best-investing-books/)**
+From The Intelligent Investor and The Psychology of Money to Security Analysis and When Genius Failed — the books that have shaped how serious investors actually think about markets, risk, and long-term wealth.
+
+**[The 20 Best Leadership Books That Actually Change How You Lead](/guides/best-leadership-books/)**
+High Output Management, Extreme Ownership, Radical Candor, The Culture Code — the books that produce real changes in how you manage people, build teams, and create organisations that outperform.
+
+**[15 Best Personal Finance Books That Will Change Your Relationship With Money](/guides/best-finance-books/)**
+From I Will Teach You to Be Rich and Your Money or Your Life to The Simple Path to Wealth and Die with Zero — the books that address both the mechanics and the psychology of building lasting financial security.
+
+**[The 20 Best Marketing Books Every Marketer Should Read](/guides/best-marketing-books/)**
+Influence, Positioning, Breakthrough Advertising, $100M Offers, Contagious — the books that explain why people buy things, how ideas spread, and how to build marketing that produces results rather than impressions.
+
 ---
 
 Every book mentioned in these guides has a full summary available on Actionable Books. Read the key ideas, decide which books deserve your full attention, and spend your reading hours where they matter most.
