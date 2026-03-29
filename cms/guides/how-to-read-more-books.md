@@ -137,6 +137,41 @@ Reading more is only worthwhile if you retain something from what you read. The 
 
 **Revisit your highlights.** Apps like Readwise automatically resurface highlights from books you've read on a spaced repetition schedule. For readers who use Kindle and take notes, it's one of the most effective retention tools available.
 
+## Recommended Books About Reading
+
+If you want to go deeper on the practice and pleasure of reading, these books are the best starting points.
+
+### How to Read a Book — Mortimer Adler and Charles Van Doren
+
+The definitive guide to reading at a higher level. Adler distinguishes four levels of reading — elementary, inspectional, analytical, and syntopical — and gives a precise method for getting the most from any serious book. If you want to read better, not just more, this is the book.
+
+[Buy How to Read a Book on Amazon](https://www.amazon.com/dp/0671212095?tag=actionableb08-20)
+
+### Atomic Habits — James Clear
+
+The best book on building any habit, including a reading habit. Clear's framework — make it obvious, attractive, easy, satisfying — applies directly to the strategies in this guide. If you want to understand *why* the 20-page minimum works, this book provides the science.
+
+[Buy Atomic Habits on Amazon](https://www.amazon.com/dp/0735211299?tag=actionableb08-20)
+
+### Deep Work — Cal Newport
+
+Reading at depth requires the same conditions as deep work: protected time, no distractions, full attention. Newport's framework for building a focused work practice applies equally to a serious reading practice. The two habits reinforce each other.
+
+[Buy Deep Work on Amazon](https://www.amazon.com/dp/0349411905?tag=actionableb08-20)
+
+### The Reading List — Joanna Cannon (ed.)
+
+An anthology of essays by writers and readers about the books that changed them. Less a how-to and more a love letter to reading — useful for remembering why you want to read more in the first place.
+
+[Buy The Reading List on Amazon](https://www.amazon.com/dp/0062982532?tag=actionableb08-20)
+
+### Proust and the Squid — Maryanne Wolf
+
+A neuroscientist's account of what happens in the brain when we read — and what we lose when we stop. The most persuasive argument for making deep reading a non-negotiable part of your life.
+
+[Buy Proust and the Squid on Amazon](https://www.amazon.com/dp/0060935464?tag=actionableb08-20)
+
+
 ---
 
 ## Frequently Asked Questions

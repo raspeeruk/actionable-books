@@ -19,11 +19,15 @@ Thiel's book is unlike anything else in the business canon. He argues that most 
 
 The book is short, dense with ideas, and deliberately provocative. You don't have to agree with all of it, but engaging seriously with Thiel's arguments will sharpen your thinking about markets, competition, and what "winning" in business actually means.
 
+[Buy Zero to One on Amazon](https://www.amazon.com/dp/0804139296?tag=actionableb08-20)
+
 ### The Lean Startup — Eric Ries
 
 **The key idea:** Startups should treat their assumptions as hypotheses to be tested, build minimum viable products to learn as fast as possible, and pivot based on validated learning rather than assumptions.
 
 Ries brought scientific rigour to the startup methodology — the build-measure-learn loop is now standard vocabulary in product development. The book's most valuable contribution is its insistence that the goal of an early startup is not to execute a plan but to find a plan worth executing. This requires a fundamentally different posture: curiosity over conviction.
+
+[Buy The Lean Startup on Amazon](https://www.amazon.com/dp/0307887898?tag=actionableb08-20)
 
 ### The E-Myth Revisited — Michael Gerber
 
@@ -31,17 +35,23 @@ Ries brought scientific rigour to the startup methodology — the build-measure-
 
 Gerber's distinction between the entrepreneur, the manager, and the technician inside every business owner is clarifying and uncomfortable in equal measure. The franchise model he proposes — document everything, systematise every function — is how small businesses become scalable businesses. Essential reading before you hire your first employee.
 
+[Buy The E-Myth Revisited on Amazon](https://www.amazon.com/dp/0887307280?tag=actionableb08-20)
+
 ### Traction — Gino Wickman
 
 **The key idea:** The Entrepreneurial Operating System (EOS) gives leadership teams a complete framework — vision, people, data, issues, processes, and traction — for building a focused, functional business.
 
 EOS has been adopted by thousands of companies for good reason: it's comprehensive, practical, and the quarterly planning rhythm it establishes creates accountability that most early-stage businesses lack. The "rocks" concept — the three to seven most important things to accomplish in the next ninety days — is alone worth the read.
 
+[Buy Traction on Amazon](https://www.amazon.com/dp/1936661837?tag=actionableb08-20)
+
 ### Lost and Founder — Rand Fishkin
 
 **The key idea:** An honest, uncomfortable account of what building a startup really looks like — the funding traps, the cofounder conflicts, the years of slow growth — from the founder of Moz.
 
 Fishkin's book is a corrective to the sanitised founder memoirs that skip the hard parts. He writes about raising venture capital and coming to regret it, about the emotional cost of being the face of a company during difficult times, and about the choices that haunt him. Every first-time founder should read it before taking outside money.
+
+[Buy Lost and Founder on Amazon](https://www.amazon.com/dp/0735213321?tag=actionableb08-20)
 
 ## Leadership and Management
 
@@ -53,11 +63,15 @@ Collins and his team spent five years researching eleven companies that made dra
 
 The Hedgehog Concept (the intersection of what you're passionate about, what you can be best in the world at, and what drives your economic engine) is one of the most useful strategy frameworks ever put to paper.
 
+[Buy Good to Great on Amazon](https://www.amazon.com/dp/0066620996?tag=actionableb08-20)
+
 ### The Hard Thing About Hard Things — Ben Horowitz
 
 **The key idea:** There are no formulas for the genuinely hard decisions in running a company — whether to lay people off, fire a friend, or sell when you're not sure you should. But there is wisdom in the hard-won experience of someone who has done all of it.
 
 Horowitz is blunt, funny, and refreshingly honest about what leading a company through near-death experiences actually feels like. His concept of "the Struggle" — the feeling that things might not work, that there's no answer — and his advice on how to lead through it, is among the most useful and honest things written about startup leadership.
+
+[Buy The Hard Thing About Hard Things on Amazon](https://www.amazon.com/dp/0062273205?tag=actionableb08-20)
 
 ### What Got You Here Won't Get You There — Marshall Goldsmith
 
@@ -65,17 +79,23 @@ Horowitz is blunt, funny, and refreshingly honest about what leading a company t
 
 Written for senior leaders and executives, Goldsmith's book is a reminder that technical and intellectual skills get you to a certain level — and then the limiting factor is almost always behavioural. His list of "transactional flaws" (adding too much value to every conversation, not listening, not acknowledging others) is embarrassingly recognisable for most high achievers.
 
+[Buy What Got You Here Won't Get You There on Amazon](https://www.amazon.com/dp/1401301304?tag=actionableb08-20)
+
 ### Leaders Eat Last — Simon Sinek
 
 **The key idea:** The best leaders prioritise the safety and wellbeing of their people above their own interests. Trust and cooperation — the conditions for a high-performing team — emerge from that commitment.
 
 Sinek's second book is richer and more rigorous than Start With Why. Drawing on anthropology, neuroscience, and military examples, he argues that the defining characteristic of great leadership is creating a "circle of safety" inside which people feel protected enough to take risks, collaborate openly, and give their best.
 
+[Buy Leaders Eat Last on Amazon](https://www.amazon.com/dp/1591848016?tag=actionableb08-20)
+
 ### Dare to Lead — Brené Brown
 
 **The key idea:** Vulnerability is not weakness — it's the birthplace of innovation, creativity, and change. Courageous leadership means showing up authentically and having the hard conversations, even when it's uncomfortable.
 
 Brown's research on shame, vulnerability, and connection translates directly to leadership contexts. Her framework of "rumbling with vulnerability" — staying present in difficult conversations rather than armoring up — is one of the most important things a manager can learn. Particularly valuable for leaders who default to certainty and control.
+
+[Buy Dare to Lead on Amazon](https://www.amazon.com/dp/0399592520?tag=actionableb08-20)
 
 <div class="guide-cta">
 <h3>Save Hours on Every Book</h3>
@@ -91,17 +111,23 @@ Brown's research on shame, vulnerability, and connection translates directly to 
 
 Voss's book transfers seamlessly from hostage negotiation to sales, hiring, vendor contracts, and any situation where two people want different things. "Tactical empathy," the mirroring technique, and the power of "no" as an opening rather than a closing are immediately usable skills. One of the few business books that improves with re-reading.
 
+[Buy Never Split the Difference on Amazon](https://www.amazon.com/dp/0062407805?tag=actionableb08-20)
+
 ### $100M Offers — Alex Hormozi
 
 **The key idea:** If you can't sell something, the problem is almost never the marketing — it's the offer. A "grand slam offer" is so good that people feel stupid saying no.
 
 Hormozi's book is raw, direct, and packed with frameworks for building irresistible offers. His value equation — dream outcome × perceived likelihood of achievement ÷ time delay × effort and sacrifice — is one of the most useful tools for diagnosing why a product isn't converting. Not subtle, but effective.
 
+[Buy $100M Offers on Amazon](https://www.amazon.com/dp/1737475715?tag=actionableb08-20)
+
 ### Start With Why — Simon Sinek
 
 **The key idea:** People don't buy what you do — they buy why you do it. The most inspiring companies and leaders communicate from the inside out, starting with purpose.
 
 The Golden Circle framework (Why → How → What) is Sinek's contribution to marketing and leadership thinking. The book argues that Apple, Martin Luther King, and the Wright Brothers succeeded by being crystal clear about their core belief before anything else. Useful for founders trying to articulate what their company stands for.
+
+[Buy Start With Why on Amazon](https://www.amazon.com/dp/1591846447?tag=actionableb08-20)
 
 ## Culture and Teams
 
@@ -111,11 +137,15 @@ The Golden Circle framework (Why → How → What) is Sinek's contribution to ma
 
 Collins and Porras studied eighteen exceptional companies over their entire histories and found a paradox at the centre of each: they were simultaneously deeply conservative about their core values and radically experimental about everything else. The "BHAG" (Big Hairy Audacious Goal) concept comes from this book.
 
+[Buy Built to Last on Amazon](https://www.amazon.com/dp/0060516402?tag=actionableb08-20)
+
 ### Shoe Dog — Phil Knight
 
 **The key idea:** A memoir from the founder of Nike that is one of the most honest and compulsive accounts of building a company from nothing.
 
 Knight writes about years of barely making payroll, of being perpetually on the verge of bankruptcy, of the relationships that made Nike possible. It's not a how-to book — it's closer to a novel. But for any founder who is in the middle of something genuinely hard, it's a reminder that the best companies were built through long stretches of uncertainty and doubt.
+
+[Buy Shoe Dog on Amazon](https://www.amazon.com/dp/1501135929?tag=actionableb08-20)
 
 ## Finance and Growth
 
@@ -125,11 +155,15 @@ Knight writes about years of barely making payroll, of being perpetually on the 
 
 Michalowicz's system is simple and surprisingly radical. Most small business owners pay everyone else first and hope there's something left. Profit First builds the discipline of profitability into the cash flow structure of the business from day one. Transformative for founders who have been growing revenue without growing profit.
 
+[Buy Profit First on Amazon](https://www.amazon.com/dp/073521414X?tag=actionableb08-20)
+
 ### The Millionaire Fastlane — MJ DeMarco
 
 **The key idea:** Most wealth-building advice puts you on the "slowlane" — a 40-year journey of saving and investing. The "fastlane" is building a scalable business that serves millions of people and creates value that can be exited.
 
 DeMarco's book is blunt about the mathematics of conventional financial advice and why it doesn't produce meaningful wealth in a reasonable timeframe. His CENTS framework (Control, Entry, Need, Time, Scale) is a practical filter for evaluating business ideas by their genuine wealth-creation potential.
+
+[Buy The Millionaire Fastlane on Amazon](https://www.amazon.com/dp/0984898708?tag=actionableb08-20)
 
 ### Thinking, Fast and Slow — Daniel Kahneman
 
@@ -137,11 +171,15 @@ DeMarco's book is blunt about the mathematics of conventional financial advice a
 
 Kahneman's Nobel Prize-winning research on cognitive biases and heuristics is essential for any business leader who makes consequential decisions under uncertainty. The sections on overconfidence, loss aversion, and planning fallacy are directly relevant to how founders misestimate their markets, timelines, and costs.
 
+[Buy Thinking, Fast and Slow on Amazon](https://www.amazon.com/dp/0374533555?tag=actionableb08-20)
+
 ### Thinking in Bets — Annie Duke
 
 **The key idea:** The quality of a decision and the quality of its outcome are not the same thing. Thinking in bets — as a professional poker player does — means evaluating decisions by the quality of the reasoning, not the result.
 
 Duke's book addresses one of the most corrosive habits in business: resulting, or judging a decision's quality by what happened afterwards. Great entrepreneurs make good decisions that sometimes produce bad outcomes, and bad decisions that sometimes produce good outcomes. Learning to separate process from outcome is how you improve.
+
+[Buy Thinking in Bets on Amazon](https://www.amazon.com/dp/0735216371?tag=actionableb08-20)
 
 ---
 
