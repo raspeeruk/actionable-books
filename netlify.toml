@@ -33,10 +33,76 @@ NODE_VERSION = "18.20.4"
   to = "/:splat"
   status = 301
 
+# Articles were renamed to summaries
+[[redirects]]
+  from = "/articles/*"
+  to = "/summaries/:splat"
+  status = 301
+
+# Double summaries prefix (broken internal links)
+[[redirects]]
+  from = "/summaries/summaries/*"
+  to = "/summaries/:splat"
+  status = 301
+
+# Dead sub-pages within summaries
+[[redirects]]
+  from = "/summaries/back-of-the-napkin/faces/"
+  to = "/summaries/back-of-the-napkin/"
+  status = 301
+
+[[redirects]]
+  from = "/summaries/back-of-the-napkin/five-ws/"
+  to = "/summaries/back-of-the-napkin/"
+  status = 301
+
+[[redirects]]
+  from = "/summaries/the-pinball-effect/tokyo_toronto/"
+  to = "/summaries/the-pinball-effect/"
+  status = 301
+
+# Video sub-sections (dead)
+[[redirects]]
+  from = "/summaries/videos/*"
+  to = "/summaries/"
+  status = 301
+
+[[redirects]]
+  from = "/videos/*"
+  to = "/blog/"
+  status = 301
+
 # Dead sections
+[[redirects]]
+  from = "/interviews/*"
+  to = "/blog/"
+  status = 301
+
 [[redirects]]
   from = "/news/*"
   to = "/blog/"
+  status = 301
+
+# Malformed author URLs (external URLs stored as paths)
+[[redirects]]
+  from = "/authors/www.*"
+  to = "/authors/"
+  status = 301
+
+# Old WordPress paths
+[[redirects]]
+  from = "/blog/categories/*"
+  to = "/blog/"
+  status = 301
+
+[[redirects]]
+  from = "/privacy-policy/"
+  to = "/about/"
+  status = 301
+
+[[redirects]]
+  from = "/assets/sitemap.xml/*"
+  to = "/sitemap.xml"
   status = 301
 
 [[redirects]]
