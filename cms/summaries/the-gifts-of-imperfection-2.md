@@ -9,7 +9,7 @@ f_image:
   url: /assets/external/65d780414df109592f03b933_imperfection.jpeg
   alt: The Gifts of Imperfection book cover
 f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-gifts-of-imperfection-2/'
-f_author-plain-text: Bren√© Brown
+f_author-plain-text: Brené Brown
 f_author: cms/authors/bren-c-brown.md
 f_category-3: cms/summary-categories/self-management.md
 f_team-2: cms/team/brittnei-gaudio.md

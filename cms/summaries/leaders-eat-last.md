@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_author-plain-text: Simon Sinek
 f_author: cms/authors/simon-sinek.md
 f_category-3: cms/summary-categories/leadership.md
-f_team-2: cms/team/jill-donahue.md
+f_team-2: "cms/team/chris-taylor.md"
 f_big-idea: >-
   ### Leader = parent?
 
@@ -129,76 +129,65 @@ f_quote-2: '"Customers will never love a company until the employees love it fir
 f_amazon-url: https://www.amazon.com/dp/1591845327/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
+f_original-url: "https://www.actionablebooks.com/en-ca/summaries/leaders-eat-last/"
 ---
 
-> "Customers will never love a company until the employees love it first." _\- Leaders Eat Last, page 177_
+_“It is not the genius at the top giving directions that makes people great. It is great people that make the guy at the top look like a genius.”_
 
-Think of a company you love to do business with. Do the employees love their jobs? I bet they do. Sadly only about 2 out of 10 people in the USA can say: “I love my job!” Simon Sinek teaches us that leaders who create environments that help the people love their jobs are rewarded with the most stable, innovative and high-performing companies in their industries.
+_–_ Leaders Eat Last_,_ page 18
 
-So how do we help them love their jobs? Simply create environments in which they can thrive Sinek says. This begs the question: in what type of environments do we thrive? Sinek looked to biology and anthropology for the answers. But I bet you can figure them out yourself. Think about it, you thrive when you:
+Five years after the release of his wildly successful _Start With Why_, Simon Sinek is back with his sophomoric book, _Leaders Eat Last._ It’s always with some trepidation that I pick up the follow up to any breakout success. After all, the bar’s been set pretty high.
 
-*   Feel trusted and have autonomy
-*   Trust those around you
-*   Feel that you belong
-*   Don’t fear losing your job
-*   Feel connected to the meaning in your work
-
-Ironically, few leaders nurture these things. In fact, it is far more common for company leaders to see people as commodities to be managed to help grow the numbers. He shows us that leaders who look after their people have people who look after the numbers. Leadership, he says, is about taking responsibility for lives and not numbers.
-
-You may already know of Simon Sinek. After all, his TED talk was very popular – the second most viewed talk in fact. His book [_Start With Why_](http://actionablebooks.com/summaries/start-with-why/) was fabulous and so I was anxious for his next book. _Leaders Eat Last_ did not disappoint. I had a hard time writing this summary, because my plate was too full! I had so many notes and dog-eared pages, it was hard to pick just three bites to share. But here is your amuse-bouche below; three ways to help your people love their jobs.
+Thankfully, _Leaders Eat Last_ doesn’t disappoint. In it, Sinek takes the best of what worked in _Start With Why_ – an aspirational message backed by neuro-science – and adds even more weight to his claims through dozens of case studies of both private and public companies. And what is that claim, you’re asking? Sinek’s message is that strong leadership is a **_biological imperative_** in any group situation. That there are specific attributes that human beings look for in a leader, and certain circumstances in which leadership is more natural for us. Here we go.
 
 ### The Big Idea
 
 The Big Idea: The biggest takeaway from the book
 
-### Leader = parent?
+### Real Status
 
-> "Everything about being a leader is like being a parent."- Leaders Eat Last, page 215
+> "Those who work hardest to help others succeed will be seen by the group as the leader or the ‘alpha’ of the group. And being the alpha – the strong, supportive one of the group, the one willing to sacrifice time and energy so that others may gain – is a prerequisite for leadership."- Leaders Eat Last, page 49
 
-What does he mean when he says everything about being a leader is like being a parent? Simon shares a story of a CEO watching a wedding ceremony who equated a father handing his daughter to her new husband to parents handing their children to their new boss. It sounded a bit patriarchal to me but the message stuck. There is an awesome responsibility that comes with leading a team.
+In so many organizations today, promotion to leadership positions is awarded to those who are good at _doing_. It’s always bothered me on a gut level – we take our best doers _out_ of the tasks they’re good at. We ask them to stop **doing** and start **managing**, often based on nothing more than their ability to **do**, well.
 
-Great leaders sacrifice their own comfort for the good of others. They commit to the wellbeing of those in their care and have a willingness to make sacrifices. And importantly, great leaders truly care about those entrusted to them. People feel that care and it helps them love their job!
+Sinek’s message is that the skills that make for a strong leader – a leader we want to follow – have little to do with their ability to complete tasks, and instead on other characteristics. Traits like **integrity** and **trust**.
 
-He shares five leadership lessons including:
+Sinek does a lot of work with the United States armed forces. Specifically, he works with (and takes leadership lessons from) the Marine Corp; one of the world’s most effective military forces.
 
-1) **So goes the culture, so goes the company** – create a Circle of Safety in your culture  
-2) **So goes the leader, so goes the company** – inspire rather than dictate  
-3) **Integrity matters** – leaders who tell the truth create a culture of people who tell the truth  
-4) **Friends matter** – a social animals we are most productive when we trust and cooperate  
-5) **Lead the people, not the numbers** – and the numbers will appear
+_“Unlike in the private sector, where being good at doing is often rewarded with a position of leading, in the Marines, leadership is also a matter of character – not just strength, intelligence or achievement.”_
+
+Leadership – **true leadership** – is the ability to infuse those who report to you with an unshakeable trust in your intentions. Giving them zero reason to believe you have anything than your people’s best interests in mind.
 
 ### Insight #1
 
 An actionable way to implement the Big Idea into your life
 
-### Meet the people you help
+### Your most precious resource
 
-> "Human beings have thrived for fifty thousand years not because we are driven to serve ourselves, but because we are inspired to serve others."- Leaders Eat Last, page 213
+> "We will judge a boss who spends time after hours to help us as more valuable than a boss who simply gives us a bonus when we hit a target."- Leaders Eat Last, page 119
 
-Biologically speaking, we are naturally cooperative animals that are more inspired and motivated when we feel like we are helping others. You may remember the studies Adam Grant shared on this in his book, [_Give and Take_](http://actionablebooks.com/summaries/give-and-take/). Unfortunately, only one percent of executives in a survey of thousands said they should bother showing employees the difference their work makes.
+Sinek provides example after example (both case studies and insight into how our brains process information) of how giving of your **time** is more effective – more impactful – than giving of your money.
 
-What a loss! As social animals we all want to see the positive impact from our time and effort. Have you ever had a product fail before launch, but you had invested a whole year getting it ready? When this happened to me I was left with a strange sense of emptiness the day they pulled the plug. Like what I was doing didn’t matter.
+It starts from how our brains quantify things. Money is too abstract for us to have an emotional connection to it. Of course we all like bonuses, and if you ask anyone if they’d like a $5000 bonus or a day learning one-on-one from their boss they’d be hard pressed not to say “show me the money”. And yet bonuses and raises do little to engender trust or strengthen relationships. By all means, give them the bonus. But do not mistake financial reward as a worthwhile replacement for time, energy and attention.
 
-When we work to “provide shareholder value” and are removed from the greater purpose of what our efforts contribute to, we do less and are less engaged. When leaders give us something noble to be a part of, offer us a compelling purpose or reason why we should come to work, people are happier and may even make sacrifices in their own short term comfort for the good of the cause.
+Time is concrete. Since we all have the same number of hours in the day, we appreciate the gift of time on a biological level. Sinek uses the example of packing up your house for a move: if one friend gave you $5000 towards a moving company and a second friend gave a day of their time to help you lug boxes, who do you feel closer to? To whom have you developed more loyalty?
 
-Let’s help our teams love their jobs by helping them see the impact of what they do. I work with pharmaceutical professionals. I derive great pleasure helping them focus on the fact that regardless of their role in the organization, each and every one of them is contributing in some way to better patient outcomes. I see them reconnect with why they chose pharma and watch them fall back in love with their jobs as they become more engaged and engaging! Focusing on the patient is not just good for them and good for business, more importantly, it is simply the right thing to do.
+If you want to develop your own leadership credibility, **give your people the gift of your time**; as much, and as often as you can.
 
 ### Insight #2
 
 An actionable way to implement the Big Idea into your life
 
-### Safety first
+### You gotta love it
 
-> "There are few feelings that human beings crave more than a sense of belonging… the feeling of being inside a Circle of Safety."- Leaders Eat Last, page 50
+> "Children are better off having a parent who works into the night in a job they love than a parent who works shorter hours but comes home unhappy."- Leaders Eat Last, page 32
 
-Do you work effectively when you don’t feel safe? Heck no! You spend too much energy protecting yourself. From the beginning of time, we’ve lived in a dangerous world. It used to be predators around the watering hole in the savannah and now it is predators around the water cooler in the office. We thrived in the past when we felt safe in our group; when we felt trusted and trusted those around us. And this holds true to today.
+If you’re unhappy in the way you spend your work day, it’s difficult to give of yourself to the level your people need. Children, spouses, co-workers and those who report to you are directly impacted by your own level of happiness. It has to do with our feelings of safety (what Sinek calls “The Circle of Safety”), which is to say that our stress levels and self-preservation tendencies go down when we find ourselves in an environment that we trust is built to protect us. When we feel that our leaders are happy, secure and working to protect the tribe **because they want to do it**, we focus our attention and energy on achieving for the good of the tribe.
 
-Simon studied successful teams and companies and discovered one important thing that they do differently than other teams. They trusted each other and felt safe. Great leaders create what Simon calls a Circle of Safety where everyone feels they belong.
+In practical terms, the lesson here is that it’s difficult to expect our teams to work towards a collective good if we’re spending a couple hours a day looking for another job. To be the most effective leaders we can be, we need to commit to being here. We need to find personal satisfaction in our roles and move our attention off our selves and onto the best interests of the people we lead. This may seem obvious for some, but it’s an important “self check” if we feel like those in our charge are self serving. They may be taking a lesson from the top.
 
-When people don’t have to worry about losing their job, their energies can be devoted to seizing opportunities. The Circle of Safety created by the leader extends to the team and nurtures stable, adaptive, confident teams. In return for creating the circle of safety, leaders have deeply loyal colleagues who give their all to advance the leader’s vision and organizational interests.
+_“‘The cost of leadership,’ explains Lieutenant General George Flynn of the United States Marine Corps, ‘is self-interest.’”_
 
-Simon reports on companies who put a focus on building their people instead of firing them. Turns out, even when offered bigger titles and bigger salaries, people would rather work at a place in which they feel they belong, have the opportunity to grow and feel a part of something bigger than themselves.
+I’m not typically one for military examples, sports examples, or other “lessons” to be learned from industries outside the business world. But when it comes to leadership and developing strong teams of people who trust each other (with their lives, no less), there are definitely things we can learn from the armed forces. And, as a relief, the biggest lesson I’ve taken from this book is that we don’t necessarily want to follow those who are smartest, toughest or most skilled. Instead, the most effective teams – in business and the military alike – are led by selfless leaders. Leaders whose best attributes are **trustworthiness** and **integrity**; individuals who put the needs of the group ahead of personal gain. (The irony, of course, is that these “team first” leaders end up with the largest personal gain. It’s a bi-product of good leadership though, not the objective.)
 
-Simon is striving to create a new generation of men and women who create success through leadership excellence instead of management acumen. And with the lessons he’s sharing, he’s making it easy to understand not just **why** we need to help people love their jobs, but **how** to do it and exactly **what** we need to do.
-
-_Do your people love their jobs? What one thing are you doing (or will you do) to help them? If you love your job, what is the most important thing leaders in your company do that contributes to this?_
+Establishing trust takes time. Building a reputation of integrity takes time. It’s not the fastest way to short term profits, and sadly that’s what derails so many potential leaders. But, if you’re working in a field you believe in and focus on the long term success of your people and your organization, leadership isn’t really that complicated. The ability to be a good leader is inherent to all of us.

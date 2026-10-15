@@ -1,0 +1,20 @@
+---
+permalink: /_redirects
+eleventyExcludeFromCollections: true
+---
+https://www.actionablebooks.com/* https://actionablebooks.com/:splat 301!
+{% for rule in library.redirects %}{{ rule | safe }}
+{% endfor %}
+/en-ca/summaries/* /summaries/:splat 301
+/en-ca/authors/* /authors/:splat 301
+/en-ca/team/* /team/:splat 301
+/en-ca/blog/* /blog/:splat 301
+/en-ca/summary-categories/* /summary-categories/:splat 301
+/en-ca/blog-category/* /blog-category/:splat 301
+/en-ca/ / 301
+/articles/* /summaries/:splat 301
+/summaries/summaries/* /summaries/:splat 301
+/summaries/back-of-the-napkin/faces/ /summaries/back-of-the-napkin/ 301
+/summaries/back-of-the-napkin/five-ws/ /summaries/back-of-the-napkin/ 301
+/summaries/the-pinball-effect/tokyo_toronto/ /summaries/the-pinball-effect/ 301
+/favicon.ico /assets/images/favicon.png 301

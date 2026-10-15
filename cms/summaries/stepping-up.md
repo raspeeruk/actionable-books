@@ -114,6 +114,7 @@ f_quote-2: >-
 f_amazon-url: 'https://www.amazon.com/dp/1609940571/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_author-plain-text: "John Izzo"
 ---
 
 > "Stepping up is seeing a need and deciding YOU are the right person to do something about it." _\- Stepping Up, page 5_

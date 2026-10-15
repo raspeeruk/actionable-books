@@ -163,6 +163,7 @@ f_quote-2: >-
 f_amazon-url: https://www.amazon.com/dp/1594485216/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
+f_original-url: "https://www.actionablebooks.com/en-ca/summaries/a-full-cup/"
 ---
 
 > "On his return to London, the papers began to refer to Sir Thomas Lipton not as a manufacturer, merchant, or sportsman, but as a celebrity." _\- A Full Cup, page 227_

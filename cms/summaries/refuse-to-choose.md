@@ -159,6 +159,7 @@ f_quote-2: >-
 f_amazon-url: 'https://www.amazon.com/dp/1594866260/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_author-plain-text: "Barbara Sher"
 ---
 
 > "Use ALL of your interests, passions, and hobbies to create the life and career of your dreams." _\- Refuse to Choose!, Book jacket_

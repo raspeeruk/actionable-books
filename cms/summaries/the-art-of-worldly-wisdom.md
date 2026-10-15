@@ -11,7 +11,7 @@ f_image:
 f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-art-of-worldly-wisdom/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/03/ActionableBooks-Audio-The-Art-of-Worldly-Wisdom.mp3
-f_author-plain-text: Baltasar Graci√°N
+f_author-plain-text: Baltasar Gracián
 f_author: cms/authors/baltasar-gracidegn.md
 f_category-3: cms/summary-categories/self-management.md
 f_team-2: cms/team/prashanth-gopalan.md

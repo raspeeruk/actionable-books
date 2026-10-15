@@ -1,0 +1,12 @@
+{% macro shelf(items) %}
+<ul class="book-grid">{% for book in items %}
+  <li><a class="book-card" href="{{ book.url }}" data-content-family="{{ book.family }}">
+    {% if book.image %}<span class="cover"><img src="{{ book.image }}" width="120" height="164" loading="lazy" decoding="async" alt=""></span>{% elif book.family == 'summaries' %}<span class="cover cover-missing" aria-hidden="true">{{ book.title }}</span>{% endif %}
+    <span class="book-card-title">{{ book.title }}</span>{% if book.authorName %}<span class="book-card-author">{{ book.authorName }}</span>{% endif %}
+    {% if book.family == 'blog' %}<span class="small">Article</span>{% endif %}
+  </a></li>
+{% endfor %}</ul>
+{% endmacro %}
+{% macro pagination(directory) %}
+{% if directory.previous or directory.next %}<nav class="pagination" aria-label="Archive pages">{% if directory.previous %}<a href="{{ directory.previous }}" rel="prev">← Previous page</a>{% endif %}<span>Page {{ directory.page }}</span>{% if directory.next %}<a href="{{ directory.next }}" rel="next">Next page →</a>{% endif %}</nav>{% endif %}
+{% endmacro %}

@@ -10,7 +10,7 @@ f_image:
   alt: The Pomodoro Technique Illustrated book cover
 f_original-url: >-
   https://www.actionablebooks.com/en-ca/summaries/the-pomodoro-technique-illustrated/
-f_author-plain-text: Staffan N√∂Teberg
+f_author-plain-text: Staffan Nöteberg
 f_author: cms/authors/staffan-nteberg.md
 f_category-3: cms/summary-categories/self-management.md
 f_team-2: cms/team/susan-gregory.md

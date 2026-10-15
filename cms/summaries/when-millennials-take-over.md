@@ -130,6 +130,7 @@ f_quote-2: >-
 f_amazon-url: 'https://www.amazon.com/dp/B00TG1D4IE/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_author-plain-text: "Jamie Notter and Maddie Grant"
 ---
 
 > "Millennials may not be the first generation to be frustrated with bureaucracy and hierarchy, but they are the first generation to have been given the tools, on a huge scale, to get around them." _\- When Millennials Take Over_

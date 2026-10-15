@@ -1,1 +1,4 @@
 .env
+
+# Fresh reproducible Eleventy output; public/ is the retained legacy snapshot.
+/dist/

@@ -9,7 +9,7 @@ f_image:
   url: /assets/external/65d780bef6702f0b878cab75_five-levels-of-attachment.jpeg
   alt: The Five Levels of Attachment book cover
 f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-five-levels-of-attachment/'
-f_author-plain-text: Carol-Ann Hamilton
+f_author-plain-text: "Don Miguel Ruiz Jr"
 f_author: cms/authors/don-miguel-ruiz-jr.md
 f_category-3: cms/summary-categories/self-management.md
 f_team-2: cms/team/carol-ann-hamilton.md

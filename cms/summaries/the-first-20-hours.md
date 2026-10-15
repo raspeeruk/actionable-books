@@ -132,4 +132,95 @@ layout: '[summaries].html'
 tags: summaries
 ---
 
+> "By knowing what you're getting into, learning the fundamentals, practicing intelligently, and developing a practice routine, you'll make progress more quickly and consistently, and you'll achieve expert status in record time."
+> 
+> _\- The First 20 Hours, page 5_
 
+Malcolm Gladwell’s Outliers made the “10,000-hour rule” famous, citing research which shows it **takes that long to become expert** at a skill.
+
+We should all be experts at something. Practice for an hour a day, 3 times a week, and it will only take you 64 years. Or, work at it like a full-time job for 5 years. That’s 5 years of focused practice.
+
+Some skills are worth it. World-class musicians know this. Those who work with their hands, creating things, know this.
+
+But **what if you don’t need expert status?** Suppose you just need to learn a skill well enough to use it in your life or business for your own purposes?
+
+Kaufman provides a **practical framework for learning a skill in 20 hours** or less. His learning journals, which make up half of the book, cover his time spent learning
+
+*   yoga
+    
+*   computer programming
+    
+*   to play the ukulele
+    
+*   touch typing
+    
+*   windsurfing
+    
+*   and a complex board game.
+    
+
+**It’s not limited to mechanical or business applications.**
+
+This summary will not describe Kaufman’s process. Instead, I’ve selected 3 **concepts you can apply many places** in your life. If there’s a skill which would add value to your life or business, the process in the book is sensible and specific. I intend to use it myself to learn finger-picking on the guitar and banjo. It’s a fundamental performing skill for the style of songs I write and sing, yet I’ve been intimidated by the years of practice I assumed it would take. After reading _The First 20 Hours_, I’m convinced I can be good enough for my performances with only 20 hours of study and practice.
+
+First, **let’s unlearn something we believe about learning**.
+
+### The Big Idea
+
+### Rapid Skill Acquisition is Unrelated to Academic Learning
+
+> "Those tests, however, had nothing to do with my ability to exercise the skills."
+> 
+> \- The First 20 Hours, page 7
+
+Schooling is about scoring well on the test. Every one of us took classes in school during which we aced the tests (or did well enough) but about which we have nearly zero recall.
+
+The purpose of rapid skill acquisition is to **permanently add that beneficial skill** to our abilities. **Focused practice** based on the high points and central aspects of a new skill has value. Memorization of minutiae does not.
+
+Rapid skill acquisition is a form of immersion. It requires some setup to prevent us from sabotaging ourselves.
+
+### Insight #1
+
+### Distractions Are the Primary Enemy
+
+> "Distractions kill focused practice, and lack of focused practice leads to slow (or nonexistent) skill acquisition."
+> 
+> \- The First 20 Hours, page 33
+
+When Kaufman experimented with “coasting” after he’d learned the basics of touch typing, he discovered that a month of using his new skill every single day had precisely zero effect on his speed or accuracy. It was only **focused intentional practice** which added value. The primary enemy of focused practice is distraction.
+
+The primary distractions in your life are electronic and human. You know right now what and who they are.
+
+**Preparing not to be distracted** is vital to focused practice. Shut off the devices. Arrange practice time so the human distractions in your life will have the least impact. (As a father of 7 who works from home I know this is easier said than done. I also know it can be done.)
+
+Making time and space for practice is **primarily emotional**. Separating from your everyday life for a little while feels awkward, strange. It’s part of the process. It’s also part of the price you have to be willing to pay for rapid skill acquisition.
+
+### Insight #2
+
+### Be Willing to Jump in Over Your Head
+
+> "Provided you're working on a lovable problem or project, the more confused you are at the outset, the more internal pressure you'll feel to figure things out, and the faster you'll learn."
+> 
+> \- The First 20 Hours, page 30
+
+It should be obvious that **learning a new skill requires doing things we’ve never done before.**
+
+Should be.
+
+We humans are a funny lot. We all want that new skill, right? Yet the confusion and frustration we have to cross to get there stops most of us from getting beyond, well, **confusion and frustration**.
+
+It’s the primary reason **Kaufman recommends choosing what he calls “a lovable project”** to dive into. Learning in order to pass a test, to impress the boss, to take on yet another tedious task – who would choose to go through frustration and confusion to reach that goal?
+
+But imagine playing simple songs on the piano. Or typing 40 words per minute instead of 15. Managing your own website. Building your own book case. Surfing. Speaking in public or speaking a new language.
+
+It’s not the skill, it’s **what the skill will add to your life**. Visualize being good enough at whatever it is you’ve been wishing you could do. If that image makes the little hairs at the back of your neck tingle, it’s worth pushing through some frustration and confusion.
+
+This method of rapid skill acquisition is specifically **designed to make the painful part of learning as brief as possible**; to quickly achieve something fun enough that the rest of the focused practice feels like learning instead of work.
+
+There’s a skill you wish you had. You’ve toyed with the idea but it’s never gone anywhere.
+
+Time to be done with toying. Most of us can fit this method into 6 weeks or less.
+
+**Tell me, down in the comments, what you’d like to learn in the first 20 hours.**
+
+(And for extra points, how will the concepts of preventing distractions and willingness to jump in over your head grow your psyche in ways you can apply elsewhere in your life?)

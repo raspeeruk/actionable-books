@@ -22,6 +22,8 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/0978191307/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_archive-limited: true
+seo: {"noindex": true}
 ---
 
 Tsufit, author of the award winning book _Step Into The Spotlight!_, is “on a mission to bring color to business, by helping entrepreneurs and ‘the suits’ step into the spotlight and get noticed”. Her book is a fast-paced, entertaining read filled with personal anecdotes, quotable quotes, and director chair sidebars (connecting show business to business). Tsufit invites celebrity into the business world and advocates “you _are_ good enough to be the star of your own business. But you have to step into the spotlight, or no one will ever know.”

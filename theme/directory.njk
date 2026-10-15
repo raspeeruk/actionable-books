@@ -1,0 +1,5 @@
+---
+layout: shell.njk
+---
+{% from 'partials/cards.njk' import shelf, pagination %}
+<div class="container page-content"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Home</a> / <a href="{{ directory.base }}">{{ directory.title.split(': Page')[0] }}</a></nav><header class="archive-intro bookmark"><div><h1>{{ directory.title }}</h1><p class="lede">{{ directory.description }}</p></div></header>{{ shelf(directory.items) }}{{ pagination(directory) }}</div>

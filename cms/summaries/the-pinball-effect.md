@@ -96,4 +96,64 @@ tags: summaries
 f_insight-2: "### Tokyo by Torchlight\n\n> \"By the mid-nineteenth century, gaslight had spread far and wide.\_ It was lighting most major city streets in Britain, and reached Toronto in 1850 and Tokyo in 1872.\"\n> \n> \\- The Pinball Effect, page 72\n\nBeing a resident of Toronto, I found it fascinating to learn that Toronto had regular light a full 22 years before Tokyo.\_ If you visit the two cities now (just over 100 years later), it’s hard to imagine that Toronto was recently “more advanced” than Tokyo.\n\n[![](http://actionablebooks.com/wp-content/uploads/2011/12/tokyo_toronto.jpg \"tokyo_toronto\")](http://actionablebooks.com/summaries/the-pinball-effect/tokyo_toronto/)\n\nToronto’s a great city, but one would be hard pressed to argue that it is more technologically advanced than Tokyo.\_ As Jim Collins pointed out in his latest book, _[Great by Choice](../summaries/great-by-choice/)_, it’s not about “getting there first” that matters in the long run; it’s what you do with a technology or advancement that counts.\_ We live in a fast paced time and, as a result, it often seems as though those who make the breakthrough are those destined for success. Even in the high tech space though, this assumption is flawed.\_ MySpace was first to market; Facebook just made it better.\_ IBM was producing computers long before Apple even existed.\n\nDon’t be disheartened by someone beating you to market.\_ It’s what you do with it (and who you serve with it) that really matters."
 ---
 
+> "Sometimes the simplest act will have cosmic repercussions a hundred years later.  On other occasions, the most cataclysmic events will finally lead to ordinary, even humdrum results."
+> 
+> _\- The Pinball Effect, page 3_
 
+[https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/12/ActionableBooks-Audio-The-Pinball-Effect.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/12/ActionableBooks-Audio-The-Pinball-Effect.mp3)
+
+Podcast: [Play in new window](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/12/ActionableBooks-Audio-The-Pinball-Effect.mp3 "Play in new window") | [Download](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/12/ActionableBooks-Audio-The-Pinball-Effect.mp3 "Download")
+
+There’s a certain satisfaction in learning pieces of historical trivia, particularly when they relate to your little corner of the world.  If you’re interested in business structure, for example, you may be find it curious that it was the United States Railway system that was responsible for creating modern corporate structure; introducing professional managers and departments based on expertise, rather than simply geography.  For someone interested in employee engagement, you may like to know that the first study in employee motivation was in 1924.  And, marketers may be fascinated by the story of Henry P. Crowell who, in 1881 invented virtually every aspect of the advertising industry as he attempted to make a success of his fledgling company, _Quaker Oats._
+
+In the vein of _[Freakonomics](../summaries/freakonomics/),_ (though written 10 years prior), _The Pinball Effect_ is truly a book like no other.  In addition to its brisk pace and relentless onslaught of interwoven fact and story, _The Pinball Effect_ has the added element of “portals”, scattered throughout the book.  The concept behind a portal being that if you like the theme that author James Burke just touched on, you can follow the annotation in the margin and continue learning on that specific subject, rather than being whisked away into yet another tangent.
+
+I say “tangent” because that’s truly how the book reads for the first 50 or 60 pages:  Interesting, albeit fairly unrelated tid-bits from history.  Burke’s gift is in tying those hundreds of strands together as the book progresses.  We start to see how the sewing machine and the musket are forever linked in history.  How the renaissance water garden made the carburetor possible.  And so on.  We begin to see how virtually everything is inter-related if you’re willing to look hard enough.
+
+### The Big Idea
+
+### Our Greatest Teacher
+
+> "Being aware of change and how it operates is halfway to second-guessing it.  And second-guessing change is good for survival and success in life."
+> 
+> \- The Pinball Effect, page 4
+
+Perhaps what makes _The Pinball Effect_ stand out from other “history” books is not so much the satisfying “click” of understanding that takes place when a new puzzle piece of history falls into place, but rather in how those puzzle pieces fit together to tell a story previously unimagined.  As Burke marvels repeatedly through the book, there’s no way that the characters of the time could possibly have understood the eventual impact of their work.  Only in hindsight can we see just how monumental their accomplishments were and, in such, we’re reminded of how history truly is our greatest teacher.
+
+In virtually all cases explored in _The Pinball Effect_ we can see two truths being confirmed: (1) that change is constant, and (2) that the individuals who leave their mark on history are those who capitalize on the changes of their era.
+
+### Insight #1
+
+### Pepper Power
+
+> "Spices were so valuable that in the fifth century A.D., one Roman city under siege by barbarians bought them off with three thousand pounds of pepper."
+> 
+> \- The Pinball Effect, page 65
+
+It’s important to remind ourselves that just because something is valuable now doesn’t mean it always will be, and likewise, something seen as a household item today could be extremely valuable in the future.
+
+At one point in _The Pinball Effect_, Burke discusses _sugar_ being more expensive than gasoline today in comparable dollars. In the quote above, _a city_ was worth less than today’s equivalent of $3000 worth of black pepper.  The lesson here is not (hopefully) that we should be investing in household spices.  Instead, I believe there is real value on reflecting on the perception of value as it evolves through time.  I would imagine that, a thousand years from now, historians will also shake their heads at how much value we placed on gasoline.
+
+It’s important to loosen our concern on immediate value and try to float our thoughts _forward_ in time to imagine what might be of value 10, 15 or 25 years from now.  What products or services currently demand a premium in your own industry?  If you were to “disengage” from today and imagine forward a decade or two, can you imagine what might replace it?
+
+“The only thing constant is change”, as they say.  We could all benefit from a little less weight on the present, and a little more on the future.
+
+### Insight #2
+
+### Tokyo by Torchlight
+
+> "By the mid-nineteenth century, gaslight had spread far and wide.  It was lighting most major city streets in Britain, and reached Toronto in 1850 and Tokyo in 1872."
+> 
+> \- The Pinball Effect, page 72
+
+Being a resident of Toronto, I found it fascinating to learn that Toronto had regular light a full 22 years before Tokyo.  If you visit the two cities now (just over 100 years later), it’s hard to imagine that Toronto was recently “more advanced” than Tokyo.
+
+[![](http://actionablebooks.com/wp-content/uploads/2011/12/tokyo_toronto.jpg "tokyo_toronto")](http://actionablebooks.com/summaries/the-pinball-effect/tokyo_toronto/)
+
+Toronto’s a great city, but one would be hard pressed to argue that it is more technologically advanced than Tokyo.  As Jim Collins pointed out in his latest book, _[Great by Choice](../summaries/great-by-choice/)_, it’s not about “getting there first” that matters in the long run; it’s what you do with a technology or advancement that counts.  We live in a fast paced time and, as a result, it often seems as though those who make the breakthrough are those destined for success. Even in the high tech space though, this assumption is flawed.  MySpace was first to market; Facebook just made it better.  IBM was producing computers long before Apple even existed.
+
+Don’t be disheartened by someone beating you to market.  It’s what you do with it (and who you serve with it) that really matters.
+
+James Burke’s _The Pinball Effect_ is not a book I would have naturally chosen for an Actionable Summary.  After all, with a cataloguing classification of “History/Science”, it doesn’t even fit the base criteria of “Business Books made Actionable”.  _The Pinball Effect_ **was** the community pick for December though, so I dedicated my time to reading it.  And I can truly say that I sincerely enjoyed it.  I think my favorite idea from the whole book came in the first few pages (the introduction, actually), where Burke speculates on the importance of experimentation (and inevitable failures) that leads to game-changing innovation.  Keep in mind that _The Pinball Effect_ was first published in 1996, when you read this quote: _“Schools might train students to weave their own way idiosyncratically through the web, imagining their way to solutions, rather than learning by rote lists of data that will be obsolete before they can use them.”_
+
+Only really in the last 10 years has the general public really started analyzing the current education system as flawed for training the employees of the 21st century.  Yet Burke wrote this book 15 years ago.  A historian with futurist tendencies?  Once again, we’re reminded of the awesome power of looking backwards to create a clearer picture of tomorrow.

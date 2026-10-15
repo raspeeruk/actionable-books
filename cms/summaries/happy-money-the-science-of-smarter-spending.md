@@ -157,6 +157,7 @@ f_quote-2: >-
 f_amazon-url: 'https://www.amazon.com/dp/B008J4L17K/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_author-plain-text: "Elizabeth Dunn and Michael Norton"
 ---
 
 > "Around the world, income has surprisingly little influence on whether people smile, laugh or experience enjoyment on a typical day." _\- Happy Money, page xiv_
