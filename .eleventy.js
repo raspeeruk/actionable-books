@@ -10,6 +10,11 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setQuietMode(true);
   eleventyConfig.setNunjucksEnvironmentOptions({ autoescape: true });
   eleventyConfig.addGlobalData('library', () => getView());
+  eleventyConfig.addGlobalData('release', () => {
+    let sourceCommit = process.env.COMMIT_REF || process.env.GITHUB_SHA || null;
+    if (!sourceCommit) { try { sourceCommit = require('node:child_process').execFileSync('git', ['rev-parse', 'HEAD'], { encoding: 'utf8' }).trim(); } catch (_) { /* Unknown stays explicit. */ } }
+    return { sourceCommit, builtAt: new Date().toISOString(), note: 'Build identity only. This is not an article publication date.' };
+  });
   eleventyConfig.addFilter('libraryEntry', (input, url, title, description) => entryFor(getCatalog(), input, url, title, description));
   eleventyConfig.addFilter('directoryFor', url => getView().directoryByUrl[url] || null);
   eleventyConfig.addFilter('entrySchema', entrySchema);

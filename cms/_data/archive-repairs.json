@@ -1,0 +1,315 @@
+{
+  "aliases": {
+    "/authors/daniel-paisner-1e73e/": "/authors/daniel-paisner/",
+    "/authors/dave-blanchard-15c45/": "/authors/dave-blanchard/",
+    "/authors/mark-magnacca-9ddf6/": "/authors/mark-magnacca/",
+    "/team/chris-taylor-fr-ca/": "/team/chris-taylor/",
+    "/team/bernadette-jiwa-2/": "/team/bernadette-jiwa/",
+    "/authors/baltasar-gracidegn/": "/authors/baltasar-gracian/",
+    "/authors/bren-c-brown/": "/authors/brene-brown/",
+    "/authors/emma-seppsslss/": "/authors/emma-seppala/",
+    "/authors/ren-c-e-mauborgne/": "/authors/renee-mauborgne/",
+    "/authors/staffan-nteberg/": "/authors/staffan-noteberg/",
+    "/team/jonathon-raymond/": "/team/jonathan-raymond/"
+  },
+  "links": {
+    "/writers/": "/team/",
+    "/interviews/": "/blog-category/business-book-author-interviews/",
+    "/media/videos/author-interviews/": "/blog-category/business-book-author-interviews/",
+    "/blog/categories/business-book-author-interviews/": "/blog-category/business-book-author-interviews/"
+  },
+  "bookAuthors": {
+    "/summaries/being-the-boss/": [
+      "Linda A. Hill",
+      "Kent Lineback"
+    ],
+    "/summaries/your-first-leadership-job/": [
+      "Tacy Byham",
+      "Richard S. Wellins"
+    ],
+    "/summaries/crucial-conversations/": [
+      "Kerry Patterson",
+      "Joseph Grenny",
+      "Ron McMillan",
+      "Al Switzler"
+    ],
+    "/summaries/5-conversations/": [
+      "Nick Cowley",
+      "Nigel Purse"
+    ],
+    "/summaries/essentialism/": [
+      "Greg McKeown"
+    ]
+  },
+  "reviewNotes": {
+    "/summaries/start-with-why/": {
+      "text": "Archive correction: Sam Walton died in 1992, rather than 1983. The Southwest co-founder named in the review is Herb Kelleher, rather than Herb Kellerman. The original review is preserved below.",
+      "sources": [
+        {
+          "label": "Walmart: Sam Walton",
+          "url": "https://corporate.walmart.com/about/sam-walton"
+        },
+        {
+          "label": "Southwest history",
+          "url": "https://www.swamedia.com/news-and-stories/news-release/herb-rollin-the-birth-of-southwest-airlines-MC3ZAGEOPKJ5EA5JKHV4GNRM7UGI"
+        }
+      ]
+    },
+    "/summaries/deep-work/": {
+      "text": "Archive correction: the cited 2012 McKinsey breakdown is 28% of interaction workers’ time on email, 19% finding information and 14% collaborating internally. Email plus information search is 47%, rather than the review’s 60%. References to the author’s latest book describe the time of writing.",
+      "sources": [
+        {
+          "label": "McKinsey’s 2012 breakdown",
+          "url": "https://www.mckinsey.com/mgi/media-center/social-media-productivity-payoff"
+        }
+      ]
+    },
+    "/summaries/the-five-dysfunctions-of-a-team/": {
+      "text": "Archive correction: the fictional CEO is Kathryn Petersen. The original review uses Katherine Peterson and Karen; these refer to the same character.",
+      "sources": [
+        {
+          "label": "Publisher’s book record",
+          "url": "https://www.wiley.com/content/dam/wiley-dotcom/en/b2c/permissions/business---rights/translation/2024%20Smash%20Hits.pdf"
+        }
+      ]
+    },
+    "/summaries/5-conversations/": {
+      "text": "Archive correction: this book is by Nick Cowley and Nigel Purse. The body’s Nick Crowley is a spelling error. Showing appreciation is conversation three in the review’s own opening list, although a later sentence calls it the second.",
+      "sources": [
+        {
+          "label": "CMI book record",
+          "url": "https://www.managers.org.uk/~/media/Angela-Media-Library/pdfs/Books/CMI%20Book%20of%20the%20Year%202016%20DIgital.pdf"
+        }
+      ]
+    },
+    "/summaries/thinking-fast-and-slow/": {
+      "text": "Archive context: the quoted TED description of a living psychologist is historical. Daniel Kahneman died on 27 March 2024. The article records its contributor’s reading of the book; its discussion of individual experiments is not a new review of the subsequent research.",
+      "sources": [
+        {
+          "label": "Nobel Prize biographical record",
+          "url": "https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/biographical/"
+        }
+      ]
+    },
+    "/summaries/crucial-conversations/": {
+      "text": "Archive context: the review discusses the earlier edition by Kerry Patterson, Joseph Grenny, Ron McMillan and Al Switzler. The citation printed as page 20w contains an unresolved reference typo; it has not been silently changed to a guessed page.",
+      "sources": []
+    }
+  },
+  "guideResources": {
+    "/guides/": [],
+    "/guides/best-productivity-books/": [
+      "/summaries/deep-work/",
+      "/summaries/getting-things-done/",
+      "/summaries/the-one-thing/",
+      "/summaries/essentialism/",
+      "/summaries/the-power-of-full-engagement/",
+      "/summaries/the-4-hour-workweek/",
+      "/summaries/first-things-first/",
+      "/summaries/the-effective-executive/",
+      "/summaries/work-the-system/",
+      "/summaries/the-miracle-morning/"
+    ],
+    "/guides/best-business-books-for-entrepreneurs/": [
+      "/summaries/zero-to-one/",
+      "/summaries/the-lean-startup/",
+      "/summaries/the-e-myth-revisited/",
+      "/summaries/traction/",
+      "/summaries/good-to-great/",
+      "/summaries/the-hard-thing-about-hard-things/",
+      "/summaries/what-got-you-here-wont-get-you-there/",
+      "/summaries/leaders-eat-last/",
+      "/summaries/start-with-why/",
+      "/summaries/built-to-last/",
+      "/summaries/shoe-dog/",
+      "/summaries/thinking-fast-and-slow/"
+    ],
+    "/guides/best-books-for-personal-development/": [
+      "/summaries/mindset-the-new-psychology-of-success/",
+      "/summaries/thinking-fast-and-slow/",
+      "/summaries/mans-search-for-meaning/",
+      "/summaries/grit/",
+      "/summaries/the-miracle-morning/",
+      "/summaries/boundaries/",
+      "/summaries/the-subtle-art-of-not-giving-a-fck/",
+      "/summaries/option-b/",
+      "/summaries/daring-greatly/",
+      "/summaries/seven-habits-of-highly-effective-people-part-1/",
+      "/summaries/the-seven-habits-of-highly-effective-people-part-2/"
+    ],
+    "/guides/how-to-read-more-books/": [
+      "/summaries/deep-work/",
+      "/summaries/the-power-of-habit/",
+      "/summaries/getting-things-done/"
+    ],
+    "/guides/best-leadership-books/": [
+      "/summaries/extreme-ownership/",
+      "/summaries/the-culture-code/",
+      "/summaries/turn-the-ship-around/",
+      "/summaries/the-five-dysfunctions-of-a-team/",
+      "/summaries/leaders-eat-last/",
+      "/summaries/the-hard-thing-about-hard-things/",
+      "/summaries/good-to-great/",
+      "/summaries/the-effective-executive/",
+      "/summaries/start-with-why/",
+      "/summaries/leadership-and-self-deception/",
+      "/summaries/the-leadership-pipeline/"
+    ],
+    "/guides/best-marketing-books/": [
+      "/summaries/influence-the-psychology-of-persuasion/",
+      "/summaries/positioning/",
+      "/summaries/contagious/",
+      "/summaries/building-a-storybrand/",
+      "/summaries/hooked/",
+      "/summaries/the-22-immutable-laws-of-marketing/",
+      "/summaries/permission-marketing/",
+      "/summaries/made-to-stick/",
+      "/summaries/pre-suasion/",
+      "/summaries/blue-ocean-strategy/",
+      "/summaries/the-lean-startup/"
+    ],
+    "/guides/best-finance-books/": [
+      "/summaries/the-automatic-millionaire/"
+    ],
+    "/guides/best-investing-books/": [
+      "/summaries/thinking-fast-and-slow/",
+      "/summaries/the-millionaire-next-door/",
+      "/summaries/rich-dad-poor-dad/"
+    ],
+    "/guides/best-history-books/": [
+      "/summaries/team-of-rivals/"
+    ],
+    "/guides/best-biography-books/": [
+      "/summaries/benjamin-franklin-the-autobiography/"
+    ],
+    "/guides/best-psychology-books/": [
+      "/summaries/thinking-fast-and-slow/",
+      "/summaries/influence-the-psychology-of-persuasion/",
+      "/summaries/the-power-of-habit/",
+      "/summaries/mans-search-for-meaning/",
+      "/summaries/predictably-irrational/",
+      "/summaries/the-paradox-of-choice/",
+      "/summaries/stumbling-on-happiness/",
+      "/summaries/mindset-the-new-psychology-of-success/",
+      "/summaries/grit/",
+      "/summaries/the-willpower-instinct/",
+      "/summaries/drive/"
+    ],
+    "/guides/best-science-books/": [
+      "/summaries/freakonomics/"
+    ]
+  },
+  "contentModified": {
+    "/topics/": "2026-10-15",
+    "/summaries/be-excellent-at-anything-2/": "2026-10-15",
+    "/summaries/born-for-this/": "2026-10-15",
+    "/summaries/delivering-happiness-2/": "2026-10-15",
+    "/summaries/the-gifts-of-imperfection/": "2026-10-15",
+    "/blog/leadership-is-a-conversation/": "2026-10-15",
+    "/summaries/stepping-up/": "2026-10-15",
+    "/summaries/work-rules-2/": "2026-10-15",
+    "/summaries/a-full-cup/": "2026-10-15",
+    "/summaries/the-purpose-effect-2/": "2026-10-15",
+    "/summaries/the-school-of-greatness-2/": "2026-10-15",
+    "/summaries/the-wisdom-of-wooden/": "2026-10-15",
+    "/guides/best-business-books-for-entrepreneurs/": "2026-10-15",
+    "/summaries/happy-money-the-science-of-smarter-spending/": "2026-10-15",
+    "/guides/best-biography-books/": "2026-10-15",
+    "/blog/whats-happening-october/": "2026-10-15",
+    "/summaries/presence/": "2026-10-15",
+    "/summaries/everybody-matters-2/": "2026-10-15",
+    "/guides/best-investing-books/": "2026-10-15",
+    "/summaries/getting-to-yes-with-yourself/": "2026-10-15",
+    "/blog/june-calendar/": "2026-10-15",
+    "/lists/best-books-for-new-managers/": "2026-10-15",
+    "/guides/best-leadership-books/": "2026-10-15",
+    "/summaries/the-medici-effect/": "2026-10-15",
+    "/summaries/the-hard-hat-2/": "2026-10-15",
+    "/summaries/the-invisible-gorilla/": "2026-10-15",
+    "/summaries/peak/": "2026-10-15",
+    "/blog/top-picks-of-2011/": "2026-10-15",
+    "/summaries/peak-2/": "2026-10-15",
+    "/summaries/being-the-boss/": "2026-10-15",
+    "/summaries/happier/": "2026-10-15",
+    "/guides/best-psychology-books/": "2026-10-15",
+    "/summaries/the-hard-hat/": "2026-10-15",
+    "/blog/when-old-meets-new/": "2026-10-15",
+    "/guides/best-finance-books/": "2026-10-15",
+    "/summaries/the-charisma-myth/": "2026-10-15",
+    "/summaries/born-for-this-2/": "2026-10-15",
+    "/summaries/lets-get-real-or-lets-not-play-2/": "2026-10-15",
+    "/": "2026-10-15",
+    "/summaries/the-pomodoro-technique-illustrated/": "2026-10-15",
+    "/summaries/refuse-to-choose/": "2026-10-15",
+    "/summaries/love-is-the-killer-app/": "2026-10-15",
+    "/blog/it-all-started-160-years-ago-give-or-take/": "2026-10-15",
+    "/summaries/still-writing/": "2026-10-15",
+    "/summaries/leaders-eat-last/": "2026-10-15",
+    "/summaries/the-slight-edge/": "2026-10-15",
+    "/summaries/the-power-of-habit-2/": "2026-10-15",
+    "/summaries/manager-3-0-2/": "2026-10-15",
+    "/summaries/how-to-have-a-good-day/": "2026-10-15",
+    "/summaries/the-gifts-of-imperfection-2/": "2026-10-15",
+    "/blog/the-immortal-dilbert/": "2026-10-15",
+    "/guides/": "2026-10-15",
+    "/summaries/the-school-of-greatness/": "2026-10-15",
+    "/blog/help-us-choose-our-next-book/": "2026-10-15",
+    "/guides/how-to-read-more-books/": "2026-10-15",
+    "/summaries/the-pinball-effect/": "2026-10-15",
+    "/summaries/presence-2/": "2026-10-15",
+    "/summaries/the-checklist-manifesto-2/": "2026-10-15",
+    "/contact/": "2026-10-15",
+    "/guides/best-science-books/": "2026-10-15",
+    "/summaries/the-long-tail/": "2026-10-15",
+    "/summaries/be-excellent-at-anything/": "2026-10-15",
+    "/summaries/step-into-the-spotlight-a-guide-to-getting-noticed/": "2026-10-15",
+    "/summaries/the-slight-edge-2/": "2026-10-15",
+    "/summaries/stretch-2/": "2026-10-15",
+    "/summaries/happier-2/": "2026-10-15",
+    "/summaries/the-art-of-being-unmistakable/": "2026-10-15",
+    "/summaries/the-first-20-hours/": "2026-10-15",
+    "/summaries/manager-3-0/": "2026-10-15",
+    "/summaries/lovemarks/": "2026-10-15",
+    "/summaries/freakonomics/": "2026-10-15",
+    "/summaries/without-their-permission-ohanian/": "2026-10-15",
+    "/summaries/playing-big/": "2026-10-15",
+    "/summaries/stretch/": "2026-10-15",
+    "/summaries/the-happiness-track/": "2026-10-15",
+    "/summaries/the-checklist-manifesto/": "2026-10-15",
+    "/summaries/focus-2/": "2026-10-15",
+    "/guides/best-history-books/": "2026-10-15",
+    "/lists/best-communication-books/": "2026-10-15",
+    "/blog/july-calendar/": "2026-10-15",
+    "/summaries/when-millennials-take-over/": "2026-10-15",
+    "/summaries/blue-ocean-strategy/": "2026-10-15",
+    "/summaries/the-power-of-habit/": "2026-10-15",
+    "/summaries/delivering-happiness/": "2026-10-15",
+    "/guides/best-productivity-books/": "2026-10-15",
+    "/summaries/the-four-steps-to-the-epiphany/": "2026-10-15",
+    "/summaries/the-five-levels-of-attachment/": "2026-10-15",
+    "/blog/making-traction-actionable/": "2026-10-15",
+    "/summaries/back-of-the-napkin/": "2026-10-15",
+    "/summaries/the-art-of-being-unmistakable-rao/": "2026-10-15",
+    "/summaries/everybody-matters/": "2026-10-15",
+    "/summaries/focus/": "2026-10-15",
+    "/about/": "2026-10-15",
+    "/summaries/the-lexus-and-the-olive-tree/": "2026-10-15",
+    "/summaries/lets-get-real-or-lets-not-play/": "2026-10-15",
+    "/summaries/without-their-permission/": "2026-10-15",
+    "/summaries/daring-greatly/": "2026-10-15",
+    "/blog/bestseller-fridays-august-17-2012/": "2026-10-15",
+    "/summaries/the-art-of-worldly-wisdom/": "2026-10-15",
+    "/blog/my-love-affair-with-kindle/": "2026-10-15",
+    "/privacy-policy/": "2026-10-15",
+    "/guides/best-books-for-personal-development/": "2026-10-15",
+    "/summaries/peak-secrets-from-the-new-science-of-expertise/": "2026-10-15",
+    "/summaries/focus-use-different-ways-of-seeing-the-world-for-success-and-influence/": "2026-10-15",
+    "/summaries/leaders-eat-last-sinek/": "2026-10-15",
+    "/summaries/work-rules/": "2026-10-15",
+    "/summaries/the-design-of-business/": "2026-10-15",
+    "/summaries/the-purpose-effect/": "2026-10-15",
+    "/blog/sometimes-its-just-cool/": "2026-10-15",
+    "/guides/best-marketing-books/": "2026-10-15",
+    "/blog/actionable-books-live/": "2026-10-15"
+  }
+}

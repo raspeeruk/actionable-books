@@ -53,12 +53,48 @@ function slug(text) {
   return plainText(text).toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 }
 
-function renderBody(body, { summary = false, resolveLink = null, suppressMediaUrls = [] } = {}) {
+function renderBody(body, { summary = false, resolveLink = null, resolveMedia = null, suppressMediaUrls = [], bookSlug = '' } = {}) {
   const text = cleanBody(body).split(/\n\s*\n/).filter(block => !suppressMediaUrls.some(url => block.includes(url) && /^(?:Podcast:|\[?https?:\/\/)/.test(block.trim()))).join('\n\n');
   const tokens = md.parse(text, {});
-  if (resolveLink) {
-    for (const token of tokens) for (const child of token.children || []) {
-      if (child.type === 'link_open') child.attrSet('href', resolveLink(child.attrGet('href')));
+  for (const token of tokens) {
+    const children = token.children || [];
+    const links = [];
+    for (let i = 0; i < children.length; i++) {
+      const child = children[i];
+      if (child.type === 'link_open') {
+        const original = child.attrGet('href');
+        const image = children[i + 1]?.type === 'image' && children[i + 2]?.type === 'link_close' ? children[i + 1] : null;
+        const linkedMedia = image && resolveMedia ? resolveMedia(image.attrGet('src'), image.content) : null;
+        const resolved = linkedMedia?.src || (resolveLink ? resolveLink(original) : original);
+        links.push(resolved === null);
+        if (resolved === null) {
+          child.tag = 'span'; child.attrs = [['class', 'archived-link'], ['data-original-url', original]];
+        } else {
+          child.attrSet('href', resolved);
+          try {
+            const url = new URL(resolved);
+            if (/(^|\.)amazon\.(com|co\.uk|ca|com\.au)$/.test(url.hostname)) {
+              child.attrSet('rel', 'sponsored noopener'); child.attrSet('data-affiliate', 'amazon'); child.attrSet('data-book', bookSlug);
+            }
+          } catch (_) { /* Relative archive links are first party. */ }
+        }
+      } else if (child.type === 'link_close' && links.pop()) {
+        child.tag = 'span';
+        const note = new child.constructor('html_inline', '', 0);
+        note.content = ' <small class="archive-link-note">(archived link unavailable)</small>';
+        children.splice(++i, 0, note);
+      } else if (child.type === 'image' && resolveMedia) {
+        const original = child.attrGet('src');
+        const media = resolveMedia(original, child.content);
+        if (!media) {
+          child.type = 'html_inline';
+          child.content = `<span class="missing-illustration" data-original-url="${escapeHtml(original)}">Original illustration unavailable${child.content ? ': ' + escapeHtml(child.content) : ''}.</span>`;
+        } else {
+          child.attrSet('src', media.src); child.attrSet('loading', 'lazy'); child.attrSet('decoding', 'async');
+          child.content = child.content || media.alt;
+          if (media.width && media.height) { child.attrSet('width', media.width); child.attrSet('height', media.height); }
+        }
+      }
     }
   }
   const headings = [];
@@ -108,6 +144,13 @@ function createLibrary(root = ROOT) {
   const records = [];
   const editorialPath = path.join(root, 'cms', '_data', 'editorial.json');
   const editorial = fs.existsSync(editorialPath) ? JSON.parse(fs.readFileSync(editorialPath, 'utf8')) : {};
+  const dataFile = name => {
+    const file = path.join(root, 'cms', '_data', name + '.json');
+    return fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf8')) : {};
+  };
+  const repairs = dataFile('archive-repairs');
+  const mediaMap = dataFile('archive-media');
+  const journeys = dataFile('journeys');
   for (const family of FAMILIES) {
     const directory = path.join(root, 'cms', family);
     if (!fs.existsSync(directory)) continue;
@@ -129,14 +172,23 @@ function createLibrary(root = ROOT) {
         imageAlt: data.f_image?.alt || data.title || '',
         // The 2024 migration timestamp is not an original publication date.
         published: family === 'blog' ? validDate(data['f_date-published']) : null,
-        modified: validDate(data['reviewed-on']),
-        noindex: Boolean(data.seo?.noindex) || (family === 'lists' && editorial.lists?.[filename.slice(0, -3)]?.noindex === true) || (family === 'pages' && ['search', 'subscribe', 'abc'].includes(filename.slice(0, -3))), summaries: [], articles: [], related: [] });
+        modified: validDate(data['reviewed-on']) || validDate(repairs.contentModified?.[url]),
+        noindex: Boolean(data.seo?.noindex) || Boolean(repairs.aliases?.[url]) || (family === 'blog' && !body) || (family === 'lists' && editorial.lists?.[filename.slice(0, -3)]?.noindex === true && !journeys[url]) || (family === 'pages' && ['search', 'subscribe', 'abc'].includes(filename.slice(0, -3))),
+        aliasOf: repairs.aliases?.[url] || null, journey: journeys[url] || null,
+        correction: repairs.reviewNotes?.[url] || null,
+        bookAuthorNames: repairs.bookAuthors?.[url] || null,
+        summaries: [], articles: [], related: [] });
     }
   }
   const byInput = Object.fromEntries(records.map(r => [r.input, r]));
   const byUrl = Object.fromEntries(records.map(r => [r.url, r]));
-  const resolve = ref => byInput[normaliseInput(ref)] || null;
+  const resolve = ref => {
+    const record = byInput[normaliseInput(ref)];
+    return record?.aliasOf ? byUrl[record.aliasOf] : record || null;
+  };
   const legacy = new Map(records.map(r => [r.url.toLowerCase(), r.url]));
+  for (const [from, to] of Object.entries(repairs.links || {})) legacy.set(from.toLowerCase(), to);
+  for (const [from, to] of Object.entries(repairs.aliases || {})) legacy.set(from.toLowerCase(), to);
   for (const record of records) {
     try {
       const old = new URL(record.data['f_original-url']);
@@ -148,27 +200,42 @@ function createLibrary(root = ROOT) {
   }
   for (const record of records) {
     const resolveLink = href => {
-      if (/^mailto:https?:\/\//i.test(href)) return href.slice(7);
+      if (/^mailto:https?:\/\//i.test(href)) href = href.slice(7);
       if (!href || href.startsWith('#') || /^(?:mailto:|tel:)/i.test(href)) return href;
       try {
-        const repaired = href.replace(/^\.\.\/(summaries|authors|team|blog)\//i, '/$1/');
+        const repaired = href.replace(/^\.\.\/(summaries|authors|team|blog)\//i, '/$1/').replace(/^(?=(?:www\.|actionable\.co\/|meetme\.so\/|itunes\.apple\.com\/))/i, 'https://');
         const url = new URL(repaired, record.absoluteUrl);
-        if (!['actionablebooks.com', 'www.actionablebooks.com'].includes(url.hostname)) return href;
+        if (!['actionablebooks.com', 'www.actionablebooks.com'].includes(url.hostname)) return repaired;
         let target = url.pathname.replace(/^\/en-ca\//i, '/').replace(/^\/articles\//i, '/summaries/').replace(/^\/summaries\/summaries\//i, '/summaries/');
+        if (/^\/search-results\//.test(target)) {
+          const malformed = target.match(/^\/search-results\/%3[fF](.*)$/);
+          const params = malformed ? new URLSearchParams(decodeURIComponent(malformed[1])) : url.searchParams;
+          return '/search/' + (params.get('search') ? '?query=' + encodeURIComponent(params.get('search')) : '');
+        }
+        if (target.startsWith('/writers/')) target = target.replace('/writers/', '/team/');
+        if (target === '/search-results/') return '/search/' + (url.searchParams.get('search') ? '?query=' + encodeURIComponent(url.searchParams.get('search')) : '');
         if (!path.extname(target) && !target.endsWith('/')) target += '/';
-        const retained = legacy.get(target.toLowerCase()) || legacy.get(url.pathname.toLowerCase());
-        return retained ? retained + url.search + url.hash : href;
+        const retained = legacy.get(target.toLowerCase()) || legacy.get(url.pathname.toLowerCase()) || (byUrl['/blog' + target] ? '/blog' + target : null);
+        return retained ? (repairs.aliases?.[retained] || retained) + url.search + url.hash : null;
       } catch (_) { return href; }
     };
-    const rendered = renderBody(record.body, { summary: record.family === 'summaries', resolveLink,
+    const resolveMedia = (src, alt) => {
+      const media = mediaMap[src];
+      if (media) return media.unavailable ? null : media;
+      // Only media verified in the archive manifest is embedded. No broken or
+      // external tracking pixels are revived by historical Markdown.
+      return null;
+    };
+    const rendered = renderBody(record.body, { summary: record.family === 'summaries', resolveLink, resolveMedia, bookSlug: record.slug,
       suppressMediaUrls: record.slug === 'the-8-pillars-of-motivation' ? ['https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/ActionableBooks-Audio-20000-Days.mp3'] : [] });
     record.html = rendered.html;
     record.headings = rendered.headings;
+    record.guideResources = (repairs.guideResources?.[record.url] || []).map(url => byUrl[url]).filter(Boolean);
   }
   for (const record of records) {
     if (record.family === 'summaries') {
       record.author = resolve(record.data.f_author);
-      record.authorName = record.data['f_author-plain-text'] || record.author?.title || '';
+      record.authorName = record.bookAuthorNames ? new Intl.ListFormat('en', { style: 'long', type: 'conjunction' }).format(record.bookAuthorNames) : record.data['f_author-plain-text'] || record.author?.title || '';
       record.contributor = resolve(record.data['f_team-2']);
       record.attributionNote = record.data['f_attribution-note'] || null;
       record.limitedArchive = Boolean(record.data['f_archive-limited']);
@@ -195,8 +262,12 @@ function createLibrary(root = ROOT) {
     record.articles.sort((a, b) => String(b.published).localeCompare(String(a.published)) || alphabetical(a, b));
     if (record.family === 'summaries') record.related = (record.topic?.summaries || []).filter(r => r !== record).slice(0, 4);
     record.description = record.family === 'summaries'
-      ? `${record.title}${record.authorName ? ` by ${record.authorName}` : ''}: ${record.excerpt || 'Read this archived book summary and its practical insights.'}`
+      ? `${record.title}${record.authorName ? ` by ${record.authorName}` : ''}${record.contributor && !record.attributionNote ? `, reviewed by ${record.contributor.title}` : ''}: ${record.excerpt || 'Read this archived book summary and its practical insights.'}`
       : record.data.description || record.data['f_meta-description'] || record.excerpt;
+    if (record.family === 'authors') record.description = `${record.title}: explore ${record.summaries.length} book ${record.summaries.length === 1 ? 'summary' : 'summaries'} and original reader perspectives in the Actionable Books archive.`;
+    if (record.family === 'team') record.description = `${record.title}: read ${record.summaries.length} original book ${record.summaries.length === 1 ? 'review' : 'reviews'} and ${record.articles.length} archive ${record.articles.length === 1 ? 'article' : 'articles'} by this Actionable Books contributor.`;
+    if (record.family === 'blog' && record.description) record.description = `${record.title}: ${record.description}`;
+    if (record.data.seo?.description) record.description = record.data.seo.description;
     if (!record.description) {
       if (record.family === 'authors') record.description = `Explore ${record.summaries.length} book summaries by ${record.title}, with practical insights from named Actionable Books contributors.`;
       else if (record.family === 'team') record.description = `Read ${record.title}'s contributions to Actionable Books, including ${record.summaries.length} book summaries and ${record.articles.length} articles.`;
@@ -217,9 +288,16 @@ function createLibrary(root = ROOT) {
       : `${record.title}${record.family === 'authors' ? ': Books and summaries' : record.family === 'team' ? ': Contributor' : ''} | Actionable Books`;
     if (record.family === 'summary-categories') record.metaTitle = `${record.title} book summaries | Actionable Books`;
     if (record.family === 'blog-category') record.metaTitle = `${record.title} articles | Actionable Books`;
+    if (record.data.seo?.title) record.metaTitle = record.data.seo.title;
+  }
+  const blogTitles = new Map();
+  for (const r of groups.blog) blogTitles.set(r.title, (blogTitles.get(r.title) || 0) + 1);
+  for (const r of groups.blog) {
+    if (blogTitles.get(r.title) > 1 && r.published) r.metaTitle = `${r.title} (${new Date(r.published).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' })}) | Actionable Books`;
+    if (!r.body) r.description = `Historical archive record for ${r.title}${r.published ? ', dated ' + r.published.slice(0, 10) : ''}. The article text is not available in the preserved archive.`;
   }
   const utility = {
-    '/': ['Free book summaries and practical insights | Actionable Books', 'Explore 1,148 free book summaries, with original contributor perspectives, big ideas and practical insights from the Actionable Books archive.'],
+    '/': ['Free book summaries and practical insights | Actionable Books', `Explore ${groups.summaries.length.toLocaleString('en')} free book summaries, with original contributor perspectives, big ideas and practical insights from the Actionable Books archive.`],
     '/about/': ['About Actionable Books', 'Learn about the original Actionable Books archive, its contributors and how to use the summaries. Operated by Actionable.co Canada Inc.'],
     '/contact/': ['Contact Actionable Books', 'Contact Actionable about Actionable Books, archive corrections, contributor attribution and privacy questions.'],
     '/privacy-policy/': ['Privacy at Actionable Books', 'Understand optional analytics, newsletter services, affiliate links and privacy choices at Actionable Books.'],
@@ -228,37 +306,43 @@ function createLibrary(root = ROOT) {
   for (const [url, [title, description]] of Object.entries(utility)) {
     if (byUrl[url]) { byUrl[url].metaTitle = title; byUrl[url].description = description; }
   }
-  return { records, byInput, byUrl, groups, resolve, domain: DOMAIN };
+  return { records, byInput, byUrl, groups, resolve, domain: DOMAIN, repairs };
 }
 
 function schemaFor(record) {
-  const publisher = { '@type': 'Organization', name: 'Actionable Books', url: DOMAIN };
-  const graph = [{ '@type': 'WebPage', '@id': record.absoluteUrl + '#page', url: record.absoluteUrl, name: record.metaTitle, description: record.description, isPartOf: { '@id': DOMAIN + '/#website' } }];
+  const publisher = { '@id': DOMAIN + '/#organization' };
+  const organization = { '@type': 'Organization', '@id': publisher['@id'], name: 'Actionable Books', url: DOMAIN + '/', logo: DOMAIN + '/assets/images/actionable-books-logo-rgb.svg', parentOrganization: { '@type': 'Organization', '@id': 'https://actionable.co/#organization', name: 'Actionable.co Canada Inc.', url: 'https://actionable.co/' } };
+  const graph = [organization, { '@type': 'WebSite', '@id': DOMAIN + '/#website', name: 'Actionable Books', url: DOMAIN + '/', publisher }, { '@type': 'WebPage', '@id': record.absoluteUrl + '#page', url: record.absoluteUrl, name: record.metaTitle, description: record.description, isPartOf: { '@id': DOMAIN + '/#website' } }];
   if (record.family === 'summaries') {
     const book = { '@type': 'Book', '@id': record.absoluteUrl + '#book', name: record.title };
-    if (record.authorName) book.author = { '@type': 'Person', name: record.authorName, ...(record.author ? { url: record.author.absoluteUrl } : {}) };
+    if (record.bookAuthorNames) book.author = record.bookAuthorNames.map(name => ({ '@type': 'Person', name }));
+    else if (record.authorName) book.author = { '@type': 'Person', name: record.authorName, ...(record.author ? { '@id': record.author.absoluteUrl + '#person', url: record.author.absoluteUrl } : {}) };
     if (record.image) book.image = DOMAIN + record.image;
     const article = { '@type': 'Article', headline: record.title + ': Book summary', description: record.description, mainEntityOfPage: record.absoluteUrl, about: { '@id': book['@id'] }, publisher };
-    if (record.contributor && !record.attributionNote) article.author = { '@type': 'Person', name: record.contributor.title, url: record.contributor.absoluteUrl };
+    if (record.contributor && !record.attributionNote) article.author = { '@type': record.contributor.title === 'Actionable Team' ? 'Organization' : 'Person', '@id': record.contributor.absoluteUrl + '#person', name: record.contributor.title, url: record.contributor.absoluteUrl };
     if (record.modified) article.dateModified = record.modified;
     graph.push(book, article);
   } else if (['authors', 'team'].includes(record.family)) {
-    graph.push({ '@type': 'Person', '@id': record.absoluteUrl + '#person', name: record.title, url: record.absoluteUrl });
+    graph.push({ '@type': record.title === 'Actionable Team' ? 'Organization' : 'Person', '@id': record.absoluteUrl + '#person', name: record.title, url: record.absoluteUrl });
   } else if (record.family === 'blog') {
     const article = { '@type': 'BlogPosting', headline: record.title, description: record.description, mainEntityOfPage: record.absoluteUrl, publisher };
     if (record.published) article.datePublished = record.published;
     if (record.modified) article.dateModified = record.modified;
-    if (record.contributor) article.author = { '@type': 'Person', name: record.contributor.title, url: record.contributor.absoluteUrl };
+    if (record.contributor) article.author = { '@type': record.contributor.title === 'Actionable Team' ? 'Organization' : 'Person', '@id': record.contributor.absoluteUrl + '#person', name: record.contributor.title, url: record.contributor.absoluteUrl };
     graph.push(article);
   }
-  if (record.url === '/') graph.push({ '@type': 'WebSite', '@id': DOMAIN + '/#website', name: 'Actionable Books', url: DOMAIN + '/', publisher });
-  const parents = { summaries: ['Book summaries', '/summaries/'], authors: ['Book authors', '/authors/'], team: ['Contributors', '/team/'], blog: ['Articles', '/blog/'], lists: ['Reading lists', '/lists/'] };
+  const parents = { summaries: ['Book summaries', '/summaries/'], authors: ['Book authors', '/authors/'], team: ['Contributors', '/team/'], blog: ['Articles', '/blog/'], lists: ['Reading lists', '/lists/'], guides: ['Reading guides', '/guides/'] };
   if (parents[record.family]) {
     const [name, url] = parents[record.family];
     graph.push({ '@type': 'BreadcrumbList', itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Home', item: DOMAIN + '/' },
       { '@type': 'ListItem', position: 2, name, item: DOMAIN + url },
       { '@type': 'ListItem', position: 3, name: record.title, item: record.absoluteUrl }
+    ] });
+  } else if (record.url !== '/') {
+    graph.push({ '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: DOMAIN + '/' },
+      { '@type': 'ListItem', position: 2, name: record.title, item: record.absoluteUrl }
     ] });
   }
   return { '@context': 'https://schema.org', '@graph': graph };

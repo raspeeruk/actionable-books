@@ -109,7 +109,6 @@ f_amazon-url: https://www.amazon.com/dp/1400069289/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
 f_original-url: "https://www.actionablebooks.com/en-ca/summaries/the-power-of-habit/"
-f_attribution-note: "Contributor credit retained from the archive export; the original page byline has not been independently verified."
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/07/ActionableBooks-Audio-Power-of-Habit-v1.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/07/ActionableBooks-Audio-Power-of-Habit-v1.mp3)

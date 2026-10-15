@@ -1,58 +1,62 @@
 ---
 layout: guide-page.njk
-title: "Reading Guides"
+title: "Reading guides"
 permalink: /guides/index.html
-description: "Reading guides from Actionable Books — curated lists of the best non-fiction books on productivity, business, self-improvement and more."
+description: "Explore reading guides. Compare subjects and approaches, with links to matching original Actionable Books reviews where available."
 ---
 
-Reading more is one of the best investments you can make in yourself. But with hundreds of thousands of non-fiction books published every year, knowing *which* books deserve your time is a real challenge. These guides cut through the noise.
+Browse reading ideas by subject, then follow links to the original contributor reviews. These later guides are separate from the handwritten summary archive. Their order is a way to browse rather than a measured ranking.
 
-Each guide below has been put together by the team at Actionable Books, drawing on years of reading, summarising, and distilling the ideas that actually matter. Whether you're looking for the best productivity books to help you get more done, essential reading for your business, or books that will genuinely shift how you see yourself — we've done the curation work for you.
+## Choose a subject
 
-## Our Reading Guides
+### [Productivity books: choosing what to try](/guides/best-productivity-books/)
 
-**[The 20 Best Productivity Books of All Time, Ranked](/guides/best-productivity-books/)**
-From Deep Work and Atomic Habits to Getting Things Done and Essentialism — the definitive list of books that will transform how you spend your time and focus your energy.
+Choose priorities, capture commitments and protect time for useful work.
 
-**[25 Best Business Books for Entrepreneurs: The Essential Reading List](/guides/best-business-books-for-entrepreneurs/)**
-The books that serious founders and operators return to again and again. Organised by category: strategy, leadership, sales, culture, and growth.
+### [Business books for entrepreneurs](/guides/best-business-books-for-entrepreneurs/)
 
-**[30 Best Personal Development Books That Actually Work](/guides/best-books-for-personal-development/)**
-Not self-help fluff — evidence-based, practical books that address mindset, habits, relationships, resilience, and purpose in ways that stick.
+Explore startup strategy, management, sales, culture and finance.
 
-**[How to Read More Books: 15 Strategies That Actually Work](/guides/how-to-read-more-books/)**
-Building a reading habit is more about removing friction than finding motivation. This guide covers the systems, environments, and mindsets that turn sporadic reading into a daily practice.
+### [Personal development books: a reading guide](/guides/best-books-for-personal-development/)
 
-**[The 15 Best Investing Books, Ranked by Actual Investors](/guides/best-investing-books/)**
-From The Intelligent Investor and The Psychology of Money to Security Analysis and When Genius Failed — the books that have shaped how serious investors actually think about markets, risk, and long-term wealth.
+Compare approaches to habits, relationships, resilience and purpose.
 
-**[The 20 Best Leadership Books That Actually Change How You Lead](/guides/best-leadership-books/)**
-High Output Management, Extreme Ownership, Radical Candor, The Culture Code — the books that produce real changes in how you manage people, build teams, and create organisations that outperform.
+### [How to make more room for reading](/guides/how-to-read-more-books/)
 
-**[15 Best Personal Finance Books That Will Change Your Relationship With Money](/guides/best-finance-books/)**
-From I Will Teach You to Be Rich and Your Money or Your Life to The Simple Path to Wealth and Die with Zero — the books that address both the mechanics and the psychology of building lasting financial security.
+Try reading routines that fit your available time and interests.
 
-**[The 20 Best Marketing Books Every Marketer Should Read](/guides/best-marketing-books/)**
-Influence, Positioning, Breakthrough Advertising, $100M Offers, Contagious — the books that explain why people buy things, how ideas spread, and how to build marketing that produces results rather than impressions.
+### [Leadership books for different management needs](/guides/best-leadership-books/)
 
-**[Best Psychology Books: 15 Must-Reads That Explain Human Behaviour](/guides/best-psychology-books/)**
-Thinking Fast and Slow, Influence, The Power of Habit, The Body Keeps the Score — the books that actually explain why people think, feel, and behave the way they do. Essential reading for anyone who works with, sells to, or manages other human beings.
+Explore delegation, team dynamics, goals and management decisions.
 
-**[Best History Books: 15 Essential Reads to Understand the World](/guides/best-history-books/)**
-Sapiens, Guns Germs and Steel, Band of Brothers, The Devil in the White City — history that reads like a thriller and permanently changes how you see the forces that shaped the present.
+### [Marketing books: a guide to different approaches](/guides/best-marketing-books/)
 
-**[Best Biographies: 15 Life Stories That Will Change How You Think](/guides/best-biography-books/)**
-Steve Jobs, Long Walk to Freedom, Alexander Hamilton, Born a Crime — the life stories that illuminate not just exceptional individuals but what separates ordinary lives from remarkable ones.
+Compare positioning, persuasion, brand and experimentation frameworks.
 
-**[Best Science Books: 15 Reads That Make Complex Ideas Simple](/guides/best-science-books/)**
-A Brief History of Time, The Gene, The Selfish Gene, The Demon-Haunted World — science writing that makes the most complex ideas in physics, genetics, and biology genuinely accessible without dumbing them down.
+### [Personal finance books: ideas and limitations](/guides/best-finance-books/)
 
----
+Explore authors’ approaches to spending, debt and financial independence, with their assumptions in view.
 
-Every book mentioned in these guides has a full summary available on Actionable Books. Read the key ideas, decide which books deserve your full attention, and spend your reading hours where they matter most.
+### [Investing books: a guide to different perspectives](/guides/best-investing-books/)
 
-<div class="guide-cta">
-<h3>Save Hours on Every Book</h3>
-<p>Actionable Books summarises the key ideas from thousands of non-fiction books — so you can learn more, faster.</p>
-<a href="/summaries/">Browse Book Summaries →</a>
-</div>
+Compare investing perspectives, including costs, uncertainty and historical examples.
+
+### [History books and historical fiction: a reading guide](/guides/best-history-books/)
+
+Choose a historical subject and distinguish nonfiction from historical fiction.
+
+### [Biographies and memoirs: a reading guide](/guides/best-biography-books/)
+
+Explore biographies and memoirs, checking the author and subject.
+
+### [Psychology books: ideas, research and interpretation](/guides/best-psychology-books/)
+
+Read about psychological ideas while distinguishing book models from clinical guidance.
+
+### [Science books: a guide across subjects](/guides/best-science-books/)
+
+Explore physics, genetics, mathematics and scientific reasoning, with publication-era context.
+
+## Start with an original review
+
+The [summary archive](/summaries/) and [topic directory](/topics/) bring together named contributors’ perspectives. Only books with matching original reviews receive summary links in the guides. A title mentioned in a guide does not imply that the archive has a summary of that book.

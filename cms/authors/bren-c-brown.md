@@ -1,11 +1,11 @@
 ---
-title: Bren√© Brown
+title: Brené Brown
 f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Bren√©-Brown/'
 f_unique-id: '160'
 slug: bren-c-brown
 f_image:
   url: /assets/external/65d779c111fc1cf0a0004c99_brene.png
-  alt: Bren√© Brown
+  alt: Brené Brown
 updated-on: '2024-02-23T13:31:32.330Z'
 created-on: '2024-02-22T16:43:45.700Z'
 published-on: '2024-02-23T13:42:23.311Z'

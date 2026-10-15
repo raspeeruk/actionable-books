@@ -17,12 +17,12 @@ function createView(catalog) {
     }
   }
   directory('/summaries/', 'Book summaries', 'Find a book, read a contributor’s perspective and choose an idea to put into practice.', catalog.groups.summaries);
-  directory('/authors/', 'Book authors', 'Explore the authors whose books appear in the Actionable Books archive.', catalog.groups.authors);
-  directory('/team/', 'Summary contributors', 'Meet the readers who contributed summaries and articles to Actionable Books.', catalog.groups.team);
+  directory('/authors/', 'Book authors', 'Explore the authors whose books appear in the Actionable Books archive.', catalog.groups.authors.filter(r => !r.aliasOf));
+  directory('/team/', 'Summary contributors', 'Meet the readers who contributed summaries and articles to Actionable Books.', catalog.groups.team.filter(r => !r.aliasOf));
   directory('/blog/', 'Articles and interviews', 'Explore the original Actionable Books articles and author interviews. Dates and biographies describe the historical archive.', [...catalog.groups.blog].sort((a, b) => String(b.published).localeCompare(String(a.published))));
   directory('/lists/', 'Reading lists', 'Explore existing reading lists and follow their links to the original book summaries.', catalog.groups.lists);
   for (const r of catalog.records) {
-    if (['authors', 'team', 'summary-categories', 'blog-category'].includes(r.family)) {
+    if (!r.aliasOf && ['authors', 'team', 'summary-categories', 'blog-category'].includes(r.family)) {
       directory(r.url, r.family === 'team' ? `Writing by ${r.title}` : r.family === 'authors' ? `Books by ${r.title}` : r.family === 'summary-categories' ? `${r.title} book summaries` : r.family === 'blog-category' ? `${r.title} articles` : r.title,
         r.description, [...r.summaries, ...r.articles]);
     }
@@ -43,8 +43,11 @@ function createView(catalog) {
     } catch (_) { /* A missing historical URL is not an invented redirect. */ }
   }
   for (const topic of catalog.groups['blog-category']) redirectMap.set('/blog/categories/' + topic.slug + '/', topic.url);
-  const redirects = [...redirectMap].sort(([a], [b]) => a.localeCompare(b)).map(([from, to]) => `${from} ${to} 301`);
-  return { domain: DOMAIN, groups, featured, directories, directoryByUrl, extraDirectories: directories.filter(d => d.page > 1), indexableUrls, redirects,
+  for (const [from, to] of Object.entries(catalog.repairs.links || {})) redirectMap.set(from, to);
+  for (const [from, to] of Object.entries(catalog.repairs.aliases || {})) redirectMap.set(from, to);
+  const redirects = [...redirectMap].sort(([a], [b]) => a.localeCompare(b)).map(([from, to]) => `${from} ${to} 301${catalog.repairs.aliases?.[from] ? '!' : ''}`);
+  const indexableEntries = indexableUrls.map(url => ({ url, modified: catalog.byUrl[url]?.modified?.slice(0, 10) || null }));
+  return { domain: DOMAIN, groups, featured, directories, directoryByUrl, extraDirectories: directories.filter(d => d.page > 1), indexableUrls, indexableEntries, redirects,
     summaryCount: catalog.groups.summaries.length, contributorCount: catalog.groups.team.length };
 }
 
@@ -55,8 +58,8 @@ function entryFor(catalog, input, url, title, description) {
     description: description || 'Free book summaries and practical insights from Actionable Books.', family: 'page', noindex: url === '/404.html' };
 }
 
-function entrySchema(entry) {
-  return schemaFor(entry);
+function entrySchema(entry, directory) {
+  return schemaFor(directory ? { ...entry, title: directory.title, metaTitle: directory.title + ' | Actionable Books', description: directory.description } : entry);
 }
 
 module.exports = { card, createView, entryFor, entrySchema };

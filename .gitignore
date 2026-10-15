@@ -2,3 +2,6 @@
 
 # Fresh reproducible Eleventy output; public/ is the retained legacy snapshot.
 /dist/
+
+# Local Netlify CLI cache and linked account state.
+/.netlify/

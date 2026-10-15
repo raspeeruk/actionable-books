@@ -1,5 +1,5 @@
 ---
-title: Best Books for New Managers
+title: "Start managing a team"
 slug: best-books-for-new-managers
 created-on: '2026-03-03T15:51:50.853Z'
 published-on: '2026-03-04T06:00:00.000Z'

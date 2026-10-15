@@ -4,5 +4,5 @@ eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{% for url in library.indexableUrls %}<url><loc>{{ library.domain }}{{ url }}</loc></url>
+{% for entry in library.indexableEntries %}<url><loc>{{ library.domain }}{{ entry.url }}</loc>{% if entry.modified %}<lastmod>{{ entry.modified }}</lastmod>{% endif %}</url>
 {% endfor %}</urlset>

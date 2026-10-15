@@ -1,5 +1,5 @@
 ---
-title: Emma Seppala
+title: "Emma Seppälä"
 f_original-url: https://www.actionablebooks.com/en-ca/authors/emma-seppala/
 f_unique-id: '9'
 slug: emma-seppala

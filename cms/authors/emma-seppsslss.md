@@ -1,5 +1,5 @@
 ---
-title: Emma Sepp√§L√§
+title: Emma Seppälä
 f_original-url: https://www.actionablebooks.com/en-ca/authors/Emma-Sepp√§l√§/
 f_unique-id: '657'
 slug: emma-seppsslss

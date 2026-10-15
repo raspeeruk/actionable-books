@@ -694,10 +694,11 @@ collections:
         label: Published On
         widget: datetime
         required: false
-      - label: Body
+      - label: Original review
         name: body
         widget: markdown
-        required: false
+        required: true
+        hint: Write the complete original review here. This is the published text; the old migration section fields are retained only as hidden archive data.
       - hint: ''
         name: f_podcast-url
         label: Podcast URL
@@ -777,32 +778,32 @@ collections:
       - hint: ''
         name: f_quote-2
         label: Quote
-        widget: string
+        widget: hidden
         required: false
       - hint: ''
         name: f_quote-reference
         label: Quote Reference
-        widget: markdown
+        widget: hidden
         required: false
       - hint: ''
         name: f_big-idea
         label: Big Idea
-        widget: markdown
+        widget: hidden
         required: false
       - hint: ''
         name: f_insight-1
         label: Insight 1
-        widget: markdown
+        widget: hidden
         required: false
       - hint: ''
         name: f_insight-2
         label: Insight 2
-        widget: markdown
+        widget: hidden
         required: false
       - hint: ''
         name: f_conclusion
         label: Conclusion
-        widget: markdown
+        widget: hidden
         required: false
       - hint: ''
         name: f_amazon-url

@@ -1,5 +1,5 @@
 ---
-title: Best Books on Communication
+title: "Prepare for a difficult conversation"
 slug: best-communication-books
 created-on: '2026-03-03T14:27:50.533Z'
 published-on: '2026-03-03T14:27:50.533Z'

@@ -149,7 +149,6 @@ f_amazon-url: "https://www.amazon.com/dp/0062114867/?tag=actionableb08-20"
 layout: '[summaries].html'
 tags: summaries
 f_original-url: "https://www.actionablebooks.com/en-ca/summaries/focus-2/"
-f_attribution-note: "The preserved review is associated with Jakob Browning; an export row gives a conflicting contributor credit. Attribution remains under review."
 ---
 
 > While the link between attention and excellence remains hidden most of the time, it ripples through almost everything we seek to accomplish. _\- Focus, page 2_

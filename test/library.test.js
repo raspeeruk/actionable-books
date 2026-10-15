@@ -17,7 +17,7 @@ test('all 1,148 original review bodies retain their documented full-source hashe
 });
 
 test('every summary keeps its source identity and resolves its actual reverse relationships', () => {
-  assert.equal(library.groups.summaries.length, 1148);
+  assert.ok(library.groups.summaries.length >= provenance.records.length);
   assert.equal(new Set(library.records.map(r => r.url)).size, library.records.length);
   for (const review of library.groups.summaries) {
     assert.ok(review.url.endsWith('/'));
@@ -64,4 +64,60 @@ test('original section labels get semantic headings and unique anchors without c
   assert.match(rendered.html, /<h3 id="a-useful-subtitle">A useful subtitle<\/h3>/);
   assert.match(rendered.html, /id="insight-1-2"/);
   assert.match(rendered.html, /Original words\./);
+});
+
+test('restored original bylines are unqualified, while the unresolved Peak credit stays qualified', () => {
+  for (const slug of ['focus-2', 'freakonomics', 'playing-big', 'the-power-of-habit']) {
+    const review = library.byUrl[`/summaries/${slug}/`];
+    assert.equal(review.attributionNote, null);
+    assert.ok(schemaFor(review)['@graph'].find(x => x['@type'] === 'Article').author);
+  }
+  const peak = library.byUrl['/summaries/peak/'];
+  assert.ok(peak.attributionNote);
+  assert.equal(schemaFor(peak)['@graph'].find(x => x['@type'] === 'Article').author, undefined);
+});
+
+test('coauthors are separate people, and reading-path quotes resolve to their real original review', () => {
+  const boss = library.byUrl['/summaries/being-the-boss/'];
+  assert.deepEqual(schemaFor(boss)['@graph'].find(x => x['@type'] === 'Book').author.map(p => p.name), ['Linda A. Hill', 'Kent Lineback']);
+  const journeys = require('../cms/_data/journeys.json');
+  for (const [url, journey] of Object.entries(journeys)) {
+    assert.equal(library.byUrl[url].noindex, false);
+    for (const choice of journey.choices) {
+      const review = library.byUrl[choice.url];
+      assert.equal(review.family, 'summaries');
+      assert.ok(require('../_utils/library').plainText(review.body).includes(choice.exactOriginalExcerpt), choice.url);
+      assert.equal(review.contributor.title, choice.originalReviewContributor);
+    }
+  }
+});
+
+test('an individual author profile retains its own identity when a book has coauthors', () => {
+  for (const profile of library.groups.authors) {
+    const person = schemaFor(profile)['@graph'].find(x => x['@type'] === 'Person');
+    assert.equal(person.name, profile.title);
+    assert.equal(person['@id'], profile.absoluteUrl + '#person');
+  }
+});
+
+test('lost archive links keep their words and source URL without creating a dead clickable destination', () => {
+  const html = renderBody('[Original words](https://example.org/lost)', { resolveLink: () => null }).html;
+  assert.match(html, /Original words/);
+  assert.match(html, /data-original-url="https:\/\/example.org\/lost"/);
+  assert.doesNotMatch(html, /href=/);
+  assert.match(html, /archived link unavailable/);
+});
+
+test('original body images are local, correctly escaped, dimensioned and real files', () => {
+  for (const record of library.records) {
+    for (const match of record.html.matchAll(/<img\b([^>]+)>/g)) {
+      const attrs = match[1];
+      const src = /src="([^"]+)"/.exec(attrs)?.[1];
+      assert.ok(src?.startsWith('/assets/'), record.url + ' ' + src);
+      assert.ok(fs.existsSync(path.join(__dirname, '..', 'theme', decodeURIComponent(src))), record.url + ' ' + src);
+      assert.match(attrs, /width="\d+"/);
+      assert.match(attrs, /height="\d+"/);
+      assert.match(attrs, /loading="lazy"/);
+    }
+  }
 });

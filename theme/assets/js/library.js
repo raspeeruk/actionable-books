@@ -15,6 +15,15 @@
   let analyticsLoaded = false;
   try { choice = localStorage.getItem(consentKey); } catch (_) { /* Session choice still works if storage is unavailable. */ }
   const pageUrl = location.origin + location.pathname;
+  // Accept only the three reviewed placement identifiers. Arbitrary URL text,
+  // including search terms, never becomes an Analytics campaign field.
+  function campaignFields() {
+    const p = new URLSearchParams(location.search);
+    const placements = { 'p01-coaching-conversation': 'linkedin', 'p02-purpose-decision': 'linkedin', 'p03-autonomy-experiment': 'medium' };
+    const content = p.get('utm_content');
+    if (p.get('utm_medium') !== 'referral' || p.get('utm_campaign') !== 'external-search-pilot' || placements[content] !== p.get('utm_source')) return {};
+    return { campaign_source: placements[content], campaign_medium: 'referral', campaign_name: 'external-search-pilot', campaign_content: content };
+  }
   const cleanReferrer = () => { try { const url = new URL(document.referrer); return url.origin + url.pathname; } catch (_) { return ''; } };
   function loadAnalytics() {
     if (analyticsLoaded || choice !== 'granted') return;
@@ -24,7 +33,7 @@
     window.gtag = function () { window.dataLayer.push(arguments); };
     window.gtag('consent', 'default', { analytics_storage: 'granted', ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied' });
     window.gtag('js', new Date());
-    window.gtag('config', measurementId, { send_page_view: false, page_location: pageUrl, page_referrer: cleanReferrer(), allow_google_signals: false, allow_ad_personalization_signals: false });
+    window.gtag('config', measurementId, { send_page_view: false, page_location: pageUrl, page_referrer: cleanReferrer(), allow_google_signals: false, allow_ad_personalization_signals: false, ...campaignFields() });
     window.gtag('event', 'page_view', { page_location: pageUrl, page_referrer: cleanReferrer(), page_title: document.title });
     const script = document.createElement('script'); script.async = true; script.src = 'https://www.googletagmanager.com/gtag/js?id=' + measurementId; document.head.append(script);
   }
@@ -65,7 +74,7 @@
       fetch('/_data/search-index.json').then(response => { if (!response.ok) throw new Error('Search unavailable'); return response.json(); }).then(books => {
         const terms = query.toLocaleLowerCase().split(/\s+/).filter(Boolean);
         const matches = books.filter(book => terms.every(term => (book.title + ' ' + book.authorName).toLocaleLowerCase().includes(term)));
-        status.textContent = matches.length ? `${matches.length} matching summaries${matches.length > 60 ? '. Showing the first 60' : ''}.` : 'No matching summaries. Try a shorter title or an author’s name.';
+        status.textContent = matches.length ? `${matches.length} matching ${matches.length === 1 ? 'summary' : 'summaries'}${matches.length > 60 ? '. Showing the first 60' : ''}.` : 'No matching summaries. Try a shorter title or an author’s name.';
         const list = document.createElement('ul'); list.className = 'search-results-list';
         for (const book of matches.slice(0, 60)) {
           const item = document.createElement('li'), heading = document.createElement('h2'), link = document.createElement('a'), author = document.createElement('p'), text = document.createElement('p');

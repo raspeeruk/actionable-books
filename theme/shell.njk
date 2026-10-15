@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ metaTitle }}</title>
   <meta name="description" content="{{ metaDescription }}">
-  <link rel="canonical" href="https://actionablebooks.com{{ page.url }}">
+  <link rel="canonical" href="https://actionablebooks.com{{ entry.aliasOf or page.url }}">
   {% if entry.noindex or directory.noindex %}<meta name="robots" content="noindex,follow">{% endif %}
   <meta property="og:title" content="{{ metaTitle }}">
   <meta property="og:description" content="{{ metaDescription }}">
@@ -25,7 +25,7 @@
   <link rel="preload" href="/assets/fonts/commissioner-normal.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/assets/fonts/alegreya-normal.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="/assets/css/library.css">
-  <script type="application/ld+json">{{ entry | entrySchema | jsonLd | safe }}</script>
+  <script type="application/ld+json">{{ entry | entrySchema(directory) | jsonLd | safe }}</script>
   <script src="/assets/js/library.js" defer></script>
 </head>
 <body>

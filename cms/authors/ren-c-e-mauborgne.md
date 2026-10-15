@@ -1,11 +1,11 @@
 ---
-title: Ren√©E Mauborgne
+title: Renée Mauborgne
 f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Ren√©e-Mauborgne/'
 f_unique-id: '91'
 slug: ren-c-e-mauborgne
 f_image:
   url: /assets/external/65d77a426669606bb68b145d_renee_mauborgne.jpeg
-  alt: Ren√©E Mauborgne
+  alt: Renée Mauborgne
 f_summaries:
   - cms/summaries/blue-ocean-strategy.md
 updated-on: '2024-02-23T13:30:45.045Z'
