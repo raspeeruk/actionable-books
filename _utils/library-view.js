@@ -45,7 +45,7 @@ function createView(catalog) {
   for (const topic of catalog.groups['blog-category']) redirectMap.set('/blog/categories/' + topic.slug + '/', topic.url);
   for (const [from, to] of Object.entries(catalog.repairs.links || {})) redirectMap.set(from, to);
   for (const [from, to] of Object.entries(catalog.repairs.aliases || {})) redirectMap.set(from, to);
-  const redirects = [...redirectMap].sort(([a], [b]) => a.localeCompare(b)).map(([from, to]) => `${from} ${to} 301${catalog.repairs.aliases?.[from] ? '!' : ''}`);
+  const redirects = [...redirectMap].sort(([a], [b]) => a.localeCompare(b)).map(([from, to]) => `${from} ${DOMAIN}${to} 301${catalog.repairs.aliases?.[from] ? '!' : ''}`);
   const indexableEntries = indexableUrls.map(url => ({ url, modified: catalog.byUrl[url]?.modified?.slice(0, 10) || null }));
   return { domain: DOMAIN, groups, featured, directories, directoryByUrl, extraDirectories: directories.filter(d => d.page > 1), indexableUrls, indexableEntries, redirects,
     summaryCount: catalog.groups.summaries.length, contributorCount: catalog.groups.team.length };

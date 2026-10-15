@@ -24,6 +24,14 @@ function cleanBody(body) {
   return String(body || '').split(/\n\s*\n/).filter(block => !TOOLTIP_BLOCKS.has(block.trim())).join('\n\n').trim();
 }
 
+function repairProfileEncoding(body) {
+  // Exact UTF-8-as-MacRoman export artifacts in historical biographies.
+  // Keep their source files and every original review body unchanged.
+  const characters = { '√©': 'é', '√®': 'è', '√°': 'á', '√§': 'ä', '√∂': 'ö', '√º': 'ü', '√±': 'ñ', '√Ñ': 'Ä', '‚Äô': '’', '‚Äò': '‘', '‚Äú': '“', '‚Äù': '”', '‚Äì': '-', '‚Äî': '-', '‚Ä¶': '…', '¬†': ' ' };
+  for (const [broken, restored] of Object.entries(characters)) body = body.replaceAll(broken, restored);
+  return body;
+}
+
 function plainText(markdown) {
   return md.render(String(markdown || ''))
     .replace(/<[^>]*>/g, ' ')
@@ -158,7 +166,7 @@ function createLibrary(root = ROOT) {
       const input = `cms/${family}/${filename}`;
       const source = matter.read(path.join(root, input));
       const data = source.data;
-      const body = cleanBody(source.content);
+      const body = ['authors', 'team'].includes(family) ? repairProfileEncoding(cleanBody(source.content)) : cleanBody(source.content);
       const url = routeFor(family, filename.slice(0, -3), data);
       let image = data.f_image?.url;
       if (image?.startsWith('/') && !fs.existsSync(path.join(root, 'theme', image))) {
