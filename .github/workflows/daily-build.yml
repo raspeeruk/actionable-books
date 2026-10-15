@@ -1,8 +1,6 @@
 name: Verify and Publish Actionable Books
 
 on:
-  pull_request:
-    branches: [main]
   push:
     branches: [main]
   workflow_dispatch: {}    # Manual trigger from GitHub UI
