@@ -1,0 +1,10 @@
+<section class="reading-journey" aria-label="A reading path">
+  <p class="lede">{{ entry.journey.need }}</p>
+  <p>{{ entry.journey.selectionOrderReason }}</p>
+  <p class="small">Selection notes use AI-assisted editorial review of the preserved summaries. Excerpts below are the original contributors’ words; the suggested actions and limitations are later editorial notes.</p>
+  <ol class="reading-list">
+  {% for choice in entry.journey.choices %}
+    <li><p class="eyebrow">{{ choice.readerSituation }}</p><h2><a href="{{ choice.url }}">{{ choice.book }}</a></h2><p>By {{ choice.bookAuthor }}</p><p>{{ choice.whyThisFits }}</p><blockquote><p>{{ choice.exactOriginalExcerpt }}</p><cite>From {{ choice.originalReviewContributor }}’s original review</cite></blockquote><p><strong>Something to try:</strong> {{ choice.readerAction }}</p><p class="small"><strong>Keep in mind:</strong> {{ choice.limitations }}</p><a href="{{ choice.url }}">Read the original summary →</a></li>
+  {% endfor %}
+  </ol>
+</section>

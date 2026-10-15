@@ -1,10 +1,10 @@
 ---
-title: Staffan N√∂Teberg
+title: Staffan Nöteberg
 f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Staffan-N√∂teberg/'
 f_unique-id: '711'
 f_image:
   url: /assets/external/65d77a529230a02f00d0c84b_staffan.jpeg
-  alt: Staffan N√∂Teberg
+  alt: Staffan Nöteberg
 slug: staffan-nteberg
 f_summaries:
   - cms/summaries/the-pomodoro-technique-illustrated.md

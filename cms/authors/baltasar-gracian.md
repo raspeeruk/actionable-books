@@ -1,5 +1,5 @@
 ---
-title: Baltasar Gracian
+title: "Baltasar Gracián"
 f_original-url: https://www.actionablebooks.com/en-ca/authors/baltasar-gracian/
 f_unique-id: '15'
 slug: baltasar-gracian

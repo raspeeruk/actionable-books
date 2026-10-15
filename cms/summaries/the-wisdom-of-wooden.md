@@ -161,4 +161,106 @@ f_insight-2: >-
   And we’d be wise to follow it as well.
 ---
 
+> "At some point Sports Illustrated concluded: 'There has never been a finer coach in American sports. Nor a finer man.' It's the last part – ‘nor a finer man’ – that makes John Wooden JOHN WOODEN."
+> 
+> _\- The Wisdom of Wooden, page 1_
 
+[https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/10/ActionableBooks-Audio-The-Wisdom-of-Wooden.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/10/ActionableBooks-Audio-The-Wisdom-of-Wooden.mp3)
+
+Podcast: [Play in new window](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/10/ActionableBooks-Audio-The-Wisdom-of-Wooden.mp3 "Play in new window") | [Download](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/10/ActionableBooks-Audio-The-Wisdom-of-Wooden.mp3 "Download")
+
+If you were to tell me that there was a picture of Coach John Wooden in the dictionary under “Success,” I wouldn’t be surprised.
+
+Born on October 14, 1910, Coach John Wooden was one of the most successful NCAA Basketball coaches in history; leading UCLA to 10 NCAA Championships in a 12-year span from 1963 to 1975, including four perfect 30-0 seasons, a record 88 game win streak, and, at one point, winning _7_ _straight_ championships.
+
+ESPN ranks him as the greatest coach of all time – in _all sports_ – and he is the first person to be inducted in the Basketball Hall of Fame as both a player and coach.
+
+But what made “Coach” – as he’s affectionately known – so successful, was more than basketball.
+
+His legacy went beyond the basketball court.  
+He was more than a Coach.  
+More than a Teacher.  
+More than a Mentor.
+
+He was a person with a genuine interest in bringing out greatness in everyone: be it the players he coached, students he taught, children he raised, or lives he touched.
+
+_“From the first days of my first week as a teacher and coach, I loved my job because of the great opportunity it gave me to change the lives of youngsters in a positive way.”_
+
+Coach inspired and motivated everyone around him through a simple, yet profound, philosophy.
+
+### The Big Idea
+
+### Make Each Day Your Masterpiece
+
+> "You cannot change yesterday, and a better tomorrow will be the result of what you do today. If you do your best, angels can do no better. And this present moment – right now – is when you have that opportunity."
+> 
+> \- The Wisdom of Wooden, page 8
+
+Make Each Day Your Masterpiece.  
+Read the previous sentence again: _Make. **Each** Day. Your **Masterpiece!**_
+
+If there’s one piece of advice Coach wanted us to learn and apply fully, it was this:  Imagine not only the possibilities, but progress and experience you would have if each day was _truly_ your masterpiece.
+
+_“Thus, if I may offer you one piece of advice that I hope you’ll apply after reading our book, it is this suggestion from my father: ‘Make_ each _day your masterpiece.’ When you do that as the weeks and months and years (and, for me, century) unfold behind you, you’ll have the deepest self-satisfaction knowing your life has really meant something.”_
+
+### Insight #1
+
+### Redefine Success
+
+> "Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best you are capable of becoming."
+> 
+> \- The Wisdom of Wooden, page 54
+
+As a high school English teacher and basketball coach, Coach didn’t agree with the traditional definition of success everyone had at the time; the belief that success should be strictly measured by outcome.  He believed it was _“_grossly invalid and unfair” to judge success by the number of victories a team had or the number of A’s a student had.
+
+Coach believed success was about much more than just the end result.  
+More than another “A”.  
+More than another win.  
+And more than another trophy.
+
+That’s not to say Coach didn’t care about winning and losing. He did.  
+He just felt there was _something_ more important than winning and losing.
+
+_“I want to be clear about something: Winning or losing matters. Why else would we keep score? When you win it usually feels good. Losing hurts, and it should. But my belief is that winning and losing are a by-product, offshoot, consequence of something more important. That’s why in my early years of teaching, I sought to figure out what that ‘something’ was.”_
+
+So in 1932, he created his own definition of success.  
+A definition which he shared in his [memorable TEDTalk in 2001](http://www.ted.com/talks/lang/eng/john_wooden_on_the_difference_between_winning_and_success.html).  
+A definition he felt was _“_a more realistic and honest appraisal of success”:
+
+_“My definition of success, my concept of what constitutes ‘greatness’ in an individual or a team and how to achieve those lofty goals, is put in perspective with a simple directive: Do not judge yourself by what you have achieved but rather by what you could and should have achieved given your potential – if you’d never ceased trying to be the best you could be.”_
+
+It’s an interesting dichotomy to think of a coach best known for “winning” as defining success by effort.  Perhaps an explanation lies in the quantifiable success you naturally have when you put the emphasis on effort – on something you have complete control over.  It’s sort of like the business person who focuses on work they love and make great money as a result, versus the person who works strictly for the money.
+
+**Do you define success by mastering that which you have control over, or by outside recognition beyond your control?**
+
+### Insight #2
+
+### Follow the Pyramid of Success
+
+> "The Pyramid of Success contains the fifteen qualities I chose as prerequisites for success as I define it."
+> 
+> \- The Wisdom of Wooden, page 54
+
+Coach didn’t stop with a new definition of success.
+
+He felt he _“_owed it to \[his\] students to help them understand what they must do to achieve success”, so he created the (now famous) Pyramid of Success: a combination of 15 personal qualities he felt were prerequisites for success.
+
+Knowing that the strength of the pyramid lies in its foundation, Coach intentionally chose Industriousness and Enthusiasm as its cornerstones, with Competitive Greatness as its peak.
+
+_“The very first blocks that I selected for the Pyramid of Success were Industriousness and Enthusiasm. When your work is no more than a grind, you cannot perform up to your highest level. A little fun is part of Enthusiasm.”_
+
+![](http://actionablebooks.com/wp-content/uploads/2011/10/wooden_pyramid.jpg)
+
+As you move up the Pyramid of Success, you get a sense for not only the wisdom, but the values Coach lived and passed on. You begin to understand why his teachings have been at the heart of several success stories and why the Pyramid of Success was not only turned into a children’s book, but also followed by countless others.
+
+And we’d be wise to follow it as well.
+
+_The Wisdom of Wooden_ isn’t your typical leadership or business book – in fact, it _isn’t_ a business book. It’s a collection of stories, philosophies, teachings, poems and pictures that have been at the heart of Coach John Wooden’s life;  a life which happens to be one of the greatest legacies of the 20th century.
+
+This also happens to be one of the most powerful books I’ve read, loaded with not only principles on success, but life in general.
+
+Thanks for that, Coach. RIP.
+
+PS: If you looked back on your day today, can you truly say, without a doubt, that it was your _masterpiece_?
+
+_“Thus, if I may offer you one piece of advice that I hope you’ll apply after reading our book, it is this suggestion from my father: ‘Make_ each _day your masterpiece.’ When you do that as the weeks and months and years (and, for me, century) unfold behind you, you’ll have the deepest self-satisfaction knowing your life has really meant something.”_

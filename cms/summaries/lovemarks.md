@@ -124,6 +124,7 @@ f_quote-2: >-
 f_amazon-url: 'https://www.amazon.com/dp/1576872041/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_author-plain-text: "Kevin Roberts"
 ---
 
 > "Lovemarks are the brands, events and experiences that people love. Not just like or admire but love passionately. For great brands to survive they must create loyalty beyond reason in consumers." _\- Lovemarks, inside cover_

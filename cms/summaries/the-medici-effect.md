@@ -9,7 +9,7 @@ f_image:
   url: /assets/external/65d780d8476f5b2ebbd79a3c_medici_effect.jpeg
   alt: The Medici Effect book cover
 f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/the-medici-effect/'
-f_author-plain-text: Bill Hortz
+f_author-plain-text: "Frans Johansson"
 f_author: cms/authors/frans-johansson.md
 f_category-3: cms/summary-categories/self-management.md
 f_team-2: cms/team/bill-hortz.md

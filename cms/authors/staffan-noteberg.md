@@ -1,5 +1,5 @@
 ---
-title: Staffan Noteberg
+title: "Staffan Nöteberg"
 f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Staffan-Noteberg/'
 f_unique-id: '10'
 f_image:

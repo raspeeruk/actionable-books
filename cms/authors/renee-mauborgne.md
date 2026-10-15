@@ -1,5 +1,5 @@
 ---
-title: Renee Mauborgne
+title: "Renée Mauborgne"
 f_original-url: 'https://www.actionablebooks.com/en-ca/authors/renee-mauborgne/'
 f_unique-id: '14'
 f_image:

@@ -110,6 +110,7 @@ f_quote-2: >-
 f_amazon-url: 'https://www.amazon.com/dp/1250013747/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_author-plain-text: "Thomas Friedman"
 ---
 
 > "Fasten your seat belts and put your seat backs and tray tables into a fixed and upright position." _\- The Lexus and the Olive Tree, page 462_

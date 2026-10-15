@@ -142,6 +142,7 @@ f_quote-2: >-
 f_amazon-url: 'https://www.amazon.com/dp/0802121403/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_author-plain-text: "Dani Shapiro"
 ---
 
 > "Everything you need to know about life can be learned from a genuine and ongoing attempt to write." _\- Still Writing, page 1_

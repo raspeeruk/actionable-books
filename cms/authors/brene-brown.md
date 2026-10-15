@@ -1,5 +1,5 @@
 ---
-title: Brene Brown
+title: "Brené Brown"
 f_original-url: 'https://www.actionablebooks.com/en-ca/authors/Brene-Brown/'
 f_unique-id: '5'
 f_image:

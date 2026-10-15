@@ -2,9 +2,8 @@
 permalink: /llms-full.txt
 eleventyExcludeFromCollections: true
 ---
-# Actionable Books — Full Summary Index
-# Format: Title | Author | URL
-# Total: {{ collections.summaries.length }} summaries
-#
-{% for item in collections.summaries %}{{ item.data.title }} | {{ item.data['f_author-plain-text'] }} | https://www.actionablebooks.com{{ item.url }}
+# Actionable Books summary index
+# Format: Book title | Book author | Canonical summary URL
+# Total: {{ library.summaryCount }} summaries
+{% for item in library.groups.summaries %}{{ item.title | safe }} | {{ item.authorName | safe }} | https://actionablebooks.com{{ item.url }}
 {% endfor %}

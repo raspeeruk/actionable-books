@@ -11,7 +11,7 @@ f_image:
 f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/daring-greatly/'
 f_podcast-url: >-
   https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/01/ActionableBooks-Audio-Daring-Greatly.mp3
-f_author-plain-text: Bren√© Brown
+f_author-plain-text: Brené Brown
 f_author: cms/authors/bren-c-brown.md
 f_category-3: cms/summary-categories/effective-communication.md
 f_team-2: cms/team/jennifer-knighton.md

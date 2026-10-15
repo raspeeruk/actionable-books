@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_author-plain-text: Bob Chapman
 f_author: cms/authors/bob-chapman.md
 f_category-3: cms/summary-categories/role-and-culture-fit.md
-f_team-2: cms/team/jane-bushby.md
+f_team-2: "cms/team/jill-donahue.md"
 f_big-idea: >-
   ### It’s all about the leaders
 
@@ -135,68 +135,93 @@ f_quote-2: >-
 f_amazon-url: https://www.amazon.com/dp/B00SI02E5S/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
+f_original-url: "https://www.actionablebooks.com/en-ca/summaries/everybody-matters-2/"
 ---
 
-> "When we say our people matter but we don’t actually care for them, it can shatter trust and create a culture of paranoia, cynicism, and self-interest." _\- Everybody Matters, page ix_
+> “We’ve paid people for their hands for years, but they would’ve gladly given us their heads and hearts for free if we’d only known how to ask.” _\- Everybody Matters, page 177_
 
-The concept in _Everybody Matters_ is that treating our colleagues and staff like family will create an organisational climate that is conducive to employee and community well-being and delivers returns for the organisation.
+What if there was a better way to do business? A way to make it, well, more fun? Bob Chapman and Raj Sisodia wrote this book to show the world that business **can** be done a better way. They started out as leaders who put profit before people, who always thought about costs, never about caring. Eventually they realized it is all about the people. They learned that great leadership, truly “human leadership,” brings our deepest sense of authentic caring and high ideals to business. And it is much different than the leadership they learned about in business school!
 
-Having learnt from early experiences, Bob Chapman has made it his life’s ambition to create workplaces where all people feel valued. He and Raj Sisodia recognise that this impacts positively on an organisation’s outputs, and they emphasise it is important to focus on individuals and their well-being as this creates ripples across the organisation and the community. This focus is necessary to ensure that caring for and having the right approach towards others is authentic and sustained. Bob and Raj argue that achieving this creates positive flow on effects for the organisation’s productivity and outputs, as all employees inherently want their organisation to succeed. Bob has an impressive track record of taking over struggling (often dying) companies and transforming them into market leaders. This book outlines how he achieves this, quite simply by treating individuals with respect and trusting them to have the answers.
+Their transformation began with the simple idea to make work more fun. From there they shaped a culture that’s being emulated nationally and even worldwide. Their culture is full of **caring,** **recognition,** **celebration,** and, as they say “holding up the goodness in people”. They discovered that the more they searched and shone a light on the goodness, the more they found.
+
+They share the wisdom they gleaned successfully leading Barry-Wehmiller for forty years. They were able to pare down that wisdom to just two words: _Everybody matters_. They realized that when you treat people superbly and pay them fairly, you can not only compete globally but also enrich and elevate the lives of everyone the business touches.
+
+How? Below are just three ideas they share. They don’t just want to help leaders in every field, they want to create a revolution. They want us all to use their discoveries to lead lives of meaning and fulfillment for ourselves and those we impact with our leadership.
 
 ### The Big Idea
 
 The Big Idea: The biggest takeaway from the book
 
-### It’s all about the leaders
+### It’s All About the People!
 
-> "Leaders are responsible for overseeing the environment in which people are asked to work… and people will act in accordance with that culture."- Everybody Matters, page ix
+> "In the end, it is about truly caring for every precious human being whose life we touch."- Everybody Matters, page 15
 
-Bob and Raj make it very clear that it’s about the leaders and how they behave that creates the workplace climate. Their leadership philosophy is firmly grounded in the responsibility that leaders, much as parents, have for role modelling and authentically demonstrating desired behaviours. Indeed, many of the actions identified for improving the workplace are seen as starting with the leader. Establishing the expectations of leadership and what it is to be an employee of Barry-Wehmiller (Bob’s organization) is the first step towards creating a strong and desirable workplace climate. Consistent with this approach, they developed a Leadership Checklist (see below) which outlines what is required of an individual assuming this responsibility.
+To start, their vision statement calls for them to measure their success by the way they touch the lives of others. Their approach to transformation, rejuvenation and renewed growth has been proven to create tremendous shareholder value in dozens of companies in different industries and cultures globally. The key pillars of their approach include:
 
-**Leadership Checklist**
+1.  Establish a shared long-term vision
+2.  Foster a people-centric culture
+3.  Develop leaders from within
+4.  Send people home fulfilled
 
-I accept the awesome responsibility of leadership. The following statements describe my essential actions as a leader.
+It is about living with an abundance mentality; abundance of patience, love, hope and opportunity.
 
-*   I practice stewardship of the Guiding Principles of Leadership through my time, conversations, and personal development.
-*   I advocate safety and wellness through my actions and words.
-*   I reflect to lead my team in Achieving Principled Results on Purpose.
-*   I inspire passion, optimism and purpose.
-*   My personal communication cultivates fulfilling relationships.
-*   I foster a team community in which we are committed to each other and to the pursuit of common goals.
-*   I exercise responsible freedom, empowering each of us to achieve our potential.
-*   I proactively engage in the personal growth of individuals on my team.
-*   I facilitate meaningful group interactions.
-*   I set, coach to, and measure goals that define winning.
-*   I commit to daily continuous improvement.
+They share seven universal principles that can guide any team:
 
-To support embedding their culture, they have developed their own internal leadership development program which involves individuals considering “leadership as a conscious commitment rather than a title or a role description”. As a consequence, individuals decide when they are ready to attend the program and to be open to learning what this conscious commitment involves.
+1.  Every human being matters and is unique.
+2.  Evolution has a purpose.
+3.  The most powerful energy in the universe, and thus in human beings and in organizations, is caring.
+4.  The more we can combine work and caring, the more fulfilled we will be and the further we will collectively advance.
+5.  Individuals can choose to operate at a higher plane of consciousness or not.
+6.  Organizations can be built for resilience and inspired to care.
+7.  This is a journey with no end point.
+
+Leaders learn to inspire people to solve problems rather than trying to manage them out of problems. Offering and developing deep trust is the essential foundation of great leadership. And this is built on respect and caring which replaces the typical fear and anxiety often felt at work.
 
 ### Insight #1
 
 An actionable way to implement the Big Idea into your life
 
-### Believe in other people’s strengths and celebrate their skills
+### Create the Culture
 
-> "Encourage and insist that each team member – every member of the family – play to his strengths so that each one has the opportunity to become great at what they’re good at."- Everybody Matters, page 73
+> "Most businesses use people to build products and make money; we use our products to build people."- Everybody Matters, page 123
 
-There are some great examples of leadership that are not hierarchically based which links to this first GEM. Throughout the book, Bob and Raj emphasize the importance of giving others the space to grow. The book outlines the importance for leaders to have patience and provide their teams with the space to learn and grow based on their own experiences. A critical element for leaders is acknowledging staff when they do the right thing and helping them learn from experiences. This creates a positive environment and encourages people to think about the strengths of their colleagues which decreases the likelihood of gossiping about their foibles. A key aspect of this is seeking to recognize and acknowledge individual and team achievements which in turn demonstrates caring, and creates inspiration and joy through celebrations.
+Do you consider the purpose of your business to maximize profits/shareholder value? The authors teach that this simplistic idea can damage the people and the business outcomes. It actually impairs the ability of the organization to sustainably generate value.
+
+Great leaders of truly great businesses think differently. The purpose of every great business is something deeper and involves having a positive impact on the world and on the lives of people.
+
+Bottom line, **if you create and run a business with the primary intention of driving profits and maximizing shareholder value, you will not be as successful as if your primary intention is to serve others.**
+
+To ensure they have the right emphasis at Barry-Wehmiller, they do two kinds of visioning; business visioning and cultural visioning. Culture equals values plus behavior. Cultural visioning focuses on their “why” and the values and behaviors that support it. Among other things, they ask how they should treat each other so they go home fulfilled.
+
+Where is your emphasis? I work with Pharma companies and encourage them to “serve patients by making medicines” rather than “make medicines to serve patients.”
 
 ### Insight #2
 
 An actionable way to implement the Big Idea into your life
 
-### Achieve through ‘Responsible Freedom’
+### Leadership Checklist
 
-> "Responsible Freedom encapsulates two ideas: freedom, the opportunity to exercise personal choice, to have ownership of the work that you do and the directions you make; and responsibility, ensuring that personal choice is exercised with care and concern for other people and the requirements of the organization, and it requires two-way trust."- Everybody Matters, page 175
+> "When we engage our heads, hearts and hands around these habits, extraordinary levels of trust and fulfillment will result."- Everybody Matters, page 141
 
-As with many other aspects, Bob and Raj share their sources for some of their ideas with the concept of Responsible Freedom coming from the philosopher Peter Koestenbaum. For Bob and Raj, this involves three key behaviours:
+Being a good leader means choosing to be a good steward of the lives entrusted to you. Not just your people, but the families they go home to at the end of the day, either surly and drained or happy and fulfilled.
 
-*   Share your gifts and talents (do not hide aspects of yourself at work),
-*   Be proactive and help create the organization’s vision, and
-*   Collaborate with others to create a better organization.
+We all know that pilots follow checklists religiously. Thank goodness. Just like pilots, leaders are entrusted with precious lives every day. Chapman and Sisodia decided leaders too need checklists! So they took their vision and made it tangible. What must a leader DO every day? Here is their list. How many can you check off today?
 
-This requires having clear goals and ensuring that all individuals know and understand these goals so that they can use their strengths and work proactively and collaboratively to help make them happen. This empowers people and gives them the freedom to strive for success on behalf of, and with, their teams.
+1.  I practice stewardship of the Guiding Principles of Leadership through my time, conversations and personal development.
+2.  I advocate safety and wellness through my actions and words.
+3.  I reflect to lead my team in achieving principled results on purpose.
+4.  I aspire to passion, optimism and purpose.
+5.  My personal communication cultivates fulfilling relationships.
+6.  I foster a team community in which we are committed to each other and to the pursuit of a common goal.
+7.  I exercise responsible freedom, empowering each of us to achieve our potential.
+8.  I proactively engage in the personal growth of individuals on my team.
+9.  I facilitate meaningful group interactions.
+10.  I set, coach to, and measure goals that define winning.
+11.  I recognize and celebrate the greatness in others.
+12.  I commit to daily continuous improvement.
 
-Throughout the book, the authors include anecdotes and quotes from other thought leaders, including Simon Sinek who lauds this approach, seeing it as something he wishes more companies would focus on. I loved many of the concepts in the book and will endeavor to create a desirable climate based on my takeaways. The book provides a lot of food for thought and did get me thinking and wondering what work would be like if we accepted each other’s foibles. I was left wondering what would happen in an organization where we genuinely view our staff, peers and leaders with the same sense of ‘blood is thicker than water’ as when we turn a blind eye to actions of family members that hit our buttons.
+So how do you start? It starts with caring for the people you lead. How? Never look at the people you have the privilege of leading as a function (a sales rep, a receptionist). Rather, see them as a full human being: someone’s precious child, adored mother, beloved spouse. Think of them with infinite potential that you have the opportunity to profoundly impact. Listen to them deeply, inspire them to share their gifts fully and celebrate their journey.
 
-As a convert to the concept, I felt the authors spent a lot of time ‘convincing’ me of the benefits of their approach. Bob and his team undoubtedly encountered resistance and cynicism and as the ultimate leader I can see how he could influence this process. I would have valued more detailed steps for lower level leaders on how to encourage their leaders to enact some of these concepts, particularly those who may not be as ‘sold’ on the concepts. Having said that, Bob suggests that if nothing else, if you as a leader who consciously accepts the ‘awesome responsibility’, you can role model and exemplify the benefits. How could you do this from within your organization? What challenges would you face and are they outweighed by the benefits and opportunities that Bob and his team identify?
+You don’t have to wait for your organization to decide this is the path forward. You, in your decisions each day, can do the right thing. You can pause each day to really listen to a colleague. Show them what they do matters.
+
+Everybody truly does matter. Such a simple yet powerful idea. You already have within you what you need to start living the universal truth that everybody matters. How will you show people today that you care?

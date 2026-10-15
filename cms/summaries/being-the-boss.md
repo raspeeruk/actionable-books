@@ -93,6 +93,7 @@ f_quote-2: >-
 f_amazon-url: 'https://www.amazon.com/dp/B004CFAZYU/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_author-plain-text: "Linda A. Hill and Kent Lineback"
 ---
 
 > "Effective managers accomplish much of their work in hundreds of little steps that eventually accomplish the work of management." _\- Being the Boss, page 219_

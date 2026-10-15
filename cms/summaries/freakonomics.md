@@ -22,6 +22,7 @@ f_conclusion: ''
 f_amazon-url: 'https://www.amazon.com/dp/0060731338/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_team-2: "cms/team/chris-taylor.md"
 ---
 
 [https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/01/ActionableBooks-Audio-Freakonomics.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2011/01/ActionableBooks-Audio-Freakonomics.mp3)

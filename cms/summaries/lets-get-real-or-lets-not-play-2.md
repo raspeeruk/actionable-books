@@ -8,7 +8,7 @@ published-on: '2024-02-27T20:40:29.559Z'
 f_author-plain-text: Mahan Khalsa
 f_author: cms/authors/mahan-khalsa.md
 f_category-3: cms/summary-categories/effective-communication.md
-f_team-2: cms/team/chris-taylor.md
+f_team-2: "cms/team/justin-gasbarre.md"
 f_big-idea: >-
   ### Go for the Win-Win
 
@@ -163,80 +163,81 @@ tags: summaries
 f_quote-2: >-
   Sales skills are life skills. What makes us better at sales makes us better in
   life. And vice versa.
+f_original-url: "https://www.actionablebooks.com/en-ca/summaries/lets-get-real-or-lets-not-play-2/"
 ---
 
-[https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/01/ActionableBooks-Audio-Lets-Get-Real-or-Lets-Not-Play.mp3](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/01/ActionableBooks-Audio-Lets-Get-Real-or-Lets-Not-Play.mp3)
+> “Sales skills are life skills. What makes us better at sales makes us better in life. And vice versa.” _\- Let's Get Real or Let's Not Play, page 1_
 
-Podcast: [Play in new window](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/01/ActionableBooks-Audio-Lets-Get-Real-or-Lets-Not-Play.mp3) | [Download](https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2012/01/ActionableBooks-Audio-Lets-Get-Real-or-Lets-Not-Play.mp3)
+_Let’s Get Real or Let’s Not Play_ by Mahan Khalsa _(_the founder for the Sales Performance Practice at FranklinCovey_)_ and Randy Illig _(_Practice Leader and Consultant for FranklinCovey’s Sales Performance Practice_)_ is a book that teaches sales professionals how to be wildly successful through helping their clients become wildly successful, first. Quite a different, yet refreshing mindset shift from most sales books that are out there.
 
-It’s been a while since I’ve read a sales book. In reflecting on that, I found this quote from _Let’s Get Real or Let’s Not Play_ to be incredibly apt: _“Many business development methodologies tend to emphasize completeness and thoroughness over ease of adoption and application. They are very good but rarely used, and thus are not as helpful as they could be.”_
-
-I’ve always prided myself on being an “authentic” salesperson; constantly putting the client’s needs first. Good intentions, no clear process. Having now devoured _Let’s Get Real or Let’s Not Play_ cover to cover, I’m delighted to share that I believe I’ve found my process. One that genuinely works from the position of helping the client get what they want; something I’ve always believed to be at the root of all successful transactions.
+In this book, the authors teach us the fundamental mindsets, skill sets and toolsets for salespeople to follow to truly help their clients succeed. As author Mahan Khalsa says, “Helping Clients Succeed is not just a euphemism for sales – it is the essence of sales.”
 
 ### The Big Idea
 
 The Big Idea: The biggest takeaway from the book
 
-### Go for the Win-Win
+### Intent Counts More Than Technique (and technique is still important)
 
-> "Helping clients succeed is not an attempt to be nice; it is not philanthropic or selfless. It is a powerful, if paradoxical, means of getting what we want."- Let's Get Real or Let's Not Play, page 12
+> "If your intent is not crystal clear to you, it will not be crystal clear to the client."- Let's Get Real or Let's Not Play, page 11
 
-For those familiar with Stephen Covey’s landmark book, [_Seven Habits of Highly Effective People_](../summaries/seven-habits-of-highly-effective-people-part-1/), the expression, “Go for the Win-Win” will sound familiar. (It’s one of the seven habits.) And for good reason. The authors of _Let’s Get Real or Let’s Not Play,_ Mahan Khalsa and Randy Illig are true students of Covey and have woven his timeless lessons into this book. (Covey even wrote the forward.)
+As a salesperson, is your intent to “sell” your product or service to your client, or is your intent to help your client succeed through the benefit your product or service can provide them? There is a difference. “Sales” cannot be about the sales person—it has to be about helping your clients! When we focus on producing big WINS for our customer, wins for the sales person will naturally happen. This is why it is so critical to get clear on what your intent is and why it is critical to declare that intent to those you sell to.
 
-The subtitle of the book – _Transforming the Buyer/Seller Relationship –_ is more than a tagline, it’s the true objective of this book. And the good news is that, as the seller, the power is truly in your hands. As Khalsa and Illig state repeatedly, it really comes down to a matter of **intent**. What’s your true goal when you enter into the sales process? Is it to “make the sale”, like 99% of the other vendors out there? Or is it to genuinely help a client solve a problem.
+Your intent is not something that you “put on,” it should be core to who you are and what you’re about. If it’s not clear to you, it won’t be clear to your client. “The client will react to positively perceived intent, by divulging more of what they think, feel, and believe to be true. At the same time, you should feel that it is in your best interests, as well as theirs, if you are congruent with your intent. There is no need to eliminate nor conceal self-interest – only to align your self-interest with theirs” (220).
 
-Zig Ziglar said years ago that, “You can get everything you want in life, if you help enough people get what they want.” And that’s what _Let’s Get Real or Let’s Not Play_ is about. It’s a book for people who want to escape the feeling of “selling”, and embrace the notion of helping the client solve their problems; the problems that matter to them, in a way that resonates with their larger objectives.
+One way to get clear on your intent, is to craft an Intent Statement. Here are a few examples:
 
-Nice sentiment. But how do we **do** that?
+*   My intent is to help you be more successful.
+*   My intent is to find out whether or not there is a good fit between what you value and what we do well. If so, I’ll bring you good choices. If not, I’ll be the first one to say so.
+*   My intent is to simply help you and your organization achieve the results that you are going after; whether that’s with us or someone else.
+
+As a best practice, I would encourage you to spend time thinking about and writing out your intent statement. Practice saying it to the point that you act congruently with your intent.
 
 ### Insight #1
 
 An actionable way to implement the Big Idea into your life
 
-### A Fourth Approach
+### Keep the End In Mind
 
-> "Of course, we consultants do not like to call it guessing - we call it diagnosis, assessment, analysis. Yet, if one didn't know any better, it would look a lot like guessing."- Let's Get Real or Let's Not Play, page 26
+> "What do we want the client to say, do, decide at the end of the meeting?"- Let's Get Real or Let's Not Play, page 129
 
-As Khalsa and Illig explain, most of us in sales pursue one or more of the following traditional approaches when interacting with a client:
+For many of us, our days are filled with endless meetings and phone calls. So much so that it feels as if we’re on auto-pilot—we go from meeting to meeting, often without proper preparation, planning or a sense of why we’re there.
 
-1.  **We tell**. (About our product/service, our success stories, our bells and whistles)
-2.  **We accept.** (We propose a solution based on exactly what they told us without digging deeper)
-3.  **We guess.** (See quote above about guessing)
+As salespeople, we need to realize that people are busy and help them to get value out of their interactions with us. The purpose of any sales meeting or presentation is to enable a decision of some kind. It’s getting clear on “what do we want the client to say, do, decide at the end of the meeting?” (129).
 
-But of course we do. What’s the alternative? It comes back to intent. If you had genuine intention of helping the client find the ideal solution to their unique problem, wouldn’t you want to know what the true issue was first? Wouldn’t you dig a little deeper, get to know the real hurdles, challenges and pain points? Wouldn’t you want to connect with the client’s hopes and aspirations? Of course you would.
+If we can begin our meetings with declaring the end we have in mind, and gaining the client’s agreement or input—it is much more likely that we can return to it at the end of the meeting and gain a decision.
 
-Khalsa and Illig suggest that a far more impactful way to engage the client is through **_mutual exploration_**. The entire first half of their book is dedicated to what mutual exploration means (in detail), but suffice it to say that it comes down to using your initial time with a client to talk about **_them_**. Not just about you and your offering. It starts with _Moving off the Solution_ (more on that in insight #2), then _Getting out_ _All the Issues_, _Prioritizing the Issues, Gathering evidence and impact_ and _Exploring context and constraints_.
+Qualities of a good End In Mind:
 
-Where in there did you hear “show them how great our product is”? You didn’t. The reason being that the initial conversations with a client is not about selling. It’s about learning more about the client so that if/when you **do** present your solution, it’s presented in a way that addresses their unique needs. A big part of the exploration process is that you are coming to a **mutual** understanding of the problem. Once it’s been defined (and provided your solution **actually** addresses their needs) it’s a much easier sale; primarily because the client knows as well as you do exactly what they need. (Reminds me of that great quote – “people hate to be sold, but they love to buy.”)
+*   They are client focused.
+*   We need to make NO OK.
+*   They call for a singular decision.
 
-And what happens if it turns out they don’t actually need your solution? You exit gracefully. Because if you truly can’t help them, (here’s the kicker) they weren’t going to buy from you anyway. Better to know up front and avoid a lot of extra time (theirs and yours).
+Here are some examples of End in Mind statements:
+
+*   “We assume you are counting on us during this meeting, to give you sufficient information to decide that either our solution makes sense or does not make sense, and you’ll pass. Is that what you were expecting as well?” Page 132
+*   At the end of our meeting today, we’d like you to decide whether or not we should keep talking. And if that answer is no that is perfectly OK.
+
+At FranklinCovey, this would be considered an absolute best practice. I would encourage you to spend time thinking about and proposing an end in mind to your client before starting any meeting or call.
 
 ### Insight #2
 
 An actionable way to implement the Big Idea into your life
 
-### Move Off the Solution
+### Practice
 
-> "The short and sweet rule of qualifying the Opportunity is: No pain, no gain = no opportunity. In a business context, the word "problem" is a synonym for pain; the word "result" is a synonym for gain."- Let's Get Real or Let's Not Play, page 48
+> "To execute well takes preparation and practice."- Let's Get Real or Let's Not Play, page 194
 
-It’s easy for us to get dazzled by our own bells and whistles. To want to talk about how great we are because of our unique new feature. Unfortunately, if the “new feature” doesn’t address the needs of the client, they really don’t care. And now you’ve just wasted their time. Particularly in the early days of the client relationship build, you want to spend as much time talking about the **_client_** as possible. And not about yourself. The goal here is to side step “features and benefits” until you have a clear sense of the client needs. Khalsa and Illig talk about this as **_Moving off the Solution_**. And here’s the formula:
+In the book, the authors share a great analogy: “The most brilliantly delivered acting performances and speeches begin as a script. Actors turn the script into characters: they become the characters and the script is no longer apparent” (194).
 
-**Listen + Softening Statement + Move**
+Actors and sales professionals are not much different in this sense. Most salespeople and consultants would benefit from creating a script and practicing it until it flows naturally. Simply taking the time to practice with the proper amount of reps and the right quality of reps, can significantly enhance our ability to communicate and articulate in way that we naturally struggle to do.
 
-If you’re in sales, or have been in the past, you’ve often faced the “Show me what you’ve got” statement in the first two minutes of a meeting. Resist the urge to do so. If your product is sophisticated (at all), you could likely spend hours talking about it and never cover everything. True, right? Use that. Integrate it into the formula above. It might look something like this:
+Simple Recommended Ideas for Practice:
 
-**PROSPECT:** “Okay, show me what you’ve got.”
+*   Write out your script.
+*   Read it and say it out loud.
+*   Record yourself saying it.
+*   Share with colleagues to get candid feedback.
 
-**YOU:** “Sure. I could talk for hours with great enthusiasm – and that may not be what you want. Do you mind if I ask…?”
+“The journey begins with a simple step: start by freeing yourself from selling something and instead focus on understanding what problems your clients and prospective clients want to address and the results that they value” (200). _Let’s Get Real or Let’s Not Play_ by Mahan Khalsa and Randy Illig has had a profound effect on my paradigm as a sales professional over the years in the most positive and fulfilling of ways.
 
-or…
-
-**YOU:** “I’d be glad to. In order to keep my comments relevant to your situation, could I ask…?”
-
-or…
-
-**YOU:** “We’ve helped many companies address business problems with (the requested solution) and each one had different priorities and objectives. Would it be okay if we started out talking a bit about…?”
-
-And what do you fill the blank with? Well, that’s entirely up to you. Just make it about the client, make it relevant and remember your intention – To help the customer find the right solution to their problem.
-
-_Let’s Get Real or Let’s Not Play_ is my new sales bible. The approach of the authors is authentic, thorough and fresh. Their results are proven, as they’ve built their wildly successful sales training program [_ninetyfive-5_](http://www.nf5.com/) around it, and their concepts are being used globally. I found the book rich with structure, specific case studies and examples. But just as I started to become overwhelmed with the thoroughness of it , they’d remind me of the underlying theme – **intent** counts for more than structure. That’s a mantra I can get behind. The rest will come with practice.
+I encourage you to focus on your client’s success and the personal success you seek will come full circle back to you in truckloads. Have fun!

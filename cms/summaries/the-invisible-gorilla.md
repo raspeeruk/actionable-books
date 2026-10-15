@@ -154,6 +154,7 @@ f_quote-2: '"We experience far less of our visual world than we think we do."'
 f_amazon-url: 'https://www.amazon.com/dp/0307459667/?tag=actionableb08-20'
 layout: '[summaries].html'
 tags: summaries
+f_author-plain-text: "Christopher Chabris and Daniel Simons"
 ---
 
 > "We experience far less of our visual world than we think we do." _\- The Invisible Gorilla, page 7_

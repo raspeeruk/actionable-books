@@ -9,7 +9,9 @@
     "fuse.js": "^6.4.6",
     "lodash.chunk": "^4.2.0",
     "lodash.get": "^4.4.2",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.1",
+    "gray-matter": "4.0.3",
+    "markdown-it": "13.0.2"
   },
   "scripts": {
     "optimize": "node ./_utils/scripts/optimize-assets.js",
@@ -17,7 +19,8 @@
     "prebuild": "npm run optimize",
     "serve": "npx @11ty/eleventy --serve",
     "build": "npx @11ty/eleventy",
-    "local-backend": "npx netlify-cms-proxy-server"
+    "local-backend": "npx netlify-cms-proxy-server",
+    "test": "node --test test/*.test.js"
   },
   "devDependencies": {
     "date-fns": "2.16.1",

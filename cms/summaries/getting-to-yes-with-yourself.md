@@ -9,7 +9,7 @@ f_image:
   url: /assets/external/65d780cbc87cb42913ed7ff2_getting-to-yes-94x144.jpeg
   alt: Getting to Yes with Yourself book cover
 f_original-url: 'https://www.actionablebooks.com/en-ca/summaries/getting-to-yes-with-yourself/'
-f_author-plain-text: Jill Donahue
+f_author-plain-text: "William Ury"
 f_author: cms/authors/william-ury.md
 f_category-3: cms/summary-categories/self-management.md
 f_team-2: cms/team/jill-donahue.md

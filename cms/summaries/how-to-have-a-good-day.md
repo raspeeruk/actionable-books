@@ -148,6 +148,7 @@ f_quote-2: >-
 f_amazon-url: https://www.amazon.com/dp/0553419633/?tag=actionableb08-20
 layout: '[summaries].html'
 tags: summaries
+f_original-url: "https://www.actionablebooks.com/en-ca/summaries/how-to-have-a-good-day/"
 ---
 
 > “This book is dedicated to translating the most valuable research into the context of today’s working world—the tough assignments, the packed schedules, the complex relationships—to show you how to make every day reliably more enjoyable and productive.” _\- How to Have a Good Day, page 12_
