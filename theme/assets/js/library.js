@@ -98,11 +98,5 @@
       }).catch(() => { status.textContent = 'Search is temporarily unavailable. Use All summaries or Topics to browse the complete library.'; });
     }
   }
-  document.getElementById('load-newsletter')?.addEventListener('click', event => {
-    event.currentTarget.hidden = true;
-    document.getElementById('newsletter-form').hidden = false;
-    window.ml_webform_success_17590592 = () => { document.querySelector('#newsletter-form .row-form').style.display = 'none'; document.querySelector('#newsletter-form .row-success').style.display = 'block'; };
-    for (const url of ['https://www.google.com/recaptcha/api.js', 'https://groot.mailerlite.com/js/w/webforms.min.js?v2d8fb22bb5b3677f161552cd9e774127']) { const script = document.createElement('script'); script.src = url; script.async = true; document.body.append(script); }
-    document.getElementById('newsletter-email').focus();
-  }, { once: true });
+
 })();
