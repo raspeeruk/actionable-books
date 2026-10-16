@@ -1,5 +1,5 @@
 ---
-title: Subscribe
+title: Newsletter
 permalink: '{{ page.fileSlug }}/index.html'
 layout: subscribe.html
 slug: subscribe

@@ -44,7 +44,7 @@ All 13 guides retain their URLs. Incorrect claims, invented book information, wr
 
 ## Performance and reading
 
-Use the existing red identity, local fonts, a readable prose measure, semantic headings, stable contents anchors, visible focus and accessible navigation. Public reading pages do not load the old Webflow, jQuery, Identity, repeated signup widgets or an inactive advertising script. Newsletter services load only after the reader chooses to open the form. Validate mobile and desktop loading on the hosted build; lab results do not replace field Core Web Vitals.
+Use the existing red identity, local fonts, a readable prose measure, semantic headings, stable contents anchors, visible focus and accessible navigation. Public reading pages do not load the old Webflow, jQuery, Identity, repeated signup widgets or an inactive advertising script. New newsletter subscriptions are deliberately paused; the public site has no signup prompt or newsletter-service loader. Validate mobile and desktop loading on the hosted build; lab results do not replace field Core Web Vitals.
 
 ## Measurement and external placement
 
