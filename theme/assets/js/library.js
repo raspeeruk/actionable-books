@@ -59,9 +59,23 @@
     if (!analyticsLoaded || choice !== 'granted') return;
     const link = event.target.closest('a');
     if (!link) return;
-    if (link.dataset.affiliate) window.gtag('event', 'affiliate_click', { merchant: link.dataset.affiliate, book_slug: link.dataset.book, page_location: pageUrl });
-    else if (link.classList.contains('book-card')) window.gtag('event', link.dataset.contentFamily === 'summaries' ? 'summary_select' : 'archive_select', { content_path: new URL(link.href).pathname, content_family: link.dataset.contentFamily, page_location: pageUrl });
-    else if (link.hostname === 'actionable.co') window.gtag('event', 'actionable_visit', { destination_path: link.pathname, page_location: pageUrl });
+    let name, fields;
+    if (link.dataset.affiliate) { name = 'affiliate_click'; fields = { merchant: link.dataset.affiliate, book_slug: link.dataset.book }; }
+    else if (link.dataset.contentFamily) { name = link.dataset.contentFamily === 'summaries' ? 'summary_select' : 'archive_select'; fields = { content_path: new URL(link.href).pathname, content_family: link.dataset.contentFamily }; }
+    else if (link.hostname === 'actionable.co') { name = 'actionable_visit'; fields = { destination_path: link.pathname }; }
+    if (!name) return;
+    fields.page_location = pageUrl;
+    // Give the tag a bounded opportunity to send before this document unloads.
+    // New tabs, modified clicks and already handled actions keep native behavior.
+    const sameWindow = (!link.target || link.target === '_self') && !link.hasAttribute('download');
+    if (sameWindow && event.button === 0 && !event.defaultPrevented && !event.metaKey && !event.ctrlKey && !event.shiftKey && !event.altKey) {
+      event.preventDefault();
+      let navigated = false;
+      const follow = () => { if (!navigated) { navigated = true; location.assign(link.href); } };
+      setTimeout(follow, 500);
+      try { window.gtag('event', name, { ...fields, event_callback: follow, event_timeout: 500 }); }
+      catch (_) { follow(); }
+    } else window.gtag('event', name, fields);
   });
 
   const searchInput = document.getElementById('search-query');
@@ -78,7 +92,7 @@
         const list = document.createElement('ul'); list.className = 'search-results-list';
         for (const book of matches.slice(0, 60)) {
           const item = document.createElement('li'), heading = document.createElement('h2'), link = document.createElement('a'), author = document.createElement('p'), text = document.createElement('p');
-          link.href = book.url; link.textContent = book.title; heading.append(link); author.textContent = book.authorName; author.className = 'small'; text.textContent = book.excerpt; item.append(heading, author, text); list.append(item);
+          link.href = book.url; link.dataset.contentFamily = 'summaries'; link.textContent = book.title; heading.append(link); author.textContent = book.authorName; author.className = 'small'; text.textContent = book.excerpt; item.append(heading, author, text); list.append(item);
         }
         document.getElementById('search-results').replaceChildren(list);
       }).catch(() => { status.textContent = 'Search is temporarily unavailable. Use All summaries or Topics to browse the complete library.'; });
