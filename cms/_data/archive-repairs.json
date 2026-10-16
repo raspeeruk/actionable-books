@@ -38,7 +38,8 @@
     "/en-ca/summaries/work-rules/embed/": "/summaries/work-rules/",
     "/en-ca/summaries/the-upside-of-your-dark-side/embed/": "/summaries/the-upside-of-your-dark-side/",
     "/en-ca/summaries/the-light-and-fast-organisation/1000": "/summaries/the-light-and-fast-organisation/",
-    "/blog/talk-about-it/www.actionablebooks.com/summaries": "/summaries/"
+    "/blog/talk-about-it/www.actionablebooks.com/summaries": "/summaries/",
+    "/en-ca/about/": "/about/"
   },
   "bookAuthors": {
     "/summaries/being-the-boss/": [
