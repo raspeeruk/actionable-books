@@ -8,26 +8,20 @@ published-on: '2024-02-23T14:16:55.370Z'
 f_image:
   url: /assets/external/65d75f468cfce2c76717d4a3_ab-blog-template_reward.jpeg
   alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/blog/readers-choice-june/
+f_original-url: 'https://www.actionablebooks.com/en-ca/blog/readers-choice-june/'
 f_team: cms/team/actionable-team.md
 f_category-3: cms/blog-category/business.md
 f_date-published: '2012-05-23T00:00:00.000Z'
 layout: '[blog].html'
 tags: blog
 ---
+![](http://img2.imagesbn.com/images/153610000/153612548.JPG)
 
-![](/assets/external/65d35b7c4a85af73005fd703_153612548.jpeg)
-
-![](/assets/external/65d35b98df111dd590ce6a7d_112381403.jpeg)
-
-![](/assets/external/65d35b992a6ac025b6b5887f_170573606.jpeg)
-
-![](/assets/external/65d35b992a6ac025b6b58862_143880903.jpeg)
+![](http://img2.imagesbn.com/images/112380000/112381403.JPG)![](http://img2.imagesbn.com/images/170570000/170573606.JPG)![](http://img2.imagesbn.com/images/143880000/143880903.JPG)
 
   
 
   
-<a href="http://polldaddy.com/poll/6254120/">What business book do you want us to summarize in June?</a>
 
 In _The Power of Habit,_ award-winning _New York Times_ business reporter Charles Duhigg takes us to the thrilling edge of scientific discoveries that explain why habits exist and how they can be changed. With penetrating intelligence and an ability to distill vast amounts of information into engrossing narratives, Duhigg brings to life a whole new understanding of human nature and its potential for transformation.
 
