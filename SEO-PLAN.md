@@ -4,7 +4,7 @@
 
 Repair existing demand before adding pages. The original 28-day Search Console snapshot reports 520 clicks and 59,973 impressions. It is a baseline, not evidence of uplift. Priority existing summaries include Outwitting the Devil, How Successful People Think and Change Your Questions, Change Your Life. Preserve the productivity and science guide URLs, which have measured clicks.
 
-The restored archive has 1,148 review records. Original source identity is matched using file path, original URL and export slug, never title or row position alone. Separate reviews of one book remain separate when their writers and texts differ. Two limited introductions are labelled and excluded from indexing rather than completed with generated prose.
+The restored archive has 1,155 review records, matching the checked Wayback review-path inventory and original export. Original source identity is matched using file path, original URL and export slug, never title or row position alone. Separate reviews of one book remain separate when their writers and texts differ. Both formerly limited introductions now contain their complete historical originals from verified Wayback snapshots. Seven missing original reviews and thirteen article stubs were recovered in the 21 October reconciliation, without generated replacement prose.
 
 ## Intent and architecture
 
@@ -19,11 +19,11 @@ The restored archive has 1,148 review records. Original source identity is match
 | Original articles and interviews | /blog/ and /blog-category/ | Dated historical archive |
 | Brand and editorial provenance | /about/, /contact/, /privacy-policy/ | Current operator, archive history, corrections and privacy choices |
 
-These are intent clusters, not invented search-volume or ranking forecasts. Static archive pagination and ordinary HTML anchors expose the complete catalogue without requiring client-side search.
+These are intent clusters, not invented search-volume or ranking forecasts. Static archive pagination and ordinary HTML anchors expose the complete catalogue without requiring client-side search. The Business shelf selects twelve existing reviews across original topics; it does not overwrite their source classifications. Home and Topics promote populated book shelves only. Four empty article-only summary-category imports permanently redirect to their corresponding article archives.
 
 ## Content treatment
 
-All original review bodies have recorded provenance. Wrong-book associations and empty destinations are recovered from exact original sources. Four previously provisional bylines now have independently retained original-page evidence; Chip Conley's Peak remains qualified.
+All original review bodies have recorded provenance. Wrong-book associations and empty destinations are recovered from exact original sources. Five formerly provisional bylines, including Chris Taylor's Peak review, now have original-page evidence. The 10% Happier historical Berrisford/Gaudio name variation remains explicitly qualified.
 
 All 25 later list records have individual dispositions. Unsubstantiated repeated selections are held from indexing during editorial review. Existing clicked alternatives lists remain available and indexable. Three paths use actual original excerpts, named contributors and explicit later selection notes. They do not claim human editorial approval.
 
@@ -37,7 +37,7 @@ All 13 guides retain their URLs. Incorrect claims, invented book information, wr
 - Recovered media is served locally. Unretrievable illustrations use a labelled fallback rather than broken images or fabricated replacements.
 - Fresh output is dist/. public/ is a retained historical snapshot and is not the publish directory.
 - Every indexable route belongs in sitemap.xml. Selective lastmod values represent substantive source restoration or editorial change, never the current build time.
-- Search, subscription utility, limited originals, empty historical stubs, held lists and redirect-source aliases are excluded from indexing. Do not robots-block a page whose noindex needs to be read.
+- Search, subscription utility, any incomplete historical records, held lists and redirect-source aliases are excluded from indexing. Do not robots-block a page whose noindex needs to be read.
 - HTML attributes and JSON-LD have separate encoders. Metadata describes actual books and credits. Duplicate recurring articles use their historical dates to distinguish them.
 - Book, Article, BlogPosting, Person, Organization, WebSite, WebPage and BreadcrumbList describe visible facts. Coauthors are separate people; a team credit is an organization. Do not invent ratings, credentials or FAQ rich-result eligibility.
 - llms.txt and the linked text index are optional reader/crawler aids. They do not guarantee AI visibility or replace normal HTML discovery.

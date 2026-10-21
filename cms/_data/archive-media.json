@@ -1372,5 +1372,215 @@
   },
   "http://actionablebooks.com/wp-content/uploads/2011/11/The-Bay-Around-forever.jpg": {
     "unavailable": true
+  },
+  "http://img1.imagesbn.com/p/9781609946326_p0_v1_s114x166.JPG": {
+    "src": "/assets/external/65d35b97679fda5099782841_9781609946326_p0_v1_s114x166.jpeg",
+    "width": 111,
+    "height": 166,
+    "alt": "Book cover from the original reading list"
+  },
+  "http://img2.imagesbn.com/p/9789081982511_p0_v1_s114x166.JPG": {
+    "src": "/assets/external/65d35b97679fda5099782811_9789081982511_p0_v1_s114x166.jpeg",
+    "width": 114,
+    "height": 143,
+    "alt": "Book cover from the original reading list"
+  },
+  "http://img1.imagesbn.com/p/9780385523578_p0_v1_s114x166.jpg": {
+    "src": "/assets/external/65d35b97679fda5099782819_9780385523578_p0_v1_s114x166.jpeg",
+    "width": 107,
+    "height": 166,
+    "alt": "Book cover from the original reading list"
+  },
+  "http://img2.imagesbn.com/images/42990000/42994800.JPG": {
+    "src": "/assets/external/65d35b97679fda509978283b_42994800.jpeg",
+    "width": 128,
+    "height": 193,
+    "alt": "Book cover from the original reading list"
+  },
+  "http://img2.imagesbn.com/images/177380000/177384031.JPG": {
+    "src": "/assets/external/65d35b979d7042d570c4570a_177384031.jpeg",
+    "width": 120,
+    "height": 193,
+    "alt": "Book cover from the original reading list"
+  },
+  "http://img2.imagesbn.com/images/168500000/168503089.JPG": {
+    "src": "/assets/external/65d35b979d7042d570c45706_168503089.jpeg",
+    "width": 128,
+    "height": 191,
+    "alt": "Book cover from the original reading list"
+  },
+  "http://img2.imagesbn.com/images/170450000/170455283.JPG": {
+    "src": "/assets/external/65d35b979d7042d570c4570e_170455283.jpeg",
+    "width": 128,
+    "height": 192,
+    "alt": "Book cover from the original reading list"
+  },
+  "http://img2.imagesbn.com/images/168590000/168598872.JPG": {
+    "src": "/assets/external/65d35b979d7042d570c456f4_168598872.jpeg",
+    "width": 128,
+    "height": 192,
+    "alt": "Book cover from the original reading list"
+  },
+  "http://img2.imagesbn.com/images/96910000/96918799.JPG": {
+    "src": "/assets/external/65d35b99037988915566ccc7_96918799.jpeg",
+    "width": 128,
+    "height": 193,
+    "alt": "Book cover from the original reading list"
+  },
+  "http://img2.imagesbn.com/images/59680000/59689860.JPG": {
+    "src": "/assets/external/65d35b99037988915566ccc0_59689860.jpeg",
+    "width": 126,
+    "height": 193,
+    "alt": "Book cover from the original reading list"
+  },
+  "http://img2.imagesbn.com/p/9780979376825_p0_v1_s114x166.JPG": {
+    "src": "/assets/external/65d35b99037988915566ccc3_9780979376825_p0_v1_s114x166.jpeg",
+    "width": 114,
+    "height": 156,
+    "alt": "Book cover from the original reading list"
+  },
+  "http://dynamic.images.indigo.ca/books/1552788911.jpg": {
+    "src": "/assets/external/65d3622821cff6d9731443f9_1552788911.jpeg",
+    "width": 72,
+    "height": 72,
+    "alt": "Book cover from the original reading list"
+  },
+  "http://img2.imagesbn.com/images/153610000/153612548.JPG": {
+    "src": "/assets/external/65d35b7c4a85af73005fd703_153612548.jpeg",
+    "width": 127,
+    "height": 193,
+    "alt": "Book cover from the original reading list"
+  },
+  "http://img2.imagesbn.com/images/112380000/112381403.JPG": {
+    "src": "/assets/external/65d35b98df111dd590ce6a7d_112381403.jpeg",
+    "width": 128,
+    "height": 190,
+    "alt": "Thinking, Fast and Slow"
+  },
+  "http://img2.imagesbn.com/images/170570000/170573606.JPG": {
+    "src": "/assets/external/65d35b992a6ac025b6b5887f_170573606.jpeg",
+    "width": 128,
+    "height": 191,
+    "alt": "Book cover from the original reading list"
+  },
+  "http://img2.imagesbn.com/images/143880000/143880903.JPG": {
+    "src": "/assets/external/65d35b992a6ac025b6b58862_143880903.jpeg",
+    "width": 128,
+    "height": 193,
+    "alt": "Book cover from the original reading list"
+  },
+  "http://img2.imagesbn.com/images/85530000/85533544.JPG": {
+    "src": "/assets/external/65d3622982912d41ea76318b_85533544.jpeg",
+    "width": 128,
+    "height": 191,
+    "alt": "Book cover from the original reading list"
+  },
+  "http://img2.imagesbn.com/images/101150000/101158747.JPG": {
+    "src": "/assets/external/65d3622882912d41ea76317f_101158747.jpeg",
+    "width": 125,
+    "height": 193,
+    "alt": "Book cover from the original reading list"
+  },
+  "http://img2.imagesbn.com/images/168540000/168546294.JPG": {
+    "src": "/assets/external/65d3622882912d41ea763177_168546294.jpeg",
+    "width": 128,
+    "height": 128,
+    "alt": "Book cover from the original reading list"
+  },
+  "http://img2.imagesbn.com/images/175890000/175899769.JPG": {
+    "src": "/assets/external/65d3622882912d41ea76317b_175899769.jpeg",
+    "width": 128,
+    "height": 192,
+    "alt": "Book cover from the original reading list"
+  },
+  "http://img2.imagesbn.com/images/125160000/125169620.JPG": {
+    "src": "/assets/external/65d35b95676e953c860a0de1_125169620.jpeg",
+    "width": 128,
+    "height": 192,
+    "alt": "One Piece of Paper"
+  },
+  "http://img2.imagesbn.com/images/159170000/159178514.JPG": {
+    "src": "/assets/external/65d35b99dfa708397763b539_159178514.jpeg",
+    "width": 128,
+    "height": 193,
+    "alt": "The Woman Who Changed Her Brain"
+  },
+  "http://img2.imagesbn.com/images/175860000/175860884.JPG": {
+    "src": "/assets/external/65d35b7c4737d0e920c743d2_175860884.jpeg",
+    "width": 128,
+    "height": 193,
+    "alt": "The Charge"
+  },
+  "http://img2.imagesbn.com/images/140640000/140648325.JPG": {
+    "src": "/assets/external/65d35b7c9808cdcb6e0e603f_140648325.jpeg",
+    "width": 124,
+    "height": 193,
+    "alt": "Emotional Equations"
+  },
+  "http://img2.imagesbn.com/images/98050000/98055714.JPG": {
+    "src": "/assets/external/65d36228bfbea0e6428b2df0_98055714.jpeg",
+    "width": 128,
+    "height": 193,
+    "alt": "The Progress Principle"
+  },
+  "http://img2.imagesbn.com/images/97980000/97985007.JPG": {
+    "src": "/assets/external/65d7809d68efe795c9dd8d34_ntletg-94x144.jpeg",
+    "width": 94,
+    "height": 144,
+    "alt": "Nothing to Lose, Everything to Gain"
+  },
+  "http://actionablebooks.com/wp-content/uploads/2011/09/onward.jpg": {
+    "src": "/assets/external/65d780ac899573618576d6a4_onwards-94x144.jpeg",
+    "width": 94,
+    "height": 144,
+    "alt": "Onward"
+  },
+  "http://img2.imagesbn.com/images/99980000/99983982.JPG": {
+    "src": "/assets/external/65d780aa1ee6bba16c526d6b_106290525-94x144.jpeg",
+    "width": 94,
+    "height": 144,
+    "alt": "Pick Up Your Own Brass"
+  },
+  "http://img2.imagesbn.com/images/95050000/95055652.JPG": {
+    "src": "/assets/external/65d78059cf344b81908dc551_gamestorming-94x144.jpeg",
+    "width": 94,
+    "height": 144,
+    "alt": "Gamestorming"
+  },
+  "http://img2.imagesbn.com/images/121200000/121202237.JPG": {
+    "src": "/assets/external/65d7809de71bbdd1f523469f_121202237-94x144.jpeg",
+    "width": 94,
+    "height": 144,
+    "alt": "Screw Business As Usual"
+  },
+  "http://img2.imagesbn.com/images/103600000/103608302.JPG": {
+    "src": "/assets/external/65d78028e7814865e30fbbfc_51o8xwy47vl.jpeg",
+    "width": 330,
+    "height": 500,
+    "alt": "Tribal Leadership"
+  },
+  "http://img2.imagesbn.com/images/141940000/141946538.JPG": {
+    "src": "/assets/external/65d780ba38000e5dc756b455_grasp_the_solution.jpeg",
+    "width": 264,
+    "height": 400,
+    "alt": "GRASP The Solution"
+  },
+  "http://ecx.images-amazon.com/images/I/41T9c6YxqyL._AA115_.jpg": {
+    "src": "/assets/external/65d780d95e2fee3da799f646_153618494.jpeg",
+    "width": 128,
+    "height": 190,
+    "alt": "Brand Real"
+  },
+  "http://img2.imagesbn.com/images/138830000/138832179.JPG": {
+    "src": "/assets/external/65d78048e71bbdd1f52319ed_144127432-94x144.jpeg",
+    "width": 94,
+    "height": 144,
+    "alt": "The Pinball Effect"
+  },
+  "http://actionablebooks.com/wp-content/uploads/2012/05/laurence_vincent_borders.png": {
+    "src": "/assets/external/65d77a22ab7f0afdc83a21bf_laurence_vincent_2x2.png",
+    "width": 144,
+    "height": 144,
+    "alt": "Laurence Vincent portrait"
   }
 }

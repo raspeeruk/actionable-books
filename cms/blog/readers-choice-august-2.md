@@ -8,26 +8,24 @@ published-on: '2024-02-23T14:16:55.370Z'
 f_image:
   url: /assets/external/65d75f468cfce2c76717d4a3_ab-blog-template_reward.jpeg
   alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/blog/readers-choice-august-2/
+f_original-url: 'https://www.actionablebooks.com/en-ca/blog/readers-choice-august-2/'
 f_team: cms/team/actionable-team.md
 f_category-3: cms/blog-category/business.md
 f_date-published: '2012-07-09T00:00:00.000Z'
 layout: '[blog].html'
 tags: blog
 ---
+**![](http://img2.imagesbn.com/images/177380000/177384031.JPG)**
 
-![](/assets/external/65d35b979d7042d570c4570a_177384031.jpeg)
+![](http://img2.imagesbn.com/images/168500000/168503089.JPG)
 
-![](/assets/external/65d35b979d7042d570c45706_168503089.jpeg)
+![](http://img2.imagesbn.com/images/170450000/170455283.JPG)
 
-![](/assets/external/65d35b979d7042d570c4570e_170455283.jpeg)
-
-![](/assets/external/65d35b979d7042d570c456f4_168598872.jpeg)
+![](http://img2.imagesbn.com/images/168590000/168598872.JPG)
 
 **We want to know which business book YOU want us to summarize in August. Voting concludes Friday, July 13th at 11.59pm EST. Look for July’s Readers’ Choice title, _The Woman Who Changed Her Brain_ by Barbara Arrowsmith-Young, on Monday, July 23rd.**
 
   
-<a href="http://polldaddy.com/poll/6377190/">What business book do you want us to summarize in August?</a>
 
 **1\. TURNING PRO: TAP YOUR INNER POWER AND CREATE YOUR LIFE’S WORK by Steven Pressfield and Shawn Coyne**  
 The follow-up to his bestseller The War of Art, Turning Pro navigates the passage from the amateur life to a professional practice. “You don’t need to take a course or buy a product. All you have to do is change your mind.” –Steven Pressfield TURNING PRO IS FREE, BUT IT’S NOT EASY. When we turn pro, we give up a life that we may have become extremely comfortable with. We give up a self that we have come to identify with and to call our own. TURNING PRO IS FREE, BUT IT DEMANDS SACRIFICE. The passage from amateur to professional is often achieved via an interior odyssey whose trials are survived only at great cost, emotionally, psychologically and spiritually. We pass through a membrane when we turn pro. It’s messy and it’s scary. We tread in blood when we turn pro. WHAT WE GET WHEN WE TURN PRO. What we get when we turn pro is we find our power. We find our will and our voice and we find our self-respect. We become who we always were but had, until then, been afraid to embrace and live out.

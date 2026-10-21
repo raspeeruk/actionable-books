@@ -5,14 +5,60 @@ const path = require('node:path');
 const crypto = require('node:crypto');
 const matter = require('gray-matter');
 const provenance = require('./fixtures/content-provenance.json');
+const restorations = require('./fixtures/archive-restorations.json');
 const { createLibrary, cleanBody, escapeHtml, jsonLd, renderBody, schemaFor, excerpt } = require('../_utils/library');
 const library = createLibrary();
 
-test('all 1,148 original review bodies retain their documented full-source hashes', () => {
+test('home and topic navigation lead to populated book shelves, with Business retaining original review topics', () => {
+  const view = require('../_utils/library-view').createView(library);
+  const business = view.directoryByUrl['/summary-categories/business/'];
+  assert.ok(business.total >= 12);
+  assert.ok(business.items.every(r => r.family === 'summaries'));
+  assert.ok(business.items.some(r => r.url === '/summaries/the-lean-startup/'));
+  assert.equal(library.byUrl['/summaries/the-lean-startup/'].topic.url, '/summary-categories/innovative-thinking/');
+  for (const topic of view.bookTopics) {
+    const shelf = view.directoryByUrl[topic.url];
+    assert.ok(shelf.total > 0, topic.url);
+    assert.ok(shelf.items.every(r => r.family === 'summaries'), topic.url);
+  }
+  for (const slug of ['business-book-author-interviews', 'employee-development', 'meet-our-actionable-team', 'salaried-entrepreneur']) {
+    const from = `/summary-categories/${slug}/`;
+    assert.ok(!view.bookTopics.some(r => r.url === from));
+    assert.ok(view.redirects.includes(`${from} https://actionablebooks.com/blog-category/${slug}/ 301!`));
+    assert.ok(library.byUrl[`/blog-category/${slug}/`].articles.length > 0);
+    assert.ok(!view.indexableUrls.includes(from));
+  }
+});
+
+test('all 1,148 baseline reviews retain their exact bodies or a documented full-source completion', () => {
   assert.equal(provenance.records.length, 1148);
   for (const record of provenance.records) {
     const original = matter.read(path.join(__dirname, '..', record.input)).content;
-    assert.equal(crypto.createHash('sha256').update(original).digest('hex'), record.bodySha256, record.input);
+    const completion = restorations.completedSummaries.find(r => r.input === record.input);
+    if (completion) assert.equal(completion.formerBodySha256, record.bodySha256);
+    assert.equal(crypto.createHash('sha256').update(original).digest('hex'), completion?.bodySha256 || record.bodySha256, record.input);
+  }
+});
+
+test('recovered reviews, article bodies and complete originals retain their individual source identities', () => {
+  assert.equal(restorations.addedSummaries.length, 7);
+  assert.equal(restorations.restoredBlogs.length, 13);
+  assert.equal(restorations.completedSummaries.length, 2);
+  assert.equal(restorations.cleanedBlogs.length, 6);
+  assert.ok(library.groups.summaries.length >= 1155);
+  for (const record of [...restorations.addedSummaries, ...restorations.restoredBlogs, ...restorations.completedSummaries, ...restorations.cleanedBlogs]) {
+    const source = matter.read(path.join(__dirname, '..', record.input));
+    assert.equal(crypto.createHash('sha256').update(source.content).digest('hex'), record.bodySha256, record.input);
+    assert.equal(source.data.title, record.title);
+    assert.equal(String(source.data['f_unique-number'] || source.data['f_unique-code']), record.sourceId);
+    assert.equal(source.data['f_archive-limited'], undefined);
+    assert.equal(library.byInput[record.input].noindex, false);
+    assert.doesNotMatch(library.byInput[record.input].html, /[?&](?:amp;)?tag=gooseducmedi-20/);
+  }
+  for (const record of restorations.addedSummaries) {
+    const restored = library.byInput[record.input];
+    assert.equal(restored.purchaseUrl, undefined);
+    assert.ok(restored.data['f_original-amazon-url']);
   }
 });
 
@@ -26,6 +72,17 @@ test('every summary keeps its source identity and resolves its actual reverse re
     if (review.topic) assert.ok(review.topic.summaries.includes(review));
     assert.ok(!review.related.includes(review));
   }
+});
+
+test('article cleanup preserves working book covers and removes obsolete interface artifacts', () => {
+  for (const slug of ['readers-choice-april-2', 'readers-choice-august-2', 'readers-choice-january-2', 'readers-choice-june', 'readers-choice-september']) {
+    const html = library.byUrl[`/blog/${slug}/`].html;
+    assert.equal((html.match(/<img /g) || []).length, 4, slug);
+    assert.doesNotMatch(html, /Original illustration unavailable/);
+  }
+  const january = library.byUrl['/blog/readers-choice-january-2/'].html;
+  assert.doesNotMatch(january, /\*\*\*\*|_Napoleon Hill|_Sooner or later/);
+  for (const record of restorations.completedSummaries) assert.doesNotMatch(library.byInput[record.input].html, /Nov14_SummaryBlogBottomBanner_ACP/);
 });
 
 test('the wrong-book frontmatter cannot replace the preserved original review', () => {
@@ -66,15 +123,16 @@ test('original section labels get semantic headings and unique anchors without c
   assert.match(rendered.html, /Original words\./);
 });
 
-test('restored original bylines are unqualified, while the unresolved Peak credit stays qualified', () => {
-  for (const slug of ['focus-2', 'freakonomics', 'playing-big', 'the-power-of-habit']) {
+test('source-confirmed original bylines are credited, while the historical surname variation stays qualified', () => {
+  for (const slug of ['focus-2', 'freakonomics', 'playing-big', 'the-power-of-habit', 'peak']) {
     const review = library.byUrl[`/summaries/${slug}/`];
     assert.equal(review.attributionNote, null);
     assert.ok(schemaFor(review)['@graph'].find(x => x['@type'] === 'Article').author);
   }
-  const peak = library.byUrl['/summaries/peak/'];
-  assert.ok(peak.attributionNote);
-  assert.equal(schemaFor(peak)['@graph'].find(x => x['@type'] === 'Article').author, undefined);
+  const happier = library.byUrl['/summaries/10-happier/'];
+  assert.ok(happier.attributionNote);
+  assert.equal(happier.data['f_original-contributor-name'], 'Brittnei Berrisford');
+  assert.equal(schemaFor(happier)['@graph'].find(x => x['@type'] === 'Article').author, undefined);
 });
 
 test('coauthors are separate people, and reading-path quotes resolve to their real original review', () => {

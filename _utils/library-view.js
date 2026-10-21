@@ -24,11 +24,13 @@ function createView(catalog) {
   for (const r of catalog.records) {
     if (!r.aliasOf && ['authors', 'team', 'summary-categories', 'blog-category'].includes(r.family)) {
       directory(r.url, r.family === 'team' ? `Writing by ${r.title}` : r.family === 'authors' ? `Books by ${r.title}` : r.family === 'summary-categories' ? `${r.title} book summaries` : r.family === 'blog-category' ? `${r.title} articles` : r.title,
-        r.description, [...r.summaries, ...r.articles]);
+        r.description, [...(r.curatedSummaries || r.summaries), ...r.articles]);
     }
   }
   const directoryByUrl = Object.fromEntries(directories.map(d => [d.url, d]));
   const groups = Object.fromEntries(Object.entries(catalog.groups).map(([key, records]) => [key, records.map(card)]));
+  const bookTopics = catalog.groups['summary-categories'].filter(r => !r.aliasOf && (r.curatedSummaries || r.summaries).length).map(card);
+  const articleTopics = catalog.groups['blog-category'].filter(r => !r.aliasOf && r.articles.length).map(card);
   const featured = ['outwitting-the-devil', 'how-successful-people-think', 'change-your-questions-change-your-life', 'the-coaching-habit', 'start-with-why', 'drive', 'thinking-fast-and-slow', 'the-4-hour-workweek'].map(s => catalog.byUrl[`/summaries/${s}/`]).filter(Boolean).map(card);
   const indexableUrls = [...new Set(['/site-map/', ...catalog.records.filter(r => !r.noindex).map(r => r.url), ...directories.filter(d => d.page > 1 && !d.noindex).map(d => d.url)])].sort();
   const redirectMap = new Map();
@@ -47,7 +49,7 @@ function createView(catalog) {
   for (const [from, to] of Object.entries(catalog.repairs.aliases || {})) redirectMap.set(from, to);
   const redirects = [...redirectMap].sort(([a], [b]) => a.localeCompare(b)).map(([from, to]) => `${from} ${DOMAIN}${to} 301${catalog.repairs.aliases?.[from] ? '!' : ''}`);
   const indexableEntries = indexableUrls.map(url => ({ url, modified: catalog.byUrl[url]?.modified?.slice(0, 10) || null }));
-  return { domain: DOMAIN, groups, featured, directories, directoryByUrl, extraDirectories: directories.filter(d => d.page > 1), indexableUrls, indexableEntries, redirects,
+  return { domain: DOMAIN, groups, bookTopics, articleTopics, featured, directories, directoryByUrl, extraDirectories: directories.filter(d => d.page > 1), indexableUrls, indexableEntries, redirects,
     summaryCount: catalog.groups.summaries.length, contributorCount: catalog.groups.team.length };
 }
 

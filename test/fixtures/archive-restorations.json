@@ -1,0 +1,296 @@
+{
+  "recordedOn": "2026-10-21",
+  "method": "Original CSV stable IDs and complete historical Wayback article extractions. No generated replacement review prose.",
+  "addedSummaries": [
+    {
+      "input": "cms/summaries/10-happier.md",
+      "title": "10% Happier",
+      "bodySha256": "fe4d70c3dc233e11a887e31706b8a90ca3f0d17d5562e5f905a82a8099dd174d",
+      "sourceCandidateSha256": "fe4d70c3dc233e11a887e31706b8a90ca3f0d17d5562e5f905a82a8099dd174d",
+      "sourceId": "7",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/summaries/10-happier/",
+      "sourceHtmlSha256": "d324fd93e2b03403668550628d97dcea0c29360452f6ed1b0437d8387a2966c9",
+      "snapshotUrl": "https://web.archive.org/web/20160120174825id_/http://www.actionablebooks.com:80/en-ca/summaries/10-happier/",
+      "rawArchiveHtmlSha256": "baa38f6b844c4333b3fb239dcc913ecc7a0644d6cd2f6bb757a3de20ee2f0bc8",
+      "retailerDisposition": "Historical source URL retained as metadata only; no new purchase CTA until the legacy recipient is verified."
+    },
+    {
+      "input": "cms/summaries/13-things-mentally-strong-people-dont-do.md",
+      "title": "13 Things Mentally Strong People Don’t Do",
+      "bodySha256": "c1319e8326f001e34e3a0bb88edadd563884e230f2aafa453ab134669a3929d1",
+      "sourceCandidateSha256": "c1319e8326f001e34e3a0bb88edadd563884e230f2aafa453ab134669a3929d1",
+      "sourceId": "8",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/summaries/13-things-mentally-strong-people-dont-do/",
+      "sourceHtmlSha256": "3b0fe16b0e10fa97bbf6ce1ae17937384fadd34f058a0bfe3da496dfeb9676ad",
+      "snapshotUrl": "https://web.archive.org/web/20150222160947id_/http://www.actionablebooks.com:80/en-ca/summaries/13-things-mentally-strong-people-dont-do/",
+      "rawArchiveHtmlSha256": "ea8b9706151b3c743b94939f7cb4de10634b3099fdd792c85e085a3de3670c54",
+      "retailerDisposition": "Historical source URL retained as metadata only; no new purchase CTA until the legacy recipient is verified."
+    },
+    {
+      "input": "cms/summaries/outsource-or-else.md",
+      "title": "Outsource or Else!",
+      "bodySha256": "89b1b35bc41981c66977deee7deb22eb311f257b99304b9e85a58f8ab0bd00fc",
+      "sourceCandidateSha256": "89b1b35bc41981c66977deee7deb22eb311f257b99304b9e85a58f8ab0bd00fc",
+      "sourceId": "497",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/summaries/outsource-or-else/",
+      "sourceHtmlSha256": "4276457334c9931bcb44eed41d0679ba75a3299a5139a259a095a81415fcc6e9",
+      "snapshotUrl": "https://web.archive.org/web/20170903065636id_/http://www.actionablebooks.com:80/en-ca/summaries/outsource-or-else/",
+      "rawArchiveHtmlSha256": "829942969a3c8407145117a9f29465c5ce10c737510e225d52f2b8fa6d9d2717",
+      "retailerDisposition": "Historical source URL retained as metadata only; no new purchase CTA until the legacy recipient is verified."
+    },
+    {
+      "input": "cms/summaries/101-design-methods.md",
+      "title": "101 Design Methods",
+      "bodySha256": "25af66fa3589a4754fe1ff839b8f1dd5486f6f8c044acf75b9af731e448f8bc7",
+      "sourceCandidateSha256": "25af66fa3589a4754fe1ff839b8f1dd5486f6f8c044acf75b9af731e448f8bc7",
+      "sourceId": "11",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/summaries/101-design-methods/",
+      "sourceHtmlSha256": "bd70dc9a63bc936816a05365dd65129721574473c8be477cf7f0d03e083b6d54",
+      "snapshotUrl": "https://web.archive.org/web/20150317010732id_/http://www.actionablebooks.com/en-ca/summaries/101-design-methods/",
+      "rawArchiveHtmlSha256": "3cee91c1baea6886b3e53d027eae9ed0da9d99a255d90b2caff43a4ce61cef36",
+      "retailerDisposition": "Historical source URL retained as metadata only; no new purchase CTA until the legacy recipient is verified."
+    },
+    {
+      "input": "cms/summaries/168-hours.md",
+      "title": "168 Hours",
+      "bodySha256": "c3c92522a5586aa62e13cc73f055c3b88e04e2480bd161e82a7b59b1887ecf16",
+      "sourceCandidateSha256": "c3c92522a5586aa62e13cc73f055c3b88e04e2480bd161e82a7b59b1887ecf16",
+      "sourceId": "12",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/summaries/168-hours/",
+      "sourceHtmlSha256": "5783a47cbf817227a19775ffa3322b6a78e1382b0f38c49eed26517518b1ca61",
+      "snapshotUrl": "https://web.archive.org/web/20150120170839id_/http://www.actionablebooks.com:80/en-ca/summaries/168-hours/",
+      "rawArchiveHtmlSha256": "36ddc752c044176c368f864af47e28d4555ae3b526022f325ea5eaa8dec49cf0",
+      "retailerDisposition": "Historical source URL retained as metadata only; no new purchase CTA until the legacy recipient is verified."
+    },
+    {
+      "input": "cms/summaries/18-minutes.md",
+      "title": "18 Minutes",
+      "bodySha256": "afc36eb5221316868acd0280bd9fc3e92deb3faa1f5ce939ae7f2e7f9a0857d5",
+      "sourceCandidateSha256": "afc36eb5221316868acd0280bd9fc3e92deb3faa1f5ce939ae7f2e7f9a0857d5",
+      "sourceId": "9",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/summaries/18-minutes/",
+      "sourceHtmlSha256": "04ae741722b44fff90ebe82b360baa0092ca88cbe9f2216949d5f89b6e3a87ee",
+      "snapshotUrl": "https://web.archive.org/web/20150317030836id_/http://www.actionablebooks.com/en-ca/summaries/18-minutes/",
+      "rawArchiveHtmlSha256": "faa62a6afd230adf55f87c83bf4d547168f492818be239bbeb117db0a39fb487",
+      "retailerDisposition": "Historical source URL retained as metadata only; no new purchase CTA until the legacy recipient is verified."
+    },
+    {
+      "input": "cms/summaries/10-10-10.md",
+      "title": "10-10-10",
+      "bodySha256": "08309fb41280f36544c751bd7bb0a5db85a8e03c107dc17979734d7c99203a00",
+      "sourceCandidateSha256": "08309fb41280f36544c751bd7bb0a5db85a8e03c107dc17979734d7c99203a00",
+      "sourceId": "6",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/summaries/10-10-10/",
+      "sourceHtmlSha256": "bb080d585d0e1f5203104a7aa208ce851a407e98e80c205f98028acdf2397339",
+      "snapshotUrl": "https://web.archive.org/web/20150317023834id_/http://www.actionablebooks.com/en-ca/summaries/10-10-10/",
+      "rawArchiveHtmlSha256": "49979543fff6fb471d93091ffbea1583009d8ee9847bc8679be060a228c227c2",
+      "retailerDisposition": "Historical source URL retained as metadata only; no new purchase CTA until the legacy recipient is verified."
+    }
+  ],
+  "restoredBlogs": [
+    {
+      "input": "cms/blog/bestseller-fridays---august-10-2012.md",
+      "title": "BESTSELLER FRIDAYS – August 10, 2012",
+      "bodySha256": "79bf35bac469720f8f3ad73362177f2a6e03ab275cd3f1ade353aa43150660ac",
+      "sourceCandidateSha256": "79bf35bac469720f8f3ad73362177f2a6e03ab275cd3f1ade353aa43150660ac",
+      "sourceId": "62",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/blog/bestseller-fridays-august-10-2012/",
+      "sourceHtmlSha256": "1fb180d0123aace64f06f535d6be6a565b3d0c14a239559485887d0c8945b409"
+    },
+    {
+      "input": "cms/blog/bestseller-fridays---july-13-2012.md",
+      "title": "BESTSELLER FRIDAYS – July 13, 2012",
+      "bodySha256": "2b53a9f8e3312999d2e59bcd887a75beb0e671ed7407299b53f2a239798d8acb",
+      "sourceCandidateSha256": "2b53a9f8e3312999d2e59bcd887a75beb0e671ed7407299b53f2a239798d8acb",
+      "sourceId": "67",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/blog/bestseller-fridays-july-13-2012/",
+      "sourceHtmlSha256": "46b8eec6d56d2586aa811a02ce7530301a073dc5891be48e7eb4ae02e815a47c"
+    },
+    {
+      "input": "cms/blog/bestseller-fridays---november-2-2012.md",
+      "title": "Bestseller Fridays – November 2, 2012",
+      "bodySha256": "fa843b4fe2c8e5c24a3d0f425cc5d1d692e4f3cd90aa6bf8dccc6ab5efbf858f",
+      "sourceCandidateSha256": "fa843b4fe2c8e5c24a3d0f425cc5d1d692e4f3cd90aa6bf8dccc6ab5efbf858f",
+      "sourceId": "82",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/blog/bestseller-fridays-november-2-2012/",
+      "sourceHtmlSha256": "7c47efd4306543df623a603a675f768632c049545503d93d7f792064aba1dacf"
+    },
+    {
+      "input": "cms/blog/q-amp-a-with-laurence-vincent.md",
+      "title": "Q&A with Laurence Vincent",
+      "bodySha256": "a1f36e796eeef460875c331c9afabebf81ec894c6eb47511bccd86810f9cb12a",
+      "sourceCandidateSha256": "a1f36e796eeef460875c331c9afabebf81ec894c6eb47511bccd86810f9cb12a",
+      "sourceId": "331",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/blog/qa-laurence-vincent/",
+      "sourceHtmlSha256": "f77fa0f688b5bcb08a4d6815a3a2085c6d37054056b5df88cb24e5cd2c9fa894"
+    },
+    {
+      "input": "cms/blog/readers-choice---august-11fad.md",
+      "title": "Reader’s Choice – August",
+      "bodySha256": "340f7985cfa1b50dbf6922c686ef2e118330dc34cb44d99f718b87acc2f07420",
+      "sourceCandidateSha256": "340f7985cfa1b50dbf6922c686ef2e118330dc34cb44d99f718b87acc2f07420",
+      "sourceId": "342",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/blog/readers-choice-august/",
+      "sourceHtmlSha256": "284207a44ebe518a88bd319e49f0ba5a440824871d5e4fc1b6793824dc75f068"
+    },
+    {
+      "input": "cms/blog/readers-choice---september.md",
+      "title": "Reader’s Choice – September",
+      "bodySha256": "f07bdf60e0782c64b5030bced5e7111121ce357d070db63cecd005dc4c8785e3",
+      "sourceCandidateSha256": "f07bdf60e0782c64b5030bced5e7111121ce357d070db63cecd005dc4c8785e3",
+      "sourceId": "339",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/blog/reader%e2%80%99s-choice-%e2%80%93-september/",
+      "sourceHtmlSha256": "baad565351854e02c59d7df2b9b8176bf0a1922c48d027d6daca2c2955defe18"
+    },
+    {
+      "input": "cms/blog/readers-choice---december.md",
+      "title": "Readers’ Choice – December",
+      "bodySha256": "c70756933afbbf6633a346d8512227065e3252d5acea393eb58ed60385891cf8",
+      "sourceCandidateSha256": "c70756933afbbf6633a346d8512227065e3252d5acea393eb58ed60385891cf8",
+      "sourceId": "344",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/blog/readers-choice-december/",
+      "sourceHtmlSha256": "9b49e2724c356bba58ea1a6240032a1bf5f1baa3e90d9299d747dae721bf8c12"
+    },
+    {
+      "input": "cms/blog/readers-choice---january.md",
+      "title": "Readers’ Choice – January",
+      "bodySha256": "b0cc0ac65285f160f58e5fd64f596a88bf95bececebfa2cae03faba03c795906",
+      "sourceCandidateSha256": "b0cc0ac65285f160f58e5fd64f596a88bf95bececebfa2cae03faba03c795906",
+      "sourceId": "347",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/blog/readers-choice-january/",
+      "sourceHtmlSha256": "2036c3ff4a3bb1b64f343a35d344f7dc49c950af465becdbcf611b8a985eea8e"
+    },
+    {
+      "input": "cms/blog/readers-choice---july.md",
+      "title": "Readers’ Choice – July",
+      "bodySha256": "e7a217e092c53d9bcd03b896ebc7b5be634ae85722eaae6d89d9b45bcc21a94f",
+      "sourceCandidateSha256": "e7a217e092c53d9bcd03b896ebc7b5be634ae85722eaae6d89d9b45bcc21a94f",
+      "sourceId": "349",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/blog/readers-choice-july/",
+      "sourceHtmlSha256": "fa2d63f5a0e8e090339c695791e89728fcb797157a82bd3407ccb22d3f827474"
+    },
+    {
+      "input": "cms/blog/readers-choice---march.md",
+      "title": "Readers’ Choice – March",
+      "bodySha256": "8550dfb9c878629cb35a2041b01c5ff551fcfe73adacc13342420bc30d20eeb7",
+      "sourceCandidateSha256": "8550dfb9c878629cb35a2041b01c5ff551fcfe73adacc13342420bc30d20eeb7",
+      "sourceId": "351",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/blog/readers-choice-march/",
+      "sourceHtmlSha256": "7a09b1e8dd51f7be5d495d46769f0173a29325a063d98743fd2cb7e2f70cd51e"
+    },
+    {
+      "input": "cms/blog/readers-choice---november.md",
+      "title": "Readers’ Choice – November",
+      "bodySha256": "8332c0e2d4560cb32ba6f6d3289458f140568b53448f9eaf74d3547bea6098be",
+      "sourceCandidateSha256": "8332c0e2d4560cb32ba6f6d3289458f140568b53448f9eaf74d3547bea6098be",
+      "sourceId": "352",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/blog/readers-choice-november/",
+      "sourceHtmlSha256": "7e9f62e5e6e15ea279577b4d7ba172e08a5d7c890c9b6ba075b48f998d94ce5d"
+    },
+    {
+      "input": "cms/blog/readers-choice---november-e9c78.md",
+      "title": "Readers’ Choice – November",
+      "bodySha256": "c34b1f582bab3a83c16053a8580cb9df913aa978287b605b830644ac03b92ad1",
+      "sourceCandidateSha256": "c34b1f582bab3a83c16053a8580cb9df913aa978287b605b830644ac03b92ad1",
+      "sourceId": "355",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/blog/readers%e2%80%99-choice-%e2%80%93-november/",
+      "sourceHtmlSha256": "f015c8a934d7eb29e51474e7f75b7f8e1c1eb6da861331c4a45596191ebd0f78"
+    },
+    {
+      "input": "cms/blog/readers-choice---october-afa79.md",
+      "title": "Readers’ Choice – October",
+      "bodySha256": "80d32e8acc3c69e1465af7aaf44d40b3a62c2cd8019da12d4bfc4e44995dc9f1",
+      "sourceCandidateSha256": "80d32e8acc3c69e1465af7aaf44d40b3a62c2cd8019da12d4bfc4e44995dc9f1",
+      "sourceId": "353",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/blog/readers-choice-october/",
+      "sourceHtmlSha256": "cbeda8679ba230add51ecd1fab611ee80236a7f7492fbcf058d490e0ec328acf"
+    }
+  ],
+  "completedSummaries": [
+    {
+      "input": "cms/summaries/love-is-the-killer-app.md",
+      "title": "Love is the Killer App",
+      "bodySha256": "4cd07100fbdf0d331e79efde750602a15774346fff1561ad2465f0f22a6bcfa4",
+      "sourceCandidateSha256": "4cd07100fbdf0d331e79efde750602a15774346fff1561ad2465f0f22a6bcfa4",
+      "sourceId": "415",
+      "sourceUrl": "http://www.actionablebooks.com/en-ca/summaries/love-is-the-killer-app/",
+      "snapshotUrl": "https://web.archive.org/web/20150317015934id_/http://www.actionablebooks.com/en-ca/summaries/love-is-the-killer-app/",
+      "rawArchiveHtmlSha256": "cc3163a209064bd8ebfde7ab5ffc56b01563ddb6b8b53308162adef8dac95523",
+      "formerBodySha256": "d4b46ac504ae66b3505bc8860b740d6c5cf25509dd0fcc8c76308107f69e9b1b"
+    },
+    {
+      "input": "cms/summaries/step-into-the-spotlight-a-guide-to-getting-noticed.md",
+      "title": "Step Into The Spotlight! A Guide To Getting Noticed",
+      "bodySha256": "b047b980ca5facef8a4c6936afbd5b07214af9e0a8814d26d2a5a6d5eff79816",
+      "sourceCandidateSha256": "b047b980ca5facef8a4c6936afbd5b07214af9e0a8814d26d2a5a6d5eff79816",
+      "sourceId": "660",
+      "sourceUrl": "http://www.actionablebooks.com/en-ca/summaries/step-into-the-spotlight-a-guide-to-getting-noticed/",
+      "snapshotUrl": "https://web.archive.org/web/20150317004603id_/http://www.actionablebooks.com/en-ca/summaries/step-into-the-spotlight-a-guide-to-getting-noticed/",
+      "rawArchiveHtmlSha256": "5316c65336d86a17f40571ec82a2b83bcaaadc9724a4053d419ae5fd6c5f3749",
+      "formerBodySha256": "4554db8b113da49ac9f1c2d1c795798cec66596840d0abb891e1e3f904faa03e"
+    }
+  ],
+  "cleanedBlogs": [
+    {
+      "input": "cms/blog/readers-choice-april-2.md",
+      "title": "Readers’ Choice – April",
+      "bodySha256": "a086a7a6df110e5a5d6170188471e279647ad52d0ac90149cec24dc4c18e2d69",
+      "sourceCandidateSha256": "a086a7a6df110e5a5d6170188471e279647ad52d0ac90149cec24dc4c18e2d69",
+      "sourceId": "341",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/blog/readers-choice-april-2/",
+      "sourceHtmlSha256": "eb0259cf6d76e40d77d4928bc5b6cd4cfd5eda8bb94a032323b5220575402e43",
+      "formerBodySha256": "5dd43708484327b80246b0c8bfd0d73225917fa6881448695aa6917af1923c6d"
+    },
+    {
+      "input": "cms/blog/readers-choice-august-2.md",
+      "title": "Readers’ Choice – August",
+      "bodySha256": "7994aa7e7903d94529d9c042e30ab5b9dedc72a8c37001e8dd6ce255352028d6",
+      "sourceCandidateSha256": "7994aa7e7903d94529d9c042e30ab5b9dedc72a8c37001e8dd6ce255352028d6",
+      "sourceId": "343",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/blog/readers-choice-august-2/",
+      "sourceHtmlSha256": "148cc19b5f118b0b36148155b99b2c3b0592c6a436f6ccf6a642c038a1512fb6",
+      "formerBodySha256": "ecfe26dd297fc0db64e417d40e356b02103937f80dd57a81ae606ba12d286ac8"
+    },
+    {
+      "input": "cms/blog/readers-choice-december-2.md",
+      "title": "Readers’ Choice – December",
+      "bodySha256": "c7d11cd7c73cf0f7dca5340cf688390ef3bc8d4685aad73eafa7842046b5d945",
+      "sourceCandidateSha256": "c7d11cd7c73cf0f7dca5340cf688390ef3bc8d4685aad73eafa7842046b5d945",
+      "sourceId": "345",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/blog/readers-choice-december-2/",
+      "sourceHtmlSha256": "b9de7352f848969e5924f3ed49bedcb9008dd8d19b53c69315c0030713f25253",
+      "formerBodySha256": "80171b4b971cecb19eb75cf75295f7c258952e58bf736f6a8353d33444411c21"
+    },
+    {
+      "input": "cms/blog/readers-choice-january-2.md",
+      "title": "Readers’ Choice – January",
+      "bodySha256": "5ba28616759f461df267b1b83e918b6d2ce1bdc66e061a0a2d0adced0c80d916",
+      "sourceCandidateSha256": "fd3cffdf38f8fe5c321baaec0392fd8714a5d824d0312cfa3602a6be7c295c68",
+      "sourceId": "348",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/blog/readers-choice-january-2/",
+      "sourceHtmlSha256": "3745e0023ab6ff8679f05bc5eccc23cfb6d35de8f42c02edbe42b63a07345372",
+      "formerBodySha256": "07a7f144b7f0c7ce9b0aad58b5dfd9de257ad254105efac62454fc23dafdf219",
+      "formattingNormalization": "Join adjacent bold spans with a space and remove four dangling italic delimiters. Original words and all four book descriptions retained."
+    },
+    {
+      "input": "cms/blog/readers-choice-june.md",
+      "title": "Readers’ Choice – June",
+      "bodySha256": "ba3d78bd45b8d2cbc6326808854738dbda52f1c408131f618339020ae26ab851",
+      "sourceCandidateSha256": "ba3d78bd45b8d2cbc6326808854738dbda52f1c408131f618339020ae26ab851",
+      "sourceId": "350",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/blog/readers-choice-june/",
+      "sourceHtmlSha256": "c8edad447a3afe75b526cf8a1cc40e53c2ad37bd773ccf6d1fe27889921d72f8",
+      "formerBodySha256": "456a06b85e9481d02af5246ad82942ae798cde3b263fc4e17321c6ad251eade5"
+    },
+    {
+      "input": "cms/blog/readers-choice-september.md",
+      "title": "Readers’ Choice – September",
+      "bodySha256": "0b2501bdfcab2db976ced7954b46cad062f092c544c2318ed08069edc0696189",
+      "sourceCandidateSha256": "0b2501bdfcab2db976ced7954b46cad062f092c544c2318ed08069edc0696189",
+      "sourceId": "354",
+      "sourceUrl": "https://www.actionablebooks.com/en-ca/blog/readers-choice-september/",
+      "sourceHtmlSha256": "635856ebc789e1b1598e2055f6eef6a7e88c4c930852fcc3f001522229e616b3",
+      "formerBodySha256": "1f91f34f34bbdb29d364ef8ac2df56e169591eacb5f070f34bbfe6c4a3fcecd1"
+    }
+  ]
+}

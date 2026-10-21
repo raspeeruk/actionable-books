@@ -61,8 +61,8 @@ function slug(text) {
   return plainText(text).toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 }
 
-function renderBody(body, { summary = false, resolveLink = null, resolveMedia = null, suppressMediaUrls = [], bookSlug = '' } = {}) {
-  const text = cleanBody(body).split(/\n\s*\n/).filter(block => !suppressMediaUrls.some(url => block.includes(url) && /^(?:Podcast:|\[?https?:\/\/)/.test(block.trim()))).join('\n\n');
+function renderBody(body, { summary = false, resolveLink = null, resolveMedia = null, suppressMediaUrls = [], bookSlug = '', suppressHistoricalAffiliateTags = false } = {}) {
+  const text = cleanBody(body).split(/\n\s*\n/).filter(block => !suppressMediaUrls.some(url => block.includes(url) && (/^(?:Podcast:|\[?https?:\/\/)/.test(block.trim()) || /^\[?!\[[^\]]*\]\([^)]*\)(?:\]\([^)]*\))?$/.test(block.trim())))).join('\n\n');
   const tokens = md.parse(text, {});
   for (const token of tokens) {
     const children = token.children || [];
@@ -82,7 +82,15 @@ function renderBody(body, { summary = false, resolveLink = null, resolveMedia = 
           try {
             const url = new URL(resolved);
             if (/(^|\.)amazon\.(com|co\.uk|ca|com\.au)$/.test(url.hostname)) {
-              child.attrSet('rel', 'sponsored noopener'); child.attrSet('data-affiliate', 'amazon'); child.attrSet('data-book', bookSlug);
+              if (suppressHistoricalAffiliateTags) {
+                // Keep the original book destination without reviving a legacy payee.
+                for (const key of ['tag', 'ascsubtag', 'linkCode', 'camp', 'creative', 'linkId']) url.searchParams.delete(key);
+                url.protocol = 'https:';
+                child.attrSet('href', url.href);
+                child.attrSet('rel', 'noopener');
+              } else {
+                child.attrSet('rel', 'sponsored noopener'); child.attrSet('data-affiliate', 'amazon'); child.attrSet('data-book', bookSlug);
+              }
             }
           } catch (_) { /* Relative archive links are first party. */ }
         }
@@ -235,7 +243,8 @@ function createLibrary(root = ROOT) {
       return null;
     };
     const rendered = renderBody(record.body, { summary: record.family === 'summaries', resolveLink, resolveMedia, bookSlug: record.slug,
-      suppressMediaUrls: record.slug === 'the-8-pillars-of-motivation' ? ['https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/ActionableBooks-Audio-20000-Days.mp3'] : [] });
+      suppressHistoricalAffiliateTags: (repairs.suppressHistoricalAffiliateTags || []).includes(record.url),
+      suppressMediaUrls: ['/wp-content/themes/actionablebooks/img/en-ca/acp2014-12/Nov14_SummaryBlogBottomBanner_ACP.jpg', ...(record.slug === 'the-8-pillars-of-motivation' ? ['https://d3mkywnuoki91n.cloudfront.net/actionablebooks-com-wp-content/uploads/2013/02/ActionableBooks-Audio-20000-Days.mp3'] : [])] });
     record.html = rendered.html;
     record.headings = rendered.headings;
     record.guideResources = (repairs.guideResources?.[record.url] || []).map(url => byUrl[url]).filter(Boolean);
@@ -266,6 +275,16 @@ function createLibrary(root = ROOT) {
   }
   const alphabetical = (a, b) => a.title.localeCompare(b.title, 'en', { sensitivity: 'base' }) || a.url.localeCompare(b.url);
   for (const record of records) {
+    const shelf = repairs.topicShelves?.[record.url];
+    if (shelf) {
+      // Later selections do not change the original review's recorded topic.
+      record.curatedSummaries = shelf.summaries.map(url => {
+        const review = byUrl[url];
+        if (review?.family !== 'summaries' || review.noindex) throw new Error(`Invalid topic shelf review: ${url}`);
+        return review;
+      });
+      record.topicShelfDescription = shelf.description;
+    }
     record.summaries.sort(alphabetical);
     record.articles.sort((a, b) => String(b.published).localeCompare(String(a.published)) || alphabetical(a, b));
     if (record.family === 'summaries') record.related = (record.topic?.summaries || []).filter(r => r !== record).slice(0, 4);
@@ -283,6 +302,7 @@ function createLibrary(root = ROOT) {
       else if (record.family === 'blog-category') record.description = `Explore the ${record.title.toLowerCase()} archive from Actionable Books.`;
       else record.description = `Explore ${record.title} at Actionable Books: free book summaries, reader insights and practical ideas.`;
     }
+    if (record.topicShelfDescription) record.description = record.topicShelfDescription;
   }
   const groups = Object.fromEntries(FAMILIES.map(f => [f, records.filter(r => r.family === f).sort(alphabetical)]));
   const duplicateTitles = new Map();

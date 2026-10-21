@@ -10,7 +10,11 @@
     "/authors/emma-seppsslss/": "/authors/emma-seppala/",
     "/authors/ren-c-e-mauborgne/": "/authors/renee-mauborgne/",
     "/authors/staffan-nteberg/": "/authors/staffan-noteberg/",
-    "/team/jonathon-raymond/": "/team/jonathan-raymond/"
+    "/team/jonathon-raymond/": "/team/jonathan-raymond/",
+    "/summary-categories/business-book-author-interviews/": "/blog-category/business-book-author-interviews/",
+    "/summary-categories/employee-development/": "/blog-category/employee-development/",
+    "/summary-categories/meet-our-actionable-team/": "/blog-category/meet-our-actionable-team/",
+    "/summary-categories/salaried-entrepreneur/": "/blog-category/salaried-entrepreneur/"
   },
   "links": {
     "/writers/": "/team/",
@@ -62,6 +66,10 @@
     ],
     "/summaries/essentialism/": [
       "Greg McKeown"
+    ],
+    "/summaries/outsource-or-else/": [
+      "Steve Mezak",
+      "Andy Hilliard"
     ]
   },
   "reviewNotes": {
@@ -264,7 +272,7 @@
     "/": "2026-10-15",
     "/summaries/the-pomodoro-technique-illustrated/": "2026-10-15",
     "/summaries/refuse-to-choose/": "2026-10-15",
-    "/summaries/love-is-the-killer-app/": "2026-10-15",
+    "/summaries/love-is-the-killer-app/": "2026-10-21",
     "/blog/it-all-started-160-years-ago-give-or-take/": "2026-10-15",
     "/summaries/still-writing/": "2026-10-15",
     "/summaries/leaders-eat-last/": "2026-10-15",
@@ -285,7 +293,7 @@
     "/guides/best-science-books/": "2026-10-15",
     "/summaries/the-long-tail/": "2026-10-15",
     "/summaries/be-excellent-at-anything/": "2026-10-15",
-    "/summaries/step-into-the-spotlight-a-guide-to-getting-noticed/": "2026-10-15",
+    "/summaries/step-into-the-spotlight-a-guide-to-getting-noticed/": "2026-10-21",
     "/summaries/the-slight-edge-2/": "2026-10-15",
     "/summaries/stretch-2/": "2026-10-15",
     "/summaries/happier-2/": "2026-10-15",
@@ -333,6 +341,81 @@
     "/summaries/the-purpose-effect/": "2026-10-15",
     "/blog/sometimes-its-just-cool/": "2026-10-15",
     "/guides/best-marketing-books/": "2026-10-15",
-    "/blog/actionable-books-live/": "2026-10-15"
-  }
+    "/blog/actionable-books-live/": "2026-10-15",
+    "/summaries/10-happier/": "2026-10-21",
+    "/summaries/13-things-mentally-strong-people-dont-do/": "2026-10-21",
+    "/summaries/outsource-or-else/": "2026-10-21",
+    "/summaries/101-design-methods/": "2026-10-21",
+    "/summaries/168-hours/": "2026-10-21",
+    "/summaries/18-minutes/": "2026-10-21",
+    "/summaries/10-10-10/": "2026-10-21",
+    "/blog/bestseller-fridays---august-10-2012/": "2026-10-21",
+    "/blog/bestseller-fridays---july-13-2012/": "2026-10-21",
+    "/blog/bestseller-fridays---november-2-2012/": "2026-10-21",
+    "/blog/q-amp-a-with-laurence-vincent/": "2026-10-21",
+    "/blog/readers-choice---august-11fad/": "2026-10-21",
+    "/blog/readers-choice---september/": "2026-10-21",
+    "/blog/readers-choice---december/": "2026-10-21",
+    "/blog/readers-choice---january/": "2026-10-21",
+    "/blog/readers-choice---july/": "2026-10-21",
+    "/blog/readers-choice---march/": "2026-10-21",
+    "/blog/readers-choice---november/": "2026-10-21",
+    "/blog/readers-choice---november-e9c78/": "2026-10-21",
+    "/blog/readers-choice---october-afa79/": "2026-10-21",
+    "/blog/readers-choice-april-2/": "2026-10-21",
+    "/blog/readers-choice-august-2/": "2026-10-21",
+    "/blog/readers-choice-december-2/": "2026-10-21",
+    "/blog/readers-choice-january-2/": "2026-10-21",
+    "/blog/readers-choice-june/": "2026-10-21",
+    "/blog/readers-choice-september/": "2026-10-21"
+  },
+  "topicShelves": {
+    "/summary-categories/business/": {
+      "description": "Explore original book reviews about business models, strategy, marketing and growth. Choose an idea to put to work.",
+      "summaries": [
+        "/summaries/the-personal-mba/",
+        "/summaries/the-lean-startup/",
+        "/summaries/business-model-generation/",
+        "/summaries/the-e-myth-revisited/",
+        "/summaries/rework/",
+        "/summaries/zero-to-one/",
+        "/summaries/blue-ocean-strategy/",
+        "/summaries/purple-cow/",
+        "/summaries/good-to-great/",
+        "/summaries/built-to-last/",
+        "/summaries/scaling-up/",
+        "/summaries/scaling-up-excellence/"
+      ]
+    }
+  },
+  "suppressHistoricalAffiliateTags": [
+    "/summaries/10-happier/",
+    "/summaries/13-things-mentally-strong-people-dont-do/",
+    "/summaries/outsource-or-else/",
+    "/summaries/101-design-methods/",
+    "/summaries/168-hours/",
+    "/summaries/18-minutes/",
+    "/summaries/10-10-10/",
+    "/blog/bestseller-fridays---august-10-2012/",
+    "/blog/bestseller-fridays---july-13-2012/",
+    "/blog/bestseller-fridays---november-2-2012/",
+    "/blog/q-amp-a-with-laurence-vincent/",
+    "/blog/readers-choice---august-11fad/",
+    "/blog/readers-choice---september/",
+    "/blog/readers-choice---december/",
+    "/blog/readers-choice---january/",
+    "/blog/readers-choice---july/",
+    "/blog/readers-choice---march/",
+    "/blog/readers-choice---november/",
+    "/blog/readers-choice---november-e9c78/",
+    "/blog/readers-choice---october-afa79/",
+    "/summaries/love-is-the-killer-app/",
+    "/summaries/step-into-the-spotlight-a-guide-to-getting-noticed/",
+    "/blog/readers-choice-april-2/",
+    "/blog/readers-choice-august-2/",
+    "/blog/readers-choice-december-2/",
+    "/blog/readers-choice-january-2/",
+    "/blog/readers-choice-june/",
+    "/blog/readers-choice-september/"
+  ]
 }

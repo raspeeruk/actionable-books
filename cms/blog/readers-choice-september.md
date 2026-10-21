@@ -8,26 +8,20 @@ published-on: '2024-02-23T14:16:55.370Z'
 f_image:
   url: /assets/external/65d75f468cfce2c76717d4a3_ab-blog-template_reward.jpeg
   alt: null
-f_original-url: https://www.actionablebooks.com/en-ca/blog/readers-choice-september/
+f_original-url: 'https://www.actionablebooks.com/en-ca/blog/readers-choice-september/'
 f_team: cms/team/actionable-team.md
 f_category-3: cms/blog-category/business.md
 f_date-published: '2012-08-06T00:00:00.000Z'
 layout: '[blog].html'
 tags: blog
 ---
+![](http://img2.imagesbn.com/images/85530000/85533544.JPG)
 
-![](/assets/external/65d3622982912d41ea76318b_85533544.jpeg)
-
-![](/assets/external/65d3622882912d41ea76317f_101158747.jpeg)
-
-![](/assets/external/65d3622882912d41ea763177_168546294.jpeg)
-
-![](/assets/external/65d3622882912d41ea76317b_175899769.jpeg)
+**![](http://img2.imagesbn.com/images/101150000/101158747.JPG)![](http://img2.imagesbn.com/images/168540000/168546294.JPG)![](http://img2.imagesbn.com/images/175890000/175899769.JPG)**
 
 **We want to know which business book YOU want us to summarize in August. Voting concludes Friday, August 10th at 11.59pm EST. Look for August’s Readers’ Choice title, _Likeonomics_ by Rohit Bhargava, summarized by Joel D Canfield, on Monday, August 20th.**
 
   
-<a href="http://polldaddy.com/poll/6443957/">What business book do you want us to summarize in September?</a>
 
 **1\. Priceless: The Myth of Fair Value (and How to Take Advantage of It) by William Poundstone**  
 In _Priceless_, the bestselling author William Poundstone reveals the hidden psychology of value. In psychological experiments, people are unable to estimate “fair” prices accurately and are strongly influenced by the unconscious, irrational, and politically incorrect. It hasn’t taken long for marketers to apply these findings. “Price consultants” advise retailers on how to convince consumers to pay more for less, and negotiation coaches offer similar advice for businesspeople cutting deals. The new psychology of price dictates the design of price tags, menus, rebates, “sale” ads, cell phone plans, supermarket aisles, real estate offers, wage packages, tort demands, and corporate buyouts. Prices are the most pervasive hidden persuaders of all. Rooted in the emerging field of behavioral decision theory, _Priceless_ should prove indispensable to anyone who negotiates.
