@@ -30,6 +30,14 @@ test('home and topic navigation lead to populated book shelves, with Business re
   }
 });
 
+test('the Business shelf credits every book author confirmed by the original publisher', () => {
+  for (const source of require('./fixtures/business-book-authorship.json')) {
+    const book = schemaFor(library.byUrl[source.summary_path])['@graph'].find(r => r['@type'] === 'Book');
+    const names = (Array.isArray(book.author) ? book.author : [book.author]).map(r => r.name);
+    assert.deepEqual(names, source.confirmed_authors, source.summary_path);
+  }
+});
+
 test('all 1,148 baseline reviews retain their exact bodies or a documented full-source completion', () => {
   assert.equal(provenance.records.length, 1148);
   for (const record of provenance.records) {

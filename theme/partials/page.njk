@@ -14,7 +14,7 @@
   <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Home</a> / <a href="/summaries/">Book summaries</a>{% if entry.topic %} / <a href="{{ entry.topic.url }}">{{ entry.topic.title }}</a>{% endif %}</nav>
   <article class="summary-layout">
     <header class="article-intro bookmark"><div><p class="eyebrow">Book summary</p><h1>{{ entry.title }}</h1>
-      {% if entry.authorName %}<p class="book-author">By {% if entry.author %}<a href="{{ entry.author.url }}">{{ entry.authorName }}</a>{% else %}{{ entry.authorName }}{% endif %}</p>{% endif %}
+      {% if entry.authorName %}<p class="book-author">By {% if entry.author and not entry.bookAuthorNames %}<a href="{{ entry.author.url }}">{{ entry.authorName }}</a>{% else %}{{ entry.authorName }}{% endif %}</p>{% endif %}
       {% if entry.contributor %}<p class="byline">{% if entry.attributionNote %}Archive credit:{% else %}Summary by{% endif %} <a href="{{ entry.contributor.url }}">{{ entry.data['f_original-contributor-name'] or entry.contributor.title }}</a></p>{% endif %}
       {% if entry.attributionNote %}<p class="small">{{ entry.attributionNote }}</p>{% endif %}
       <p class="small">An original reader’s perspective from the Actionable Books archive.</p>

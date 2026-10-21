@@ -1,0 +1,92 @@
+[
+  {
+    "summary_path": "/summaries/the-personal-mba/",
+    "confirmed_authors": [
+      "Josh Kaufman"
+    ],
+    "primary_source": "https://personalmba.com/"
+  },
+  {
+    "summary_path": "/summaries/the-lean-startup/",
+    "confirmed_authors": [
+      "Eric Ries"
+    ],
+    "primary_source": "https://theleanstartup.com/book"
+  },
+  {
+    "summary_path": "/summaries/business-model-generation/",
+    "confirmed_authors": [
+      "Alexander Osterwalder",
+      "Yves Pigneur"
+    ],
+    "primary_source": "https://www.wiley.com/en-us/Business%2BModel%2BGeneration%3A%2BA%2BHandbook%2Bfor%2BVisionaries%2C%2BGame%2BChangers%2C%2Band%2BChallengers-p-9780470876411"
+  },
+  {
+    "summary_path": "/summaries/the-e-myth-revisited/",
+    "confirmed_authors": [
+      "Michael E. Gerber"
+    ],
+    "primary_source": "https://www.emyth.com/inside/groundbreaking-ideas-from-the-e-myth-revisited"
+  },
+  {
+    "summary_path": "/summaries/rework/",
+    "confirmed_authors": [
+      "Jason Fried",
+      "David Heinemeier Hansson"
+    ],
+    "primary_source": "https://www.penguinrandomhouse.com/books/56502/rework-by-jason-fried-and-david-heinemeier-hansson/9780307463746/"
+  },
+  {
+    "summary_path": "/summaries/zero-to-one/",
+    "confirmed_authors": [
+      "Peter Thiel",
+      "Blake Masters"
+    ],
+    "primary_source": "https://www.penguinrandomhouse.com/books/234730/zero-to-one-by-peter-thiel-with-blake-masters/9780804139304/"
+  },
+  {
+    "summary_path": "/summaries/blue-ocean-strategy/",
+    "confirmed_authors": [
+      "W. Chan Kim",
+      "Renée Mauborgne"
+    ],
+    "primary_source": "https://www.blueoceanstrategy.com/authors/"
+  },
+  {
+    "summary_path": "/summaries/purple-cow/",
+    "confirmed_authors": [
+      "Seth Godin"
+    ],
+    "primary_source": "https://www.penguinrandomhouse.com/books/292254/purple-cow-new-edition-by-seth-godin/"
+  },
+  {
+    "summary_path": "/summaries/good-to-great/",
+    "confirmed_authors": [
+      "Jim Collins"
+    ],
+    "primary_source": "https://www.jimcollins.com/books.html"
+  },
+  {
+    "summary_path": "/summaries/built-to-last/",
+    "confirmed_authors": [
+      "Jim Collins",
+      "Jerry I. Porras"
+    ],
+    "primary_source": "https://jimcollins.com/pdf/Diagnostic%20Tool.pdf"
+  },
+  {
+    "summary_path": "/summaries/scaling-up/",
+    "confirmed_authors": [
+      "Verne Harnish"
+    ],
+    "primary_source": "https://scalingup.com/book"
+  },
+  {
+    "summary_path": "/summaries/scaling-up-excellence/",
+    "confirmed_authors": [
+      "Robert I. Sutton",
+      "Huggy Rao"
+    ],
+    "primary_source": "https://www.penguinrandomhouse.com/books/222302/scaling-up-excellence-by-robert-i-sutton-and-huggy-rao/"
+  }
+]

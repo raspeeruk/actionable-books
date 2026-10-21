@@ -70,6 +70,30 @@
     "/summaries/outsource-or-else/": [
       "Steve Mezak",
       "Andy Hilliard"
+    ],
+    "/summaries/business-model-generation/": [
+      "Alexander Osterwalder",
+      "Yves Pigneur"
+    ],
+    "/summaries/rework/": [
+      "Jason Fried",
+      "David Heinemeier Hansson"
+    ],
+    "/summaries/zero-to-one/": [
+      "Peter Thiel",
+      "Blake Masters"
+    ],
+    "/summaries/blue-ocean-strategy/": [
+      "W. Chan Kim",
+      "Renée Mauborgne"
+    ],
+    "/summaries/built-to-last/": [
+      "Jim Collins",
+      "Jerry I. Porras"
+    ],
+    "/summaries/scaling-up-excellence/": [
+      "Robert I. Sutton",
+      "Huggy Rao"
     ]
   },
   "reviewNotes": {
@@ -312,7 +336,7 @@
     "/lists/best-communication-books/": "2026-10-15",
     "/blog/july-calendar/": "2026-10-15",
     "/summaries/when-millennials-take-over/": "2026-10-15",
-    "/summaries/blue-ocean-strategy/": "2026-10-15",
+    "/summaries/blue-ocean-strategy/": "2026-10-21",
     "/summaries/the-power-of-habit/": "2026-10-15",
     "/summaries/delivering-happiness/": "2026-10-15",
     "/guides/best-productivity-books/": "2026-10-15",
@@ -367,7 +391,12 @@
     "/blog/readers-choice-december-2/": "2026-10-21",
     "/blog/readers-choice-january-2/": "2026-10-21",
     "/blog/readers-choice-june/": "2026-10-21",
-    "/blog/readers-choice-september/": "2026-10-21"
+    "/blog/readers-choice-september/": "2026-10-21",
+    "/summaries/business-model-generation/": "2026-10-21",
+    "/summaries/rework/": "2026-10-21",
+    "/summaries/zero-to-one/": "2026-10-21",
+    "/summaries/built-to-last/": "2026-10-21",
+    "/summaries/scaling-up-excellence/": "2026-10-21"
   },
   "topicShelves": {
     "/summary-categories/business/": {
